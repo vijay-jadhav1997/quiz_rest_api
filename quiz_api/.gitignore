@@ -1,2 +1,7 @@
-.venv
+.env
+
+.pyc
+_pycache
+
 db.sqlite3
+api/migrations/
