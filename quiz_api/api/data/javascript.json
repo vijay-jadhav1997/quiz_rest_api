@@ -1,0 +1,1052 @@
+{
+  "level1": [
+    {
+      "question": "JavaScript is a loosely typed language.",
+      "options": {
+        "correct": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Which company developed JavaScript?",
+      "options": {
+        "xycd": "Microsoft",
+        "correct": "Netscape",
+        "inc": "Google",
+        "ct3": "Sun Microsystems"
+      }
+    },
+    {
+      "question": "Does JavaScript support classes and objects?",
+      "options": {
+        "xycd": "No",
+        "correct": "Yes"
+      }
+    },
+    {
+      "question": "Which of the following is a JavaScript framework?",
+      "options": {
+        "trs": "Django",
+        "cbd": "Spring",
+        "correct": "React"
+      }
+    },
+    {
+      "question": "Which of the following is not a reserved word in JavaScript?",
+      "options": {
+        "xycd": "interface",
+        "correct": "program",
+        "inc": "throws",
+        "ct3": "short"
+      }
+    },
+    {
+      "question": "What is the output of 'typeof NaN'?",
+      "options": {
+        "xycd": "number",
+        "correct": "number",
+        "inc": "string",
+        "ct3": "object"
+      }
+    },
+    {
+      "question": "Can JavaScript run outside a browser?",
+      "options": {
+        "xycd": "Yes",
+        "correct": "Yes"
+      }
+    },
+    {
+      "question": "Which method is used to parse a string to an integer in JavaScript?",
+      "options": {
+        "xycd": "parseInt()",
+        "correct": "parseInt()",
+        "inc": "parseInteger()",
+        "ct3": "intParse()"
+      }
+    },
+    {
+      "question": "Which symbol is used for comments in JavaScript?",
+      "options": {
+        "trs": "//",
+        "cbd": "#",
+        "correct": "//"
+      }
+    },
+    {
+      "question": "How can you add a single-line comment in JavaScript?",
+      "options": {
+        "xycd": "#",
+        "correct": "//",
+        "inc": "/* */",
+        "ct3": "<!-- -->"
+      }
+    },
+    {
+      "question": "JavaScript is case-sensitive.",
+      "options": {
+        "correct": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Which of the following is a primitive data type in JavaScript?",
+      "options": {
+        "xycd": "Function",
+        "correct": "Number",
+        "inc": "Array",
+        "ct3": "Object"
+      }
+    },
+    {
+      "question": "Which of the following function of String object returns the calling string value converted to lower case?",
+      "options": {
+        "xycd": "toLowerCase()",
+        "correct": "toLowerCase()",
+        "inc": "toLower()",
+        "ct3": "changeCase(case)"
+      }
+    },
+    {
+      "question": "What does 'DOM' stand for in JavaScript?",
+      "options": {
+        "xycd": "Document Object Model",
+        "correct": "Document Object Model",
+        "inc": "Data Object Model",
+        "ct3": "Document Oriented Model"
+      }
+    },
+    {
+      "question": "Which method is used to convert JSON data to a JavaScript object?",
+      "options": {
+        "trs": "JSON.parse()",
+        "cbd": "JSON.stringify()",
+        "correct": "JSON.parse()"
+      }
+    },
+    {
+      "question": "Which company developed TypeScript?",
+      "options": {
+        "xycd": "Facebook",
+        "correct": "Microsoft",
+        "inc": "Google",
+        "ct3": "Apple"
+      }
+    },
+    {
+      "question": "Which JavaScript function is used to execute a function after a certain period of time?",
+      "options": {
+        "xycd": "setInterval()",
+        "correct": "setTimeout()",
+        "inc": "setTime()",
+        "ct3": "setInterval()"
+      }
+    },
+    {
+      "question": "JavaScript is a server-side scripting language.",
+      "options": {
+        "correct": "False",
+        "tag": "True"
+      }
+    },
+    {
+      "question": "Which keyword is used to declare a variable in JavaScript?",
+      "options": {
+        "trs": "let",
+        "cbd": "define",
+        "correct": "let"
+      }
+    },
+    {
+      "question": "Which method removes the last element from an array and returns that element?",
+      "options": {
+        "xycd": "pop()",
+        "correct": "pop()",
+        "inc": "remove()",
+        "ct3": "splice()"
+      }
+    },
+    {
+      "question": "Which method adds new items to the end of an array and returns the new length?",
+      "options": {
+        "xycd": "append()",
+        "correct": "push()",
+        "inc": "add()",
+        "ct3": "insert()"
+      }
+    },
+    {
+      "question": "Is JavaScript a compiled language?",
+      "options": {
+        "xycd": "No",
+        "correct": "No"
+      }
+    },
+    {
+      "question": "What is the correct syntax for referring to an external script called 'script.js'?",
+      "options": {
+        "xycd": "<script src='script.js'>",
+        "correct": "<script src='script.js'>",
+        "inc": "<script href='script.js'>",
+        "ct3": "<script ref='script.js'>"
+      }
+    },
+    {
+      "question": "Which event occurs when the user clicks on an HTML element?",
+      "options": {
+        "trs": "onclick",
+        "cbd": "onmouseover",
+        "correct": "onclick"
+      }
+    },
+    {
+      "question": "What is the correct JavaScript syntax to write 'Hello World'?",
+      "options": {
+        "xycd": "System.out.println('Hello World')",
+        "correct": "document.write('Hello World')",
+        "inc": "print('Hello World')",
+        "ct3": "echo 'Hello World'"
+      }
+    }
+  ],
+  "level2": [
+    {
+      "question": "JavaScript can be used to create interactive websites.",
+      "options": {
+        "correct": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Which symbol is used for single line comments in JavaScript?",
+      "options": {
+        "xycd": "/*",
+        "correct": "//",
+        "inc": "<!--",
+        "ct3": "#"
+      }
+    },
+    {
+      "question": "Does JavaScript support hoisting?",
+      "options": {
+        "xycd": "No",
+        "correct": "Yes"
+      }
+    },
+    {
+      "question": "Which of the following is not a JavaScript data type?",
+      "options": {
+        "trs": "Undefined",
+        "cbd": "Number",
+        "correct": "Float"
+      }
+    },
+    {
+      "question": "Which built-in method calls a function for each element in the array?",
+      "options": {
+        "xycd": "while()",
+        "correct": "forEach()",
+        "inc": "loop()",
+        "ct3": "each()"
+      }
+    },
+    {
+      "question": "What is the output of '2' + 2 in JavaScript?",
+      "options": {
+        "xycd": "22",
+        "correct": "22",
+        "inc": "4",
+        "ct3": "NaN"
+      }
+    },
+    {
+      "question": "Can JavaScript be used for backend development?",
+      "options": {
+        "xycd": "Yes",
+        "correct": "Yes"
+      }
+    },
+    {
+      "question": "Which method is used to parse a string to a floating point number in JavaScript?",
+      "options": {
+        "xycd": "parseFloat()",
+        "correct": "parseFloat()",
+        "inc": "parseDouble()",
+        "ct3": "floatParse()"
+      }
+    },
+    {
+      "question": "Which of the following is used to define a variable in JavaScript?",
+      "options": {
+        "trs": "let",
+        "cbd": "def",
+        "correct": "let"
+      }
+    },
+    {
+      "question": "How can you create an object in JavaScript?",
+      "options": {
+        "xycd": "var obj = {};",
+        "correct": "var obj = {};",
+        "inc": "var obj = [];",
+        "ct3": "var obj = new Object();"
+      }
+    },
+    {
+      "question": "JavaScript is a client-side scripting language.",
+      "options": {
+        "correct": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Which of the following is not a JavaScript framework?",
+      "options": {
+        "xycd": "Angular",
+        "correct": "Django",
+        "inc": "React",
+        "ct3": "Vue"
+      }
+    },
+    {
+      "question": "Which method returns a new array from a portion of an array?",
+      "options": {
+        "xycd": "splice()",
+        "correct": "slice()",
+        "inc": "split()",
+        "ct3": "join()"
+      }
+    },
+    {
+      "question": "What does 'JSON' stand for?",
+      "options": {
+        "xycd": "JavaScript Object Notation",
+        "correct": "JavaScript Object Notation",
+        "inc": "JavaScript Online Notation",
+        "ct3": "Java Serialized Object Notation"
+      }
+    },
+    {
+      "question": "Which method is used to convert a JavaScript object to JSON data?",
+      "options": {
+        "trs": "JSON.stringify()",
+        "cbd": "JSON.parse()",
+        "correct": "JSON.stringify()"
+      }
+    },
+    {
+      "question": "Which company developed Node.js?",
+      "options": {
+        "xycd": "Facebook",
+        "correct": "Joyent",
+        "inc": "Google",
+        "ct3": "Microsoft"
+      }
+    },
+    {
+      "question": "Which JavaScript function is used to execute a function repeatedly after a certain period of time?",
+      "options": {
+        "xycd": "setTimeout()",
+        "correct": "setInterval()",
+        "inc": "setTime()",
+        "ct3": "repeat()"
+      }
+    },
+    {
+      "question": "JavaScript can be used to manipulate the HTML DOM.",
+      "options": {
+        "correct": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Which keyword is used to declare a constant in JavaScript?",
+      "options": {
+        "trs": "let",
+        "cbd": "define",
+        "correct": "const"
+      }
+    },
+    {
+      "question": "Which method returns the first index at which a given element can be found in the array?",
+      "options": {
+        "xycd": "indexOf()",
+        "correct": "indexOf()",
+        "inc": "findIndex()",
+        "ct3": "firstIndex()"
+      }
+    },
+    {
+      "question": "Which method returns the length of a string?",
+      "options": {
+        "xycd": "size()",
+        "correct": "length",
+        "inc": "count()",
+        "ct3": "length()"
+      }
+    },
+    {
+      "question": "Is JavaScript the same as Java?",
+      "options": {
+        "xycd": "No",
+        "correct": "No"
+      }
+    },
+    {
+      "question": "What is the correct syntax for adding an external JavaScript file?",
+      "options": {
+        "xycd": "<script src='script.js'></script>",
+        "correct": "<script src='script.js'></script>",
+        "inc": "<script href='script.js'></script>",
+        "ct3": "<script ref='script.js'></script>"
+      }
+    },
+    {
+      "question": "Which event occurs when the user hovers over an HTML element?",
+      "options": {
+        "trs": "onmouseover",
+        "cbd": "onclick",
+        "correct": "onmouseover"
+      }
+    },
+    {
+      "question": "What is the correct JavaScript syntax to output 'Hello World' in the console?",
+      "options": {
+        "xycd": "System.out.println('Hello World')",
+        "correct": "console.log('Hello World')",
+        "inc": "print('Hello World')",
+        "ct3": "echo 'Hello World'"
+      }
+    }
+  ],
+  "level3": [
+    {
+      "question": "JavaScript is an object-oriented programming language.",
+      "options": {
+        "correct": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Which method is used to join two or more arrays?",
+      "options": {
+        "xycd": "splice()",
+        "correct": "concat()",
+        "inc": "join()",
+        "ct3": "merge()"
+      }
+    },
+    {
+      "question": "Does JavaScript support function overloading?",
+      "options": {
+        "xycd": "No",
+        "correct": "No"
+      }
+    },
+    {
+      "question": "Which of the following is a JavaScript library?",
+      "options": {
+        "trs": "React",
+        "cbd": "Spring",
+        "correct": "jQuery"
+      }
+    },
+    {
+      "question": "Which built-in method returns the characters in a string beginning at the specified location?",
+      "options": {
+        "xycd": "substr()",
+        "correct": "substr()",
+        "inc": "getSubstring()",
+        "ct3": "slice()"
+      }
+    },
+    {
+      "question": "What is the output of 'null == undefined'?",
+      "options": {
+        "xycd": "true",
+        "correct": "true",
+        "inc": "false",
+        "ct3": "null"
+      }
+    },
+    {
+      "question": "Can JavaScript handle asynchronous operations?",
+      "options": {
+        "xycd": "Yes",
+        "correct": "Yes"
+      }
+    },
+    {
+      "question": "Which method is used to add an element at the beginning of an array?",
+      "options": {
+        "xycd": "unshift()",
+        "correct": "unshift()",
+        "inc": "push()",
+        "ct3": "append()"
+      }
+    },
+    {
+      "question": "Which of the following is used to create a promise in JavaScript?",
+      "options": {
+        "trs": "new Promise()",
+        "cbd": "Promise.create()",
+        "correct": "new Promise()"
+      }
+    },
+    {
+      "question": "How can you define an anonymous function in JavaScript?",
+      "options": {
+        "xycd": "function() {}",
+        "correct": "function() {}",
+        "inc": "anon function() {}",
+        "ct3": "function {}"
+      }
+    },
+    {
+      "question": "JavaScript supports both client-side and server-side scripting.",
+      "options": {
+        "correct": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Which of the following is not a JavaScript framework?",
+      "options": {
+        "xycd": "Vue",
+        "correct": "Laravel",
+        "inc": "Angular",
+        "ct3": "Ember"
+      }
+    },
+    {
+      "question": "Which method adds one or more elements to the beginning of an array and returns the new length?",
+      "options": {
+        "xycd": "unshift()",
+        "correct": "unshift()",
+        "inc": "push()",
+        "ct3": "append()"
+      }
+    },
+    {
+      "question": "What does 'AJAX' stand for?",
+      "options": {
+        "xycd": "Asynchronous JavaScript and XML",
+        "correct": "Asynchronous JavaScript and XML",
+        "inc": "Asynchronous JSON and XML",
+        "ct3": "Asynchronous Java and XML"
+      }
+    },
+    {
+      "question": "Which method is used to convert an array to a string?",
+      "options": {
+        "trs": "toString()",
+        "cbd": "stringify()",
+        "correct": "toString()"
+      }
+    },
+    {
+      "question": "Which company developed AngularJS?",
+      "options": {
+        "xycd": "Facebook",
+        "correct": "Google",
+        "inc": "Microsoft",
+        "ct3": "Apple"
+      }
+    },
+    {
+      "question": "Which JavaScript function is used to delay the execution of a function?",
+      "options": {
+        "xycd": "setInterval()",
+        "correct": "setTimeout()",
+        "inc": "delay()",
+        "ct3": "pause()"
+      }
+    },
+    {
+      "question": "JavaScript can be used to validate form data on the client-side.",
+      "options": {
+        "correct": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Which keyword is used to declare a block-scoped variable in JavaScript?",
+      "options": {
+        "trs": "var",
+        "cbd": "define",
+        "correct": "let"
+      }
+    },
+    {
+      "question": "Which method returns a new array with all sub-array elements concatenated into it?",
+      "options": {
+        "xycd": "flatten()",
+        "correct": "flat()",
+        "inc": "concat()",
+        "ct3": "merge()"
+      }
+    },
+    {
+      "question": "Which method converts a string to uppercase letters?",
+      "options": {
+        "xycd": "toUpperCase()",
+        "correct": "toUpperCase()",
+        "inc": "uppercase()",
+        "ct3": "upperCase()"
+      }
+    },
+    {
+      "question": "Is JavaScript a statically typed language?",
+      "options": {
+        "xycd": "No",
+        "correct": "No"
+      }
+    },
+    {
+      "question": "What is the correct syntax for creating an arrow function?",
+      "options": {
+        "xycd": "let func = () => {}",
+        "correct": "let func = () => {}",
+        "inc": "let func = -> {}",
+        "ct3": "let func = {} =>"
+      }
+    },
+    {
+      "question": "Which event occurs when the user changes the value of an input element?",
+      "options": {
+        "trs": "onchange",
+        "cbd": "onclick",
+        "correct": "onchange"
+      }
+    },
+    {
+      "question": "What is the correct JavaScript syntax to change the content of an HTML element?",
+      "options": {
+        "xycd": "document.getElementById('demo').innerHTML = 'Hello World';",
+        "correct": "document.getElementById('demo').innerHTML = 'Hello World';",
+        "inc": "document.getElementById('demo').value = 'Hello World';",
+        "ct3": "document.getElement('demo').innerHTML = 'Hello World';"
+      }
+    }
+  ],
+  "level4": [
+    {
+      "question": "JavaScript can be used to manipulate HTML elements.",
+      "options": {
+        "correct": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Which method is used to find an element in an array?",
+      "options": {
+        "xycd": "find()",
+        "correct": "find()",
+        "inc": "get()",
+        "ct3": "locate()"
+      }
+    },
+    {
+      "question": "Does JavaScript support automatic type conversion?",
+      "options": {
+        "xycd": "Yes",
+        "correct": "Yes"
+      }
+    },
+    {
+      "question": "Which of the following is a JavaScript runtime environment?",
+      "options": {
+        "trs": "Node.js",
+        "cbd": "Django",
+        "correct": "Node.js"
+      }
+    },
+    {
+      "question": "Which built-in method reverses the order of the elements in an array?",
+      "options": {
+        "xycd": "reverse()",
+        "correct": "reverse()",
+        "inc": "flip()",
+        "ct3": "invert()"
+      }
+    },
+    {
+      "question": "What is the output of 'typeof []'?",
+      "options": {
+        "xycd": "object",
+        "correct": "object",
+        "inc": "array",
+        "ct3": "null"
+      }
+    },
+    {
+      "question": "Can JavaScript be used to create mobile applications?",
+      "options": {
+        "xycd": "Yes",
+        "correct": "Yes"
+      }
+    },
+    {
+      "question": "Which method is used to remove the first element from an array and return that element?",
+      "options": {
+        "xycd": "shift()",
+        "correct": "shift()",
+        "inc": "unshift()",
+        "ct3": "pop()"
+      }
+    },
+    {
+      "question": "Which of the following is used to define a constant in JavaScript?",
+      "options": {
+        "trs": "const",
+        "cbd": "define",
+        "correct": "const"
+      }
+    },
+    {
+      "question": "How can you create an array in JavaScript?",
+      "options": {
+        "xycd": "var arr = [];",
+        "correct": "var arr = [];",
+        "inc": "var arr = ();",
+        "ct3": "var arr = {};"
+      }
+    },
+    {
+      "question": "JavaScript can be used to make HTTP requests.",
+      "options": {
+        "correct": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Which of the following is not a JavaScript library?",
+      "options": {
+        "xycd": "jQuery",
+        "correct": "Django",
+        "inc": "Lodash",
+        "ct3": "Underscore"
+      }
+    },
+    {
+      "question": "Which method returns a new array with the results of calling a function for every array element?",
+      "options": {
+        "xycd": "map()",
+        "correct": "map()",
+        "inc": "reduce()",
+        "ct3": "filter()"
+      }
+    },
+    {
+      "question": "What does 'ES6' stand for?",
+      "options": {
+        "xycd": "ECMAScript 6",
+        "correct": "ECMAScript 6",
+        "inc": "EclipseScript 6",
+        "ct3": "ECMA Standard 6"
+      }
+    },
+    {
+      "question": "Which method is used to convert a JSON string into a JavaScript object?",
+      "options": {
+        "trs": "JSON.parse()",
+        "cbd": "JSON.stringify()",
+        "correct": "JSON.parse()"
+      }
+    },
+    {
+      "question": "Which company developed jQuery?",
+      "options": {
+        "xycd": "Facebook",
+        "correct": "John Resig",
+        "inc": "Google",
+        "ct3": "Microsoft"
+      }
+    },
+    {
+      "question": "Which JavaScript function is used to set a timer?",
+      "options": {
+        "xycd": "setTimeout()",
+        "correct": "setTimeout()",
+        "inc": "setInterval()",
+        "ct3": "timer()"
+      }
+    },
+    {
+      "question": "JavaScript can be used to handle events.",
+      "options": {
+        "correct": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Which keyword is used to declare a variable globally in JavaScript?",
+      "options": {
+        "trs": "var",
+        "cbd": "define",
+        "correct": "var"
+      }
+    },
+    {
+      "question": "Which method returns a string representation of an array?",
+      "options": {
+        "xycd": "toString()",
+        "correct": "toString()",
+        "inc": "stringify()",
+        "ct3": "join()"
+      }
+    },
+    {
+      "question": "Which method converts a string to lowercase letters?",
+      "options": {
+        "xycd": "toLowerCase()",
+        "correct": "toLowerCase()",
+        "inc": "lowercase()",
+        "ct3": "lowerCase()"
+      }
+    },
+    {
+      "question": "Is JavaScript a functional programming language?",
+      "options": {
+        "xycd": "Yes",
+        "correct": "Yes"
+      }
+    },
+    {
+      "question": "What is the correct syntax for creating a function expression?",
+      "options": {
+        "xycd": "let func = function() {}",
+        "correct": "let func = function() {}",
+        "inc": "let func = -> {}",
+        "ct3": "let func = {} =>"
+      }
+    },
+    {
+      "question": "Which event occurs when the user submits a form?",
+      "options": {
+        "trs": "onsubmit",
+        "cbd": "onreset",
+        "correct": "onsubmit"
+      }
+    },
+    {
+      "question": "What is the correct JavaScript syntax to change the style of an HTML element?",
+      "options": {
+        "xycd": "document.getElementById('demo').style.color = 'red';",
+        "correct": "document.getElementById('demo').style.color = 'red';",
+        "inc": "document.getElementById('demo').color = 'red';",
+        "ct3": "document.getElement('demo').style.color = 'red';"
+      }
+    }
+  ],
+  "level5": [
+    {
+      "question": "JavaScript can be used to manipulate CSS styles.",
+      "options": {
+        "correct": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Which method is used to remove elements from an array?",
+      "options": {
+        "xycd": "splice()",
+        "correct": "splice()",
+        "inc": "remove()",
+        "ct3": "delete()"
+      }
+    },
+    {
+      "question": "Does JavaScript support closures?",
+      "options": {
+        "xycd": "Yes",
+        "correct": "Yes"
+      }
+    },
+    {
+      "question": "Which of the following is a JavaScript package manager?",
+      "options": {
+        "trs": "npm",
+        "cbd": "pip",
+        "correct": "npm"
+      }
+    },
+    {
+      "question": "Which built-in method sorts the elements of an array?",
+      "options": {
+        "xycd": "sort()",
+        "correct": "sort()",
+        "inc": "order()",
+        "ct3": "arrange()"
+      }
+    },
+    {
+      "question": "What is the output of 'typeof function(){}'?",
+      "options": {
+        "xycd": "function",
+        "correct": "function",
+        "inc": "object",
+        "ct3": "undefined"
+      }
+    },
+    {
+      "question": "Can JavaScript be used to create desktop applications?",
+      "options": {
+        "xycd": "Yes",
+        "correct": "Yes"
+      }
+    },
+    {
+      "question": "Which method is used to remove the last element from an array?",
+      "options": {
+        "xycd": "pop()",
+        "correct": "pop()",
+        "inc": "shift()",
+        "ct3": "remove()"
+      }
+    },
+    {
+      "question": "Which of the following is used to declare a variable in JavaScript?",
+      "options": {
+        "trs": "var",
+        "cbd": "define",
+        "correct": "var"
+      }
+    },
+    {
+      "question": "How can you create an object in JavaScript?",
+      "options": {
+        "xycd": "var obj = {};",
+        "correct": "var obj = {};",
+        "inc": "var obj = ();",
+        "ct3": "var obj = [];"
+      }
+    },
+    {
+      "question": "JavaScript can be used to manipulate cookies.",
+      "options": {
+        "correct": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Which of the following is not a JavaScript data type?",
+      "options": {
+        "xycd": "string",
+        "correct": "class",
+        "inc": "number",
+        "ct3": "boolean"
+      }
+    },
+    {
+      "question": "Which method creates a new array with all elements that pass the test implemented by the provided function?",
+      "options": {
+        "xycd": "filter()",
+        "correct": "filter()",
+        "inc": "map()",
+        "ct3": "reduce()"
+      }
+    },
+    {
+      "question": "What does 'ES5' stand for?",
+      "options": {
+        "xycd": "ECMAScript 5",
+        "correct": "ECMAScript 5",
+        "inc": "EclipseScript 5",
+        "ct3": "ECMA Standard 5"
+      }
+    },
+    {
+      "question": "Which method is used to convert a JavaScript object into a JSON string?",
+      "options": {
+        "trs": "JSON.stringify()",
+        "cbd": "JSON.parse()",
+        "correct": "JSON.stringify()"
+      }
+    },
+    {
+      "question": "Which company developed React?",
+      "options": {
+        "xycd": "Google",
+        "correct": "Facebook",
+        "inc": "Microsoft",
+        "ct3": "Apple"
+      }
+    },
+    {
+      "question": "Which JavaScript function is used to execute a function after a specified delay?",
+      "options": {
+        "xycd": "setTimeout()",
+        "correct": "setTimeout()",
+        "inc": "setInterval()",
+        "ct3": "delay()"
+      }
+    },
+    {
+      "question": "JavaScript can be used to create and manage timers.",
+      "options": {
+        "correct": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Which keyword is used to declare a constant in JavaScript?",
+      "options": {
+        "trs": "const",
+        "cbd": "define",
+        "correct": "const"
+      }
+    },
+    {
+      "question": "Which method creates a new array with the results of calling a provided function on every element?",
+      "options": {
+        "xycd": "map()",
+        "correct": "map()",
+        "inc": "reduce()",
+        "ct3": "filter()"
+      }
+    },
+    {
+      "question": "Which method converts a string to lowercase letters?",
+      "options": {
+        "xycd": "toLowerCase()",
+        "correct": "toLowerCase()",
+        "inc": "lowercase()",
+        "ct3": "lowerCase()"
+      }
+    },
+    {
+      "question": "Is JavaScript an interpreted language?",
+      "options": {
+        "xycd": "Yes",
+        "correct": "Yes"
+      }
+    },
+    {
+      "question": "What is the correct syntax for creating an arrow function?",
+      "options": {
+        "xycd": "let func = () => {}",
+        "correct": "let func = () => {}",
+        "inc": "let func = -> {}",
+        "ct3": "let func = {} =>"
+      }
+    },
+    {
+      "question": "Which event occurs when the user clicks on an HTML element?",
+      "options": {
+        "trs": "onclick",
+        "cbd": "onhover",
+        "correct": "onclick"
+      }
+    },
+    {
+      "question": "What is the correct JavaScript syntax to change the content of an HTML element?",
+      "options": {
+        "xycd": "document.getElementById('#demo').innerHTML = 'Hello World';",
+        "correct": "document.getElementById('demo').innerHTML = 'Hello World';",
+        "inc": "document.getElementById('demo').value = 'Hello World';",
+        "ct3": "document.getElement('demo').innerHTML = 'Hello World';"
+      }
+    }
+  ]
+}
