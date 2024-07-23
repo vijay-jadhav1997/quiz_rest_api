@@ -1,0 +1,236 @@
+{
+  "level1": [
+    {
+      "question": "Django is a high-level Python web framework.",
+      "options": {
+        "tag": "False",
+        "opt5": "True"
+      }
+    },
+    {
+      "question": "What is the default database used by Django?",
+      "options": {
+        "abc": "SQLite",
+        "def": "PostgreSQL",
+        "opt5": "MySQL",
+        "xyz": "SQLite"
+      }
+    },
+    {
+      "question": "Does Django use the Model-View-Controller (MVC) pattern?",
+      "options": {
+        "tag": "No",
+        "opt5": "Yes"
+      }
+    },
+    {
+      "question": "Which file in a Django app is used to define URL patterns?",
+      "options": {
+        "abc": "models.py",
+        "opt5": "urls.py",
+        "def": "views.py",
+        "xyz": "admin.py"
+      }
+    },
+    {
+      "question": "Is Django an open-source framework?",
+      "options": {
+        "tag": "No",
+        "opt5": "Yes"
+      }
+    },
+    {
+      "question": "Django uses which type of ORM (Object-Relational Mapping)?",
+      "options": {
+        "abc": "SQLAlchemy",
+        "def": "Peewee",
+        "opt5": "Django ORM",
+        "xyz": "Pony ORM"
+      }
+    },
+    {
+      "question": "What is the default port number for Django's development server?",
+      "options": {
+        "abc": "8000",
+        "def": "8080",
+        "xyz": "5000",
+        "opt5": "8000"
+      }
+    },
+    {
+      "question": "In Django, what is used to handle user authentication?",
+      "options": {
+        "opt5": "django.contrib.auth",
+        "abc": "django.contrib.sessions",
+        "def": "django.contrib.admin",
+        "xyz": "django.contrib.contenttypes"
+      }
+    },
+    {
+      "question": "Django follows which design pattern?",
+      "options": {
+        "abc": "Model-View-Template",
+        "def": "Model-View-Controller",
+        "opt5": "Model-View-Template",
+        "xyz": "Model-View-ViewModel"
+      }
+    },
+    {
+      "question": "Does Django provide built-in support for form handling?",
+      "options": {
+        "tag": "No",
+        "opt5": "Yes"
+      }
+    },
+    {
+      "question": "How do you apply migrations in Django?",
+      "options": {
+        "abc": "python manage.py migrate",
+        "opt5": "python manage.py migrate",
+        "def": "python manage.py syncdb",
+        "xyz": "python manage.py makemigrations"
+      }
+    },
+    {
+      "question": "Can Django be used to build RESTful APIs?",
+      "options": {
+        "tag": "No",
+        "opt5": "Yes"
+      }
+    },
+    {
+      "question": "Which command is used to create a new Django app?",
+      "options": {
+        "opt5": "python manage.py startapp",
+        "abc": "python manage.py newapp",
+        "def": "python manage.py createapp",
+        "xyz": "python manage.py initapp"
+      }
+    },
+    {
+      "question": "In Django, which file contains settings for your project?",
+      "options": {
+        "def": "settings.py",
+        "xyz": "urls.py",
+        "abc": "views.py",
+        "opt5": "settings.py"
+      }
+    },
+    {
+      "question": "Django’s admin interface is built on which framework?",
+      "options": {
+        "def": "Bootstrap",
+        "xyz": "Tailwind CSS",
+        "opt5": "Bootstrap",
+        "abc": "Foundation"
+      }
+    },
+    {
+      "question": "True or False: Django includes a built-in development server.",
+      "options": {
+        "tag": "False",
+        "opt5": "True"
+      }
+    },
+    {
+      "question": "Which method is used to render a template in Django views?",
+      "options": {
+        "xyz": "render_template",
+        "abc": "render_page",
+        "opt5": "render",
+        "def": "display"
+      }
+    },
+    {
+      "question": "What is Django's default template language?",
+      "options": {
+        "def": "Jinja",
+        "opt5": "Django Template Language",
+        "xyz": "Mako",
+        "abc": "Jinja2"
+      }
+    },
+    {
+      "question": "Is it possible to customize the Django admin interface?",
+      "options": {
+        "tag": "No",
+        "opt5": "Yes"
+      }
+    },
+    {
+      "question": "What does the Django management command 'makemigrations' do?",
+      "options": {
+        "opt5": "Creates a new migration",
+        "def": "Creates a new migration",
+        "xyz": "Applies migrations",
+        "abc": "Runs the server"
+      }
+    },
+    {
+      "question": "True or False: Django supports middleware.",
+      "options": {
+        "tag": "True",
+        "opt5": "True"
+      }
+    },
+    {
+      "question": "In Django, how are static files served in development?",
+      "options": {
+        "def": "Using staticfiles app",
+        "abc": "Using collectstatic",
+        "opt5": "Using staticfiles app",
+        "xyz": "Using media files"
+      }
+    },
+    {
+      "question": "What is the purpose of Django's 'migrations' system?",
+      "options": {
+        "abc": "Handle static files",
+        "xyz": "Manage database schema changes",
+        "def": "Handle form validation",
+        "opt5": "Manage database schema changes"
+      }
+    },
+    {
+      "question": "What is Django's default database engine?",
+      "options": {
+        "abc": "MySQL",
+        "opt5": "SQLite",
+        "xyz": "PostgreSQL",
+        "def": "Oracle"
+      }
+    },
+    {
+      "question": "Can Django be used with other databases besides SQLite?",
+      "options": {
+        "tag": "No",
+        "opt5": "Yes"
+      }
+    },
+    {
+      "question": "Which method is used to create a new database migration?",
+      "options": {
+        "def": "python manage.py makemigrations",
+        "xyz": "python manage.py create migration",
+        "opt5": "python manage.py makemigrations",
+        "abc": "python manage.py new migration"
+      }
+    },
+    {
+      "question": "True or False: Django requires a database to run.",
+      "options": {
+        "opt5": "False",
+        "tag": "True"
+      }
+    },
+    {
+      "question": "Which function in Django is used to handle form submission?",
+      "options": {
+        "abc": "form_submission",
+        "opt5": "request.POST",
+        "def": "form_handle",
+        "xyz": "submit_form"
+      }
+    }
+  ]
+}

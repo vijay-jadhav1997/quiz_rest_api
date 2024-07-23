@@ -1,0 +1,364 @@
+{
+  "level1": [
+    {
+      "question": "Ist Deutsch eine germanische Sprache?",
+      "options": {
+        "true": "Ja",
+        "false": "Nein",
+        "opt5": "Ja"
+      }
+    },
+    {
+      "question": "Wie viele Fälle gibt es im Deutschen?",
+      "options": {
+        "one": "3",
+        "two": "4",
+        "opt5": "4",
+        "three": "5"
+      }
+    },
+    {
+      "question": "Hat das Wort 'Haus' im Nominativ den Artikel 'die'?",
+      "options": {
+        "true": "Falsch",
+        "false": "Richtig",
+        "opt5": "Falsch"
+      }
+    },
+    {
+      "question": "Was ist das korrekte Verb für 'ich ___' in der ersten Person Singular?",
+      "options": {
+        "was": "gehe",
+        "opt5": "gehe",
+        "tart": "geht",
+        "later": "gehen"
+      }
+    },
+    {
+      "question": "In welcher Zeitform ist der Satz 'Ich werde morgen lernen'?",
+      "options": {
+        "opt5": "Futur I",
+        "past": "Perfekt",
+        "present": "Präsens",
+        "future": "Futur II"
+      }
+    },
+    {
+      "question": "Gibt es im Deutschen unregelmäßige Verben?",
+      "options": {
+        "yes": "Ja",
+        "no": "Nein",
+        "opt5": "Ja"
+      }
+    },
+    {
+      "question": "Was ist das Plural von 'Kind'?",
+      "options": {
+        "opt5": "Kinder",
+        "singular": "Kind",
+        "old": "Kinden",
+        "none": "Kinderer"
+      }
+    },
+    {
+      "question": "Wie lautet der Genitiv des Wortes 'Mädchen'?",
+      "options": {
+        "opt5": "des Mädchens",
+        "none": "Mädchen",
+        "few": "der Mädchen",
+        "some": "Mädchenes"
+      }
+    },
+    {
+      "question": "Welches Wort ist im Akkusativ Singular?",
+      "options": {
+        "opt5": "den Hund",
+        "der Hund": "der Hund",
+        "die Hund": "die Hund",
+        "dem Hund": "dem Hund"
+      }
+    },
+    {
+      "question": "Ist 'schön' ein Adjektiv?",
+      "options": {
+        "true": "Ja",
+        "false": "Nein",
+        "opt5": "Ja"
+      }
+    },
+    {
+      "question": "Welches Wort ist ein Verb?",
+      "options": {
+        "opt5": "laufen",
+        "schön": "schön",
+        "Haus": "Haus",
+        "Rot": "Rot"
+      }
+    },
+    {
+      "question": "Wie heißt der bekannte deutsche Dichter des Werkes 'Faust'?",
+      "options": {
+        "opt5": "Goethe",
+        "Bach": "Bach",
+        "Schiller": "Schiller",
+        "Hesse": "Hesse"
+      }
+    },
+    {
+      "question": "Wird der Dativ für das indirekte Objekt verwendet?",
+      "options": {
+        "true": "Ja",
+        "false": "Nein",
+        "opt5": "Ja"
+      }
+    },
+    {
+      "question": "Wie lautet der korrekte Plural von 'Tisch'?",
+      "options": {
+        "tables": "Tische",
+        "opt5": "Tische",
+        "Tischs": "Tischs",
+        "Tischen": "Tischen"
+      }
+    },
+    {
+      "question": "In welcher Zeitform wird der Satz 'Ich habe gegessen' verwendet?",
+      "options": {
+        "opt5": "Perfekt",
+        "Präsens": "Präsens",
+        "Futur I": "Futur I",
+        "Präteritum": "Präteritum"
+      }
+    },
+    {
+      "question": "Was ist der Genus des Wortes 'Stuhl'?",
+      "options": {
+        "opt5": "Maskulin",
+        "Feminin": "Feminin",
+        "Neutral": "Neutral",
+        "Plural": "Plural"
+      }
+    },
+    {
+      "question": "Gibt es im Deutschen auch Verbkonjugationen?",
+      "options": {
+        "true": "Ja",
+        "false": "Nein",
+        "opt5": "Ja"
+      }
+    },
+    {
+      "question": "Welches der folgenden Wörter ist im Dativ?",
+      "options": {
+        "opt5": "dem Freund",
+        "den Freund": "den Freund",
+        "die Freund": "die Freund",
+        "des Freund": "des Freund"
+      }
+    },
+    {
+      "question": "Was ist der Plural von 'Auto'?",
+      "options": {
+        "opt5": "Autos",
+        "Auto": "Auto",
+        "Auten": "Auten",
+        "Autoes": "Autoes"
+      }
+    },
+    {
+      "question": "Wird der Akkusativ für das direkte Objekt verwendet?",
+      "options": {
+        "true": "Ja",
+        "false": "Nein",
+        "opt5": "Ja"
+      }
+    },
+    {
+      "question": "Wie lautet der Plural von 'Messer'?",
+      "options": {
+        "opt5": "Messer",
+        "Messerer": "Messerer",
+        "Messen": "Messen",
+        "Messern": "Messern"
+      }
+    },
+    {
+      "question": "Was ist das Perfekt von 'sehen'?",
+      "options": {
+        "opt5": "gesehen",
+        "sieht": "sieht",
+        "sehe": "sehe",
+        "sehen": "sehen"
+      }
+    },
+    {
+      "question": "Wie lautet der Dativ des Wortes 'Schule'?",
+      "options": {
+        "opt5": "der Schule",
+        "Schulen": "Schulen",
+        "Schul": "Schul",
+        "Schulens": "Schulens"
+      }
+    },
+    {
+      "question": "Welcher Artikel wird für den Plural verwendet?",
+      "options": {
+        "opt5": "die",
+        "der": "der",
+        "das": "das",
+        "dem": "dem"
+      }
+    },
+    {
+      "question": "Welches der folgenden ist ein Adverb?",
+      "options": {
+        "opt5": "schnell",
+        "Hund": "Hund",
+        "Haus": "Haus",
+        "grün": "grün"
+      }
+    },
+    {
+      "question": "Was ist die Vergangenheitsform von 'gehen'?",
+      "options": {
+        "opt5": "ging",
+        "geht": "geht",
+        "gehe": "gehe",
+        "geh": "geh"
+      }
+    },
+    {
+      "question": "Wie lautet die korrekte Endung für das Verb in der dritten Person Singular Präsens?",
+      "options": {
+        "opt5": "-t",
+        "s": "-s",
+        "e": "-e",
+        "en": "-en"
+      }
+    },
+    {
+      "question": "Wie lautet das Adjektiv im Komparativ für 'gut'?",
+      "options": {
+        "opt5": "besser",
+        "gut": "gut",
+        "guter": "guter",
+        "am besten": "am besten"
+      }
+    },
+    {
+      "question": "Was ist der Dativ Plural von 'Hund'?",
+      "options": {
+        "opt5": "den Hunden",
+        "der Hunden": "der Hunden",
+        "die Hunde": "die Hunde",
+        "den Hund": "den Hund"
+      }
+    },
+    {
+      "question": "Welches der folgenden Wörter ist ein Präposition?",
+      "options": {
+        "opt5": "mit",
+        "Haus": "Haus",
+        "Hund": "Hund",
+        "schnell": "schnell"
+      }
+    },
+    {
+      "question": "Wie lautet der Superlativ von 'schön'?",
+      "options": {
+        "opt5": "am schönsten",
+        "schöner": "schöner",
+        "schön": "schön",
+        "schönste": "schönste"
+      }
+    },
+    {
+      "question": "Was ist der Plural von 'Glas'?",
+      "options": {
+        "opt5": "Gläser",
+        "Glases": "Glases",
+        "Gläse": "Gläse",
+        "Glasern": "Glasern"
+      }
+    },
+    {
+      "question": "In welcher Zeitform ist der Satz 'Ich werde schreiben'?",
+      "options": {
+        "opt5": "Futur I",
+        "Präsens": "Präsens",
+        "Perfekt": "Perfekt",
+        "Präteritum": "Präteritum"
+      }
+    },
+    {
+      "question": "Ist das Wort 'Apfel' maskulin?",
+      "options": {
+        "true": "Ja",
+        "false": "Nein",
+        "opt5": "Ja"
+      }
+    },
+    {
+      "question": "Wie lautet der Plural von 'Tasse'?",
+      "options": {
+        "opt5": "Tassen",
+        "Tassen": "Tassen",
+        "Tassenn": "Tassenn",
+        "Tasse": "Tasse"
+      }
+    },
+    {
+      "question": "Welcher Artikel wird für das Wort 'Buch' verwendet?",
+      "options": {
+        "opt5": "das",
+        "der": "der",
+        "die": "die",
+        "den": "den"
+      }
+    },
+    {
+      "question": "Wie lautet die korrekte Endung für die erste Person Singular im Präsens?",
+      "options": {
+        "opt5": "-e",
+        "t": "-t",
+        "st": "-st",
+        "en": "-en"
+      }
+    },
+    {
+      "question": "Gibt es im Deutschen regelmäßige Verben?",
+      "options": {
+        "true": "Ja",
+        "false": "Nein",
+        "opt5": "Ja"
+      }
+    },
+    {
+      "question": "Welches der folgenden Wörter ist ein Nomen?",
+      "options": {
+        "opt5": "Baum",
+        "laufen": "laufen",
+        "schnell": "schnell",
+        "schön": "schön"
+      }
+    },
+    {
+      "question": "Wie lautet der Akkusativ von 'Auto'?",
+      "options": {
+        "opt5": "das Auto",
+        "die Auto": "die Auto",
+        "den Auto": "den Auto",
+        "das Autos": "das Autos"
+      }
+    },
+    {
+      "question": "Welches Wort beschreibt eine Eigenschaft?",
+      "options": {
+        "opt5": "Adjektiv",
+        "Verb": "Verb",
+        "Nomen": "Nomen",
+        "Adverb": "Adverb"
+      }
+    }
+  ]
+}

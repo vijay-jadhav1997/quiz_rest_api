@@ -1,0 +1,228 @@
+{
+  "level1": [
+    {
+      "question": "Flask is a web framework for Python.",
+      "options": {
+        "opt5": "True",
+        "xyz": "False"
+      }
+    },
+    {
+      "question": "Which method is used to define a route in Flask?",
+      "options": {
+        "opt5": "@app.route",
+        "abc": "@route",
+        "def": "route()",
+        "xyz": "@app.define"
+      }
+    },
+    {
+      "question": "Is Flask a synchronous framework?",
+      "options": {
+        "xyz": "No",
+        "opt5": "Yes"
+      }
+    },
+    {
+      "question": "Which template engine is used by default in Flask?",
+      "options": {
+        "xyz": "Mako",
+        "abc": "Jinja2",
+        "def": "Django Templates",
+        "opt5": "Jinja2"
+      }
+    },
+    {
+      "question": "Flask is built on top of which WSGI toolkit?",
+      "options": {
+        "xyz": "Twisted",
+        "def": "Pyramid",
+        "opt5": "Werkzeug",
+        "abc": "Bottle"
+      }
+    },
+    {
+      "question": "Can Flask be used with any database?",
+      "options": {
+        "opt5": "Yes",
+        "xyz": "No"
+      }
+    },
+    {
+      "question": "Which function is used to run a Flask application?",
+      "options": {
+        "xyz": "start()",
+        "def": "execute()",
+        "opt5": "run()",
+        "abc": "launch()"
+      }
+    },
+    {
+      "question": "Flask supports RESTful request dispatching.",
+      "options": {
+        "opt5": "True",
+        "xyz": "False"
+      }
+    },
+    {
+      "question": "How do you add middleware to a Flask application?",
+      "options": {
+        "xyz": "Using @app.middleware",
+        "def": "Using app.add_middleware()",
+        "abc": "Using app.wsgi_app",
+        "opt5": "Using app.wsgi_app"
+      }
+    },
+    {
+      "question": "Which of the following is a built-in development server in Flask?",
+      "options": {
+        "def": "Apache",
+        "opt5": "Werkzeug",
+        "abc": "Nginx",
+        "xyz": "Gunicorn"
+      }
+    },
+    {
+      "question": "Is Flask considered a micro-framework?",
+      "options": {
+        "xyz": "No",
+        "opt5": "Yes"
+      }
+    },
+    {
+      "question": "Can Flask applications be deployed on cloud platforms?",
+      "options": {
+        "opt5": "Yes",
+        "xyz": "No"
+      }
+    },
+    {
+      "question": "Flask automatically reloads the server when code changes.",
+      "options": {
+        "opt5": "True",
+        "xyz": "False"
+      }
+    },
+    {
+      "question": "Which HTTP methods can Flask handle by default?",
+      "options": {
+        "xyz": "GET and POST",
+        "def": "GET, POST, PUT, DELETE",
+        "opt5": "GET, POST",
+        "abc": "GET, POST, PUT"
+      }
+    },
+    {
+      "question": "What is the purpose of Flask's 'request' object?",
+      "options": {
+        "opt5": "To handle incoming HTTP requests",
+        "xyz": "To handle outgoing HTTP responses",
+        "def": "To manage cookies",
+        "abc": "To configure the application"
+      }
+    },
+    {
+      "question": "Flask uses which method for URL building?",
+      "options": {
+        "xyz": "url_build()",
+        "def": "url_builder()",
+        "abc": "generate_url()",
+        "opt5": "url_for()"
+      }
+    },
+    {
+      "question": "Flask can be extended using plugins.",
+      "options": {
+        "opt5": "True",
+        "xyz": "False"
+      }
+    },
+    {
+      "question": "What is Flask's default error handling mechanism?",
+      "options": {
+        "xyz": "Logging errors",
+        "abc": "Email notifications",
+        "opt5": "Returning HTTP error codes",
+        "def": "Ignoring errors"
+      }
+    },
+    {
+      "question": "Which Flask function is used to redirect users to a different URL?",
+      "options": {
+        "xyz": "redirect_url()",
+        "opt5": "redirect()",
+        "def": "switch()",
+        "abc": "move()"
+      }
+    },
+    {
+      "question": "Can Flask applications use SQLAlchemy for database management?",
+      "options": {
+        "xyz": "No",
+        "opt5": "Yes"
+      }
+    },
+    {
+      "question": "Does Flask have built-in support for sessions?",
+      "options": {
+        "abc": "No",
+        "def": "Partial support",
+        "opt5": "Yes",
+        "xyz": "Only in extensions"
+      }
+    },
+    {
+      "question": "What is the default port for a Flask development server?",
+      "options": {
+        "opt5": "5000",
+        "def": "8080",
+        "xyz": "4000",
+        "abc": "3000"
+      }
+    },
+    {
+      "question": "Can Flask be used for RESTful API development?",
+      "options": {
+        "opt5": "Yes",
+        "xyz": "No"
+      }
+    },
+    {
+      "question": "Flask provides built-in support for form handling.",
+      "options": {
+        "xyz": "No",
+        "opt5": "Yes"
+      }
+    },
+    {
+      "question": "Which command is used to install Flask?",
+      "options": {
+        "abc": "npm install Flask",
+        "xyz": "brew install Flask",
+        "opt5": "pip install Flask",
+        "def": "apt-get install Flask"
+      }
+    },
+    {
+      "question": "Is Flask a good choice for small to medium-sized applications?",
+      "options": {
+        "xyz": "No",
+        "opt5": "Yes"
+      }
+    },
+    {
+      "question": "Flask has built-in support for generating forms.",
+      "options": {
+        "xyz": "No",
+        "opt5": "False"
+      }
+    },
+    {
+      "question": "Can you use Flask with NoSQL databases?",
+      "options": {
+        "xyz": "No",
+        "opt5": "Yes"
+      }
+    }
+  ]
+}

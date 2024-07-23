@@ -3,7 +3,7 @@
     {
       "question": "HTML is a programming language.",
       "options": {
-        "correct": "False",
+        "opt5": "False",
         "xyz": "True"
       }
     },
@@ -11,7 +11,7 @@
       "question": "What does HTML stand for?",
       "options": {
         "xyz": "Hyperlinks and Text Markup Language",
-        "correct": "Hyper Text Markup Language",
+        "opt5": "Hyper Text Markup Language",
         "abc": "Home Tool Markup Language",
         "def": "Hyperlinks and Text Markup Leveler"
       }
@@ -20,14 +20,14 @@
       "question": "Is HTML case-sensitive?",
       "options": {
         "xyz": "Yes",
-        "correct": "No"
+        "opt5": "No"
       }
     },
     {
       "question": "Which HTML tag is used to create a hyperlink?",
       "options": {
         "abc": "<link>",
-        "correct": "<a>",
+        "opt5": "<a>",
         "def": "<href>",
         "xyz": "<h1>"
       }
@@ -35,7 +35,7 @@
     {
       "question": "The <img> tag is used to display images in HTML.",
       "options": {
-        "correct": "True",
+        "opt5": "True",
         "xyz": "False"
       }
     },
@@ -43,7 +43,7 @@
       "question": "Which attribute is used to provide an alternative text for an image?",
       "options": {
         "abc": "src",
-        "correct": "alt",
+        "opt5": "alt",
         "def": "title",
         "xyz": "href"
       }
@@ -51,7 +51,7 @@
     {
       "question": "HTML stands for Hyper Text Markup Language.",
       "options": {
-        "correct": "True",
+        "opt5": "True",
         "xyz": "False"
       }
     },
@@ -59,14 +59,14 @@
       "question": "Is <br> an empty element?",
       "options": {
         "xyz": "No",
-        "correct": "Yes"
+        "opt5": "Yes"
       }
     },
     {
       "question": "What is the correct HTML element for inserting a line break?",
       "options": {
         "abc": "<lb>",
-        "correct": "<br>",
+        "opt5": "<br>",
         "def": "<break>",
         "xyz": "<line>"
       }
@@ -74,7 +74,7 @@
     {
       "question": "The <title> tag is used to define the title of a webpage.",
       "options": {
-        "correct": "True",
+        "opt5": "True",
         "xyz": "False"
       }
     },
@@ -82,7 +82,7 @@
       "question": "Which HTML attribute specifies an inline CSS style?",
       "options": {
         "xyz": "class",
-        "correct": "style",
+        "opt5": "style",
         "def": "id",
         "abc": "title"
       }
@@ -90,7 +90,7 @@
     {
       "question": "Does the <hr> tag create a horizontal line in HTML?",
       "options": {
-        "correct": "Yes",
+        "opt5": "Yes",
         "xyz": "No"
       }
     },
@@ -98,7 +98,7 @@
       "question": "Which HTML tag is used to define an internal style sheet?",
       "options": {
         "xyz": "<css>",
-        "correct": "<style>",
+        "opt5": "<style>",
         "def": "<script>",
         "abc": "<link>"
       }
@@ -106,7 +106,7 @@
     {
       "question": "Is the <head> element used to contain meta-information about the document?",
       "options": {
-        "correct": "True",
+        "opt5": "True",
         "xyz": "False"
       }
     },
@@ -114,7 +114,7 @@
       "question": "Which tag is used to create a numbered list?",
       "options": {
         "xyz": "<ul>",
-        "correct": "<ol>",
+        "opt5": "<ol>",
         "def": "<li>",
         "abc": "<dl>"
       }
@@ -122,7 +122,7 @@
     {
       "question": "The <input> element is used to create interactive controls in an HTML form.",
       "options": {
-        "correct": "True",
+        "opt5": "True",
         "xyz": "False"
       }
     },
@@ -130,7 +130,7 @@
       "question": "Which attribute is used to specify a unique identifier for an HTML element?",
       "options": {
         "xyz": "class",
-        "correct": "id",
+        "opt5": "id",
         "def": "style",
         "abc": "name"
       }
@@ -138,7 +138,7 @@
     {
       "question": "Is the <nav> element used to define navigation links?",
       "options": {
-        "correct": "Yes",
+        "opt5": "Yes",
         "xyz": "No"
       }
     },
@@ -146,7 +146,7 @@
       "question": "Which HTML element is used to define a table row?",
       "options": {
         "xyz": "<td>",
-        "correct": "<tr>",
+        "opt5": "<tr>",
         "def": "<th>",
         "abc": "<table>"
       }
@@ -154,7 +154,7 @@
     {
       "question": "The <footer> element is used to specify a footer for a document or section.",
       "options": {
-        "correct": "True",
+        "opt5": "True",
         "xyz": "False"
       }
     },
@@ -162,7 +162,7 @@
       "question": "Which attribute is used to specify the URL of the linked document?",
       "options": {
         "xyz": "alt",
-        "correct": "href",
+        "opt5": "href",
         "def": "src",
         "abc": "link"
       }
@@ -170,7 +170,7 @@
     {
       "question": "Is the <iframe> tag used to embed another HTML document within the current document?",
       "options": {
-        "correct": "Yes",
+        "opt5": "Yes",
         "xyz": "No"
       }
     },
@@ -178,7 +178,7 @@
       "question": "What is the correct HTML element for the largest heading?",
       "options": {
         "xyz": "<h6>",
-        "correct": "<h1>",
+        "opt5": "<h1>",
         "def": "<head>",
         "abc": "<heading>"
       }
@@ -186,7 +186,7 @@
     {
       "question": "The <section> element is used to define sections in a document.",
       "options": {
-        "correct": "True",
+        "opt5": "True",
         "xyz": "False"
       }
     },
@@ -194,7 +194,7 @@
       "question": "Which HTML element is used to specify a block of preformatted text?",
       "options": {
         "xyz": "<code>",
-        "correct": "<pre>",
+        "opt5": "<pre>",
         "def": "<p>",
         "abc": "<text>"
       }
@@ -204,7 +204,7 @@
     {
       "question": "The <canvas> element is used to draw graphics on the web page.",
       "options": {
-        "correct": "True",
+        "opt5": "True",
         "xyz": "False"
       }
     },
@@ -212,7 +212,7 @@
       "question": "What does the <b> tag stand for in HTML?",
       "options": {
         "xyz": "Bold",
-        "correct": "Base",
+        "opt5": "Base",
         "abc": "Body",
         "def": "Block"
       }
@@ -221,14 +221,14 @@
       "question": "Is the <strong> element used to define important text?",
       "options": {
         "xyz": "No",
-        "correct": "Yes"
+        "opt5": "Yes"
       }
     },
     {
       "question": "Which HTML element is used to define an unordered list?",
       "options": {
         "xyz": "<ol>",
-        "correct": "<ul>",
+        "opt5": "<ul>",
         "abc": "<li>",
         "def": "<list>"
       }
@@ -236,7 +236,7 @@
     {
       "question": "The <em> element is used to emphasize text.",
       "options": {
-        "correct": "True",
+        "opt5": "True",
         "xyz": "False"
       }
     },
@@ -244,7 +244,7 @@
       "question": "Which attribute specifies a tooltip text?",
       "options": {
         "xyz": "href",
-        "correct": "title",
+        "opt5": "title",
         "abc": "alt",
         "def": "tooltip"
       }
@@ -252,7 +252,7 @@
     {
       "question": "HTML5 is the latest version of HTML.",
       "options": {
-        "correct": "True",
+        "opt5": "True",
         "xyz": "False"
       }
     },
@@ -260,14 +260,14 @@
       "question": "Is the <span> element used to group inline-elements in a document?",
       "options": {
         "xyz": "No",
-        "correct": "Yes"
+        "opt5": "Yes"
       }
     },
     {
       "question": "Which attribute is used to define inline styles?",
       "options": {
         "xyz": "id",
-        "correct": "style",
+        "opt5": "style",
         "abc": "class",
         "def": "name"
       }
@@ -275,7 +275,7 @@
     {
       "question": "The <head> element contains metadata about the document.",
       "options": {
-        "correct": "True",
+        "opt5": "True",
         "xyz": "False"
       }
     },
@@ -283,7 +283,7 @@
       "question": "Which attribute is used to specify an image for the <img> element?",
       "options": {
         "xyz": "alt",
-        "correct": "src",
+        "opt5": "src",
         "abc": "href",
         "def": "link"
       }
@@ -292,14 +292,14 @@
       "question": "Does the <script> tag embed JavaScript in HTML?",
       "options": {
         "xyz": "No",
-        "correct": "Yes"
+        "opt5": "Yes"
       }
     },
     {
       "question": "Which HTML element is used to define a division or section?",
       "options": {
         "xyz": "<span>",
-        "correct": "<div>",
+        "opt5": "<div>",
         "abc": "<section>",
         "def": "<article>"
       }
@@ -307,7 +307,7 @@
     {
       "question": "The <article> element is used to specify independent, self-contained content.",
       "options": {
-        "correct": "True",
+        "opt5": "True",
         "xyz": "False"
       }
     },
@@ -315,7 +315,7 @@
       "question": "Which HTML element is used to define a table cell?",
       "options": {
         "xyz": "<tr>",
-        "correct": "<td>",
+        "opt5": "<td>",
         "abc": "<th>",
         "def": "<table>"
       }
@@ -323,7 +323,7 @@
     {
       "question": "The <aside> element is used for content aside from the main content.",
       "options": {
-        "correct": "True",
+        "opt5": "True",
         "xyz": "False"
       }
     },
@@ -331,7 +331,7 @@
       "question": "Which attribute specifies the source of an image?",
       "options": {
         "xyz": "href",
-        "correct": "src",
+        "opt5": "src",
         "abc": "alt",
         "def": "title"
       }
@@ -339,7 +339,7 @@
     {
       "question": "Is the <header> element used to define a header for a document or section?",
       "options": {
-        "correct": "Yes",
+        "opt5": "Yes",
         "xyz": "No"
       }
     },
@@ -347,7 +347,7 @@
       "question": "Which HTML element is used to define a list item?",
       "options": {
         "xyz": "<list>",
-        "correct": "<li>",
+        "opt5": "<li>",
         "abc": "<ul>",
         "def": "<ol>"
       }
@@ -355,7 +355,7 @@
     {
       "question": "The <audio> element is used to embed sound content in documents.",
       "options": {
-        "correct": "True",
+        "opt5": "True",
         "xyz": "False"
       }
     },
@@ -363,7 +363,7 @@
       "question": "Which attribute specifies a unique identifier for an element?",
       "options": {
         "xyz": "style",
-        "correct": "id",
+        "opt5": "id",
         "abc": "class",
         "def": "name"
       }
@@ -371,7 +371,7 @@
     {
       "question": "Is the <footer> element used to define the footer for a document or section?",
       "options": {
-        "correct": "Yes",
+        "opt5": "Yes",
         "xyz": "No"
       }
     },
@@ -379,7 +379,7 @@
       "question": "What does the <abbr> tag define?",
       "options": {
         "xyz": "Abbreviation",
-        "correct": "Acronym",
+        "opt5": "Acronym",
         "abc": "Annotation",
         "def": "Array"
       }
@@ -387,7 +387,7 @@
     {
       "question": "The <datalist> element is used to provide an autocomplete feature for input elements.",
       "options": {
-        "correct": "True",
+        "opt5": "True",
         "xyz": "False"
       }
     },
@@ -395,7 +395,7 @@
       "question": "Which HTML element is used to specify a section that is quoted from another source?",
       "options": {
         "xyz": "<cite>",
-        "correct": "<blockquote>",
+        "opt5": "<blockquote>",
         "abc": "<q>",
         "def": "<quote>"
       }

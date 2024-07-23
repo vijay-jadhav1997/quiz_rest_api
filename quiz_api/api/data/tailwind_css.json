@@ -1,0 +1,214 @@
+{
+  "level1": [
+    {
+      "question": "Tailwind CSS is a utility-first CSS framework.",
+      "options": {
+        "opt5": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "What is the default color palette in Tailwind CSS?",
+      "options": {
+        "def": "Customizable",
+        "xyz": "Monochrome",
+        "opt5": "Extended",
+        "abc": "Predefined"
+      }
+    },
+    {
+      "question": "Does Tailwind CSS use a predefined set of classes for styling?",
+      "options": {
+        "xyz": "No",
+        "opt5": "Yes"
+      }
+    },
+    {
+      "question": "Tailwind CSS supports responsive design by default.",
+      "options": {
+        "opt5": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Which of the following is a valid Tailwind CSS class for padding?",
+      "options": {
+        "abc": "pad-4",
+        "xyz": "p-4",
+        "opt5": "p-4",
+        "def": "padding-4"
+      }
+    },
+    {
+      "question": "Tailwind CSS requires using JavaScript to work.",
+      "options": {
+        "opt5": "No",
+        "xyz": "Yes"
+      }
+    },
+    {
+      "question": "How do you add a shadow to an element in Tailwind CSS?",
+      "options": {
+        "def": "shadow",
+        "xyz": "shadow-lg",
+        "abc": "shadow-2",
+        "opt5": "shadow-lg"
+      }
+    },
+    {
+      "question": "Does Tailwind CSS come with built-in grid layout utilities?",
+      "options": {
+        "opt5": "Yes",
+        "xyz": "No"
+      }
+    },
+    {
+      "question": "Which class is used for centering text in Tailwind CSS?",
+      "options": {
+        "xyz": "text-center",
+        "def": "center-text",
+        "opt5": "text-center",
+        "abc": "text-align-center"
+      }
+    },
+    {
+      "question": "Can Tailwind CSS be used with React?",
+      "options": {
+        "xyz": "No",
+        "opt5": "Yes"
+      }
+    },
+    {
+      "question": "Which Tailwind CSS class is used for a border?",
+      "options": {
+        "xyz": "border",
+        "opt5": "border",
+        "abc": "border-width",
+        "def": "border-style"
+      }
+    },
+    {
+      "question": "Tailwind CSS supports dark mode.",
+      "options": {
+        "opt5": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Which class in Tailwind CSS adds a background color?",
+      "options": {
+        "xyz": "bg-color",
+        "def": "background-color",
+        "abc": "bg",
+        "opt5": "bg-color"
+      }
+    },
+    {
+      "question": "Is Tailwind CSS a CSS preprocessor?",
+      "options": {
+        "opt5": "No",
+        "xyz": "Yes"
+      }
+    },
+    {
+      "question": "What utility class is used to hide an element in Tailwind CSS?",
+      "options": {
+        "opt5": "hidden",
+        "def": "hidden",
+        "xyz": "display-none",
+        "abc": "invisible"
+      }
+    },
+    {
+      "question": "Tailwind CSS can be integrated with which of the following build tools?",
+      "options": {
+        "def": "Webpack",
+        "abc": "Gulp",
+        "xyz": "Parcel",
+        "opt5": "Webpack"
+      }
+    },
+    {
+      "question": "Which of these classes is used for font size in Tailwind CSS?",
+      "options": {
+        "abc": "text-lg",
+        "xyz": "font-size-lg",
+        "opt5": "text-lg",
+        "def": "font-lg"
+      }
+    },
+    {
+      "question": "Can Tailwind CSS be used without a build step?",
+      "options": {
+        "xyz": "No",
+        "opt5": "Yes"
+      }
+    },
+    {
+      "question": "Tailwind CSS uses which CSS feature to apply styles dynamically?",
+      "options": {
+        "opt5": "Utility classes",
+        "def": "CSS variables",
+        "xyz": "SASS mixins",
+        "abc": "CSS inheritance"
+      }
+    },
+    {
+      "question": "Which of the following is not a Tailwind CSS utility?",
+      "options": {
+        "abc": "bg-color",
+        "def": "border-radius",
+        "opt5": "text-shadow",
+        "xyz": "padding"
+      }
+    },
+    {
+      "question": "Tailwind CSS supports custom themes.",
+      "options": {
+        "opt5": "Yes",
+        "xyz": "No"
+      }
+    },
+    {
+      "question": "Which class is used for margin in Tailwind CSS?",
+      "options": {
+        "abc": "margin",
+        "opt5": "m",
+        "xyz": "m",
+        "def": "m-4"
+      }
+    },
+    {
+      "question": "How do you enable Tailwind CSS JIT mode?",
+      "options": {
+        "def": "Add to tailwind.config.js",
+        "xyz": "Use CDN only",
+        "opt5": "Add to tailwind.config.js",
+        "abc": "Install plugin"
+      }
+    },
+    {
+      "question": "Is it possible to customize the spacing scale in Tailwind CSS?",
+      "options": {
+        "xyz": "No",
+        "opt5": "Yes"
+      }
+    },
+    {
+      "question": "Tailwind CSS offers utilities for managing z-index.",
+      "options": {
+        "opt5": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Which Tailwind CSS class is used to create a flex container?",
+      "options": {
+        "xyz": "flex-container",
+        "def": "flex-box",
+        "abc": "flex",
+        "opt5": "flex"
+      }
+    }
+  ]
+}

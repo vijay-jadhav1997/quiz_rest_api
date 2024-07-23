@@ -1,0 +1,678 @@
+{
+  "level1": [
+    {
+      "question": "Python is a statically typed language.",
+      "options": {
+        "opt5": "False",
+        "tag": "True"
+      }
+    },
+    {
+      "question": "What does 'PEP' stand for in Python?",
+      "options": {
+        "tag": "Python Enhancement Proposal",
+        "xyz": "Python Engineering Proposal",
+        "def": "Python Enrichment Project",
+        "opt5": "Python Enhancement Proposal"
+      }
+    },
+    {
+      "question": "Is Python a compiled language?",
+      "options": {
+        "opt5": "No",
+        "tag": "Yes"
+      }
+    },
+    {
+      "question": "What is the correct way to create a function in Python?",
+      "options": {
+        "def": "def function_name():",
+        "xyz": "function function_name()",
+        "opt5": "def function_name():",
+        "tag": "create function function_name()"
+      }
+    },
+    {
+      "question": "What will be the output of the following code: print(type([]))?",
+      "options": {
+        "abc": "list",
+        "xyz": "dict",
+        "opt5": "<class 'list'>",
+        "def": "<class 'array'>"
+      }
+    },
+    {
+      "question": "Python uses which of the following as its primary delimiter?",
+      "options": {
+        "abc": "Curly braces",
+        "xyz": "Parentheses",
+        "opt5": "Indentation",
+        "def": "Semicolons"
+      }
+    },
+    {
+      "question": "Can Python be used for web development?",
+      "options": {
+        "opt5": "Yes",
+        "tag": "No"
+      }
+    },
+    {
+      "question": "What is the purpose of 'self' in a Python class?",
+      "options": {
+        "abc": "It refers to the instance of the class.",
+        "opt5": "It refers to the instance of the class.",
+        "xyz": "It refers to the class itself.",
+        "def": "It is used for method overloading."
+      }
+    },
+    {
+      "question": "What is the output of: print(2 ** 3)?",
+      "options": {
+        "opt5": "8",
+        "abc": "8",
+        "xyz": "6",
+        "def": "9"
+      }
+    },
+    {
+      "question": "In Python, lists are immutable.",
+      "options": {
+        "opt5": "False",
+        "tag": "True"
+      }
+    },
+    {
+      "question": "What is the keyword used to handle exceptions in Python?",
+      "options": {
+        "xyz": "try",
+        "abc": "except",
+        "def": "throw",
+        "opt5": "except"
+      }
+    },
+    {
+      "question": "Which of these data types is not supported in Python?",
+      "options": {
+        "opt5": "Array",
+        "abc": "Set",
+        "xyz": "Tuple",
+        "def": "List"
+      }
+    },
+    {
+      "question": "Is Python a case-sensitive language?",
+      "options": {
+        "opt5": "Yes",
+        "tag": "No"
+      }
+    },
+    {
+      "question": "Which symbol is used for comments in Python?",
+      "options": {
+        "opt5": "#",
+        "xyz": "//",
+        "abc": "/*",
+        "def": "<!--"
+      }
+    },
+    {
+      "question": "How do you denote a block of code in Python?",
+      "options": {
+        "abc": "Indentation",
+        "def": "Curly braces",
+        "xyz": "Square brackets",
+        "opt5": "Indentation"
+      }
+    },
+    {
+      "question": "What is the purpose of the 'return' statement in Python?",
+      "options": {
+        "opt5": "To return a value from a function.",
+        "xyz": "To exit a loop.",
+        "abc": "To define a variable.",
+        "def": "To create a function."
+      }
+    },
+    {
+      "question": "Is Python an object-oriented language?",
+      "options": {
+        "opt5": "Yes",
+        "tag": "No"
+      }
+    },
+    {
+      "question": "Which Python module is used for regular expressions?",
+      "options": {
+        "def": "re",
+        "abc": "regex",
+        "opt5": "re",
+        "xyz": "regexp"
+      }
+    },
+    {
+      "question": "What is the output of the following code: print('Hello'.lower())?",
+      "options": {
+        "xyz": "HELLO",
+        "opt5": "hello",
+        "abc": "Hello",
+        "def": "HeLLo"
+      }
+    },
+    {
+      "question": "Python supports multiple inheritance.",
+      "options": {
+        "opt5": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Which of the following is a Python data structure?",
+      "options": {
+        "def": "List",
+        "abc": "Hash",
+        "xyz": "Set",
+        "opt5": "List"
+      }
+    },
+    {
+      "question": "What will be the output of the following code: print(1 + 2 * 3)?",
+      "options": {
+        "def": "7",
+        "xyz": "9",
+        "opt5": "7",
+        "abc": "5"
+      }
+    },
+    {
+      "question": "In Python, how do you indicate the end of a block of code?",
+      "options": {
+        "def": "By dedentation",
+        "xyz": "By a semicolon",
+        "opt5": "By dedentation",
+        "abc": "By a period"
+      }
+    },
+    {
+      "question": "What is the output of the following code: print('abc' * 3)?",
+      "options": {
+        "xyz": "abcabcabc",
+        "opt5": "abcabcabc",
+        "def": "abc",
+        "abc": "abcabc"
+      }
+    },
+    {
+      "question": "Python has built-in support for which of these operations?",
+      "options": {
+        "opt5": "List comprehensions",
+        "xyz": "Array manipulation",
+        "def": "Matrix operations",
+        "abc": "Pointer arithmetic"
+      }
+    },
+    {
+      "question": "What will be the output of the following code: print([1, 2] + [3, 4])?",
+      "options": {
+        "opt5": "[1, 2, 3, 4]",
+        "xyz": "[1, 2] [3, 4]",
+        "def": "[1, 2, 4]",
+        "abc": "[1, 2, 3, 4, 5]"
+      }
+    },
+    {
+      "question": "In Python, how are dictionaries defined?",
+      "options": {
+        "def": "Using square brackets",
+        "xyz": "Using parentheses",
+        "opt5": "Using curly braces",
+        "abc": "Using angle brackets"
+      }
+    }
+  ],
+  "level2": [
+    {
+      "question": "Python's built-in function 'len()' returns the number of items in an object.",
+      "options": {
+        "opt5": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "What is the default return value of a function if no return statement is present?",
+      "options": {
+        "tag": "0",
+        "opt5": "None",
+        "xyz": "False",
+        "abc": "Empty string"
+      }
+    },
+    {
+      "question": "What is the output of the following code: print(3 / 2)?",
+      "options": {
+        "abc": "1",
+        "xyz": "2",
+        "opt5": "1.5",
+        "def": "1.0"
+      }
+    },
+    {
+      "question": "How do you concatenate two lists in Python?",
+      "options": {
+        "opt5": "Using the '+' operator",
+        "abc": "Using the '*' operator",
+        "xyz": "Using the '&' operator",
+        "def": "Using the 'and' operator"
+      }
+    },
+    {
+      "question": "What is the output of the following code: print('Python'.replace('o', '0'))?",
+      "options": {
+        "abc": "Pyth0n",
+        "def": "Pyth0n",
+        "xyz": "Pyth0n",
+        "opt5": "Pyth0n"
+      }
+    },
+    {
+      "question": "In Python, tuples are mutable.",
+      "options": {
+        "opt5": "False",
+        "tag": "True"
+      }
+    },
+    {
+      "question": "Which keyword is used to define a class in Python?",
+      "options": {
+        "xyz": "class",
+        "abc": "define",
+        "def": "new",
+        "opt5": "class"
+      }
+    },
+    {
+      "question": "Is 'lambda' a reserved keyword in Python?",
+      "options": {
+        "opt5": "Yes",
+        "tag": "No"
+      }
+    },
+    {
+      "question": "What does the 'is' operator do in Python?",
+      "options": {
+        "xyz": "Checks equality",
+        "abc": "Checks type",
+        "opt5": "Checks object identity",
+        "def": "Checks if two values are in the same range"
+      }
+    },
+    {
+      "question": "What is the output of the following code: print([1, [2, 3]][1][0])?",
+      "options": {
+        "opt5": "2",
+        "xyz": "1",
+        "abc": "3",
+        "def": "[2, 3]"
+      }
+    },
+    {
+      "question": "In Python, the 'continue' statement is used to exit the current loop iteration and proceed to the next iteration.",
+      "options": {
+        "opt5": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "How do you check if a file exists in Python?",
+      "options": {
+        "xyz": "os.file_exists()",
+        "abc": "os.is_file()",
+        "opt5": "os.path.exists()",
+        "def": "os.file_exists()"
+      }
+    },
+    {
+      "question": "What will be the output of the following code: print('Hello' * 2)?",
+      "options": {
+        "opt5": "HelloHello",
+        "xyz": "Hello",
+        "abc": "Hello2",
+        "def": "Hello Hello"
+      }
+    },
+    {
+      "question": "What is the result of the following code: print(3 * 'Python')?",
+      "options": {
+        "def": "PythonPythonPython",
+        "opt5": "PythonPythonPython",
+        "xyz": "Python3",
+        "abc": "3Python"
+      }
+    },
+    {
+      "question": "Which method is used to add elements to a list in Python?",
+      "options": {
+        "def": "append()",
+        "xyz": "add()",
+        "abc": "insert()",
+        "opt5": "append()"
+      }
+    },
+    {
+      "question": "What is the purpose of the 'pass' statement in Python?",
+      "options": {
+        "opt5": "To act as a placeholder for future code",
+        "xyz": "To skip to the next iteration",
+        "abc": "To break out of the loop",
+        "def": "To terminate the program"
+      }
+    },
+    {
+      "question": "In Python, dictionaries are ordered as of which version?",
+      "options": {
+        "xyz": "Python 2",
+        "def": "Python 3.6",
+        "abc": "Python 3.5",
+        "opt5": "Python 3.7"
+      }
+    },
+    {
+      "question": "Which of the following is a mutable data type in Python?",
+      "options": {
+        "opt5": "List",
+        "xyz": "Tuple",
+        "abc": "String",
+        "def": "Int"
+      }
+    },
+    {
+      "question": "How do you create a virtual environment in Python?",
+      "options": {
+        "abc": "python -m venv env",
+        "opt5": "python -m venv env",
+        "xyz": "virtualenv env",
+        "def": "python create env"
+      }
+    },
+    {
+      "question": "Python supports multiple inheritance.",
+      "options": {
+        "opt5": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Which function is used to read a file in Python?",
+      "options": {
+        "xyz": "read()",
+        "abc": "get()",
+        "def": "fetch()",
+        "opt5": "read()"
+      }
+    },
+    {
+      "question": "In Python, how do you denote an inline comment?",
+      "options": {
+        "opt5": "#",
+        "def": "//",
+        "xyz": "/*",
+        "abc": "<!--"
+      }
+    },
+    {
+      "question": "Which method removes the last item from a list?",
+      "options": {
+        "def": "pop()",
+        "xyz": "remove()",
+        "abc": "del()",
+        "opt5": "pop()"
+      }
+    },
+    {
+      "question": "What will be the output of: print(2 == 2.0)?",
+      "options": {
+        "opt5": "True",
+        "xyz": "False",
+        "def": "Error",
+        "abc": "None"
+      }
+    },
+    {
+      "question": "Which of the following is not a valid Python identifier?",
+      "options": {
+        "abc": "variable1",
+        "xyz": "_variable",
+        "opt5": "1variable",
+        "def": "variable_"
+      }
+    },
+    {
+      "question": "What will be the output of the following code: print(5 // 2)?",
+      "options": {
+        "opt5": "2",
+        "xyz": "2.5",
+        "def": "2.0",
+        "abc": "3"
+      }
+    },
+    {
+      "question": "Is 'for' a reserved keyword in Python?",
+      "options": {
+        "opt5": "Yes",
+        "tag": "No"
+      }
+    }
+  ],
+  "level3": [
+    {
+      "question": "Python is primarily used for data analysis and machine learning.",
+      "options": {
+        "tag": "True",
+        "opt5": "False"
+      }
+    },
+    {
+      "question": "What is the output of: print(len('Python'))?",
+      "options": {
+        "xyz": "6",
+        "def": "7",
+        "opt5": "6",
+        "abc": "5"
+      }
+    },
+    {
+      "question": "What is the purpose of the 'global' keyword in Python?",
+      "options": {
+        "def": "To declare global variables",
+        "xyz": "To declare local variables",
+        "abc": "To declare constants",
+        "opt5": "To declare global variables"
+      }
+    },
+    {
+      "question": "What will be the output of the following code: print(5 % 2)?",
+      "options": {
+        "opt5": "1",
+        "xyz": "2",
+        "def": "5",
+        "abc": "0"
+      }
+    },
+    {
+      "question": "Which of these is used to start a loop in Python?",
+      "options": {
+        "abc": "for",
+        "def": "loop",
+        "xyz": "iterate",
+        "opt5": "for"
+      }
+    },
+    {
+      "question": "In Python, the 'input()' function returns:",
+      "options": {
+        "xyz": "Integer",
+        "opt5": "String",
+        "def": "Float",
+        "abc": "List"
+      }
+    },
+    {
+      "question": "What is the default value of 'maxsplit' parameter in 'split()' method?",
+      "options": {
+        "def": "-1",
+        "abc": "0",
+        "opt5": "-1",
+        "xyz": "1"
+      }
+    },
+    {
+      "question": "Is Python's list comprehensions faster than traditional for-loops?",
+      "options": {
+        "opt5": "Yes",
+        "tag": "No"
+      }
+    },
+    {
+      "question": "What is the output of: print('Python'.count('o'))?",
+      "options": {
+        "def": "1",
+        "opt5": "1",
+        "xyz": "2",
+        "abc": "0"
+      }
+    },
+    {
+      "question": "How do you denote a multi-line comment in Python?",
+      "options": {
+        "xyz": "/* comment */",
+        "def": "<!-- comment -->",
+        "abc": "/* comment */",
+        "opt5": "\"\"\" comment \"\"\""
+      }
+    },
+    {
+      "question": "Which method is used to remove all items from a list?",
+      "options": {
+        "def": "clear()",
+        "xyz": "delete()",
+        "opt5": "clear()",
+        "abc": "remove()"
+      }
+    },
+    {
+      "question": "What does 'os' module in Python provide?",
+      "options": {
+        "opt5": "Operating system functionalities",
+        "xyz": "Database functionalities",
+        "def": "Networking functionalities",
+        "abc": "File functionalities"
+      }
+    },
+    {
+      "question": "Python supports automatic memory management using which mechanism?",
+      "options": {
+        "def": "Memory Allocation",
+        "opt5": "Garbage Collection",
+        "xyz": "Manual Memory Management",
+        "abc": "Reference Counting"
+      }
+    },
+    {
+      "question": "What is the correct syntax for a Python class?",
+      "options": {
+        "def": "class ClassName:",
+        "xyz": "class ClassName[]:",
+        "abc": "class ClassName()",
+        "opt5": "class ClassName:"
+      }
+    },
+    {
+      "question": "Can you perform string concatenation with the '+' operator in Python?",
+      "options": {
+        "opt5": "Yes",
+        "tag": "No"
+      }
+    },
+    {
+      "question": "Which built-in function is used to convert a string to a list in Python?",
+      "options": {
+        "def": "split()",
+        "opt5": "split()",
+        "xyz": "list()",
+        "abc": "convert()"
+      }
+    },
+    {
+      "question": "How do you access the value associated with a specific key in a Python dictionary?",
+      "options": {
+        "def": "dictionary[key]",
+        "xyz": "dictionary.get(key)",
+        "opt5": "dictionary[key]",
+        "abc": "dictionary.fetch(key)"
+      }
+    },
+    {
+      "question": "What will be the result of: print('abc'[:2])?",
+      "options": {
+        "opt5": "ab",
+        "xyz": "abc",
+        "def": "a",
+        "abc": "bc"
+      }
+    },
+    {
+      "question": "What will be the output of the following code: print(2 * 'abc')?",
+      "options": {
+        "xyz": "2abc",
+        "def": "abc2",
+        "opt5": "abcabc",
+        "abc": "abc abc"
+      }
+    },
+    {
+      "question": "Which operator is used to perform exponentiation in Python?",
+      "options": {
+        "opt5": "**",
+        "def": "**",
+        "xyz": "^",
+        "abc": "exp"
+      }
+    },
+    {
+      "question": "Which Python statement is used to exit a loop?",
+      "options": {
+        "def": "break",
+        "xyz": "continue",
+        "abc": "exit",
+        "opt5": "break"
+      }
+    },
+    {
+      "question": "How do you check for membership in a list in Python?",
+      "options": {
+        "xyz": "Using the 'exists' operator",
+        "opt5": "Using the 'in' operator",
+        "def": "Using the 'has' operator",
+        "abc": "Using the 'contains' operator"
+      }
+    },
+    {
+      "question": "What is the output of the following code: print([1, 2] + [3])?",
+      "options": {
+        "xyz": "[1, 2, 3]",
+        "abc": "[1, 2] + [3]",
+        "opt5": "[1, 2, 3]",
+        "def": "[1, 2, 3, 3]"
+      }
+    },
+    {
+      "question": "Python uses which type of indentation by default?",
+      "options": {
+        "abc": "Spaces",
+        "opt5": "Spaces",
+        "xyz": "Tabs",
+        "def": "Both"
+      }
+    }
+  ]
+}

@@ -3,7 +3,7 @@
     {
       "question": "CSS stands for 'Cascading Style Sheets'.",
       "options": {
-        "correct": "True",
+        "opt5": "True",
         "tag": "False"
       }
     },
@@ -11,7 +11,7 @@
       "question": "Which property is used to change the background color of an element?",
       "options": {
         "opt1": "color",
-        "correct": "background-color",
+        "opt5": "background-color",
         "opt2": "bgcolor",
         "opt3": "bg-color"
       }
@@ -20,7 +20,7 @@
       "question": "Does CSS allow you to control the layout of multiple web pages all at once?",
       "options": {
         "xycd": "No",
-        "correct": "Yes"
+        "opt5": "Yes"
       }
     },
     {
@@ -28,7 +28,7 @@
       "options": {
         "opt1": "Zoom",
         "opt2": "Zone",
-        "correct": "Z-axis",
+        "opt5": "Z-axis",
         "opt3": "Zebra"
       }
     },
@@ -36,7 +36,7 @@
       "question": "Which CSS property is used to change the text color of an element?",
       "options": {
         "tag1": "font-color",
-        "correct": "color",
+        "opt5": "color",
         "tag2": "text-color",
         "tag3": "foreground-color"
       }
@@ -44,7 +44,7 @@
     {
       "question": "Is it possible to align elements using the 'float' property in CSS?",
       "options": {
-        "correct": "True",
+        "opt5": "True",
         "opt2": "False"
       }
     },
@@ -52,7 +52,7 @@
       "question": "How do you make each word in a text start with a capital letter?",
       "options": {
         "tag": "text-transform:capitalize",
-        "correct": "text-transform: capitalize",
+        "opt5": "text-transform: capitalize",
         "tag2": "text-transform:uppercase",
         "tag3": "capitalize"
       }
@@ -61,7 +61,7 @@
       "question": "Which CSS property is used to change the font of an element?",
       "options": {
         "tag": "font-style",
-        "correct": "font-family",
+        "opt5": "font-family",
         "tag2": "font-weight",
         "tag3": "font-size"
       }
@@ -70,7 +70,7 @@
       "question": "How do you select an element with id 'demo'?",
       "options": {
         "tag": "demo",
-        "correct": "#demo",
+        "opt5": "#demo",
         "tag2": ".demo",
         "tag3": "*demo"
       }
@@ -79,7 +79,7 @@
       "question": "Which property is used to control the space between lines of text?",
       "options": {
         "tag": "spacing",
-        "correct": "line-height",
+        "opt5": "line-height",
         "tag2": "text-spacing",
         "tag3": "line-spacing"
       }
@@ -87,7 +87,7 @@
     {
       "question": "The default value of the position property is 'static'.",
       "options": {
-        "correct": "True",
+        "opt5": "True",
         "opt2": "False"
       }
     },
@@ -95,7 +95,7 @@
       "question": "How do you make the text bold in CSS?",
       "options": {
         "tag": "font-weight:bold",
-        "correct": "font-weight: bold",
+        "opt5": "font-weight: bold",
         "tag2": "text-weight:bold",
         "tag3": "font:bold"
       }
@@ -104,7 +104,7 @@
       "question": "Which property is used to control the layout?",
       "options": {
         "tag": "display",
-        "correct": "display",
+        "opt5": "display",
         "tag2": "layout",
         "tag3": "position"
       }
@@ -112,7 +112,7 @@
     {
       "question": "Does the 'overflow' property deal with the content that is too big to fit in an area?",
       "options": {
-        "correct": "Yes",
+        "opt5": "Yes",
         "opt2": "No"
       }
     },
@@ -120,7 +120,7 @@
       "question": "Which CSS property is used to specify the space between the border and the content?",
       "options": {
         "tag": "margin",
-        "correct": "padding",
+        "opt5": "padding",
         "tag2": "spacing",
         "tag3": "border-spacing"
       }
@@ -129,7 +129,7 @@
       "question": "Which property is used to set the image that is used as the background of an element?",
       "options": {
         "tag": "background-image",
-        "correct": "background-image",
+        "opt5": "background-image",
         "tag2": "bg-image",
         "tag3": "image-background"
       }
@@ -138,7 +138,7 @@
       "question": "What does the 'box-shadow' property do?",
       "options": {
         "opt1": "Adds shadow to text",
-        "correct": "Adds shadow to elements",
+        "opt5": "Adds shadow to elements",
         "opt2": "Adds shadow to images",
         "opt3": "Adds shadow to borders"
       }
@@ -147,7 +147,7 @@
       "question": "How do you add a comment in CSS?",
       "options": {
         "tag": "// this is a comment",
-        "correct": "/* this is a comment */",
+        "opt5": "/* this is a comment */",
         "tag2": "# this is a comment",
         "tag3": "<!-- this is a comment -->"
       }
@@ -155,7 +155,7 @@
     {
       "question": "Can CSS be used to create animations?",
       "options": {
-        "correct": "Yes",
+        "opt5": "Yes",
         "opt2": "No"
       }
     },
@@ -163,7 +163,7 @@
       "question": "Which property is used to change the left margin of an element?",
       "options": {
         "tag": "margin-left",
-        "correct": "margin-left",
+        "opt5": "margin-left",
         "tag2": "padding-left",
         "tag3": "left-margin"
       }
@@ -172,7 +172,7 @@
       "question": "What does the 'opacity' property do?",
       "options": {
         "tag": "Changes the transparency of an element",
-        "correct": "Changes the transparency of an element",
+        "opt5": "Changes the transparency of an element",
         "tag2": "Changes the brightness of an element",
         "tag3": "Changes the color of an element"
       }
@@ -180,7 +180,7 @@
     {
       "question": "Does the 'position' property in CSS specify the type of positioning method used for an element?",
       "options": {
-        "correct": "True",
+        "opt5": "True",
         "tag2": "False"
       }
     },
@@ -188,7 +188,7 @@
       "question": "Which property is used to specify the speed of the transition effect?",
       "options": {
         "opt1": "transition-duration",
-        "correct": "transition-duration",
+        "opt5": "transition-duration",
         "opt2": "transition-time",
         "opt3": "duration"
       }
@@ -197,7 +197,7 @@
       "question": "Which CSS property is used to create space between the element's border and its inner content?",
       "options": {
         "tag": "padding",
-        "correct": "padding",
+        "opt5": "padding",
         "tag2": "spacing",
         "tag3": "margin"
       }
@@ -207,7 +207,7 @@
     {
       "question": "CSS can be written within HTML using the <style> tag.",
       "options": {
-        "correct": "True",
+        "opt5": "True",
         "tag": "False"
       }
     },
@@ -215,7 +215,7 @@
       "question": "What does 'CSS' stand for?",
       "options": {
         "opt1": "Cascading Sheet Style",
-        "correct": "Cascading Style Sheets",
+        "opt5": "Cascading Style Sheets",
         "opt2": "Creative Style Sheets",
         "opt3": "Colorful Style Sheets"
       }
@@ -224,14 +224,14 @@
       "question": "Is 'font-size' used to set the size of text?",
       "options": {
         "xycd": "No",
-        "correct": "Yes"
+        "opt5": "Yes"
       }
     },
     {
       "question": "Which property is used to change the background image of an element?",
       "options": {
         "opt1": "background-image",
-        "correct": "background-image",
+        "opt5": "background-image",
         "opt2": "bg-image",
         "opt3": "background-img"
       }
@@ -240,7 +240,7 @@
       "question": "Which property is used to change the text color of an element?",
       "options": {
         "tag1": "font-color",
-        "correct": "color",
+        "opt5": "color",
         "tag2": "text-color",
         "tag3": "foreground-color"
       }
@@ -248,7 +248,7 @@
     {
       "question": "Can you set the style of a list using CSS?",
       "options": {
-        "correct": "True",
+        "opt5": "True",
         "opt2": "False"
       }
     },
@@ -256,7 +256,7 @@
       "question": "How do you make text italic in CSS?",
       "options": {
         "tag": "font-style:italic",
-        "correct": "font-style: italic",
+        "opt5": "font-style: italic",
         "tag2": "text-style:italic",
         "tag3": "font:italic"
       }
@@ -265,7 +265,7 @@
       "question": "Which CSS property is used to change the font of an element?",
       "options": {
         "tag": "font-style",
-        "correct": "font-family",
+        "opt5": "font-family",
         "tag2": "font-weight",
         "tag3": "font-size"
       }
@@ -274,7 +274,7 @@
       "question": "How do you select all <p> elements inside a <div> element?",
       "options": {
         "tag": "div p",
-        "correct": "div p",
+        "opt5": "div p",
         "tag2": "div.p",
         "tag3": "div+p"
       }
@@ -283,7 +283,7 @@
       "question": "Which property is used to control the space between letters?",
       "options": {
         "tag": "spacing",
-        "correct": "letter-spacing",
+        "opt5": "letter-spacing",
         "tag2": "text-spacing",
         "tag3": "letter-space"
       }
@@ -291,7 +291,7 @@
     {
       "question": "The 'float' property can be used to position elements.",
       "options": {
-        "correct": "True",
+        "opt5": "True",
         "opt2": "False"
       }
     },
@@ -299,7 +299,7 @@
       "question": "How do you make the text bold in CSS?",
       "options": {
         "tag": "font-weight:bold",
-        "correct": "font-weight: bold",
+        "opt5": "font-weight: bold",
         "tag2": "text-weight:bold",
         "tag3": "font:bold"
       }
@@ -308,7 +308,7 @@
       "question": "Which property is used to control the layout?",
       "options": {
         "tag": "display",
-        "correct": "display",
+        "opt5": "display",
         "tag2": "layout",
         "tag3": "position"
       }
@@ -316,7 +316,7 @@
     {
       "question": "Does the 'overflow' property deal with the content that is too big to fit in an area?",
       "options": {
-        "correct": "Yes",
+        "opt5": "Yes",
         "opt2": "No"
       }
     },
@@ -324,7 +324,7 @@
       "question": "Which CSS property is used to specify the space between the border and the content?",
       "options": {
         "tag": "margin",
-        "correct": "padding",
+        "opt5": "padding",
         "tag2": "spacing",
         "tag3": "border-spacing"
       }
@@ -333,7 +333,7 @@
       "question": "Which property is used to set the image that is used as the background of an element?",
       "options": {
         "tag": "background-image",
-        "correct": "background-image",
+        "opt5": "background-image",
         "tag2": "bg-image",
         "tag3": "image-background"
       }
@@ -342,7 +342,7 @@
       "question": "What does the 'box-shadow' property do?",
       "options": {
         "opt1": "Adds shadow to text",
-        "correct": "Adds shadow to elements",
+        "opt5": "Adds shadow to elements",
         "opt2": "Adds shadow to images",
         "opt3": "Adds shadow to borders"
       }
@@ -351,7 +351,7 @@
       "question": "How do you add a comment in CSS?",
       "options": {
         "tag": "// this is a comment",
-        "correct": "/* this is a comment */",
+        "opt5": "/* this is a comment */",
         "tag2": "# this is a comment",
         "tag3": "<!-- this is a comment -->"
       }
@@ -359,7 +359,7 @@
     {
       "question": "Can CSS be used to create animations?",
       "options": {
-        "correct": "Yes",
+        "opt5": "Yes",
         "opt2": "No"
       }
     },
@@ -367,7 +367,7 @@
       "question": "Which property is used to change the left margin of an element?",
       "options": {
         "tag": "margin-left",
-        "correct": "margin-left",
+        "opt5": "margin-left",
         "tag2": "padding-left",
         "tag3": "left-margin"
       }
@@ -376,7 +376,7 @@
       "question": "What does the 'opacity' property do?",
       "options": {
         "tag": "Changes the transparency of an element",
-        "correct": "Changes the transparency of an element",
+        "opt5": "Changes the transparency of an element",
         "tag2": "Changes the brightness of an element",
         "tag3": "Changes the color of an element"
       }
@@ -384,7 +384,7 @@
     {
       "question": "Does the 'position' property in CSS specify the type of positioning method used for an element?",
       "options": {
-        "correct": "True",
+        "opt5": "True",
         "tag2": "False"
       }
     },
@@ -392,7 +392,7 @@
       "question": "Which property is used to specify the speed of the transition effect?",
       "options": {
         "opt1": "transition-duration",
-      "correct": "transition-duration",
+      "opt5": "transition-duration",
         "opt2": "transition-time",
         "opt3": "duration"
       }
@@ -401,7 +401,7 @@
       "question": "Which CSS property is used to create space between the element's border and its inner content?",
       "options": {
         "tag": "padding",
-        "correct": "padding",
+        "opt5": "padding",
         "tag2": "spacing",
         "tag3": "margin"
       }
@@ -411,7 +411,7 @@
     {
       "question": "CSS can be written within HTML using the <style> tag.",
       "options": {
-        "correct": "True",
+        "opt5": "True",
         "tag": "False"
       }
     },
@@ -419,7 +419,7 @@
       "question": "What does 'CSS' stand for?",
       "options": {
         "opt1": "Cascading Sheet Style",
-        "correct": "Cascading Style Sheets",
+        "opt5": "Cascading Style Sheets",
         "opt2": "Creative Style Sheets",
         "opt3": "Colorful Style Sheets"
       }
@@ -428,14 +428,14 @@
       "question": "Is 'font-size' used to set the size of text?",
       "options": {
         "xycd": "No",
-        "correct": "Yes"
+        "opt5": "Yes"
       }
     },
     {
       "question": "Which property is used to change the background image of an element?",
       "options": {
         "opt1": "background-image",
-        "correct": "background-image",
+        "opt5": "background-image",
         "opt2": "bg-image",
         "opt3": "background-img"
       }
@@ -444,7 +444,7 @@
       "question": "Which property is used to change the text color of an element?",
       "options": {
         "tag1": "font-color",
-        "correct": "color",
+        "opt5": "color",
         "tag2": "text-color",
         "tag3": "foreground-color"
       }
@@ -452,7 +452,7 @@
     {
       "question": "Can you set the style of a list using CSS?",
       "options": {
-        "correct": "True",
+        "opt5": "True",
         "opt2": "False"
       }
     },
@@ -460,7 +460,7 @@
       "question": "How do you make text italic in CSS?",
       "options": {
         "tag": "font-style:italic",
-        "correct": "font-style: italic",
+        "opt5": "font-style: italic",
         "tag2": "text-style:italic",
         "tag3": "font:italic"
       }
@@ -469,7 +469,7 @@
       "question": "Which CSS property is used to change the font of an element?",
       "options": {
         "tag": "font-style",
-        "correct": "font-family",
+        "opt5": "font-family",
         "tag2": "font-weight",
         "tag3": "font-size"
       }
@@ -478,7 +478,7 @@
       "question": "How do you select all <p> elements inside a <div> element?",
       "options": {
         "tag": "div p",
-        "correct": "div p",
+        "opt5": "div p",
         "tag2": "div.p",
         "tag3": "div+p"
       }
@@ -487,7 +487,7 @@
       "question": "Which property is used to control the space between letters?",
       "options": {
         "tag": "spacing",
-        "correct": "letter-spacing",
+        "opt5": "letter-spacing",
         "tag2": "text-spacing",
         "tag3": "letter-space"
       }
@@ -495,7 +495,7 @@
     {
       "question": "The 'float' property can be used to position elements.",
       "options": {
-        "correct": "True",
+        "opt5": "True",
         "opt2": "False"
       }
     },
@@ -503,7 +503,7 @@
       "question": "How do you make the text bold in CSS?",
       "options": {
         "tag": "font-weight:bold",
-        "correct": "font-weight: bold",
+        "opt5": "font-weight: bold",
         "tag2": "text-weight:bold",
         "tag3": "font:bold"
       }
@@ -512,7 +512,7 @@
       "question": "Which property is used to control the layout?",
       "options": {
         "tag": "display",
-        "correct": "display",
+        "opt5": "display",
         "tag2": "layout",
         "tag3": "position"
       }
@@ -520,7 +520,7 @@
     {
       "question": "Does the 'overflow' property deal with the content that is too big to fit in an area?",
       "options": {
-        "correct": "Yes",
+        "opt5": "Yes",
         "opt2": "No"
       }
     },
@@ -528,7 +528,7 @@
       "question": "Which CSS property is used to specify the space between the border and the content?",
       "options": {
         "tag": "margin",
-        "correct": "padding",
+        "opt5": "padding",
         "tag2": "spacing",
         "tag3": "border-spacing"
       }
@@ -537,7 +537,7 @@
       "question": "Which property is used to set the image that is used as the background of an element?",
       "options": {
         "tag": "background-image",
-        "correct": "background-image",
+        "opt5": "background-image",
         "tag2": "bg-image",
         "tag3": "image-background"
       }
@@ -546,7 +546,7 @@
       "question": "What does the 'box-shadow' property do?",
       "options": {
         "opt1": "Adds shadow to text",
-        "correct": "Adds shadow to elements",
+        "opt5": "Adds shadow to elements",
         "opt2": "Adds shadow to images",
         "opt3": "Adds shadow to borders"
       }
@@ -555,7 +555,7 @@
       "question": "How do you add a comment in CSS?",
       "options": {
         "tag": "// this is a comment",
-        "correct": "/* this is a comment */",
+        "opt5": "/* this is a comment */",
         "tag2": "# this is a comment",
         "tag3": "<!-- this is a comment -->"
       }
@@ -563,7 +563,7 @@
     {
       "question": "Can CSS be used to create animations?",
       "options": {
-        "correct": "Yes",
+        "opt5": "Yes",
         "opt2": "No"
       }
     },
@@ -571,7 +571,7 @@
       "question": "Which property is used to change the left margin of an element?",
       "options": {
         "tag": "margin-left",
-        "correct": "margin-left",
+        "opt5": "margin-left",
         "tag2": "padding-left",
         "tag3": "left-margin"
       }
@@ -580,7 +580,7 @@
       "question": "What does the 'opacity' property do?",
       "options": {
         "tag": "Changes the transparency of an element",
-        "correct": "Changes the transparency of an element",
+        "opt5": "Changes the transparency of an element",
         "tag2": "Changes the brightness of an element",
         "tag3": "Changes the color of an element"
       }
@@ -588,7 +588,7 @@
     {
       "question": "Does the 'position' property in CSS specify the type of positioning method used for an element?",
       "options": {
-        "correct": "True",
+        "opt5": "True",
         "tag2": "False"
       }
     },
@@ -596,7 +596,7 @@
       "question": "Which property is used to specify the speed of the transition effect?",
       "options": {
         "opt1": "transition-duration",
-        "correct": "transition-duration",
+        "opt5": "transition-duration",
         "opt2": "transition-time",
         "opt3": "duration"
       }
@@ -605,7 +605,7 @@
       "question": "Which CSS property is used to create space between the element's border and its inner content?",
       "options": {
         "tag": "padding",
-        "correct": "padding",
+        "opt5": "padding",
         "tag2": "spacing",
         "tag3": "margin"
       }

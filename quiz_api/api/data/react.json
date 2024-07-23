@@ -1,0 +1,541 @@
+{
+  "level1": [
+    {
+      "question": "React is a front-end framework for building user interfaces.",
+      "options": {
+        "tag": "False",
+        "opt5": "True"
+      }
+    },
+    {
+      "question": "What is the purpose of `useEffect` in React?",
+      "options": {
+        "xyz": "To handle form submissions",
+        "def": "To perform side effects in functional components",
+        "abc": "To manage component state",
+        "opt5": "To perform side effects in functional components"
+      }
+    },
+    {
+      "question": "Can you use the `useState` hook more than once in a component?",
+      "options": {
+        "opt5": "Yes",
+        "xycd": "No"
+      }
+    },
+    {
+      "question": "Which method is used to handle form submission in React?",
+      "options": {
+        "xyz": "submitForm()",
+        "def": "handleSubmit()",
+        "abc": "processForm()",
+        "opt5": "handleSubmit()"
+      }
+    },
+    {
+      "question": "In React, what is the primary purpose of the `key` prop?",
+      "options": {
+        "def": "To uniquely identify elements in a list",
+        "opt5": "To uniquely identify elements in a list",
+        "abc": "To manage state",
+        "xyz": "To handle events"
+      }
+    },
+    {
+      "question": "React components can be defined using which of the following?",
+      "options": {
+        "def": "Function or class",
+        "xyz": "Class only",
+        "abc": "Function only",
+        "opt5": "Function or class"
+      }
+    },
+    {
+      "question": "Does React use a virtual DOM to improve performance?",
+      "options": {
+        "opt5": "Yes",
+        "xycd": "No"
+      }
+    },
+    {
+      "question": "What is `useReducer` used for in React?",
+      "options": {
+        "def": "Managing complex state logic",
+        "xyz": "Fetching data",
+        "abc": "Rendering components",
+        "opt5": "Managing complex state logic"
+      }
+    },
+    {
+      "question": "Can React be used for server-side rendering?",
+      "options": {
+        "opt5": "Yes",
+        "xycd": "No"
+      }
+    },
+    {
+      "question": "What does the `useRef` hook provide access to in React?",
+      "options": {
+        "opt5": "DOM elements and persistent values",
+        "xyz": "Component state",
+        "abc": "Context values",
+        "def": "Effects"
+      }
+    },
+    {
+      "question": "React's `context` API allows you to pass data through the component tree without having to pass props down manually at every level.",
+      "options": {
+        "opt5": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "In React, what is a 'pure' component?",
+      "options": {
+        "xyz": "A component with internal state",
+        "def": "A component that always renders the same output for the same props",
+        "abc": "A component that manages context",
+        "opt5": "A component that always renders the same output for the same props"
+      }
+    },
+    {
+      "question": "What is `ReactDOM.createPortal` used for?",
+      "options": {
+        "def": "Rendering children into a different part of the DOM",
+        "xyz": "Creating new components",
+        "abc": "Handling events",
+        "opt5": "Rendering children into a different part of the DOM"
+      }
+    },
+    {
+      "question": "React Hooks were introduced in which version of React?",
+      "options": {
+        "def": "16.8",
+        "xyz": "15",
+        "abc": "17",
+        "opt5": "16.8"
+      }
+    },
+    {
+      "question": "What does `useMemo` do in React?",
+      "options": {
+        "def": "Memoizes the result of a computation",
+        "opt5": "Memoizes the result of a computation",
+        "xyz": "Manages component state",
+        "abc": "Handles events"
+      }
+    },
+    {
+      "question": "Can React components be styled with inline styles?",
+      "options": {
+        "opt5": "Yes",
+        "xycd": "No"
+      }
+    },
+    {
+      "question": "What is the use of `React.StrictMode`?",
+      "options": {
+        "def": "To help identify potential problems in the application",
+        "opt5": "To help identify potential problems in the application",
+        "xyz": "To manage state",
+        "abc": "To improve performance"
+      }
+    },
+    {
+      "question": "Can functional components have lifecycle methods?",
+      "options": {
+        "opt5": "No",
+        "xycd": "Yes"
+      }
+    },
+    {
+      "question": "What is the `useLayoutEffect` hook used for in React?",
+      "options": {
+        "abc": "To perform side effects after DOM updates",
+        "opt5": "To perform side effects after DOM updates",
+        "def": "To manage component state",
+        "xyz": "To handle events"
+      }
+    },
+    {
+      "question": "In React, what does the `useContext` hook do?",
+      "options": {
+        "xyz": "Handles state management",
+        "def": "Provides access to context values",
+        "abc": "Fetches data",
+        "opt5": "Provides access to context values"
+      }
+    },
+    {
+      "question": "Is it necessary to use `React.Fragment` if a component returns only one element?",
+      "options": {
+        "opt5": "No",
+        "xycd": "Yes"
+      }
+    },
+    {
+      "question": "What is the correct way to set state in a class component?",
+      "options": {
+        "xyz": "this.setState(newState)",
+        "def": "this.updateState(newState)",
+        "abc": "this.modifyState(newState)",
+        "opt5": "this.setState(newState)"
+      }
+    },
+    {
+      "question": "What is `React.memo` used for?",
+      "options": {
+        "def": "To memoize functional components",
+        "xyz": "To handle events",
+        "abc": "To manage state",
+        "opt5": "To memoize functional components"
+      }
+    },
+    {
+      "question": "Is React a library or a framework?",
+      "options": {
+        "opt5": "Library",
+        "tag": "Framework"
+      }
+    },
+    {
+      "question": "Can `useEffect` be used to perform cleanup operations?",
+      "options": {
+        "opt5": "Yes",
+        "xycd": "No"
+      }
+    },
+    {
+      "question": "What is `React.lazy` used for?",
+      "options": {
+        "xyz": "To dynamically import components",
+        "def": "To manage state",
+        "abc": "To perform side effects",
+        "opt5": "To dynamically import components"
+      }
+    },
+    {
+      "question": "In React, what does the `useReducer` hook help with?",
+      "options": {
+        "xyz": "Performing side effects",
+        "def": "Managing complex state logic",
+        "abc": "Handling events",
+        "opt5": "Managing complex state logic"
+      }
+    },
+    {
+      "question": "React components can only be created using JavaScript.",
+      "options": {
+        "opt5": "False",
+        "xycd": "True"
+      }
+    },
+    {
+      "question": "What is the use of `React.createContext`?",
+      "options": {
+        "xyz": "Creating a context object",
+        "def": "Rendering components",
+        "abc": "Handling events",
+        "opt5": "Creating a context object"
+      }
+    },
+    {
+      "question": "What is the purpose of `React.forwardRef`?",
+      "options": {
+        "xyz": "To pass refs through components",
+        "def": "To manage component state",
+        "abc": "To handle side effects",
+        "opt5": "To pass refs through components"
+      }
+    },
+    {
+      "question": "In React, what does `useImperativeHandle` do?",
+      "options": {
+        "abc": "Customizes the instance value exposed when using refs",
+        "xyz": "Fetches data",
+        "def": "Handles events",
+        "opt5": "Customizes the instance value exposed when using refs"
+      }
+    }
+  ],
+  "level2": [
+    {
+      "question": "React.js is a JavaScript library for building user interfaces.",
+      "options": {
+        "opt5": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "What is the primary purpose of React's `useEffect` hook?",
+      "options": {
+        "abc": "Managing component state",
+        "xyz": "Fetching data",
+        "opt5": "Performing side effects",
+        "def": "Handling user events"
+      }
+    },
+    {
+      "question": "Can you update the state directly in React?",
+      "options": {
+        "xycd": "No",
+        "opt5": "Yes"
+      }
+    },
+    {
+      "question": "What does JSX stand for in React?",
+      "options": {
+        "opt5": "JavaScript XML",
+        "xyz": "JavaScript Extension",
+        "def": "Java Syntax Extension",
+        "abc": "JavaScript XMLExtension"
+      }
+    },
+    {
+      "question": "React uses a virtual DOM to optimize rendering performance.",
+      "options": {
+        "opt5": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "What is the role of `ReactDOM.render()`?",
+      "options": {
+        "xyz": "To create React components",
+        "abc": "To update component state",
+        "def": "To render React components to the DOM",
+        "opt5": "To render React components to the DOM"
+      }
+    },
+    {
+      "question": "Is React a framework or a library?",
+      "options": {
+        "opt5": "Library",
+        "tag": "Framework"
+      }
+    },
+    {
+      "question": "What does `props` stand for in React?",
+      "options": {
+        "def": "Properties",
+        "opt5": "Properties",
+        "abc": "Propagations",
+        "xyz": "Props"
+      }
+    },
+    {
+      "question": "Can React components be nested within other components?",
+      "options": {
+        "xycd": "No",
+        "opt5": "Yes"
+      }
+    },
+    {
+      "question": "What is `React.Fragment` used for?",
+      "options": {
+        "abc": "To create fragments of data",
+        "xyz": "To wrap multiple elements without adding extra nodes",
+        "opt5": "To wrap multiple elements without adding extra nodes",
+        "def": "To separate component logic"
+      }
+    },
+    {
+      "question": "React hooks are available in which version of React?",
+      "options": {
+        "abc": "15",
+        "xyz": "16.8",
+        "opt5": "16.8",
+        "def": "17"
+      }
+    },
+    {
+      "question": "Can you use multiple `useState` hooks in a single component?",
+      "options": {
+        "xycd": "No",
+        "opt5": "Yes"
+      }
+    },
+    {
+      "question": "What is the purpose of the `key` prop in React?",
+      "options": {
+        "abc": "To identify elements uniquely",
+        "xyz": "To handle component lifecycle",
+        "opt5": "To identify elements uniquely",
+        "def": "To manage state"
+      }
+    },
+    {
+      "question": "Is it possible to pass data from a parent component to a child component in React?",
+      "options": {
+        "opt5": "Yes",
+        "xycd": "No"
+      }
+    },
+    {
+      "question": "React allows you to manage component state using which hook?",
+      "options": {
+        "abc": "useEffect",
+        "xyz": "useContext",
+        "opt5": "useState",
+        "def": "useReducer"
+      }
+    },
+    {
+      "question": "In React, what is a controlled component?",
+      "options": {
+        "opt5": "A component whose value is controlled by React state",
+        "xyz": "A component with uncontrolled inputs",
+        "abc": "A component that manages its own state",
+        "def": "A component with no inputs"
+      }
+    },
+    {
+      "question": "Is `React` an open-source library?",
+      "options": {
+        "opt5": "Yes",
+        "xycd": "No"
+      }
+    },
+    {
+      "question": "What is the primary function of `useContext` hook in React?",
+      "options": {
+        "abc": "To manage component state",
+        "xyz": "To access context values",
+        "opt5": "To access context values",
+        "def": "To perform side effects"
+      }
+    },
+    {
+      "question": "What is the default way to create a new React application?",
+      "options": {
+        "opt5": "Using Create React App",
+        "abc": "Using React CLI",
+        "xyz": "Manually setting up Webpack",
+        "def": "Using NPM init"
+      }
+    },
+    {
+      "question": "In React, what is a higher-order component?",
+      "options": {
+        "def": "A function that takes a component and returns a new component",
+        "xyz": "A component with higher functionality",
+        "opt5": "A function that takes a component and returns a new component",
+        "abc": "A component with advanced styles"
+      }
+    },
+    {
+      "question": "Can you use React without JSX?",
+      "options": {
+        "opt5": "Yes",
+        "xycd": "No"
+      }
+    },
+    {
+      "question": "What is the purpose of `useReducer` hook in React?",
+      "options": {
+        "def": "To manage complex state logic",
+        "opt5": "To manage complex state logic",
+        "xyz": "To perform side effects",
+        "abc": "To access context values"
+      }
+    },
+    {
+      "question": "What does `useRef` hook provide in React?",
+      "options": {
+        "def": "A way to access DOM elements and persist values across renders",
+        "opt5": "A way to access DOM elements and persist values across renders",
+        "abc": "A way to manage component state",
+        "xyz": "A way to access context values"
+      }
+    },
+    {
+      "question": "React components must return a single root element.",
+      "options": {
+        "xycd": "False",
+        "opt5": "True"
+      }
+    },
+    {
+      "question": "What is the purpose of `useMemo` hook in React?",
+      "options": {
+        "xyz": "To memoize expensive calculations",
+        "def": "To manage component state",
+        "abc": "To access context values",
+        "opt5": "To memoize expensive calculations"
+      }
+    },
+    {
+      "question": "What is the role of `React.StrictMode`?",
+      "options": {
+        "def": "To highlight potential problems in an application",
+        "abc": "To manage component state",
+        "opt5": "To highlight potential problems in an application",
+        "xyz": "To optimize rendering performance"
+      }
+    },
+    {
+      "question": "In React, what does `props.children` refer to?",
+      "options": {
+        "opt5": "The content passed between the opening and closing tags of a component",
+        "abc": "The state of a component",
+        "xyz": "The props of a component",
+        "def": "The class of a component"
+      }
+    },
+    {
+      "question": "React is primarily used for backend development.",
+      "options": {
+        "opt5": "False",
+        "tag": "True"
+      }
+    },
+    {
+      "question": "What is the correct way to define a React component?",
+      "options": {
+        "abc": "const MyComponent = () => {}",
+        "xyz": "function MyComponent() {}",
+        "def": "class MyComponent extends React.Component {}",
+        "opt5": "All of the above"
+      }
+    },
+    {
+      "question": "Can React components be styled using CSS?",
+      "options": {
+        "opt5": "Yes",
+        "xycd": "No"
+      }
+    },
+    {
+      "question": "What is the purpose of `useCallback` hook in React?",
+      "options": {
+        "def": "To memoize callback functions",
+        "xyz": "To manage component state",
+        "abc": "To perform side effects",
+        "opt5": "To memoize callback functions"
+      }
+    },
+    {
+      "question": "React’s `render()` method can return multiple elements.",
+      "options": {
+        "xycd": "False",
+        "opt5": "True"
+      }
+    },
+    {
+      "question": "In which file is the root component typically rendered?",
+      "options": {
+        "def": "index.js",
+        "xyz": "App.js",
+        "opt5": "index.js",
+        "abc": "main.js"
+      }
+    },
+    {
+      "question": "React components can only be written using class syntax.",
+      "options": {
+        "opt5": "False",
+        "xycd": "True"
+      }
+    }
+  ]
+}
