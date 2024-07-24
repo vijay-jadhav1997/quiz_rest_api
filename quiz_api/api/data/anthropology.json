@@ -1,0 +1,247 @@
+{
+  "level1": [
+    {
+      "question": "Anthropology is the study of humanity.",
+      "options": {
+        "opt5": "True",
+        "wrong": "False"
+      }
+    },
+    {
+      "question": "What does the term 'ethnography' refer to?",
+      "options": {
+        "option1": "Study of fossils",
+        "opt5": "Descriptive study of a particular human society",
+        "option3": "Study of ancient texts",
+        "option4": "Study of animal behavior"
+      }
+    },
+    {
+      "question": "Is 'participant observation' a primary research method in cultural anthropology?",
+      "options": {
+        "yes": "No",
+        "opt5": "Yes"
+      }
+    },
+    {
+      "question": "Which subfield of anthropology focuses on human cultural diversity?",
+      "options": {
+        "field1": "Physical Anthropology",
+        "field2": "Archaeology",
+        "opt5": "Cultural Anthropology",
+        "field4": "Linguistic Anthropology"
+      }
+    },
+    {
+      "question": "The 'Out of Africa' theory relates to which aspect of anthropology?",
+      "options": {
+        "opt5": "Human evolution",
+        "other1": "Language development",
+        "other2": "Cultural practices",
+        "other3": "Technological advancements"
+      }
+    },
+    {
+      "question": "True or False: Linguistic anthropology studies the development of language in human societies.",
+      "options": {
+        "wrong": "False",
+        "opt5": "True"
+      }
+    },
+    {
+      "question": "Which branch of anthropology studies human biological and physiological characteristics?",
+      "options": {
+        "op1": "Archaeology",
+        "op2": "Linguistic Anthropology",
+        "op3": "Cultural Anthropology",
+        "opt5": "Physical Anthropology"
+      }
+    },
+    {
+      "question": "Is kinship a central concept in social anthropology?",
+      "options": {
+        "no": "No",
+        "opt5": "Yes"
+      }
+    },
+    {
+      "question": "Which of the following is a method used in archaeological studies?",
+      "options": {
+        "option_a": "Radiocarbon dating",
+        "opt5": "Excavation",
+        "option_c": "Participant observation",
+        "option_d": "Ethnography"
+      }
+    },
+    {
+      "question": "What does 'paleoanthropology' study?",
+      "options": {
+        "opt5": "Fossil evidence of human evolution",
+        "wrong1": "Modern human societies",
+        "wrong2": "Language origins",
+        "wrong3": "Ancient scripts"
+      }
+    },
+    {
+      "question": "What is 'ethnocentrism'?",
+      "options": {
+        "option_one": "Belief in the inferiority of other cultures",
+        "option_two": "Adaptation to new cultures",
+        "opt5": "Judging other cultures by the standards of one's own",
+        "option_four": "Study of ancient cultures"
+      }
+    },
+    {
+      "question": "Which method involves the study of material remains from past human societies?",
+      "options": {
+        "field_a": "Cultural Anthropology",
+        "opt5": "Archaeology",
+        "field_b": "Linguistic Anthropology",
+        "field_d": "Social Anthropology"
+      }
+    },
+    {
+      "question": "True or False: Anthropology only studies ancient human societies.",
+      "options": {
+        "opt5": "False",
+        "incorrect": "True"
+      }
+    },
+    {
+      "question": "Which concept refers to the shared values, norms, and practices of a group?",
+      "options": {
+        "option1": "Ethnography",
+        "opt5": "Culture",
+        "option3": "Linguistics",
+        "option4": "Archaeology"
+      }
+    },
+    {
+      "question": "What does the 'comparative method' in anthropology involve?",
+      "options": {
+        "method1": "Excavating ancient sites",
+        "method2": "Comparing fossils",
+        "opt5": "Comparing different cultures",
+        "method4": "Studying human anatomy"
+      }
+    },
+    {
+      "question": "Who is considered the father of American Anthropology?",
+      "options": {
+        "option_1": "Bronislaw Malinowski",
+        "opt5": "Franz Boas",
+        "option_3": "Claude Lévi-Strauss",
+        "option_4": "Edward Tylor"
+      }
+    },
+    {
+      "question": "Which theory suggests that all humans share a common origin in Africa?",
+      "options": {
+        "opt5": "Out of Africa theory",
+        "other1": "Multiregional theory",
+        "other2": "Cultural relativism",
+        "other3": "Structuralism"
+      }
+    },
+    {
+      "question": "True or False: Cultural relativism means evaluating other cultures based on one's own cultural norms.",
+      "options": {
+        "opt5": "False",
+        "incorrect": "True"
+      }
+    },
+    {
+      "question": "Which of the following is a key aspect of ethnographic fieldwork?",
+      "options": {
+        "opt1": "Excavation",
+        "opt2": "Laboratory analysis",
+        "opt5": "Participant observation",
+        "opt4": "Radiocarbon dating"
+      }
+    },
+    {
+      "question": "What is the primary focus of linguistic anthropology?",
+      "options": {
+        "opt5": "Language and communication",
+        "a": "Human fossils",
+        "b": "Cultural artifacts",
+        "d": "Social structures"
+      }
+    },
+    {
+      "question": "Which subfield of anthropology examines the relationship between humans and their environment?",
+      "options": {
+        "sub1": "Cultural Anthropology",
+        "sub2": "Linguistic Anthropology",
+        "opt5": "Environmental Anthropology",
+        "sub4": "Forensic Anthropology"
+      }
+    },
+    {
+      "question": "Who is known for their work on the theory of cultural evolution?",
+      "options": {
+        "option1": "Lewis Henry Morgan",
+        "opt5": "Edward Burnett Tylor",
+        "option2": "Margaret Mead",
+        "option4": "Alfred Radcliffe-Brown"
+      }
+    },
+    {
+      "question": "Does forensic anthropology involve the study of human remains for legal purposes?",
+      "options": {
+        "nope": "No",
+        "opt5": "Yes"
+      }
+    },
+    {
+      "question": "True or False: Physical anthropology and biological anthropology are synonymous.",
+      "options": {
+        "true_key": "True",
+        "opt5": "False"
+      }
+    },
+    {
+      "question": "Which anthropologist is associated with structural functionalism?",
+      "options": {
+        "opt5": "Bronislaw Malinowski",
+        "one": "Claude Lévi-Strauss",
+        "two": "Franz Boas",
+        "four": "Margaret Mead"
+      }
+    },
+    {
+      "question": "Which concept involves living among the people being studied to observe their daily lives?",
+      "options": {
+        "option1": "Comparative method",
+        "opt5": "Participant observation",
+        "option3": "Ethnocentrism",
+        "option4": "Cultural relativism"
+      }
+    },
+    {
+      "question": "What is 'cultural relativism'?",
+      "options": {
+        "opt5": "Understanding cultures on their own terms",
+        "other1": "Judging cultures by their material artifacts",
+        "other2": "Ranking cultures based on technological advancement",
+        "other3": "Ignoring cultural differences"
+      }
+    },
+    {
+      "question": "Which method is primarily used in linguistic anthropology?",
+      "options": {
+        "wrong1": "Excavation",
+        "wrong2": "Radiocarbon dating",
+        "wrong3": "DNA analysis",
+        "opt5": "Field linguistics"
+      }
+    },
+    {
+      "question": "Is the study of human skeletal remains a focus of bioarchaeology?",
+      "options": {
+        "yes_key": "No",
+        "opt5": "Yes"
+      }
+    }
+  ]
+}

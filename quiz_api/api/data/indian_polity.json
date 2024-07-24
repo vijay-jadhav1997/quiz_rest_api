@@ -1,0 +1,263 @@
+{
+  "level1": [
+    {
+      "question": "The Constitution of India was adopted on?",
+      "options": {
+        "abx": "26th January 1950",
+        "opt5": "26th November 1949",
+        "xyz": "15th August 1947",
+        "asd": "2nd October 1947"
+      }
+    },
+    {
+      "question": "India is a federal state.",
+      "options": {
+        "opt5": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Which Article of the Indian Constitution deals with the Right to Equality?",
+      "options": {
+        "pqr": "Article 14",
+        "opt5": "Article 14 to 18",
+        "stuv": "Article 21",
+        "lmno": "Article 19"
+      }
+    },
+    {
+      "question": "Does the President of India appoint the Prime Minister?",
+      "options": {
+        "xycd": "No",
+        "opt5": "Yes"
+      }
+    },
+    {
+      "question": "The Directive Principles of State Policy are contained in which part of the Indian Constitution?",
+      "options": {
+        "opt5": "Part IV",
+        "kajhs": "Part III",
+        "hab": "Part V",
+        "tajhg": "Part II"
+      }
+    },
+    {
+      "question": "How many Fundamental Duties are listed in the Indian Constitution?",
+      "options": {
+        "trs": "10",
+        "opt5": "11",
+        "cbd": "12"
+      }
+    },
+    {
+      "question": "The Union Council of Ministers is collectively responsible to which body?",
+      "options": {
+        "xyz": "The Prime Minister",
+        "tag": "The President",
+        "lmno": "Rajya Sabha",
+        "opt5": "Lok Sabha"
+      }
+    },
+    {
+      "question": "The concept of 'Judicial Review' in the Indian Constitution is borrowed from which country's constitution?",
+      "options": {
+        "pqr": "United Kingdom",
+        "opt5": "United States of America",
+        "stuv": "Australia",
+        "lmno": "Canada"
+      }
+    },
+    {
+      "question": "Does the Indian Constitution provide for a bicameral legislature at the central level?",
+      "options": {
+        "opt5": "Yes",
+        "xycd": "No"
+      }
+    },
+    {
+      "question": "Which schedule of the Indian Constitution deals with the allocation of seats in the Rajya Sabha?",
+      "options": {
+        "abx": "second Schedule",
+        "xyz": "Third Schedule",
+        "opt5": "Fourth Schedule",
+        "asd": "Fifth Schedule"
+      }
+    },
+    {
+      "question": "Who is the final authority to interpret the Constitution of India?",
+      "options": {
+        "opt5": "Supreme Court of India",
+        "kajhs": "President of India",
+        "hab": "Prime Minister of India",
+        "tajhg": "Attorney General of India"
+      }
+    },
+    {
+      "question": "Which part of the Indian Constitution deals with the emergency provisions?",
+      "options": {
+        "xyz": "Part XVII",
+        "pqr": "Part XIX",
+        "opt5": "Part XVIII",
+        "lmno": "Part XX"
+      }
+    },
+    {
+      "question": "Fundamental Rights are enshrined in which part of the Indian Constitution?",
+      "options": {
+        "trs": "Part III",
+        "opt5": "Part III",
+        "cbd": "Part IV",
+        "kajhs": "Part II"
+      }
+    },
+    {
+      "question": "Which body has the power to amend the Constitution of India?",
+      "options": {
+        "tag": "Prime Minister",
+        "abx": "Supreme Court",
+        "lmno": "President",
+        "opt5": "Parliament"
+      }
+    },
+    {
+      "question": "The Preamble of the Indian Constitution declares India to be a?",
+      "options": {
+        "xyz": "Republic",
+        "opt5": "Sovereign, Socialist, Secular, Democratic Republic",
+        "pqr": "Sovereign, Democratic Republic",
+        "lmno": "Secular, Democratic Republic"
+      }
+    },
+    {
+      "question": "The term of the Lok Sabha is?",
+      "options": {
+        "opt5": "5 years",
+        "kajhs": "6 years",
+        "hab": "4 years",
+        "tajhg": "5 years unless dissolved earlier"
+      }
+    },
+    {
+      "question": "How many High Courts are there in India?",
+      "options": {
+        "trs": "24",
+        "cbd": "26",
+        "opt5": "25",
+        "pqr": "22"
+      }
+    },
+    {
+      "question": "The Finance Commission is constituted by the President of India every?",
+      "options": {
+        "opt5": "5 years",
+        "xycd": "3 years",
+        "lmno": "2 years",
+        "pqr": "6 years"
+      }
+    },
+    {
+      "question": "The concept of 'Public Interest Litigation' originated in which country?",
+      "options": {
+        "stuv": "United Kingdom",
+        "opt5": "United States of America",
+        "lmno": "Australia",
+        "pqr": "India"
+      }
+    },
+    {
+      "question": "The Constitution of India provides for a single citizenship.",
+      "options": {
+        "opt5": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Who appoints the Chief Election Commissioner of India?",
+      "options": {
+        "kajhs": "Prime Minister",
+        "opt5": "President of India",
+        "hab": "Parliament",
+        "tajhg": "Lok Sabha"
+      }
+    },
+    {
+      "question": "Which amendment to the Indian Constitution is known as the 'Mini Constitution'?",
+      "options": {
+        "trs": "44th Amendment",
+        "cbd": "24th Amendment",
+        "xycd": "52nd Amendment",
+        "opt5": "42nd Amendment"
+      }
+    },
+    {
+      "question": "The age of retirement for the judges of the Supreme Court of India is?",
+      "options": {
+        "abx": "60 years",
+        "opt5": "65 years",
+        "lmno": "62 years",
+        "xyz": "70 years"
+      }
+    },
+    {
+      "question": "The President of India can declare an emergency under Article 352 on the grounds of?",
+      "options": {
+        "opt5": "War, External Aggression or Armed Rebellion",
+        "pqr": "War or Economic Instability",
+        "stuv": "Internal Disturbance or External Aggression",
+        "lmno": "Internal Disturbance or Financial Crisis"
+      }
+    },
+    {
+      "question": "The Indian Constitution was drafted by the?",
+      "options": {
+        "kajhs": "Parliament",
+        "hab": "Drafting Committee",
+        "opt5": "Constituent Assembly",
+        "tajhg": "British Government"
+      }
+    },
+    {
+      "question": "Does the Governor of a state have the power to pardon a death sentence?",
+      "options": {
+        "opt5": "No",
+        "xycd": "Yes"
+      }
+    },
+    {
+      "question": "Which Article of the Indian Constitution provides for the impeachment of the President?",
+      "options": {
+        "abx": "Article 75",
+        "opt5": "Article 61",
+        "xyz": "Article 56",
+        "asd": "Article 52"
+      }
+    },
+    {
+      "question": "The Vice-President of India is the ex-officio Chairman of which house?",
+      "options": {
+        "tag": "Lok Sabha",
+        "abx": "Legislative Assembly",
+        "opt5": "Rajya Sabha",
+        "lmno": "Legislative Council"
+      }
+    },
+    {
+      "question": "The 'Fundamental Duties' were added to the Indian Constitution by which amendment?",
+      "options": {
+        "kajhs": "44th Amendment",
+        "hab": "52nd Amendment",
+        "tajhg": "86th Amendment",
+        "opt5": "42nd Amendment"
+      }
+    },
+    {
+      "question": "The Panchayati Raj system in India was introduced by which amendment?",
+      "options": {
+        "opt5": "73rd Amendment",
+        "trs": "72nd Amendment",
+        "cbd": "74th Amendment",
+        "xycd": "75th Amendment"
+      }
+    }
+  ]
+}

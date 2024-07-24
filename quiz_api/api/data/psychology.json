@@ -1,0 +1,256 @@
+{
+  "level1": [
+    {
+      "question": "Cognitive dissonance theory was proposed by Leon Festinger.",
+      "options": {
+        "opt5": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Who is known for the hierarchy of needs theory?",
+      "options": {
+        "xyz": "Sigmund Freud",
+        "tag": "Carl Jung",
+        "opt5": "Abraham Maslow",
+        "temp": "B.F. Skinner"
+      }
+    },
+    {
+      "question": "Does Sigmund Freud's theory focus on the unconscious mind?",
+      "options": {
+        "opt5": "Yes",
+        "abc": "No"
+      }
+    },
+    {
+      "question": "Which part of the brain is primarily responsible for processing emotions?",
+      "options": {
+        "temp": "Cerebellum",
+        "opt5": "Amygdala",
+        "xyz": "Medulla",
+        "hab": "Hippocampus"
+      }
+    },
+    {
+      "question": "The Stanford prison experiment was conducted by which psychologist?",
+      "options": {
+        "kajhs": "Albert Bandura",
+        "tag": "Stanley Milgram",
+        "opt5": "Philip Zimbardo",
+        "hab": "Solomon Asch"
+      }
+    },
+    {
+      "question": "What does DSM stand for in psychology?",
+      "options": {
+        "trs": "Diagnostic and Statistical Manual of Mental Disorders",
+        "opt5": "Diagnostic and Statistical Manual of Mental Disorders",
+        "abc": "Diagnostic and Statistical Manual of Psychology",
+        "xyz": "Diagnostic System Manual"
+      }
+    },
+    {
+      "question": "What is the main focus of humanistic psychology?",
+      "options": {
+        "hab": "Cognitive processes",
+        "temp": "Behavior modification",
+        "opt5": "Self-actualization",
+        "abc": "Unconscious conflicts"
+      }
+    },
+    {
+      "question": "B.F. Skinner is associated with which type of conditioning?",
+      "options": {
+        "opt5": "Operant conditioning",
+        "xyz": "Classical conditioning",
+        "tag": "Cognitive conditioning",
+        "temp": "Observational conditioning"
+      }
+    },
+    {
+      "question": "Albert Bandura is known for his work on social learning theory.",
+      "options": {
+        "opt5": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "What is the primary focus of cognitive psychology?",
+      "options": {
+        "xyz": "Emotional responses",
+        "opt5": "Mental processes",
+        "abc": "Social interactions",
+        "hab": "Behavioral responses"
+      }
+    },
+    {
+      "question": "The concept of the 'id, ego, and superego' is part of which psychological theory?",
+      "options": {
+        "abc": "Behaviorism",
+        "tag": "Humanism",
+        "opt5": "Psychoanalytic theory",
+        "xyz": "Cognitive theory"
+      }
+    },
+    {
+      "question": "Does classical conditioning involve learning through association?",
+      "options": {
+        "opt5": "Yes",
+        "xyz": "No"
+      }
+    },
+    {
+      "question": "Who proposed the theory of multiple intelligences?",
+      "options": {
+        "tag": "Robert Sternberg",
+        "xyz": "Jean Piaget",
+        "hab": "Lev Vygotsky",
+        "opt5": "Howard Gardner"
+      }
+    },
+    {
+      "question": "In psychology, what does the term 'schema' refer to?",
+      "options": {
+        "opt5": "A cognitive framework",
+        "tag": "A type of memory",
+        "hab": "An emotional response",
+        "xyz": "A behavioral pattern"
+      }
+    },
+    {
+      "question": "The 'Big Five' personality traits include extraversion and neuroticism.",
+      "options": {
+        "opt5": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "What is the primary focus of positive psychology?",
+      "options": {
+        "hab": "Mental disorders",
+        "temp": "Emotional conflicts",
+        "opt5": "Human strengths and virtues",
+        "abc": "Behavioral problems"
+      }
+    },
+    {
+      "question": "What does the term 'behaviorism' emphasize in psychology?",
+      "options": {
+        "tag": "Cognitive processes",
+        "xyz": "Emotional responses",
+        "opt5": "Observable behavior",
+        "hab": "Unconscious thoughts"
+      }
+    },
+    {
+      "question": "Jean Piaget is best known for his theory on cognitive development in children.",
+      "options": {
+        "opt5": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "The Rorschach test is an example of what type of psychological test?",
+      "options": {
+        "tag": "Achievement test",
+        "opt5": "Projective test",
+        "hab": "Intelligence test",
+        "xyz": "Aptitude test"
+      }
+    },
+    {
+      "question": "Does Erik Erikson's theory of psychosocial development include stages such as 'Trust vs. Mistrust'?",
+      "options": {
+        "opt5": "Yes",
+        "abc": "No"
+      }
+    },
+    {
+      "question": "What is the main focus of developmental psychology?",
+      "options": {
+        "tag": "Social interactions",
+        "hab": "Cognitive processes",
+        "xyz": "Behavioral responses",
+        "opt5": "Growth and change across the lifespan"
+      }
+    },
+    {
+      "question": "Which psychological approach emphasizes free will and self-determination?",
+      "options": {
+        "xyz": "Behaviorism",
+        "opt5": "Humanistic psychology",
+        "tag": "Psychoanalytic theory",
+        "hab": "Cognitive psychology"
+      }
+    },
+    {
+      "question": "Ivan Pavlov is associated with which type of conditioning?",
+      "options": {
+        "tag": "Operant conditioning",
+        "xyz": "Cognitive conditioning",
+        "opt5": "Classical conditioning",
+        "hab": "Observational conditioning"
+      }
+    },
+    {
+      "question": "What is the primary focus of industrial-organizational psychology?",
+      "options": {
+        "hab": "Behavioral responses",
+        "opt5": "Workplace behavior",
+        "tag": "Emotional conflicts",
+        "xyz": "Social interactions"
+      }
+    },
+    {
+      "question": "Who is known for the concept of 'self-efficacy'?",
+      "options": {
+        "opt5": "Albert Bandura",
+        "tag": "Carl Rogers",
+        "xyz": "Erik Erikson",
+        "hab": "Sigmund Freud"
+      }
+    },
+    {
+      "question": "The 'foot-in-the-door' technique is related to which field of psychology?",
+      "options": {
+        "hab": "Developmental psychology",
+        "tag": "Cognitive psychology",
+        "opt5": "Social psychology",
+        "xyz": "Behavioral psychology"
+      }
+    },
+    {
+      "question": "What is the primary focus of health psychology?",
+      "options": {
+        "tag": "Cognitive processes",
+        "xyz": "Behavioral responses",
+        "hab": "Social interactions",
+        "opt5": "Health and well-being"
+      }
+    },
+    {
+      "question": "The term 'operant conditioning' was coined by B.F. Skinner.",
+      "options": {
+        "opt5": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Which psychologist is known for the stages of moral development?",
+      "options": {
+        "hab": "Erik Erikson",
+        "xyz": "Jean Piaget",
+        "opt5": "Lawrence Kohlberg",
+        "tag": "Albert Bandura"
+      }
+    },
+    {
+      "question": "Does the bystander effect describe the phenomenon where individuals are less likely to help in an emergency when others are present?",
+      "options": {
+        "opt5": "Yes",
+        "hab": "No"
+      }
+    }
+  ]
+}

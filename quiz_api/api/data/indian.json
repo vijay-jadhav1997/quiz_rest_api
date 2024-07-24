@@ -1,0 +1,337 @@
+{
+  "level1": [
+    {
+      "question": "Which is the largest state in India by area?",
+      "options": {
+        "opt5": "Rajasthan",
+        "jzgh": "Madhya Pradesh",
+        "hytk": "Uttar Pradesh",
+        "pjhf": "Maharashtra"
+      }
+    },
+    {
+      "question": "The Sunderbans Delta is located in which state of India?",
+      "options": {
+        "fsr": "West Bengal",
+        "tyr": "Bihar",
+        "opt5": "West Bengal",
+        "jvn": "Orissa"
+      }
+    },
+    {
+      "question": "True or False: The Deccan Plateau is a triangular plateau located in the southern part of India.",
+      "options": {
+        "opt5": "True",
+        "skls": "False"
+      }
+    },
+    {
+      "question": "Which river is known as the 'Sorrow of Bihar'?",
+      "options": {
+        "brj": "Ganga",
+        "jfd": "Yamuna",
+        "opt5": "Kosi",
+        "mhl": "Godavari"
+      }
+    },
+    {
+      "question": "Which Indian state is known for the 'Thar Desert'?",
+      "options": {
+        "ysr": "Rajasthan",
+        "opt5": "Rajasthan",
+        "pjn": "Gujarat",
+        "bgv": "Haryana"
+      }
+    },
+    {
+      "question": "Is the Andaman and Nicobar Islands a union territory of India?",
+      "options": {
+        "kjd": "No",
+        "opt5": "Yes"
+      }
+    },
+    {
+      "question": "Which mountain range forms the northern boundary of the Indian subcontinent?",
+      "options": {
+        "xmw": "Western Ghats",
+        "opt5": "Himalayas",
+        "tyg": "Vindhya Range",
+        "nkr": "Aravalli Range"
+      }
+    },
+    {
+      "question": "Which Indian state is known as the 'Land of Five Rivers'?",
+      "options": {
+        "stn": "Haryana",
+        "lkg": "Uttar Pradesh",
+        "pmt": "Punjab",
+        "opt5": "Punjab"
+      }
+    },
+    {
+      "question": "True or False: The Narmada River flows eastward into the Bay of Bengal.",
+      "options": {
+        "opt5": "False",
+        "jlh": "True"
+      }
+    },
+    {
+      "question": "Which Indian state is known for the famous 'Kaziranga National Park'?",
+      "options": {
+        "jnx": "Arunachal Pradesh",
+        "opt5": "Assam",
+        "mnh": "Sikkim",
+        "kls": "Meghalaya"
+      }
+    },
+    {
+      "question": "Which Indian state has the largest coastline?",
+      "options": {
+        "mpo": "Goa",
+        "jkf": "Kerala",
+        "opt5": "Gujarat",
+        "mne": "Tamil Nadu"
+      }
+    },
+    {
+      "question": "Which river is the longest in India?",
+      "options": {
+        "ghk": "Godavari",
+        "opt5": "Ganga",
+        "pdq": "Yamuna",
+        "lmn": "Krishna"
+      }
+    },
+    {
+      "question": "Yes or No: The Indian state of Maharashtra has a coastline along the Arabian Sea.",
+      "options": {
+        "opt5": "Yes",
+        "tyz": "No"
+      }
+    },
+    {
+      "question": "The Indian state of Himachal Pradesh is known for which major mountain range?",
+      "options": {
+        "opt5": "Himalayas",
+        "jhv": "Western Ghats",
+        "lkr": "Aravalli Range",
+        "bvs": "Vindhya Range"
+      }
+    },
+    {
+      "question": "Which of these is the smallest state in India by area?",
+      "options": {
+        "bcm": "Sikkim",
+        "vgr": "Goa",
+        "opt5": "Goa",
+        "lmf": "Tripura"
+      }
+    },
+    {
+      "question": "Which Indian city is known as the 'City of Lakes'?",
+      "options": {
+        "jdh": "Bhopal",
+        "lmf": "Udaipur",
+        "opt5": "Udaipur",
+        "nml": "Indore"
+      }
+    },
+    {
+      "question": "The Rann of Kutch is located in which Indian state?",
+      "options": {
+        "sgk": "Maharashtra",
+        "vjx": "Rajasthan",
+        "brt": "Gujarat",
+        "opt5": "Gujarat"
+      }
+    },
+    {
+      "question": "Which Indian state is known for the 'Chilika Lake'?",
+      "options": {
+        "bty": "West Bengal",
+        "opt5": "Odisha",
+        "xjz": "Andhra Pradesh",
+        "zpl": "Tamil Nadu"
+      }
+    },
+    {
+      "question": "True or False: The Yamuna River is a tributary of the Godavari River.",
+      "options": {
+        "opt5": "False",
+        "skp": "True"
+      }
+    },
+    {
+      "question": "Which Indian state is home to the famous 'Elephanta Caves'?",
+      "options": {
+        "opt5": "Maharashtra",
+        "nxm": "Maharashtra",
+        "bvc": "Karnataka",
+        "tql": "Goa"
+      }
+    }
+  ],
+  "level2": [
+    {
+      "question": "Which Indian state is known for the 'Silent Valley National Park'?",
+      "options": {
+        "bvq": "Tamil Nadu",
+        "nmn": "Karnataka",
+        "pzx": "Kerala",
+        "opt5": "Kerala"
+      }
+    },
+    {
+      "question": "The river Brahmaputra is primarily associated with which Indian state?",
+      "options": {
+        "rty": "Assam",
+        "opt5": "Assam",
+        "ntm": "West Bengal",
+        "vfr": "Bihar"
+      }
+    },
+    {
+      "question": "Yes or No: The Indian state of Jammu & Kashmir has a coastline.",
+      "options": {
+        "opt5": "No",
+        "lmn": "Yes"
+      }
+    },
+    {
+      "question": "Which Indian state is known for the 'Hemis Monastery'?",
+      "options": {
+        "pgl": "Sikkim",
+        "hbt": "Himachal Pradesh",
+        "opt5": "Ladakh",
+        "jns": "Uttarakhand"
+      }
+    },
+    {
+      "question": "Which is the southernmost point of India?",
+      "options": {
+        "hft": "Lakshadweep",
+        "opt5": "Indira Point",
+        "ytr": "Kanyakumari",
+        "qwr": "Andaman Islands"
+      }
+    },
+    {
+      "question": "True or False: The Andaman and Nicobar Islands are situated in the Bay of Bengal.",
+      "options": {
+        "opt5": "False",
+        "mhz": "True"
+      }
+    },
+    {
+      "question": "Which river is the main source of water for the city of Chennai?",
+      "options": {
+        "csl": "Krishna",
+        "prx": "Ganga",
+        "xpl": "Yamuna",
+        "opt5": "Cauvery"
+      }
+    },
+    {
+      "question": "Which state is known for the 'Sula Vineyard'?",
+      "options": {
+        "rty": "Gujarat",
+        "mnh": "Goa",
+        "opt5": "Maharashtra",
+        "jkm": "Karnataka"
+      }
+    },
+    {
+      "question": "Which of the following states does NOT share a border with Nepal?",
+      "options": {
+        "nhk": "Uttar Pradesh",
+        "tfg": "Bihar",
+        "lqr": "West Bengal",
+        "opt5": "Sikkim"
+      }
+    },
+    {
+      "question": "True or False: The Western Ghats are also known as the Sahyadri Hills.",
+      "options": {
+        "opt5": "True",
+        "rty": "False"
+      }
+    },
+    {
+      "question": "Which Indian city is famous for its 'Gateway of India' monument?",
+      "options": {
+        "sdf": "Kolkata",
+        "mxc": "New Delhi",
+        "opt5": "Mumbai",
+        "rtk": "Chennai"
+      }
+    },
+    {
+      "question": "The Gir Forest National Park is located in which state?",
+      "options": {
+        "opt5": "Gujarat",
+        "gtr": "Rajasthan",
+        "vft": "Madhya Pradesh",
+        "tbh": "Assam"
+      }
+    },
+    {
+      "question": "Which Indian state has the highest number of national parks?",
+      "options": {
+        "tgf": "Uttar Pradesh",
+        "vyr": "Odisha",
+        "qzr": "Assam",
+        "opt5": "Madhya Pradesh"
+      }
+    },
+    {
+      "question": "Yes or No: The Indian state of Goa is located on the eastern coast of India.",
+      "options": {
+        "opt5": "No",
+        "bht": "Yes"
+      }
+    },
+    {
+      "question": "Which is the largest lake in India by surface area?",
+      "options": {
+        "wth": "Vembanad",
+        "opt5": "Vembanad",
+        "vfr": "Sambhar Lake",
+        "tgb": "Wular Lake"
+      }
+    },
+    {
+      "question": "Which Indian state is known for the famous 'Mysore Palace'?",
+      "options": {
+        "srk": "Karnataka",
+        "gfr": "Tamil Nadu",
+        "vbn": "Andhra Pradesh",
+        "opt5": "Karnataka"
+      }
+    },
+    {
+      "question": "Which state in India has the highest population density?",
+      "options": {
+        "opt5": "Bihar",
+        "vbn": "Uttar Pradesh",
+        "msk": "Bihar",
+        "nxf": "West Bengal"
+      }
+    },
+    {
+      "question": "True or False: The Narmada River flows through the state of Madhya Pradesh.",
+      "options": {
+        "opt5": "True",
+        "jmk": "False"
+      }
+    },
+    {
+      "question": "Which Indian state is home to the 'Elephanta Caves'?",
+      "options": {
+        "kln": "Goa",
+        "bvt": "Karnataka",
+        "opt5": "Maharashtra",
+        "pmd": "Tamil Nadu"
+      }
+    }
+  ]
+}

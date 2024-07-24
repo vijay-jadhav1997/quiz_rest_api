@@ -1,0 +1,244 @@
+{
+  "level1": [
+    {
+      "question": "Is it ethical to lie if the outcome benefits a larger number of people?",
+      "options": {
+        "xycd": "No",
+        "opt5": "Yes"
+      }
+    },
+    {
+      "question": "Which philosopher is known for the concept of the 'categorical imperative'?",
+      "options": {
+        "xycd": "Jeremy Bentham",
+        "opt5": "Immanuel Kant",
+        "inc": "John Stuart Mill",
+        "ct3": "Aristotle"
+      }
+    },
+    {
+      "question": "Does utilitarianism focus on the outcomes of actions to determine their moral worth?",
+      "options": {
+        "opt5": "Yes",
+        "xycd": "No"
+      }
+    },
+    {
+      "question": "Which principle is often associated with the ethical theory of deontology?",
+      "options": {
+        "trs": "Consequences",
+        "cbd": "Utility",
+        "opt5": "Duty",
+        "hab": "Happiness"
+      }
+    },
+    {
+      "question": "Is stealing always considered unethical?",
+      "options": {
+        "opt5": "False",
+        "tag": "True"
+      }
+    },
+    {
+      "question": "Which ethical theory emphasizes the greatest good for the greatest number?",
+      "options": {
+        "xycd": "Virtue Ethics",
+        "opt5": "Utilitarianism",
+        "inc": "Deontology",
+        "ct3": "Ethical Egoism"
+      }
+    },
+    {
+      "question": "According to virtue ethics, what is the primary focus?",
+      "options": {
+        "trs": "Rules",
+        "cbd": "Consequences",
+        "hab": "Intentions",
+        "opt5": "Character"
+      }
+    },
+    {
+      "question": "Is it ethical to break a promise if keeping it causes significant harm?",
+      "options": {
+        "tag": "False",
+        "opt5": "True"
+      }
+    },
+    {
+      "question": "What is the primary focus of deontological ethics?",
+      "options": {
+        "xycd": "Consequences",
+        "opt5": "Duties",
+        "inc": "Virtues",
+        "ct3": "Pleasure"
+      }
+    },
+    {
+      "question": "Is it ethical to sacrifice one person to save many others?",
+      "options": {
+        "xycd": "No",
+        "opt5": "Yes"
+      }
+    },
+    {
+      "question": "Which ethical theory is primarily concerned with adherence to rules or duties?",
+      "options": {
+        "trs": "Utilitarianism",
+        "opt5": "Deontology",
+        "hab": "Virtue Ethics",
+        "cbd": "Ethical Egoism"
+      }
+    },
+    {
+      "question": "Does virtue ethics emphasize moral character over rules or consequences?",
+      "options": {
+        "opt5": "Yes",
+        "tag": "No"
+      }
+    },
+    {
+      "question": "Is ethical relativism the belief that morality varies between cultures?",
+      "options": {
+        "opt5": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Who is considered the father of modern utilitarianism?",
+      "options": {
+        "xycd": "Aristotle",
+        "inc": "Plato",
+        "opt5": "Jeremy Bentham",
+        "ct3": "David Hume"
+      }
+    },
+    {
+      "question": "Is consequentialism concerned with the outcomes of actions?",
+      "options": {
+        "opt5": "Yes",
+        "tag": "No"
+      }
+    },
+    {
+      "question": "Which principle states that one should treat others as one would like others to treat oneself?",
+      "options": {
+        "opt5": "The Golden Rule",
+        "trs": "Utilitarianism",
+        "cbd": "Deontology",
+        "hab": "Virtue Ethics"
+      }
+    },
+    {
+      "question": "Is it ethical to keep a promise even if it leads to negative consequences?",
+      "options": {
+        "tag": "True",
+        "opt5": "False"
+      }
+    },
+    {
+      "question": "Which ethical theory is associated with Aristotle?",
+      "options": {
+        "xycd": "Utilitarianism",
+        "inc": "Deontology",
+        "opt5": "Virtue Ethics",
+        "ct3": "Ethical Egoism"
+      }
+    },
+    {
+      "question": "Is moral absolutism the belief that there are universal moral principles?",
+      "options": {
+        "opt5": "Yes",
+        "tag": "No"
+      }
+    },
+    {
+      "question": "What does 'ethical egoism' advocate?",
+      "options": {
+        "trs": "The greatest good for the greatest number",
+        "cbd": "Adherence to rules",
+        "hab": "Development of virtuous character",
+        "opt5": "Acting in one's own self-interest"
+      }
+    },
+    {
+      "question": "Is it ethical to act out of self-interest if it benefits others as well?",
+      "options": {
+        "opt5": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Which philosopher developed the theory of justice as fairness?",
+      "options": {
+        "xycd": "Immanuel Kant",
+        "opt5": "John Rawls",
+        "inc": "Jeremy Bentham",
+        "ct3": "Aristotle"
+      }
+    },
+    {
+      "question": "Does deontology focus on the intrinsic morality of actions?",
+      "options": {
+        "opt5": "Yes",
+        "tag": "No"
+      }
+    },
+    {
+      "question": "Which ethical approach evaluates actions based on their adherence to rules?",
+      "options": {
+        "trs": "Utilitarianism",
+        "cbd": "Virtue Ethics",
+        "opt5": "Deontology",
+        "hab": "Ethical Egoism"
+      }
+    },
+    {
+      "question": "Is it ethical to break a law if the law itself is unjust?",
+      "options": {
+        "tag": "False",
+        "opt5": "True"
+      }
+    },
+    {
+      "question": "Which ethical theory emphasizes balance and moderation in behavior?",
+      "options": {
+        "xycd": "Utilitarianism",
+        "inc": "Deontology",
+        "opt5": "Virtue Ethics",
+        "ct3": "Ethical Egoism"
+      }
+    },
+    {
+      "question": "Is moral relativism the idea that morality is subjective?",
+      "options": {
+        "opt5": "Yes",
+        "tag": "No"
+      }
+    },
+    {
+      "question": "What is the primary focus of consequentialist ethics?",
+      "options": {
+        "trs": "Intentions",
+        "cbd": "Rules",
+        "hab": "Virtues",
+        "opt5": "Outcomes"
+      }
+    },
+    {
+      "question": "Is it ethical to act with the intention of causing harm to prevent greater harm?",
+      "options": {
+        "opt5": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Which ethical theory is focused on personal moral development and character?",
+      "options": {
+        "xycd": "Utilitarianism",
+        "inc": "Deontology",
+        "opt5": "Virtue Ethics",
+        "ct3": "Ethical Egoism"
+      }
+    }
+  ]
+}

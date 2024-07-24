@@ -1,0 +1,176 @@
+{
+  "level1": [
+    {
+      "question": "The United Nations was established in which year?",
+      "options": {
+        "tag": "1948",
+        "opt5": "1945",
+        "opt1": "1950",
+        "opt2": "1949"
+      }
+    },
+    {
+      "question": "True or False: NATO stands for North Atlantic Treaty Organization.",
+      "options": {
+        "tag": "False",
+        "opt5": "True"
+      }
+    },
+    {
+      "question": "Does the European Union have its own currency called the Euro?",
+      "options": {
+        "opt5": "Yes",
+        "xycd": "No"
+      }
+    },
+    {
+      "question": "Which country is not a permanent member of the United Nations Security Council?",
+      "options": {
+        "opt2": "France",
+        "opt1": "China",
+        "opt5": "Germany",
+        "tag": "United States"
+      }
+    },
+    {
+      "question": "The headquarters of the International Monetary Fund (IMF) is located in which city?",
+      "options": {
+        "tag": "Geneva",
+        "opt1": "Paris",
+        "opt2": "London",
+        "opt5": "Washington, D.C."
+      }
+    },
+    {
+      "question": "What does BRICS stand for?",
+      "options": {
+        "tag": "Brazil, Russia, India, Canada, South Africa",
+        "opt1": "Brazil, Romania, Indonesia, China, South Korea",
+        "opt2": "Belgium, Russia, India, China, Spain",
+        "opt5": "Brazil, Russia, India, China, South Africa"
+      }
+    },
+    {
+      "question": "Which international organization is known for its peacekeeping missions?",
+      "options": {
+        "opt1": "NATO",
+        "opt5": "United Nations",
+        "tag": "European Union",
+        "opt2": "ASEAN"
+      }
+    },
+    {
+      "question": "Which treaty established the European Union?",
+      "options": {
+        "tag": "Treaty of Rome",
+        "opt1": "Lisbon Treaty",
+        "opt5": "Maastricht Treaty",
+        "opt2": "Nice Treaty"
+      }
+    },
+    {
+      "question": "Who was the first Secretary-General of the United Nations?",
+      "options": {
+        "opt5": "Trygve Lie",
+        "opt1": "Dag Hammarskjöld",
+        "tag": "U Thant",
+        "opt2": "Javier Pérez de Cuéllar"
+      }
+    },
+    {
+      "question": "Which country exited the European Union in 2020?",
+      "options": {
+        "tag": "Greece",
+        "opt5": "United Kingdom",
+        "opt1": "Spain",
+        "opt2": "Italy"
+      }
+    },
+    {
+      "question": "The Paris Agreement is an international treaty related to which global issue?",
+      "options": {
+        "opt5": "Climate Change",
+        "opt1": "Nuclear Proliferation",
+        "tag": "Human Rights",
+        "opt2": "Trade"
+      }
+    },
+    {
+      "question": "Which organization is responsible for global public health?",
+      "options": {
+        "opt1": "UNICEF",
+        "tag": "Red Cross",
+        "opt5": "World Health Organization",
+        "opt2": "World Bank"
+      }
+    },
+    {
+      "question": "The term 'Brexit' refers to which country's exit from the European Union?",
+      "options": {
+        "opt5": "United Kingdom",
+        "tag": "France",
+        "opt1": "Germany",
+        "opt2": "Italy"
+      }
+    },
+    {
+      "question": "The G7 is an organization consisting of the world's largest advanced economies. Which country is not a member?",
+      "options": {
+        "opt1": "Canada",
+        "tag": "United States",
+        "opt2": "Japan",
+        "opt5": "China"
+      }
+    },
+    {
+      "question": "Which international organization focuses on the rules of trade between nations?",
+      "options": {
+        "opt2": "IMF",
+        "tag": "World Bank",
+        "opt5": "World Trade Organization",
+        "opt1": "OECD"
+      }
+    },
+    {
+      "question": "True or False: The International Criminal Court (ICC) is located in The Hague, Netherlands.",
+      "options": {
+        "opt5": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Which treaty aims to prevent the spread of nuclear weapons?",
+      "options": {
+        "opt1": "Kyoto Protocol",
+        "opt5": "Non-Proliferation Treaty (NPT)",
+        "tag": "Paris Agreement",
+        "opt2": "START Treaty"
+      }
+    },
+    {
+      "question": "Which country is not a member of the G20?",
+      "options": {
+        "tag": "India",
+        "opt1": "Australia",
+        "opt2": "South Africa",
+        "opt5": "Norway"
+      }
+    },
+    {
+      "question": "Does the United Nations have six main organs?",
+      "options": {
+        "xycd": "No",
+        "opt5": "Yes"
+      }
+    },
+    {
+      "question": "Which organization is primarily concerned with international monetary cooperation?",
+      "options": {
+        "opt1": "WTO",
+        "opt5": "IMF",
+        "tag": "World Bank",
+        "opt2": "UN"
+      }
+    }
+  ]
+}

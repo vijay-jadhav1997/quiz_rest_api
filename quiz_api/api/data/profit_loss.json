@@ -1,0 +1,223 @@
+{
+  "level1": [
+    {
+      "question": "A shopkeeper sold a product for $200 making a profit of 25%. What was the cost price?",
+      "options": {
+        "abc": "$150",
+        "opt5": "$160",
+        "xyz": "$180",
+        "def": "$175"
+      }
+    },
+    {
+      "question": "If the cost price of 15 articles is equal to the selling price of 10 articles, what is the profit percentage?",
+      "options": {
+        "opt5": "50%",
+        "abc": "40%",
+        "def": "60%",
+        "xyz": "45%"
+      }
+    },
+    {
+      "question": "If a man purchases 11 items for $10 and sells 10 items for $11, what is his gain percentage?",
+      "options": {
+        "abc": "10%",
+        "def": "25%",
+        "opt5": "21%",
+        "xyz": "22%"
+      }
+    },
+    {
+      "question": "A trader sells his goods at a 20% profit. If he bought it for $500, what is the selling price?",
+      "options": {
+        "xyz": "$700",
+        "opt5": "$600",
+        "def": "$550",
+        "abc": "$650"
+      }
+    },
+    {
+      "question": "If the selling price is $250 and the cost price is $200, what is the profit percentage?",
+      "options": {
+        "abc": "20%",
+        "xyz": "15%",
+        "opt5": "25%",
+        "def": "30%"
+      }
+    },
+    {
+      "question": "A man buys a book for $200 and sells it for $240. His gain is:",
+      "options": {
+        "def": "$30",
+        "xyz": "$20",
+        "abc": "$50",
+        "opt5": "$40"
+      }
+    },
+    {
+      "question": "If the cost price is more than the selling price, there is a loss. True or False?",
+      "options": {
+        "opt5": "True",
+        "def": "False"
+      }
+    },
+    {
+      "question": "Is a 25% profit on $200 equal to $50?",
+      "options": {
+        "xyz": "No",
+        "opt5": "Yes"
+      }
+    },
+    {
+      "question": "If the cost price of an article is $300 and the selling price is $330, what is the profit percentage?",
+      "options": {
+        "abc": "8%",
+        "opt5": "10%",
+        "def": "15%",
+        "xyz": "12%"
+      }
+    },
+    {
+      "question": "If an item is sold for $540 at a profit of 20%, what was its cost price?",
+      "options": {
+        "opt5": "$450",
+        "def": "$500",
+        "xyz": "$460",
+        "abc": "$480"
+      }
+    },
+    {
+      "question": "A shopkeeper sells a product for $1200 with a 25% profit. What was the cost price?",
+      "options": {
+        "xyz": "$950",
+        "abc": "$1000",
+        "def": "$1100",
+        "opt5": "$960"
+      }
+    },
+    {
+      "question": "What is the loss if an item costing $600 is sold for $500?",
+      "options": {
+        "abc": "$130",
+        "xyz": "$50",
+        "def": "$150",
+        "opt5": "$100"
+      }
+    },
+    {
+      "question": "A man sells an article at a loss of 10%. If the cost price is $500, what is the selling price?",
+      "options": {
+        "abc": "$430",
+        "def": "$480",
+        "opt5": "$450",
+        "xyz": "$460"
+      }
+    },
+    {
+      "question": "If a man sells two articles for $500 each, one at a gain of 20% and the other at a loss of 20%, then does he make a profit or loss?",
+      "options": {
+        "def": "Profit",
+        "opt5": "Loss"
+      }
+    },
+    {
+      "question": "A trader buys an article for $800 and sells it at a loss of 15%. What is the selling price?",
+      "options": {
+        "abc": "$650",
+        "opt5": "$680",
+        "def": "$720",
+        "xyz": "$750"
+      }
+    },
+    {
+      "question": "If an article is sold for $450 at a loss of 10%, what was its cost price?",
+      "options": {
+        "xyz": "$470",
+        "def": "$550",
+        "abc": "$490",
+        "opt5": "$500"
+      }
+    },
+    {
+      "question": "A man sells a product for $600, gaining 20%. What was the cost price?",
+      "options": {
+        "opt5": "$500",
+        "xyz": "$480",
+        "abc": "$520",
+        "def": "$550"
+      }
+    },
+    {
+      "question": "A shopkeeper buys 80 articles for $2400 and sells them at $40 each. What is his profit percentage?",
+      "options": {
+        "def": "20%",
+        "opt5": "33.33%",
+        "xyz": "25%",
+        "abc": "30%"
+      }
+    },
+    {
+      "question": "A trader marks his goods at 40% above the cost price and gives a discount of 10%. What is his profit percentage?",
+      "options": {
+        "def": "25%",
+        "opt5": "26%",
+        "xyz": "28%",
+        "abc": "30%"
+      }
+    },
+    {
+      "question": "If a man buys an article for $400 and sells it for $460, what is his profit percentage?",
+      "options": {
+        "abc": "12%",
+        "xyz": "18%",
+        "opt5": "15%",
+        "def": "14%"
+      }
+    },
+    {
+      "question": "If an article is sold at 10% profit for $220, what is the cost price?",
+      "options": {
+        "opt5": "$200",
+        "abc": "$180",
+        "xyz": "$190",
+        "def": "$210"
+      }
+    },
+    {
+      "question": "What is the profit if an item costing $1500 is sold for $1800?",
+      "options": {
+        "xyz": "$250",
+        "opt5": "$300",
+        "def": "$350",
+        "abc": "$400"
+      }
+    },
+    {
+      "question": "A man sells an article at a profit of 25%. If he sells it for $500, what was the cost price?",
+      "options": {
+        "opt5": "$400",
+        "def": "$420",
+        "xyz": "$450",
+        "abc": "$460"
+      }
+    },
+    {
+      "question": "If an article is bought for $120 and sold for $150, what is the profit percentage?",
+      "options": {
+        "def": "20%",
+        "xyz": "22%",
+        "abc": "30%",
+        "opt5": "25%"
+      }
+    },
+    {
+      "question": "A trader buys goods at 10% discount on the marked price and sells them at 5% above the marked price. What is his profit percentage?",
+      "options": {
+        "opt5": "16.67%",
+        "abc": "15%",
+        "def": "12%",
+        "xyz": "18%"
+      }
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "level1": [
+    {
+      "question": "Is the probability of an impossible event 0?",
+      "options": {
+        "tag": "No",
+        "opt5": "Yes"
+      }
+    },
+    {
+      "question": "What is the probability of getting a head in a single toss of a fair coin?",
+      "options": {
+        "inc": "1/4",
+        "xycd": "1/3",
+        "opt5": "1/2",
+        "ct3": "1"
+      }
+    },
+    {
+      "question": "Does the probability of a certain event equal 1?",
+      "options": {
+        "xycd": "No",
+        "opt5": "Yes"
+      }
+    },
+    {
+      "question": "In a deck of 52 cards, what is the probability of drawing an Ace?",
+      "options": {
+        "trs": "1/26",
+        "cbd": "1/33",
+        "opt5": "1/13",
+        "kajhs": "1/52"
+      }
+    },
+    {
+      "question": "What is the probability of rolling a 3 on a fair six-sided die?",
+      "options": {
+        "opt5": "1/6",
+        "trs": "1/2",
+        "cbd": "1/3",
+        "kajhs": "1/12"
+      }
+    },
+    {
+      "question": "If two events A and B are mutually exclusive, what is P(A and B)?",
+      "options": {
+        "trs": "1",
+        "cbd": "P(A) + P(B)",
+        "opt5": "0",
+        "kajhs": "P(A) * P(B)"
+      }
+    },
+    {
+      "question": "If the probability of an event is 0.7, what is the probability of the event not occurring?",
+      "options": {
+        "trs": "0.2",
+        "opt5": "0.3",
+        "cbd": "0.7",
+        "kajhs": "0.5"
+      }
+    },
+    {
+      "question": "In probability, the sum of the probabilities of all possible outcomes of an experiment is:",
+      "options": {
+        "trs": "0",
+        "cbd": "0.5",
+        "kajhs": "1.5",
+        "opt5": "1"
+      }
+    },
+    {
+      "question": "If you roll two fair six-sided dice, what is the probability of getting a sum of 7?",
+      "options": {
+        "opt5": "1/6",
+        "trs": "1/36",
+        "cbd": "1/18",
+        "kajhs": "1/12"
+      }
+    },
+    {
+      "question": "Is the probability of an event always between 0 and 1?",
+      "options": {
+        "trs": "No",
+        "opt5": "Yes",
+        "kajhs": "It depends",
+        "hab": "None of the above"
+      }
+    },
+    {
+      "question": "If event A has a probability of 0.4 and event B has a probability of 0.5, and A and B are independent, what is P(A and B)?",
+      "options": {
+        "trs": "0.9",
+        "cbd": "0.1",
+        "opt5": "0.2",
+        "kajhs": "0.5"
+      }
+    },
+    {
+      "question": "If the probability of rain on any given day is 0.2, what is the probability that it does not rain?",
+      "options": {
+        "trs": "0.2",
+        "opt5": "0.8",
+        "cbd": "0.5",
+        "kajhs": "0.1"
+      }
+    },
+    {
+      "question": "If two events are independent, the occurrence of one affects the occurrence of the other. True or false?",
+      "options": {
+        "opt5": "False",
+        "xyz": "True"
+      }
+    },
+    {
+      "question": "In a game of rolling a single die, what is the probability of rolling an even number?",
+      "options": {
+        "trs": "1/6",
+        "cbd": "1/4",
+        "opt5": "1/2",
+        "kajhs": "1/3"
+      }
+    },
+    {
+      "question": "In a standard deck of 52 cards, what is the probability of drawing a red card?",
+      "options": {
+        "opt5": "1/2",
+        "trs": "1/4",
+        "cbd": "1/3",
+        "kajhs": "2/3"
+      }
+    },
+    {
+      "question": "If P(A) = 0.4, P(B) = 0.5, and A and B are mutually exclusive, what is P(A or B)?",
+      "options": {
+        "trs": "0.2",
+        "cbd": "0.7",
+        "opt5": "0.9",
+        "kajhs": "0.1"
+      }
+    },
+    {
+      "question": "In a bag with 5 red balls and 3 blue balls, what is the probability of picking a red ball?",
+      "options": {
+        "trs": "3/8",
+        "cbd": "1/2",
+        "kajhs": "2/3",
+        "opt5": "5/8"
+      }
+    },
+    {
+      "question": "What is the probability of drawing a queen from a standard deck of 52 cards?",
+      "options": {
+        "trs": "1/13",
+        "cbd": "1/26",
+        "opt5": "1/13",
+        "kajhs": "1/52"
+      }
+    },
+    {
+      "question": "What is the probability of flipping a coin and getting heads twice in a row?",
+      "options": {
+        "trs": "1/5",
+        "opt5": "1/4",
+        "cbd": "1/3",
+        "kajhs": "1/2"
+      }
+    },
+    {
+      "question": "If an event is certain to happen, its probability is:",
+      "options": {
+        "opt5": "1",
+        "trs": "0",
+        "cbd": "0.5",
+        "kajhs": "2"
+      }
+    },
+    {
+      "question": "What is the probability of drawing an Ace of Spades from a standard deck of 52 cards?",
+      "options": {
+        "trs": "1/26",
+        "cbd": "1/13",
+        "opt5": "1/52",
+        "kajhs": "1/4"
+      }
+    },
+    {
+      "question": "If you draw one card from a standard deck, what is the probability that it is a king or a queen?",
+      "options": {
+        "trs": "1/13",
+        "opt5": "2/13",
+        "cbd": "1/4",
+        "kajhs": "2/52"
+      }
+    },
+    {
+      "question": "If a bag contains 2 red marbles and 3 blue marbles, what is the probability of picking a blue marble?",
+      "options": {
+        "trs": "4/5",
+        "cbd": "2/5",
+        "opt5": "3/5",
+        "kajhs": "1/5"
+      }
+    },
+    {
+      "question": "What is the probability of rolling an odd number on a fair six-sided die?",
+      "options": {
+        "trs": "1/6",
+        "cbd": "1/3",
+        "kajhs": "1/4",
+        "opt5": "1/2"
+      }
+    },
+    {
+      "question": "In a lottery where 10 tickets are sold and there is only one winner, what is the probability of winning if you buy 1 ticket?",
+      "options": {
+        "trs": "1/5",
+        "cbd": "1/2",
+        "opt5": "1/10",
+        "kajhs": "1/20"
+      }
+    }
+  ]
+}

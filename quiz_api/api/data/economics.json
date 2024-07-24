@@ -1,0 +1,250 @@
+{
+  "level1": [
+    {
+      "question": "What is the primary objective of India's monetary policy?",
+      "options": {
+        "fin":"Maximize employment",
+        "pro":"Reduce poverty",
+        "opt5":"Control inflation",
+        "eco":"Increase exports"
+      }
+    },
+    {
+      "question": "Does RBI stand for 'Reserve Bank of India'?",
+      "options": {
+        "bks":"No",
+        "opt5":"Yes"
+      }
+    },
+    {
+      "question": "Which organization publishes the World Economic Outlook?",
+      "options": {
+        "intl":"World Bank",
+        "econ":"OECD",
+        "opt5":"IMF"
+      }
+    },
+    {
+      "question": "True or False: The Goods and Services Tax (GST) in India was implemented on 1st July 2017.",
+      "options": {
+        "right":"False",
+        "opt5":"True"
+      }
+    },
+    {
+      "question": "What does GDP stand for?",
+      "options": {
+        "opt5":"Gross Domestic Product",
+        "incor":"Global Domestic Product",
+        "xyz":"Gross Domestic Pricing",
+        "abc":"General Domestic Product"
+      }
+    },
+    {
+      "question": "The headquarters of the World Trade Organization (WTO) is located in which city?",
+      "options": {
+        "xyz":"New York",
+        "opt5":"Geneva",
+        "abx":"Paris",
+        "jkl":"Brussels"
+      }
+    },
+    {
+      "question": "What is the main purpose of the SEZs (Special Economic Zones) in India?",
+      "options": {
+        "gen":"Increase agricultural output",
+        "abc":"Reduce urbanization",
+        "opt5":"Boost export and economic activity",
+        "xyc":"Promote tourism"
+      }
+    },
+    {
+      "question": "Which body is responsible for regulating the stock market in India?",
+      "options": {
+        "org":"RBI",
+        "opt5":"SEBI",
+        "abc":"Ministry of Finance",
+        "xyz":"NABARD"
+      }
+    },
+    {
+      "question": "What is the primary function of the World Bank?",
+      "options": {
+        "opt5":"Economic development and poverty reduction",
+        "help":"Providing loans to developing countries",
+        "assist":"Trade regulations",
+        "org":"Peacekeeping"
+      }
+    },
+    {
+      "question": "Does FDI stand for 'Foreign Direct Investment'?",
+      "options": {
+        "bcd":"No",
+        "opt5":"Yes"
+      }
+    },
+    {
+      "question": "Which scheme was launched by the Indian government to promote financial inclusion?",
+      "options": {
+        "abc":"Swachh Bharat Abhiyan",
+        "opt5":"Pradhan Mantri Jan Dhan Yojana",
+        "xyz":"Make in India",
+        "def":"Digital India"
+      }
+    },
+    {
+      "question": "True or False: The Indian economy is the sixth-largest in the world by nominal GDP.",
+      "options": {
+        "wrong":"False",
+        "opt5":"True"
+      }
+    },
+    {
+      "question": "What does PPP stand for in economic terms?",
+      "options": {
+        "opt5":"Purchasing Power Parity",
+        "abc":"Private Public Partnership",
+        "xyz":"Public Policy Plan",
+        "def":"Per Person Productivity"
+      }
+    },
+    {
+      "question": "Which country is India's largest trading partner?",
+      "options": {
+        "abc":"Japan",
+        "opt5":"China",
+        "xyz":"United States",
+        "def":"Germany"
+      }
+    },
+    {
+      "question": "The Human Development Index (HDI) is published by which organization?",
+      "options": {
+        "abc":"World Economic Forum",
+        "xyz":"World Bank",
+        "opt5":"UNDP",
+        "def":"IMF"
+      }
+    },
+    {
+      "question": "What is the aim of the Make in India initiative?",
+      "options": {
+        "opt5":"Encourage manufacturing in India",
+        "xyz":"Promote digital literacy",
+        "abc":"Boost tourism",
+        "def":"Increase agricultural output"
+      }
+    },
+    {
+      "question": "Which organization releases the Global Competitiveness Report?",
+      "options": {
+        "abc":"OECD",
+        "opt5":"World Economic Forum",
+        "xyz":"IMF",
+        "def":"World Bank"
+      }
+    },
+    {
+      "question": "Does MSME stand for 'Micro, Small and Medium Enterprises'?",
+      "options": {
+        "opt5":"Yes",
+        "bcd":"No"
+      }
+    },
+    {
+      "question": "What is India's rank in terms of nominal GDP as of 2023?",
+      "options": {
+        "xyz":"Sixth",
+        "abc":"Fourth",
+        "opt5":"Fifth",
+        "def":"Seventh"
+      }
+    },
+    {
+      "question": "Which ministry is responsible for the economic policy of India?",
+      "options": {
+        "abc":"Ministry of Commerce",
+        "opt5":"Ministry of Finance",
+        "xyz":"Ministry of External Affairs",
+        "def":"Ministry of Corporate Affairs"
+      }
+    },
+    {
+      "question": "True or False: The New Economic Policy of 1991 in India was focused on liberalization, privatization, and globalization.",
+      "options": {
+        "right":"False",
+        "opt5":"True"
+      }
+    },
+    {
+      "question": "Which index measures income inequality within a country?",
+      "options": {
+        "abc":"Human Development Index",
+        "opt5":"Gini Coefficient",
+        "xyz":"Global Competitiveness Index",
+        "def":"Ease of Doing Business Index"
+      }
+    },
+    {
+      "question": "What is the primary goal of the Pradhan Mantri Fasal Bima Yojana?",
+      "options": {
+        "abc":"Promote organic farming",
+        "xyz":"Increase crop productivity",
+        "def":"Improve rural infrastructure",
+        "opt5":"Provide crop insurance to farmers"
+      }
+    },
+    {
+      "question": "What does the term 'fiscal deficit' mean?",
+      "options": {
+        "abc":"Shortfall in balance of payments",
+        "xyz":"Excess of exports over imports",
+        "opt5":"Excess of government expenditure over revenue",
+        "def":"Deficit in GDP growth"
+      }
+    },
+    {
+      "question": "Which sector contributes the most to India's GDP?",
+      "options": {
+        "abc":"Agriculture",
+        "opt5":"Services",
+        "xyz":"Manufacturing",
+        "def":"Mining"
+      }
+    },
+    {
+      "question": "What does the term 'repo rate' refer to?",
+      "options": {
+        "opt5":"Rate at which RBI lends to commercial banks",
+        "abc":"Rate at which commercial banks lend to RBI",
+        "xyz":"Interest rate on government securities",
+        "def":"Rate of inflation"
+      }
+    },
+    {
+      "question": "Which initiative aims to make India a global hub for electronics manufacturing?",
+      "options": {
+        "abc":"Swachh Bharat Abhiyan",
+        "xyz":"Make in India",
+        "def":"Startup India",
+        "opt5":"Digital India"
+      }
+    },
+    {
+      "question": "Which country is the largest foreign direct investor in India?",
+      "options": {
+        "abc":"United States",
+        "opt5":"Mauritius",
+        "xyz":"Japan",
+        "def":"United Kingdom"
+      }
+    },
+    {
+      "question": "True or False: The Indian Rupee is fully convertible on the capital account.",
+      "options": {
+        "right":"True",
+        "opt5":"False"
+      }
+    }
+  ]
+}

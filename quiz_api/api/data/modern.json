@@ -1,0 +1,472 @@
+{
+  "level1": [
+    {
+      "question": "The Indian Independence Act of 1947 led to the creation of which two countries?",
+      "options": {
+        "opt5": "India and Pakistan",
+        "option1": "India and Bangladesh",
+        "option2": "India and Nepal",
+        "option3": "India and Sri Lanka"
+      }
+    },
+    {
+      "question": "Who was the leader of the Indian National Army?",
+      "options": {
+        "option1": "Bhagat Singh",
+        "option2": "Jawaharlal Nehru",
+        "opt5": "Subhas Chandra Bose",
+        "option3": "Sardar Patel"
+      }
+    },
+    {
+      "question": "In which year did India gain independence?",
+      "options": {
+        "opt5": "1947",
+        "option1": "1950",
+        "option2": "1945",
+        "option3": "1946"
+      }
+    },
+    {
+      "question": "The Indian Council Act of 1909 is also known as which act?",
+      "options": {
+        "option1": "Act of 1935",
+        "opt5": "Morley-Minto Reforms",
+        "option2": "Act of 1861",
+        "option3": "Government of India Act"
+      }
+    },
+    {
+      "question": "True or False: The Nehru Report was presented in 1928.",
+      "options": {
+        "opt5": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Who was the first person to be elected as the President of the Indian National Congress?",
+      "options": {
+        "option1": "Jawaharlal Nehru",
+        "option2": "Mahatma Gandhi",
+        "option3": "Subhas Chandra Bose",
+        "opt5": "Womesh Chunder Bonnerjee"
+      }
+    },
+    {
+      "question": "The Quit India Movement was launched during which World War?",
+      "options": {
+        "option1": "World War I",
+        "opt5": "World War II",
+        "option2": "Cold War",
+        "option3": "Vietnam War"
+      }
+    },
+    {
+      "question": "Who was the leader of the Chittagong Armoury Raid?",
+      "options": {
+        "option1": "Bhagat Singh",
+        "option2": "Subhas Chandra Bose",
+        "opt5": "Surya Sen",
+        "option3": "Lal Bahadur Shastri"
+      }
+    },
+    {
+      "question": "Who was the first woman to become the President of the Indian National Congress?",
+      "options": {
+        "opt5": "Sarojini Naidu",
+        "option1": "Indira Gandhi",
+        "option2": "Vijaya Lakshmi Pandit",
+        "option3": "Annie Besant"
+      }
+    },
+    {
+      "question": "The Treaty of Surat was signed in which year?",
+      "options": {
+        "option1": "1660",
+        "option2": "1688",
+        "opt5": "1668",
+        "option3": "1700"
+      }
+    },
+    {
+      "question": "Who was the first Indian to win a Nobel Prize?",
+      "options": {
+        "option1": "C.V. Raman",
+        "opt5": "Rabindranath Tagore",
+        "option2": "Satyendra Nath Bose",
+        "option3": "Subhas Chandra Bose"
+      }
+    },
+    {
+      "question": "True or False: The Simon Commission was boycotted by Indian leaders.",
+      "options": {
+        "opt5": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Who was the founder of the Ramakrishna Mission?",
+      "options": {
+        "option1": "Ramakrishna Paramahamsa",
+        "option2": "Dayananda Saraswati",
+        "option3": "Sri Aurobindo",
+        "opt5": "Swami Vivekananda"
+      }
+    },
+    {
+      "question": "Who was the last Governor-General of independent India?",
+      "options": {
+        "option1": "Lord Mountbatten",
+        "opt5": "C. Rajagopalachari",
+        "option2": "Rajendra Prasad",
+        "option3": "Jawaharlal Nehru"
+      }
+    },
+    {
+      "question": "The Dandi March was started from which place?",
+      "options": {
+        "option1": "Gandhi Nagar",
+        "opt5": "Sabarmati Ashram",
+        "option2": "New Delhi",
+        "option3": "Mumbai"
+      }
+    },
+    {
+      "question": "True or False: The Indian Constitution was adopted on January 26, 1950.",
+      "options": {
+        "opt5": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Who was the chief architect of the Indian Constitution?",
+      "options": {
+        "opt5": "B.R. Ambedkar",
+        "option1": "Jawaharlal Nehru",
+        "option2": "Sardar Patel",
+        "option3": "Mahatma Gandhi"
+      }
+    },
+    {
+      "question": "In which year was the Indian National Congress founded?",
+      "options": {
+        "option1": "1895",
+        "option2": "1900",
+        "opt5": "1885",
+        "option3": "1875"
+      }
+    },
+    {
+      "question": "Who was the first female Governor of an Indian state?",
+      "options": {
+        "option1": "Indira Gandhi",
+        "option2": "Vijaya Lakshmi Pandit",
+        "opt5": "Sarojini Naidu",
+        "option3": "Annie Besant"
+      }
+    },
+    {
+      "question": "Which act is known as the Government of India Act, 1935?",
+      "options": {
+        "opt5": "The Act that provided for the establishment of autonomous provinces in India",
+        "option1": "The Act that ended the British rule in India",
+        "option2": "The Act that started the Bengal Partition",
+        "option3": "The Act that started the Quit India Movement"
+      }
+    },
+    {
+      "question": "Who was the leader of the Ghadar Party?",
+      "options": {
+        "option1": "Bhagat Singh",
+        "option2": "Subhas Chandra Bose",
+        "option3": "Rash Behari Bose",
+        "opt5": "Lala Hardayal"
+      }
+    },
+    {
+      "question": "The Indian National Army was formed in which year?",
+      "options": {
+        "opt5": "1942",
+        "option1": "1945",
+        "option2": "1939",
+        "option3": "1940"
+      }
+    },
+    {
+      "question": "Who was known as 'Mahatma'?",
+      "options": {
+        "option1": "Jawaharlal Nehru",
+        "opt5": "Mahatma Gandhi",
+        "option2": "Sardar Patel",
+        "option3": "Subhas Chandra Bose"
+      }
+    },
+    {
+      "question": "True or False: The Second Round Table Conference was held in 1931.",
+      "options": {
+        "opt5": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Which movement was led by Bipin Chandra Pal?",
+      "options": {
+        "option1": "Quit India Movement",
+        "opt5": "Swadeshi Movement",
+        "option2": "Non-Cooperation Movement",
+        "option3": "Civil Disobedience Movement"
+      }
+    }
+  ],
+  "level2": [
+    {
+      "question": "Who was the first Prime Minister of independent India?",
+      "options": {
+        "option1": "Lal Bahadur Shastri",
+        "option2": "Gulzarilal Nanda",
+        "opt5": "Jawaharlal Nehru",
+        "option3": "Vallabhbhai Patel"
+      }
+    },
+    {
+      "question": "The Indian National Congress was founded in which year?",
+      "options": {
+        "option1": "1890",
+        "opt5": "1885",
+        "option2": "1875",
+        "option3": "1900"
+      }
+    },
+    {
+      "question": "The Jallianwala Bagh massacre occurred in which year?",
+      "options": {
+        "option1": "1920",
+        "option2": "1918",
+        "opt5": "1919",
+        "option3": "1925"
+      }
+    },
+    {
+      "question": "Who is known as the 'Father of the Indian Constitution'?",
+      "options": {
+        "option1": "Mahatma Gandhi",
+        "opt5": "B.R. Ambedkar",
+        "option2": "Jawaharlal Nehru",
+        "option3": "Sardar Patel"
+      }
+    },
+    {
+      "question": "Was the Quit India Resolution adopted in 1942?",
+      "options": {
+        "opt5": "Yes",
+        "option1": "No"
+      }
+    },
+    {
+      "question": "Who led the Salt March in 1930?",
+      "options": {
+        "opt5": "Mahatma Gandhi",
+        "option1": "Subhas Chandra Bose",
+        "option2": "Jawaharlal Nehru",
+        "option3": "Sardar Patel"
+      }
+    },
+    {
+      "question": "The partition of Bengal was reversed in which year?",
+      "options": {
+        "option1": "1905",
+        "opt5": "1911",
+        "option2": "1915",
+        "option3": "1920"
+      }
+    },
+    {
+      "question": "True or False: The first General Elections in India were held in 1950.",
+      "options": {
+        "opt5": "False",
+        "tag": "True"
+      }
+    },
+    {
+      "question": "Who was the first woman to become the Prime Minister of India?",
+      "options": {
+        "option1": "Sarojini Naidu",
+        "option2": "Vijaya Lakshmi Pandit",
+        "opt5": "Indira Gandhi",
+        "option3": "Pratibha Patil"
+      }
+    },
+    {
+      "question": "Who is known for the slogan 'Give me blood and I will give you freedom'?",
+      "options": {
+        "option1": "Bhagat Singh",
+        "option2": "Jawaharlal Nehru",
+        "option3": "Mahatma Gandhi",
+        "opt5": "Subhas Chandra Bose"
+      }
+    },
+    {
+      "question": "The first battle of Panipat was fought in which year?",
+      "options": {
+        "opt5": "1526",
+        "option1": "1556",
+        "option2": "1576",
+        "option3": "1600"
+      }
+    },
+    {
+      "question": "The Indian Independence Act was passed in which year?",
+      "options": {
+        "option1": "1945",
+        "opt5": "1947",
+        "option2": "1946",
+        "option3": "1948"
+      }
+    },
+    {
+      "question": "Was Mahatma Gandhi’s first major campaign in India the Champaran Agitation?",
+      "options": {
+        "opt5": "Yes",
+        "option1": "No"
+      }
+    },
+    {
+      "question": "Who was the last British Viceroy of India?",
+      "options": {
+        "option1": "Lord Curzon",
+        "opt5": "Lord Mountbatten",
+        "option2": "Lord Harding",
+        "option3": "Lord Minto"
+      }
+    },
+    {
+      "question": "Which movement was launched by Mahatma Gandhi in 1919?",
+      "options": {
+        "option1": "Civil Disobedience Movement",
+        "option2": "Quit India Movement",
+        "opt5": "Non-Cooperation Movement",
+        "option3": "Salt March"
+      }
+    },
+    {
+      "question": "The Battle of Plassey was fought in which year?",
+      "options": {
+        "option1": "1761",
+        "option2": "1748",
+        "option3": "1775",
+        "opt5": "1757"
+      }
+    },
+    {
+      "question": "Who authored the book 'Discovery of India'?",
+      "options": {
+        "option1": "Mahatma Gandhi",
+        "opt5": "Jawaharlal Nehru",
+        "option2": "Sardar Patel",
+        "option3": "Subhas Chandra Bose"
+      }
+    },
+    {
+      "question": "True or False: The Simla Agreement was signed in 1972.",
+      "options": {
+        "opt5": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Who founded the All India Muslim League?",
+      "options": {
+        "option1": "Mohammad Ali Jinnah",
+        "option2": "Syed Ahmad Khan",
+        "opt5": "Aga Khan",
+        "option3": "Abdul Kalam Azad"
+      }
+    },
+    {
+      "question": "Which Indian leader was known as 'Netaji'?",
+      "options": {
+        "option1": "Lal Bahadur Shastri",
+        "opt5": "Subhas Chandra Bose",
+        "option2": "Jawaharlal Nehru",
+        "option3": "Sardar Patel"
+      }
+    },
+    {
+      "question": "The Dandi March was a protest against which British policy?",
+      "options": {
+        "option1": "Land Revenue",
+        "option2": "Education Policy",
+        "option3": "Trade Restrictions",
+        "opt5": "Salt Tax"
+      }
+    },
+    {
+      "question": "Who was the author of 'India Wins Freedom'?",
+      "options": {
+        "option1": "Jawaharlal Nehru",
+        "option2": "Mahatma Gandhi",
+        "opt5": "Abdul Kalam Azad",
+        "option3": "Sardar Patel"
+      }
+    },
+    {
+      "question": "Was the 'Indian Rebellion of 1857' also known as the Sepoy Mutiny?",
+      "options": {
+        "opt5": "Yes",
+        "option1": "No"
+      }
+    },
+    {
+      "question": "Who was the founder of the Hindu Mahasabha?",
+      "options": {
+        "option1": "Lala Lajpat Rai",
+        "opt5": "Vinayak Damodar Savarkar",
+        "option2": "Bal Gangadhar Tilak",
+        "option3": "Rash Behari Bose"
+      }
+    },
+    {
+      "question": "The Rowlatt Act was passed in which year?",
+      "options": {
+        "option1": "1920",
+        "option2": "1918",
+        "opt5": "1919",
+        "option3": "1925"
+      }
+    },
+    {
+      "question": "Which movement was started by the Indian National Congress in 1920?",
+      "options": {
+        "opt5": "Non-Cooperation Movement",
+        "option1": "Civil Disobedience Movement",
+        "option2": "Quit India Movement",
+        "option3": "Salt March"
+      }
+    },
+    {
+      "question": "Who was the first Governor-General of independent India?",
+      "options": {
+        "option1": "C. Rajagopalachari",
+        "option2": "Rajendra Prasad",
+        "option3": "Jawaharlal Nehru",
+        "opt5": "Lord Mountbatten"
+      }
+    },
+    {
+      "question": "True or False: The first session of the Indian National Congress was held in Bombay.",
+      "options": {
+        "opt5": "True",
+        "tag": "False"
+      }
+    },
+    {
+      "question": "Who led the Khilafat Movement?",
+      "options": {
+        "option1": "Mahatma Gandhi",
+        "opt5": "Maulana Mohammad Ali and Shaukat Ali",
+        "option2": "Jawaharlal Nehru",
+        "option3": "Subhas Chandra Bose"
+      }
+    }
+  ]
+}

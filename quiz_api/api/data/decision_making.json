@@ -1,0 +1,219 @@
+{
+  "level1": [
+    {
+      "question": "In decision-making, what is the first step you should take?",
+      "options": {
+        "a": "Identify alternatives",
+        "b": "Evaluate options",
+        "c": "Implement the decision",
+        "opt5": "Define the problem"
+      }
+    },
+    {
+      "question": "Does effective decision-making always involve considering multiple options?",
+      "options": {
+        "opt5": "Yes",
+        "b": "No"
+      }
+    },
+    {
+      "question": "In decision-making, what does the acronym SWOT stand for?",
+      "options": {
+        "a": "Strengths, Weaknesses, Opportunities, Threats",
+        "b": "Strategies, Weaknesses, Options, Targets",
+        "opt5": "Strengths, Weaknesses, Opportunities, Threats",
+        "d": "Systems, Work, Objectives, Tactics"
+      }
+    },
+    {
+      "question": "What is the primary goal of decision analysis?",
+      "options": {
+        "opt5": "To make better decisions",
+        "b": "To minimize risks",
+        "c": "To save time",
+        "d": "To avoid conflicts"
+      }
+    },
+    {
+      "question": "True or False: A decision tree is a tool used for visualizing the possible outcomes of decisions.",
+      "options": {
+        "opt5": "True",
+        "b": "False"
+      }
+    },
+    {
+      "question": "Which of the following is a common technique used in decision-making?",
+      "options": {
+        "a": "Brainstorming",
+        "b": "Delphi technique",
+        "c": "Pareto analysis",
+        "opt5": "All of the above"
+      }
+    },
+    {
+      "question": "In the context of decision-making, what is 'anchoring bias'?",
+      "options": {
+        "b": "Focusing only on recent information",
+        "c": "Overestimating the likelihood of events based on their availability in memory",
+        "opt5": "Relying too heavily on the first piece of information encountered",
+        "d": "Ignoring information that contradicts existing beliefs"
+      }
+    },
+    {
+      "question": "What is the final step in the decision-making process?",
+      "options": {
+        "opt5": "Review and feedback",
+        "b": "Implement the decision",
+        "c": "Evaluate options",
+        "d": "Identify alternatives"
+      }
+    },
+    {
+      "question": "Which tool is used to identify and evaluate the potential effects of decisions in decision-making?",
+      "options": {
+        "b": "Flowchart",
+        "opt5": "Decision matrix",
+        "c": "Histogram",
+        "d": "Pie chart"
+      }
+    },
+    {
+      "question": "Which type of decision is made without structured analysis or data?",
+      "options": {
+        "b": "Analytical decision",
+        "c": "Rational decision",
+        "opt5": "Intuitive decision",
+        "d": "Strategic decision"
+      }
+    },
+    {
+      "question": "True or False: A decision matrix is also known as a prioritization matrix.",
+      "options": {
+        "opt5": "True",
+        "b": "False"
+      }
+    },
+    {
+      "question": "When making a group decision, which technique ensures that all members' opinions are considered?",
+      "options": {
+        "opt5": "Nominal Group Technique",
+        "b": "SWOT analysis",
+        "c": "Pareto analysis",
+        "d": "Root cause analysis"
+      }
+    },
+    {
+      "question": "In decision-making, what does 'satisficing' mean?",
+      "options": {
+        "b": "Selecting the optimal solution",
+        "c": "Eliminating all risks",
+        "opt5": "Choosing an option that meets a minimum threshold of acceptance",
+        "d": "Deferring the decision"
+      }
+    },
+    {
+      "question": "Which of the following is an example of a programmed decision?",
+      "options": {
+        "b": "Developing a new product",
+        "c": "Entering a new market",
+        "d": "Merging with another company",
+        "opt5": "Reordering office supplies"
+      }
+    },
+    {
+      "question": "Yes or No: Does decision-making always require thorough data analysis?",
+      "options": {
+        "opt5": "No",
+        "b": "Yes"
+      }
+    },
+    {
+      "question": "What is the main purpose of using a decision support system (DSS)?",
+      "options": {
+        "a": "To automate decision making",
+        "opt5": "To assist in making informed decisions",
+        "c": "To replace human decision-makers",
+        "d": "To manage day-to-day operations"
+      }
+    },
+    {
+      "question": "Which decision-making model emphasizes the role of intuition and judgment?",
+      "options": {
+        "opt5": "Garbage can model",
+        "a": "Rational model",
+        "c": "Bounded rationality model",
+        "d": "Incremental model"
+      }
+    },
+    {
+      "question": "What is the main difference between strategic and operational decisions?",
+      "options": {
+        "b": "Operational decisions are made by top management",
+        "opt5": "Strategic decisions are long-term, while operational decisions are short-term",
+        "c": "Strategic decisions are routine",
+        "d": "Operational decisions involve significant risks"
+      }
+    },
+    {
+      "question": "True or False: Consensus decision-making always leads to the best outcomes.",
+      "options": {
+        "opt5": "False",
+        "b": "True"
+      }
+    },
+    {
+      "question": "Which of the following is a characteristic of an effective decision-maker?",
+      "options": {
+        "a": "Decisiveness",
+        "b": "Analytical thinking",
+        "opt5": "All of the above",
+        "d": "Emotional detachment"
+      }
+    },
+    {
+      "question": "In the context of decision-making, what does 'bounded rationality' refer to?",
+      "options": {
+        "a": "Making decisions with limited information and cognitive resources",
+        "c": "Making decisions without any biases",
+        "d": "Making decisions with perfect information",
+        "opt5": "Making decisions with unlimited resources"
+      }
+    },
+    {
+      "question": "What is the role of a 'devil's advocate' in group decision-making?",
+      "options": {
+        "opt5": "To challenge assumptions and identify potential flaws",
+        "b": "To agree with the majority",
+        "c": "To facilitate the discussion",
+        "d": "To document the decisions"
+      }
+    },
+    {
+      "question": "Which of the following is NOT a step in the decision-making process?",
+      "options": {
+        "b": "Defining the problem",
+        "opt5": "Implementing a solution",
+        "c": "Identifying alternatives",
+        "d": "Evaluating options"
+      }
+    },
+    {
+      "question": "What is the primary benefit of using the Delphi technique in decision-making?",
+      "options": {
+        "a": "It speeds up the decision-making process",
+        "b": "It ensures unanimous decisions",
+        "opt5": "It gathers expert opinions anonymously",
+        "d": "It minimizes costs"
+      }
+    },
+    {
+      "question": "Which bias involves favoring information that confirms existing beliefs?",
+      "options": {
+        "opt5": "Confirmation bias",
+        "b": "Availability bias",
+        "c": "Anchoring bias",
+        "d": "Hindsight bias"
+      }
+    }
+  ]
+}
