@@ -1,644 +1,647 @@
 {
-  "level1": [
-    {
-      "question": "The Taj Mahal is located in which Indian city?",
-      "options": {
-        "xyz": "Delhi",
-        "def": "Jaipur",
-        "abc": "Mumbai",
-        "opt5": "Agra"
-      }
-    },
-    {
-      "question": "Who was the first Prime Minister of India?",
-      "options": {
-        "opt5": "Jawaharlal Nehru",
-        "xyz": "Mahatma Gandhi",
-        "def": "Indira Gandhi",
-        "abc": "Sardar Patel"
-      }
-    },
-    {
-      "question": "Is India the seventh-largest country by land area?",
-      "options": {
-        "xyz": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "What is the capital of India?",
-      "options": {
-        "abc": "Mumbai",
-        "xyz": "Chennai",
-        "def": "Kolkata",
-        "opt5": "New Delhi"
-      }
-    },
-    {
-      "question": "Which river is known as the 'Ganga of the South'?",
-      "options": {
-        "opt5": "Godavari",
-        "xyz": "Krishna",
-        "def": "Kaveri",
-        "abc": "Tungabhadra"
-      }
-    },
-    {
-      "question": "What does the Ashoka Chakra in the Indian flag represent?",
-      "options": {
-        "def": "Peace",
-        "abc": "Law",
-        "opt5": "Dharma",
-        "xyz": "Freedom"
-      }
-    },
-    {
-      "question": "Who wrote the Indian National Anthem?",
-      "options": {
-        "xyz": "Bankim Chandra Chatterjee",
-        "abc": "Sarojini Naidu",
-        "def": "Rabindranath Tagore",
-        "opt5": "Rabindranath Tagore"
-      }
-    },
-    {
-      "question": "True or False: The Lotus is the national flower of India.",
-      "options": {
-        "opt5": "True",
-        "xyz": "False"
-      }
-    },
-    {
-      "question": "Which Indian state is known as the 'Land of Rising Sun'?",
-      "options": {
-        "abc": "Mizoram",
-        "opt5": "Arunachal Pradesh",
-        "xyz": "Manipur",
-        "def": "Sikkim"
-      }
-    },
-    {
-      "question": "Which sport is considered the national game of India?",
-      "options": {
-        "def": "Cricket",
-        "xyz": "Football",
-        "abc": "Badminton",
-        "opt5": "Hockey"
-      }
-    },
-    {
-      "question": "Who was the first woman Prime Minister of India?",
-      "options": {
-        "opt5": "Indira Gandhi",
-        "xyz": "Pratibha Patil",
-        "def": "Sushma Swaraj",
-        "abc": "Indira Gandhi"
-      }
-    },
-    {
-      "question": "Which Indian state has the longest coastline?",
-      "options": {
-        "def": "Odisha",
-        "xyz": "Kerala",
-        "abc": "Maharashtra",
-        "opt5": "Gujarat"
-      }
-    },
-    {
-      "question": "Which city is known as the 'Silicon Valley of India'?",
-      "options": {
-        "def": "Hyderabad",
-        "xyz": "Pune",
-        "opt5": "Bangalore",
-        "abc": "Chennai"
-      }
-    },
-    {
-      "question": "True or False: The Indian Rupee is the official currency of India.",
-      "options": {
-        "opt5": "True",
-        "xyz": "False"
-      }
-    },
-    {
-      "question": "Which Indian state is known for the festival of 'Bihu'?",
-      "options": {
-        "def": "West Bengal",
-        "opt5": "Assam",
-        "xyz": "Odisha",
-        "abc": "Tripura"
-      }
-    },
-    {
-      "question": "Who is known as the 'Father of the Indian Constitution'?",
-      "options": {
-        "xyz": "Mahatma Gandhi",
-        "def": "Jawaharlal Nehru",
-        "abc": "Subhas Chandra Bose",
-        "opt5": "B. R. Ambedkar"
-      }
-    },
-    {
-      "question": "Which is the largest state in India by area?",
-      "options": {
-        "opt5": "Rajasthan",
-        "def": "Uttar Pradesh",
-        "xyz": "Madhya Pradesh",
-        "abc": "Maharashtra"
-      }
-    },
-    {
-      "question": "Which Indian festival is known as the 'Festival of Lights'?",
-      "options": {
-        "def": "Holi",
-        "xyz": "Dussehra",
-        "opt5": "Diwali",
-        "abc": "Raksha Bandhan"
-      }
-    },
-    {
-      "question": "What is the national bird of India?",
-      "options": {
-        "abc": "Parrot",
-        "def": "Sparrow",
-        "opt5": "Peacock"
-      }
-    },
-    {
-      "question": "Yes or No: Is Hindi the official language of India?",
-      "options": {
-        "xyz": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "Which Indian state is famous for its backwaters?",
-      "options": {
-        "abc": "Tamil Nadu",
-        "opt5": "Kerala",
-        "def": "Goa",
-        "xyz": "Karnataka"
-      }
-    },
-    {
-      "question": "Who was the first President of India?",
-      "options": {
-        "xyz": "Rajendra Prasad",
-        "def": "Sarvepalli Radhakrishnan",
-        "abc": "Zakir Husain",
-        "opt5": "Rajendra Prasad"
-      }
-    },
-    {
-      "question": "Which Indian city is known as the 'Pink City'?",
-      "options": {
-        "opt5": "Jaipur",
-        "def": "Udaipur",
-        "xyz": "Jodhpur",
-        "abc": "Bikaner"
-      }
-    },
-    {
-      "question": "Which is the smallest state in India by area?",
-      "options": {
-        "def": "Sikkim",
-        "xyz": "Goa",
-        "opt5": "Goa",
-        "abc": "Tripura"
-      }
-    },
-    {
-      "question": "What is the national animal of India?",
-      "options": {
-        "def": "Lion",
-        "xyz": "Elephant",
-        "abc": "Leopard",
-        "opt5": "Tiger"
-      }
-    }
-  ],
-  "level2": [
-    {
-      "question": "Who was the first Indian woman to win a gold medal at the Olympics?",
-      "options": {
-        "def": "Mary Kom",
-        "opt5": "Karnam Malleswari",
-        "abc": "P.V. Sindhu"
-      }
-    },
-    {
-      "question": "Which is the tallest mountain peak in India?",
-      "options": {
-        "opt5": "Kanchenjunga",
-        "def": "Nanda Devi",
-        "abc": "Mount Everest"
-      }
-    },
-    {
-      "question": "True or False: The national sport of India is cricket.",
-      "options": {
-        "opt5": "False",
-        "xyz": "True"
-      }
-    },
-    {
-      "question": "Which Indian state is known for its tea gardens?",
-      "options": {
-        "opt5": "Assam",
-        "def": "Kerala",
-        "xyz": "Sikkim",
-        "abc": "Karnataka"
-      }
-    },
-    {
-      "question": "Which is the largest desert in India?",
-      "options": {
-        "def": "Kutch",
-        "xyz": "Ladakh",
-        "opt5": "Thar Desert",
-        "abc": "Great Indian Desert"
-      }
-    },
-    {
-      "question": "Who is known as the 'Missile Man of India'?",
-      "options": {
-        "xyz": "Homi Bhabha",
-        "def": "Vikram Sarabhai",
-        "abc": "Satish Dhawan",
-        "opt5": "A.P.J. Abdul Kalam"
-      }
-    },
-    {
-      "question": "Which Indian state is known as the 'Fruit Bowl of India'?",
-      "options": {
-        "def": "Maharashtra",
-        "opt5": "Himachal Pradesh",
-        "xyz": "Panjab",
-        "abc": "Uttar Pradesh"
-      }
-    },
-    {
-      "question": "Yes or No: Is the Indian Parliament located in New Delhi?",
-      "options": {
-        "opt5": "Yes",
-        "xyz": "No"
-      }
-    },
-    {
-      "question": "Who is the current Prime Minister of India as of 2021?",
-      "options": {
-        "def": "Manmohan Singh",
-        "xyz": "Rahul Gandhi",
-        "opt5": "Narendra Modi",
-        "abc": "Amit Shah"
-      }
-    },
-    {
-      "question": "Which Indian state is known for its textile industry?",
-      "options": {
-        "def": "Madhya Pradesh",
-        "xyz": "West Bengal",
-        "abc": "Tamil Nadu",
-        "opt5": "Gujarat"
-      }
-    },
-    {
-      "question": "Which state in India is known as 'God's Own Country'?",
-      "options": {
-        "opt5": "Kerala",
-        "def": "Goa",
-        "xyz": "Himachal Pradesh",
-        "abc": "Tamil Nadu"
-      }
-    },
-    {
-      "question": "True or False: The national flag of India has three horizontal stripes.",
-      "options": {
-        "opt5": "True",
-        "xyz": "False"
-      }
-    },
-    {
-      "question": "Which is the smallest Union Territory in India by area?",
-      "options": {
-        "def": "Chandigarh",
-        "xyz": "Puducherry",
-        "opt5": "Lakshadweep",
-        "abc": "Dadra and Nagar Haveli"
-      }
-    },
-    {
-      "question": "Which Indian state is known as the 'Land of Festivals'?",
-      "options": {
-        "def": "Rajasthan",
-        "opt5": "Nagaland",
-        "xyz": "Tamil Nadu",
-        "abc": "Punjab"
-      }
-    },
-    {
-      "question": "Who was the first Indian to receive the Nobel Prize in Literature?",
-      "options": {
-        "xyz": "C.V. Raman",
-        "def": "Amartya Sen",
-        "abc": "Mahatma Gandhi ji",
-        "opt5": "Rabindranath Tagore"
-      }
-    },
-    {
-      "question": "What is the official language of the Indian state of Goa?",
-      "options": {
-        "opt5": "Konkani",
-        "def": "Marathi",
-        "xyz": "Hindi",
-        "abc": "Gujarati"
-      }
-    },
-    {
-      "question": "Which state is famous for the 'Sundarbans' mangrove forest?",
-      "options": {
-        "def": "Kerala",
-        "xyz": "Tamil Nadu",
-        "abc": "Odisha",
-        "opt5": "West Bengal"
-      }
-    },
-    {
-      "question": "Yes or No: Is the 'Red Fort' located in Agra?",
-      "options": {
-        "opt5": "No",
-        "xyz": "Yes"
-      }
-    },
-    {
-      "question": "Which is the largest Indian state by population?",
-      "options": {
-        "xyz": "Bihar",
-        "def": "Maharashtra",
-        "opt5": "Uttar Pradesh",
-        "abc": "West Bengal"
-      }
-    },
-    {
-      "question": "Which Indian state is known for 'Chhath Puja'?",
-      "options": {
-        "def": "Odisha",
-        "opt5": "Bihar",
-        "xyz": "Jharkhand",
-        "abc": "Uttar Pradesh"
-      }
-    },
-    {
-      "question": "Which river is also known as the 'Sorrow of Bihar'?",
-      "options": {
-        "def": "Ganga",
-        "abc": "Yamuna",
-        "opt5": "Kosi"
-      }
-    },
-    {
-      "question": "Who was the first Indian woman to win the Booker Prize?",
-      "options": {
-        "def": "Aruni Riya",
-        "opt5": "Arundhati Roy",
-        "xyz": "Kiran Desai",
-        "abc": "Jhumpa Lahiri"
-      }
-    },
-    {
-      "question": "Which city is known as the 'Manchester of India'?",
-      "options": {
-        "def": "Mumbai",
-        "xyz": "Pune",
-        "abc": "Chennai",
-        "opt5": "Ahmedabad"
-      }
-    },
-    {
-      "question": "True or False: The Qutub Minar is located in Delhi.",
-      "options": {
-        "opt5": "True",
-        "xyz": "False"
-      }
-    }
-  ],
-  "level3": [
-    {
-      "question": "Which river is the longest in India?",
-      "options": {
-        "xyz": "Yamuna",
-        "opt5": "Ganga",
-        "def": "Godavari",
-        "abc": "Narmada"
-      }
-    },
-    {
-      "question": "Who was the first Indian woman in space?",
-      "options": {
-        "xyz": "Kalpana Williams",
-        "def": "Sunita Williams",
-        "abc": "Rakesh Sharma",
-        "opt5": "Kalpana Chawla"
-      }
-    },
-    {
-      "question": "True or False: The capital of Maharashtra is Mumbai.",
-      "options": {
-        "opt5": "True",
-        "xyz": "False"
-      }
-    },
-    {
-      "question": "Which state is known as the 'Spice Garden of India'?",
-      "options": {
-        "def": "Kerala",
-        "xyz": "Tamil Nadu",
-        "opt5": "Kerala",
-        "abc": "Karnataka"
-      }
-    },
-    {
-      "question": "Which Indian city is known as the 'City of Lakes'?",
-      "options": {
-        "def": "Jaipur",
-        "xyz": "Jodhpur",
-        "abc": "Nagpur",
-        "opt5": "Udaipur"
-      }
-    },
-    {
-      "question": "What is the currency of India?",
-      "options": {
-        "xyz": "Dollar",
-        "opt5": "Rupee",
-        "def": "Euro",
-        "abc": "Ruble"
-      }
-    },
-    {
-      "question": "Who is the author of the book 'India Wins Freedom'?",
-      "options": {
-        "def": "Jawaharlal Nehru",
-        "opt5": "Maulana Abul Kalam Azad",
-        "xyz": "Mahatma Gandhi",
-        "abc": "Sardar Patel"
-      }
-    },
-    {
-      "question": "Yes or No: Is India a federal republic?",
-      "options": {
-        "opt5": "Yes",
-        "xyz": "No"
-      }
-    },
-    {
-      "question": "Which Indian state is known for the dance form 'Kathakali'?",
-      "options": {
-        "def": "Tamil Nadu",
-        "xyz": "Andhra Pradesh",
-        "opt5": "Kerala",
-        "abc": "Karnataka"
-      }
-    },
-    {
-      "question": "Who built the Red Fort in Delhi?",
-      "options": {
-        "def": "Humayun",
-        "opt5": "Shah Jahan",
-        "xyz": "Akbar",
-        "abc": "Aurangzeb"
-      }
-    },
-    {
-      "question": "Which state is the largest producer of coffee in India?",
-      "options": {
-        "opt5": "Karnataka",
-        "xyz": "Tamil Nadu",
-        "def": "Andhra Pradesh",
-        "abc": "Kerala"
-      }
-    },
-    {
-      "question": "Who is known as the 'Iron Man of India'?",
-      "options": {
-        "def": "Mahatma Gandhi",
-        "xyz": "Jawaharlal Nehru",
-        "opt5": "Sardar Patel",
-        "abc": "Bhagat Singh"
-      }
-    },
-    {
-      "question": "True or False: The state flower of Haryana is the Lotus.",
-      "options": {
-        "opt5": "False",
-        "xyz": "True"
-      }
-    },
-    {
-      "question": "Which state is known as the 'Land of Five Rivers'?",
-      "options": {
-        "opt5": "Punjab",
-        "def": "Haryana",
-        "xyz": "Gujarat",
-        "abc": "Punjab"
-      }
-    },
-    {
-      "question": "Which is the highest civilian award in India?",
-      "options": {
-        "xyz": "Padma Shri",
-        "def": "Padma Bhushan",
-        "opt5": "Bharat Ratna",
-        "abc": "Padma Vibhushan"
-      }
-    },
-    {
-      "question": "Who is the first Indian to win a Nobel Prize?",
-      "options": {
-        "def": "Mother Teresa",
-        "xyz": "C.V. Raman",
-        "abc": "Hargobind Khorana",
-        "opt5": "Rabindranath Tagore"
-      }
-    },
-    {
-      "question": "Which city is known as the 'Diamond City of India'?",
-      "options": {
-        "xyz": "Mumbai",
-        "opt5": "Surat",
-        "def": "Pune",
-        "abc": "Chennai"
-      }
-    },
-    {
-      "question": "Which is the national tree of India?",
-      "options": {
-        "opt5": "Banyan",
-        "def": "Neem",
-        "xyz": "Peepal",
-        "abc": "Bamboo"
-      }
-    },
-    {
-      "question": "What is the primary language spoken in the state of Karnataka?",
-      "options": {
-        "xyz": "Tamil",
-        "def": "Telugu",
-        "abc": "Marathi",
-        "opt5": "Kannada"
-      }
-    },
-    {
-      "question": "Yes or No: Is the Mughal Garden (now, 'Amrit Udyan') located in the Rashtrapati Bhavan?",
-      "options": {
-        "opt5": "Yes",
-        "xyz": "No"
-      }
-    },
-    {
-      "question": "Which Indian state has the highest population?",
-      "options": {
-        "xyz": "Bihar",
-        "def": "Maharashtra",
-        "opt5": "Uttar Pradesh",
-        "abc": "West Bengal"
-      }
-    },
-    {
-      "question": "Which river flows through the city of Varanasi?",
-      "options": {
-        "xyz": "Yamuna",
-        "def": "Godavari",
-        "abc": "Kaveri",
-        "opt5": "Ganga"
-      }
-    },
-    {
-      "question": "Who was the first Indian to go to space?",
-      "options": {
-        "def": "Sunita Williams",
-        "xyz": "Kalpana Chawla",
-        "abc": "Ravish Malhotra",
-        "opt5": "Rakesh Sharma"
-      }
-    },
-    {
-      "question": "Which city is known as the 'City of Joy'?",
-      "options": {
-        "opt5": "Kolkata",
-        "def": "Mumbai",
-        "xyz": "Delhi",
-        "abc": "Bangalore"
-      }
-    },
-    {
-      "question": "What is the national fruit of India?",
-      "options": {
-        "xyz": "Apple",
-        "def": "Banana",
-        "opt5": "Mango",
-        "abc": "Grapes"
-      }
-    }
-  ]
+  "topic": "GK - India",
+  "levels":{
+    "level1": [
+      {
+        "question": "The Taj Mahal is located in which Indian city?",
+        "options": {
+          "xyz": "Delhi",
+          "def": "Jaipur",
+          "abc": "Mumbai",
+          "opt5": "Agra"
+        }
+      },
+      {
+        "question": "Who was the first Prime Minister of India?",
+        "options": {
+          "opt5": "Jawaharlal Nehru",
+          "xyz": "Mahatma Gandhi",
+          "def": "Indira Gandhi",
+          "abc": "Sardar Patel"
+        }
+      },
+      {
+        "question": "Is India the seventh-largest country by land area?",
+        "options": {
+          "xyz": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "What is the capital of India?",
+        "options": {
+          "abc": "Mumbai",
+          "xyz": "Chennai",
+          "def": "Kolkata",
+          "opt5": "New Delhi"
+        }
+      },
+      {
+        "question": "Which river is known as the 'Ganga of the South'?",
+        "options": {
+          "opt5": "Godavari",
+          "xyz": "Krishna",
+          "def": "Kaveri",
+          "abc": "Tungabhadra"
+        }
+      },
+      {
+        "question": "What does the Ashoka Chakra in the Indian flag represent?",
+        "options": {
+          "def": "Peace",
+          "abc": "Law",
+          "opt5": "Dharma",
+          "xyz": "Freedom"
+        }
+      },
+      {
+        "question": "Who wrote the Indian National Anthem?",
+        "options": {
+          "xyz": "Bankim Chandra Chatterjee",
+          "abc": "Sarojini Naidu",
+          "def": "Rabindranath Tagore",
+          "opt5": "Rabindranath Tagore"
+        }
+      },
+      {
+        "question": "True or False: The Lotus is the national flower of India.",
+        "options": {
+          "opt5": "True",
+          "xyz": "False"
+        }
+      },
+      {
+        "question": "Which Indian state is known as the 'Land of Rising Sun'?",
+        "options": {
+          "abc": "Mizoram",
+          "opt5": "Arunachal Pradesh",
+          "xyz": "Manipur",
+          "def": "Sikkim"
+        }
+      },
+      {
+        "question": "Which sport is considered the national game of India?",
+        "options": {
+          "def": "Cricket",
+          "xyz": "Football",
+          "abc": "Badminton",
+          "opt5": "Hockey"
+        }
+      },
+      {
+        "question": "Who was the first woman Prime Minister of India?",
+        "options": {
+          "opt5": "Indira Gandhi",
+          "xyz": "Pratibha Patil",
+          "def": "Sushma Swaraj",
+          "abc": "Indira Gandhi"
+        }
+      },
+      {
+        "question": "Which Indian state has the longest coastline?",
+        "options": {
+          "def": "Odisha",
+          "xyz": "Kerala",
+          "abc": "Maharashtra",
+          "opt5": "Gujarat"
+        }
+      },
+      {
+        "question": "Which city is known as the 'Silicon Valley of India'?",
+        "options": {
+          "def": "Hyderabad",
+          "xyz": "Pune",
+          "opt5": "Bangalore",
+          "abc": "Chennai"
+        }
+      },
+      {
+        "question": "True or False: The Indian Rupee is the official currency of India.",
+        "options": {
+          "opt5": "True",
+          "xyz": "False"
+        }
+      },
+      {
+        "question": "Which Indian state is known for the festival of 'Bihu'?",
+        "options": {
+          "def": "West Bengal",
+          "opt5": "Assam",
+          "xyz": "Odisha",
+          "abc": "Tripura"
+        }
+      },
+      {
+        "question": "Who is known as the 'Father of the Indian Constitution'?",
+        "options": {
+          "xyz": "Mahatma Gandhi",
+          "def": "Jawaharlal Nehru",
+          "abc": "Subhas Chandra Bose",
+          "opt5": "B. R. Ambedkar"
+        }
+      },
+      {
+        "question": "Which is the largest state in India by area?",
+        "options": {
+          "opt5": "Rajasthan",
+          "def": "Uttar Pradesh",
+          "xyz": "Madhya Pradesh",
+          "abc": "Maharashtra"
+        }
+      },
+      {
+        "question": "Which Indian festival is known as the 'Festival of Lights'?",
+        "options": {
+          "def": "Holi",
+          "xyz": "Dussehra",
+          "opt5": "Diwali",
+          "abc": "Raksha Bandhan"
+        }
+      },
+      {
+        "question": "What is the national bird of India?",
+        "options": {
+          "abc": "Parrot",
+          "def": "Sparrow",
+          "opt5": "Peacock"
+        }
+      },
+      {
+        "question": "Yes or No: Is Hindi the official language of India?",
+        "options": {
+          "xyz": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "Which Indian state is famous for its backwaters?",
+        "options": {
+          "abc": "Tamil Nadu",
+          "opt5": "Kerala",
+          "def": "Goa",
+          "xyz": "Karnataka"
+        }
+      },
+      {
+        "question": "Who was the first President of India?",
+        "options": {
+          "xyz": "Rajendra Prasad",
+          "def": "Sarvepalli Radhakrishnan",
+          "abc": "Zakir Husain",
+          "opt5": "Rajendra Prasad"
+        }
+      },
+      {
+        "question": "Which Indian city is known as the 'Pink City'?",
+        "options": {
+          "opt5": "Jaipur",
+          "def": "Udaipur",
+          "xyz": "Jodhpur",
+          "abc": "Bikaner"
+        }
+      },
+      {
+        "question": "Which is the smallest state in India by area?",
+        "options": {
+          "def": "Sikkim",
+          "xyz": "Goa",
+          "opt5": "Goa",
+          "abc": "Tripura"
+        }
+      },
+      {
+        "question": "What is the national animal of India?",
+        "options": {
+          "def": "Lion",
+          "xyz": "Elephant",
+          "abc": "Leopard",
+          "opt5": "Tiger"
+        }
+      }
+    ],
+    "level2": [
+      {
+        "question": "Who was the first Indian woman to win a gold medal at the Olympics?",
+        "options": {
+          "def": "Mary Kom",
+          "opt5": "Karnam Malleswari",
+          "abc": "P.V. Sindhu"
+        }
+      },
+      {
+        "question": "Which is the tallest mountain peak in India?",
+        "options": {
+          "opt5": "Kanchenjunga",
+          "def": "Nanda Devi",
+          "abc": "Mount Everest"
+        }
+      },
+      {
+        "question": "True or False: The national sport of India is cricket.",
+        "options": {
+          "opt5": "False",
+          "xyz": "True"
+        }
+      },
+      {
+        "question": "Which Indian state is known for its tea gardens?",
+        "options": {
+          "opt5": "Assam",
+          "def": "Kerala",
+          "xyz": "Sikkim",
+          "abc": "Karnataka"
+        }
+      },
+      {
+        "question": "Which is the largest desert in India?",
+        "options": {
+          "def": "Kutch",
+          "xyz": "Ladakh",
+          "opt5": "Thar Desert",
+          "abc": "Great Indian Desert"
+        }
+      },
+      {
+        "question": "Who is known as the 'Missile Man of India'?",
+        "options": {
+          "xyz": "Homi Bhabha",
+          "def": "Vikram Sarabhai",
+          "abc": "Satish Dhawan",
+          "opt5": "A.P.J. Abdul Kalam"
+        }
+      },
+      {
+        "question": "Which Indian state is known as the 'Fruit Bowl of India'?",
+        "options": {
+          "def": "Maharashtra",
+          "opt5": "Himachal Pradesh",
+          "xyz": "Panjab",
+          "abc": "Uttar Pradesh"
+        }
+      },
+      {
+        "question": "Yes or No: Is the Indian Parliament located in New Delhi?",
+        "options": {
+          "opt5": "Yes",
+          "xyz": "No"
+        }
+      },
+      {
+        "question": "Who is the current Prime Minister of India as of 2021?",
+        "options": {
+          "def": "Manmohan Singh",
+          "xyz": "Rahul Gandhi",
+          "opt5": "Narendra Modi",
+          "abc": "Amit Shah"
+        }
+      },
+      {
+        "question": "Which Indian state is known for its textile industry?",
+        "options": {
+          "def": "Madhya Pradesh",
+          "xyz": "West Bengal",
+          "abc": "Tamil Nadu",
+          "opt5": "Gujarat"
+        }
+      },
+      {
+        "question": "Which state in India is known as 'God's Own Country'?",
+        "options": {
+          "opt5": "Kerala",
+          "def": "Goa",
+          "xyz": "Himachal Pradesh",
+          "abc": "Tamil Nadu"
+        }
+      },
+      {
+        "question": "True or False: The national flag of India has three horizontal stripes.",
+        "options": {
+          "opt5": "True",
+          "xyz": "False"
+        }
+      },
+      {
+        "question": "Which is the smallest Union Territory in India by area?",
+        "options": {
+          "def": "Chandigarh",
+          "xyz": "Puducherry",
+          "opt5": "Lakshadweep",
+          "abc": "Dadra and Nagar Haveli"
+        }
+      },
+      {
+        "question": "Which Indian state is known as the 'Land of Festivals'?",
+        "options": {
+          "def": "Rajasthan",
+          "opt5": "Nagaland",
+          "xyz": "Tamil Nadu",
+          "abc": "Punjab"
+        }
+      },
+      {
+        "question": "Who was the first Indian to receive the Nobel Prize in Literature?",
+        "options": {
+          "xyz": "C.V. Raman",
+          "def": "Amartya Sen",
+          "abc": "Mahatma Gandhi ji",
+          "opt5": "Rabindranath Tagore"
+        }
+      },
+      {
+        "question": "What is the official language of the Indian state of Goa?",
+        "options": {
+          "opt5": "Konkani",
+          "def": "Marathi",
+          "xyz": "Hindi",
+          "abc": "Gujarati"
+        }
+      },
+      {
+        "question": "Which state is famous for the 'Sundarbans' mangrove forest?",
+        "options": {
+          "def": "Kerala",
+          "xyz": "Tamil Nadu",
+          "abc": "Odisha",
+          "opt5": "West Bengal"
+        }
+      },
+      {
+        "question": "Yes or No: Is the 'Red Fort' located in Agra?",
+        "options": {
+          "opt5": "No",
+          "xyz": "Yes"
+        }
+      },
+      {
+        "question": "Which is the largest Indian state by population?",
+        "options": {
+          "xyz": "Bihar",
+          "def": "Maharashtra",
+          "opt5": "Uttar Pradesh",
+          "abc": "West Bengal"
+        }
+      },
+      {
+        "question": "Which Indian state is known for 'Chhath Puja'?",
+        "options": {
+          "def": "Odisha",
+          "opt5": "Bihar",
+          "xyz": "Jharkhand",
+          "abc": "Uttar Pradesh"
+        }
+      },
+      {
+        "question": "Which river is also known as the 'Sorrow of Bihar'?",
+        "options": {
+          "def": "Ganga",
+          "abc": "Yamuna",
+          "opt5": "Kosi"
+        }
+      },
+      {
+        "question": "Who was the first Indian woman to win the Booker Prize?",
+        "options": {
+          "def": "Aruni Riya",
+          "opt5": "Arundhati Roy",
+          "xyz": "Kiran Desai",
+          "abc": "Jhumpa Lahiri"
+        }
+      },
+      {
+        "question": "Which city is known as the 'Manchester of India'?",
+        "options": {
+          "def": "Mumbai",
+          "xyz": "Pune",
+          "abc": "Chennai",
+          "opt5": "Ahmedabad"
+        }
+      },
+      {
+        "question": "True or False: The Qutub Minar is located in Delhi.",
+        "options": {
+          "opt5": "True",
+          "xyz": "False"
+        }
+      }
+    ],
+    "level3": [
+      {
+        "question": "Which river is the longest in India?",
+        "options": {
+          "xyz": "Yamuna",
+          "opt5": "Ganga",
+          "def": "Godavari",
+          "abc": "Narmada"
+        }
+      },
+      {
+        "question": "Who was the first Indian woman in space?",
+        "options": {
+          "xyz": "Kalpana Williams",
+          "def": "Sunita Williams",
+          "abc": "Rakesh Sharma",
+          "opt5": "Kalpana Chawla"
+        }
+      },
+      {
+        "question": "True or False: The capital of Maharashtra is Mumbai.",
+        "options": {
+          "opt5": "True",
+          "xyz": "False"
+        }
+      },
+      {
+        "question": "Which state is known as the 'Spice Garden of India'?",
+        "options": {
+          "def": "Kerala",
+          "xyz": "Tamil Nadu",
+          "opt5": "Kerala",
+          "abc": "Karnataka"
+        }
+      },
+      {
+        "question": "Which Indian city is known as the 'City of Lakes'?",
+        "options": {
+          "def": "Jaipur",
+          "xyz": "Jodhpur",
+          "abc": "Nagpur",
+          "opt5": "Udaipur"
+        }
+      },
+      {
+        "question": "What is the currency of India?",
+        "options": {
+          "xyz": "Dollar",
+          "opt5": "Rupee",
+          "def": "Euro",
+          "abc": "Ruble"
+        }
+      },
+      {
+        "question": "Who is the author of the book 'India Wins Freedom'?",
+        "options": {
+          "def": "Jawaharlal Nehru",
+          "opt5": "Maulana Abul Kalam Azad",
+          "xyz": "Mahatma Gandhi",
+          "abc": "Sardar Patel"
+        }
+      },
+      {
+        "question": "Yes or No: Is India a federal republic?",
+        "options": {
+          "opt5": "Yes",
+          "xyz": "No"
+        }
+      },
+      {
+        "question": "Which Indian state is known for the dance form 'Kathakali'?",
+        "options": {
+          "def": "Tamil Nadu",
+          "xyz": "Andhra Pradesh",
+          "opt5": "Kerala",
+          "abc": "Karnataka"
+        }
+      },
+      {
+        "question": "Who built the Red Fort in Delhi?",
+        "options": {
+          "def": "Humayun",
+          "opt5": "Shah Jahan",
+          "xyz": "Akbar",
+          "abc": "Aurangzeb"
+        }
+      },
+      {
+        "question": "Which state is the largest producer of coffee in India?",
+        "options": {
+          "opt5": "Karnataka",
+          "xyz": "Tamil Nadu",
+          "def": "Andhra Pradesh",
+          "abc": "Kerala"
+        }
+      },
+      {
+        "question": "Who is known as the 'Iron Man of India'?",
+        "options": {
+          "def": "Mahatma Gandhi",
+          "xyz": "Jawaharlal Nehru",
+          "opt5": "Sardar Patel",
+          "abc": "Bhagat Singh"
+        }
+      },
+      {
+        "question": "True or False: The state flower of Haryana is the Lotus.",
+        "options": {
+          "opt5": "False",
+          "xyz": "True"
+        }
+      },
+      {
+        "question": "Which state is known as the 'Land of Five Rivers'?",
+        "options": {
+          "opt5": "Punjab",
+          "def": "Haryana",
+          "xyz": "Gujarat",
+          "abc": "Punjab"
+        }
+      },
+      {
+        "question": "Which is the highest civilian award in India?",
+        "options": {
+          "xyz": "Padma Shri",
+          "def": "Padma Bhushan",
+          "opt5": "Bharat Ratna",
+          "abc": "Padma Vibhushan"
+        }
+      },
+      {
+        "question": "Who is the first Indian to win a Nobel Prize?",
+        "options": {
+          "def": "Mother Teresa",
+          "xyz": "C.V. Raman",
+          "abc": "Hargobind Khorana",
+          "opt5": "Rabindranath Tagore"
+        }
+      },
+      {
+        "question": "Which city is known as the 'Diamond City of India'?",
+        "options": {
+          "xyz": "Mumbai",
+          "opt5": "Surat",
+          "def": "Pune",
+          "abc": "Chennai"
+        }
+      },
+      {
+        "question": "Which is the national tree of India?",
+        "options": {
+          "opt5": "Banyan",
+          "def": "Neem",
+          "xyz": "Peepal",
+          "abc": "Bamboo"
+        }
+      },
+      {
+        "question": "What is the primary language spoken in the state of Karnataka?",
+        "options": {
+          "xyz": "Tamil",
+          "def": "Telugu",
+          "abc": "Marathi",
+          "opt5": "Kannada"
+        }
+      },
+      {
+        "question": "Yes or No: Is the Mughal Garden (now, 'Amrit Udyan') located in the Rashtrapati Bhavan?",
+        "options": {
+          "opt5": "Yes",
+          "xyz": "No"
+        }
+      },
+      {
+        "question": "Which Indian state has the highest population?",
+        "options": {
+          "xyz": "Bihar",
+          "def": "Maharashtra",
+          "opt5": "Uttar Pradesh",
+          "abc": "West Bengal"
+        }
+      },
+      {
+        "question": "Which river flows through the city of Varanasi?",
+        "options": {
+          "xyz": "Yamuna",
+          "def": "Godavari",
+          "abc": "Kaveri",
+          "opt5": "Ganga"
+        }
+      },
+      {
+        "question": "Who was the first Indian to go to space?",
+        "options": {
+          "def": "Sunita Williams",
+          "xyz": "Kalpana Chawla",
+          "abc": "Ravish Malhotra",
+          "opt5": "Rakesh Sharma"
+        }
+      },
+      {
+        "question": "Which city is known as the 'City of Joy'?",
+        "options": {
+          "opt5": "Kolkata",
+          "def": "Mumbai",
+          "xyz": "Delhi",
+          "abc": "Bangalore"
+        }
+      },
+      {
+        "question": "What is the national fruit of India?",
+        "options": {
+          "xyz": "Apple",
+          "def": "Banana",
+          "opt5": "Mango",
+          "abc": "Grapes"
+        }
+      }
+    ]
+  }
 }

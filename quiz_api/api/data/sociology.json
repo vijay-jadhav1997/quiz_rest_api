@@ -1,175 +1,178 @@
 {
-  "level1": [
-    {
-      "question": "Sociology is the study of social behavior and society.",
-      "options": {
-        "xycd": "False",
-        "opt5": "True"
+  "topic": "Sociology",
+  "levels":{
+    "level1": [
+      {
+        "question": "Sociology is the study of social behavior and society.",
+        "options": {
+          "xycd": "False",
+          "opt5": "True"
+        }
+      },
+      {
+        "question": "Who is known as the father of Sociology?",
+        "options": {
+          "xycd": "Karl Marx",
+          "opt5": "Auguste Comte",
+          "inc": "Max Weber",
+          "ct3": "Émile Durkheim"
+        }
+      },
+      {
+        "question": "Does sociology primarily focus on the study of individual behavior?",
+        "options": {
+          "xycd": "Yes",
+          "opt5": "No"
+        }
+      },
+      {
+        "question": "The term 'sociology' was first coined by which French philosopher?",
+        "options": {
+          "opt5": "Auguste Comte",
+          "trs": "Max Weber",
+          "cbd": "Émile Durkheim"
+        }
+      },
+      {
+        "question": "Which of the following is NOT a major theoretical perspective in sociology?",
+        "options": {
+          "trs": "Symbolic Interactionism",
+          "opt5": "Behaviorism",
+          "cbd": "Functionalism",
+          "lmn": "Conflict Theory"
+        }
+      },
+      {
+        "question": "What is a social institution?",
+        "options": {
+          "xyz": "A family member",
+          "bcd": "A large building",
+          "opt5": "An established and organized system of social behavior",
+          "lmn": "A government office"
+        }
+      },
+      {
+        "question": "In sociology, 'anomie' refers to:",
+        "options": {
+          "abc": "A type of social inequality",
+          "opt5": "A state of normlessness",
+          "def": "A kind of social harmony",
+          "ghi": "An economic downturn"
+        }
+      },
+      {
+        "question": "Who wrote 'The Protestant Ethic and the Spirit of Capitalism'?",
+        "options": {
+          "trs": "Karl Marx",
+          "cbd": "Auguste Comte",
+          "abc": "Émile Durkheim",
+          "opt5": "Max Weber"
+        }
+      },
+      {
+        "question": "The sociological imagination is a concept introduced by which sociologist?",
+        "options": {
+          "xyz": "Émile Durkheim",
+          "opt5": "C. Wright Mills",
+          "bcd": "George Herbert Mead",
+          "abc": "Max Weber"
+        }
+      },
+      {
+        "question": "Is 'ethnocentrism' the practice of judging another culture by the standards of one's own culture?",
+        "options": {
+          "xycd": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "What does the term 'socialization' refer to?",
+        "options": {
+          "xycd": "The process by which individuals learn and adopt the values and norms of their culture",
+          "opt5": "The process of interacting with others in a social setting",
+          "inc": "The act of socializing with friends",
+          "ct3": "A type of economic transaction"
+        }
+      },
+      {
+        "question": "A 'norm' in sociology is:",
+        "options": {
+          "trs": "A typical behavior in society",
+          "cbd": "A rule or guideline regarding what is considered acceptable behavior",
+          "opt5": "A law",
+          "abc": "An average value"
+        }
+      },
+      {
+        "question": "Who is known for developing the concept of 'social facts'?",
+        "options": {
+          "opt5": "Émile Durkheim",
+          "trs": "Karl Marx",
+          "cbd": "Max Weber",
+          "lmn": "Auguste Comte"
+        }
+      },
+      {
+        "question": "The term 'double consciousness' is associated with which sociologist?",
+        "options": {
+          "abc": "W.E.B. Du Bois",
+          "opt5": "Émile Durkheim",
+          "def": "Max Weber",
+          "ghi": "Karl Marx"
+        }
+      },
+      {
+        "question": "What is the focus of conflict theory?",
+        "options": {
+          "abc": "Social harmony",
+          "opt5": "Power and inequality",
+          "def": "Symbolic interaction",
+          "ghi": "Functional stability"
+        }
+      },
+      {
+        "question": "Is 'symbolic interactionism' a theoretical perspective that focuses on the meanings individuals attach to their social world?",
+        "options": {
+          "xycd": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "Which sociologist is associated with the idea of 'verstehen'?",
+        "options": {
+          "trs": "Karl Marx",
+          "cbd": "Émile Durkheim",
+          "abc": "Auguste Comte",
+          "opt5": "Max Weber"
+        }
+      },
+      {
+        "question": "What does the term 'bureaucracy' refer to in sociology?",
+        "options": {
+          "xycd": "A type of economic system",
+          "opt5": "A formal organization with a hierarchy of authority",
+          "inc": "A form of political rebellion",
+          "ct3": "An informal social group"
+        }
+      },
+      {
+        "question": "Who introduced the concept of the 'looking glass self'?",
+        "options": {
+          "opt5": "Charles Cooley",
+          "trs": "Karl Marx",
+          "abc": "George Herbert Mead",
+          "cbd": "Émile Durkheim"
+        }
+      },
+      {
+        "question": "What is the sociological term for a society's framework of institutions, organizations, and social practices that shape the activities of individuals and groups?",
+        "options": {
+          "xycd": "Social norms",
+          "inc": "Cultural values",
+          "opt5": "Social structure",
+          "ct3": "Economic system"
+        }
       }
-    },
-    {
-      "question": "Who is known as the father of Sociology?",
-      "options": {
-        "xycd": "Karl Marx",
-        "opt5": "Auguste Comte",
-        "inc": "Max Weber",
-        "ct3": "Émile Durkheim"
-      }
-    },
-    {
-      "question": "Does sociology primarily focus on the study of individual behavior?",
-      "options": {
-        "xycd": "Yes",
-        "opt5": "No"
-      }
-    },
-    {
-      "question": "The term 'sociology' was first coined by which French philosopher?",
-      "options": {
-        "opt5": "Auguste Comte",
-        "trs": "Max Weber",
-        "cbd": "Émile Durkheim"
-      }
-    },
-    {
-      "question": "Which of the following is NOT a major theoretical perspective in sociology?",
-      "options": {
-        "trs": "Symbolic Interactionism",
-        "opt5": "Behaviorism",
-        "cbd": "Functionalism",
-        "lmn": "Conflict Theory"
-      }
-    },
-    {
-      "question": "What is a social institution?",
-      "options": {
-        "xyz": "A family member",
-        "bcd": "A large building",
-        "opt5": "An established and organized system of social behavior",
-        "lmn": "A government office"
-      }
-    },
-    {
-      "question": "In sociology, 'anomie' refers to:",
-      "options": {
-        "abc": "A type of social inequality",
-        "opt5": "A state of normlessness",
-        "def": "A kind of social harmony",
-        "ghi": "An economic downturn"
-      }
-    },
-    {
-      "question": "Who wrote 'The Protestant Ethic and the Spirit of Capitalism'?",
-      "options": {
-        "trs": "Karl Marx",
-        "cbd": "Auguste Comte",
-        "abc": "Émile Durkheim",
-        "opt5": "Max Weber"
-      }
-    },
-    {
-      "question": "The sociological imagination is a concept introduced by which sociologist?",
-      "options": {
-        "xyz": "Émile Durkheim",
-        "opt5": "C. Wright Mills",
-        "bcd": "George Herbert Mead",
-        "abc": "Max Weber"
-      }
-    },
-    {
-      "question": "Is 'ethnocentrism' the practice of judging another culture by the standards of one's own culture?",
-      "options": {
-        "xycd": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "What does the term 'socialization' refer to?",
-      "options": {
-        "xycd": "The process by which individuals learn and adopt the values and norms of their culture",
-        "opt5": "The process of interacting with others in a social setting",
-        "inc": "The act of socializing with friends",
-        "ct3": "A type of economic transaction"
-      }
-    },
-    {
-      "question": "A 'norm' in sociology is:",
-      "options": {
-        "trs": "A typical behavior in society",
-        "cbd": "A rule or guideline regarding what is considered acceptable behavior",
-        "opt5": "A law",
-        "abc": "An average value"
-      }
-    },
-    {
-      "question": "Who is known for developing the concept of 'social facts'?",
-      "options": {
-        "opt5": "Émile Durkheim",
-        "trs": "Karl Marx",
-        "cbd": "Max Weber",
-        "lmn": "Auguste Comte"
-      }
-    },
-    {
-      "question": "The term 'double consciousness' is associated with which sociologist?",
-      "options": {
-        "abc": "W.E.B. Du Bois",
-        "opt5": "Émile Durkheim",
-        "def": "Max Weber",
-        "ghi": "Karl Marx"
-      }
-    },
-    {
-      "question": "What is the focus of conflict theory?",
-      "options": {
-        "abc": "Social harmony",
-        "opt5": "Power and inequality",
-        "def": "Symbolic interaction",
-        "ghi": "Functional stability"
-      }
-    },
-    {
-      "question": "Is 'symbolic interactionism' a theoretical perspective that focuses on the meanings individuals attach to their social world?",
-      "options": {
-        "xycd": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "Which sociologist is associated with the idea of 'verstehen'?",
-      "options": {
-        "trs": "Karl Marx",
-        "cbd": "Émile Durkheim",
-        "abc": "Auguste Comte",
-        "opt5": "Max Weber"
-      }
-    },
-    {
-      "question": "What does the term 'bureaucracy' refer to in sociology?",
-      "options": {
-        "xycd": "A type of economic system",
-        "opt5": "A formal organization with a hierarchy of authority",
-        "inc": "A form of political rebellion",
-        "ct3": "An informal social group"
-      }
-    },
-    {
-      "question": "Who introduced the concept of the 'looking glass self'?",
-      "options": {
-        "opt5": "Charles Cooley",
-        "trs": "Karl Marx",
-        "abc": "George Herbert Mead",
-        "cbd": "Émile Durkheim"
-      }
-    },
-    {
-      "question": "What is the sociological term for a society's framework of institutions, organizations, and social practices that shape the activities of individuals and groups?",
-      "options": {
-        "xycd": "Social norms",
-        "inc": "Cultural values",
-        "opt5": "Social structure",
-        "ct3": "Economic system"
-      }
-    }
-  ]
+    ]
+  }
 }

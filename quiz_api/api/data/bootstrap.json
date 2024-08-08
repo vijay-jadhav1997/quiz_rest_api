@@ -1,227 +1,230 @@
 {
-  "level1": [
-    {
-      "question": "Bootstrap is a framework developed by Google.",
-      "options": {
-        "opt5": "False",
-        "tag": "True"
+  "topic": "Bootstrap",
+  "levels":{
+    "level1": [
+      {
+        "question": "Bootstrap is a framework developed by Google.",
+        "options": {
+          "opt5": "False",
+          "tag": "True"
+        }
+      },
+      {
+        "question": "What is the primary purpose of Bootstrap?",
+        "options": {
+          "abc": "To create mobile apps",
+          "xyz": "To design databases",
+          "def": "To build responsive websites",
+          "opt5": "To build responsive websites"
+        }
+      },
+      {
+        "question": "Does Bootstrap include a CSS grid system?",
+        "options": {
+          "abc": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "Bootstrap's default grid system is based on how many columns?",
+        "options": {
+          "xycd": 12,
+          "opt5": 12,
+          "abc": 16,
+          "def": 24
+        }
+      },
+      {
+        "question": "Which component in Bootstrap allows you to create a navigation bar?",
+        "options": {
+          "xyz": "Alerts",
+          "abc": "Buttons",
+          "opt5": "Navbar",
+          "def": "Cards"
+        }
+      },
+      {
+        "question": "Bootstrap 4 introduced the flexbox grid system.",
+        "options": {
+          "opt5": "True",
+          "tag": "False"
+        }
+      },
+      {
+        "question": "Which class is used for creating a responsive image in Bootstrap?",
+        "options": {
+          "abc": "img-responsive",
+          "xyz": "img-fluid",
+          "def": "img-responsive",
+          "opt5": "img-fluid"
+        }
+      },
+      {
+        "question": "Does Bootstrap have built-in support for JavaScript?",
+        "options": {
+          "abc": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "What is the latest major version of Bootstrap?",
+        "options": {
+          "def": "Bootstrap 2",
+          "xyz": "Bootstrap 3",
+          "opt5": "Bootstrap 5",
+          "abc": "Bootstrap 4"
+        }
+      },
+      {
+        "question": "Bootstrap's modal component can be used to create dialogs and popups.",
+        "options": {
+          "opt5": "True",
+          "tag": "False"
+        }
+      },
+      {
+        "question": "Which class in Bootstrap provides a button with primary styling?",
+        "options": {
+          "abc": "btn-secondary",
+          "opt5": "btn-primary",
+          "xyz": "btn-info",
+          "def": "btn-warning"
+        }
+      },
+      {
+        "question": "Bootstrap uses which front-end language for its design?",
+        "options": {
+          "xyz": "JavaScript",
+          "def": "Python",
+          "abc": "Ruby",
+          "opt5": "CSS"
+        }
+      },
+      {
+        "question": "Which class is used for a grid container in Bootstrap?",
+        "options": {
+          "xyz": "container-fluid",
+          "opt5": "container",
+          "abc": "wrapper",
+          "def": "box"
+        }
+      },
+      {
+        "question": "Can you customize Bootstrap's default styles?",
+        "options": {
+          "abc": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "Bootstrap's tooltip component is used for providing additional information.",
+        "options": {
+          "opt5": "True",
+          "tag": "False"
+        }
+      },
+      {
+        "question": "Which of the following is a valid Bootstrap color class?",
+        "options": {
+          "xyz": "bg-primary",
+          "def": "bg-success",
+          "opt5": "bg-info",
+          "abc": "bg-default"
+        }
+      },
+      {
+        "question": "What does the `.container-fluid` class do in Bootstrap?",
+        "options": {
+          "abc": "Provides a fixed-width container",
+          "opt5": "Provides a full-width container",
+          "xyz": "Adds padding to the container",
+          "def": "Centers the content"
+        }
+      },
+      {
+        "question": "Does Bootstrap support responsive design?",
+        "options": {
+          "abc": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "Which class is used for creating a Bootstrap card?",
+        "options": {
+          "abc": "card-container",
+          "xyz": "card-wrapper",
+          "def": "card-item",
+          "opt5": "card"
+        }
+      },
+      {
+        "question": "Bootstrap 4 dropped support for which version of IE?",
+        "options": {
+          "abc": "IE 9",
+          "opt5": "IE 8",
+          "xyz": "IE 10",
+          "def": "IE 11"
+        }
+      },
+      {
+        "question": "Bootstrap uses which CSS preprocessor?",
+        "options": {
+          "def": "Less",
+          "abc": "Sass",
+          "xyz": "Stylus",
+          "opt5": "Sass"
+        }
+      },
+      {
+        "question": "Does Bootstrap's dropdown component use JavaScript for its functionality?",
+        "options": {
+          "abc": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "Which class would you use to center text in Bootstrap?",
+        "options": {
+          "xyz": "text-left",
+          "def": "text-right",
+          "opt5": "text-center",
+          "abc": "text-middle"
+        }
+      },
+      {
+        "question": "Bootstrap's grid system includes classes for how many responsive breakpoints?",
+        "options": {
+          "opt5": 6,
+          "abc": 4,
+          "def": 5,
+          "xyz": 3
+        }
+      },
+      {
+        "question": "Which class is used to make a button disabled in Bootstrap?",
+        "options": {
+          "abc": "btn-inactive",
+          "opt5": "btn-secondary",
+          "xyz": "btn-disabled",
+          "def": "btn-disabled"
+        }
+      },
+      {
+        "question": "Bootstrap's carousel component is used to display a series of images or content.",
+        "options": {
+          "opt5": "True",
+          "tag": "False"
+        }
+      },
+      {
+        "question": "What is the Bootstrap class for adding a margin to an element?",
+        "options": {
+          "xyz": "m-0",
+          "abc": "margin",
+          "opt5": "m-3",
+          "def": "m-auto"
+        }
       }
-    },
-    {
-      "question": "What is the primary purpose of Bootstrap?",
-      "options": {
-        "abc": "To create mobile apps",
-        "xyz": "To design databases",
-        "def": "To build responsive websites",
-        "opt5": "To build responsive websites"
-      }
-    },
-    {
-      "question": "Does Bootstrap include a CSS grid system?",
-      "options": {
-        "abc": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "Bootstrap's default grid system is based on how many columns?",
-      "options": {
-        "xycd": 12,
-        "opt5": 12,
-        "abc": 16,
-        "def": 24
-      }
-    },
-    {
-      "question": "Which component in Bootstrap allows you to create a navigation bar?",
-      "options": {
-        "xyz": "Alerts",
-        "abc": "Buttons",
-        "opt5": "Navbar",
-        "def": "Cards"
-      }
-    },
-    {
-      "question": "Bootstrap 4 introduced the flexbox grid system.",
-      "options": {
-        "opt5": "True",
-        "tag": "False"
-      }
-    },
-    {
-      "question": "Which class is used for creating a responsive image in Bootstrap?",
-      "options": {
-        "abc": "img-responsive",
-        "xyz": "img-fluid",
-        "def": "img-responsive",
-        "opt5": "img-fluid"
-      }
-    },
-    {
-      "question": "Does Bootstrap have built-in support for JavaScript?",
-      "options": {
-        "abc": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "What is the latest major version of Bootstrap?",
-      "options": {
-        "def": "Bootstrap 2",
-        "xyz": "Bootstrap 3",
-        "opt5": "Bootstrap 5",
-        "abc": "Bootstrap 4"
-      }
-    },
-    {
-      "question": "Bootstrap's modal component can be used to create dialogs and popups.",
-      "options": {
-        "opt5": "True",
-        "tag": "False"
-      }
-    },
-    {
-      "question": "Which class in Bootstrap provides a button with primary styling?",
-      "options": {
-        "abc": "btn-secondary",
-        "opt5": "btn-primary",
-        "xyz": "btn-info",
-        "def": "btn-warning"
-      }
-    },
-    {
-      "question": "Bootstrap uses which front-end language for its design?",
-      "options": {
-        "xyz": "JavaScript",
-        "def": "Python",
-        "abc": "Ruby",
-        "opt5": "CSS"
-      }
-    },
-    {
-      "question": "Which class is used for a grid container in Bootstrap?",
-      "options": {
-        "xyz": "container-fluid",
-        "opt5": "container",
-        "abc": "wrapper",
-        "def": "box"
-      }
-    },
-    {
-      "question": "Can you customize Bootstrap's default styles?",
-      "options": {
-        "abc": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "Bootstrap's tooltip component is used for providing additional information.",
-      "options": {
-        "opt5": "True",
-        "tag": "False"
-      }
-    },
-    {
-      "question": "Which of the following is a valid Bootstrap color class?",
-      "options": {
-        "xyz": "bg-primary",
-        "def": "bg-success",
-        "opt5": "bg-info",
-        "abc": "bg-default"
-      }
-    },
-    {
-      "question": "What does the `.container-fluid` class do in Bootstrap?",
-      "options": {
-        "abc": "Provides a fixed-width container",
-        "opt5": "Provides a full-width container",
-        "xyz": "Adds padding to the container",
-        "def": "Centers the content"
-      }
-    },
-    {
-      "question": "Does Bootstrap support responsive design?",
-      "options": {
-        "abc": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "Which class is used for creating a Bootstrap card?",
-      "options": {
-        "abc": "card-container",
-        "xyz": "card-wrapper",
-        "def": "card-item",
-        "opt5": "card"
-      }
-    },
-    {
-      "question": "Bootstrap 4 dropped support for which version of IE?",
-      "options": {
-        "abc": "IE 9",
-        "opt5": "IE 8",
-        "xyz": "IE 10",
-        "def": "IE 11"
-      }
-    },
-    {
-      "question": "Bootstrap uses which CSS preprocessor?",
-      "options": {
-        "def": "Less",
-        "abc": "Sass",
-        "xyz": "Stylus",
-        "opt5": "Sass"
-      }
-    },
-    {
-      "question": "Does Bootstrap's dropdown component use JavaScript for its functionality?",
-      "options": {
-        "abc": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "Which class would you use to center text in Bootstrap?",
-      "options": {
-        "xyz": "text-left",
-        "def": "text-right",
-        "opt5": "text-center",
-        "abc": "text-middle"
-      }
-    },
-    {
-      "question": "Bootstrap's grid system includes classes for how many responsive breakpoints?",
-      "options": {
-        "opt5": 6,
-        "abc": 4,
-        "def": 5,
-        "xyz": 3
-      }
-    },
-    {
-      "question": "Which class is used to make a button disabled in Bootstrap?",
-      "options": {
-        "abc": "btn-inactive",
-        "opt5": "btn-secondary",
-        "xyz": "btn-disabled",
-        "def": "btn-disabled"
-      }
-    },
-    {
-      "question": "Bootstrap's carousel component is used to display a series of images or content.",
-      "options": {
-        "opt5": "True",
-        "tag": "False"
-      }
-    },
-    {
-      "question": "What is the Bootstrap class for adding a margin to an element?",
-      "options": {
-        "xyz": "m-0",
-        "abc": "margin",
-        "opt5": "m-3",
-        "def": "m-auto"
-      }
-    }
-  ]
+    ]
+  }
 }

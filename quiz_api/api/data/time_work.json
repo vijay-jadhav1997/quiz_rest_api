@@ -1,216 +1,219 @@
 {
-  "level1": [
-    {
-      "question": "Can two people working together complete a task faster than one person alone?",
-      "options": {
-        "tag": "No",
-        "opt5": "Yes"
+  "topic": "Time & Work",
+  "levels":{
+    "level1": [
+      {
+        "question": "Can two people working together complete a task faster than one person alone?",
+        "options": {
+          "tag": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "If A can complete a task in 5 days and B can complete the same task in 10 days, how long will it take for both A and B to complete the task together?",
+        "options": {
+          "xycd": "3 days",
+          "opt5": "3.33 days",
+          "inc": "4 days",
+          "ct3": "5 days"
+        }
+      },
+      {
+        "question": "If it takes 4 workers 10 days to complete a job, how long will it take 8 workers to complete the same job?",
+        "options": {
+          "opt5": "5 days",
+          "xycd": "5 days",
+          "inc": "8 days",
+          "ct3": "10 days"
+        }
+      },
+      {
+        "question": "A and B can complete a work together in 12 days. If A alone can complete it in 20 days, how many days will B take to complete it alone?",
+        "options": {
+          "trs": "30 days",
+          "cbd": "40 days",
+          "opt5": "30 days",
+          "hkl": "24 days"
+        }
+      },
+      {
+        "question": "Is it true that if one person can do a job faster than another, they are more efficient?",
+        "options": {
+          "tag": "False",
+          "opt5": "True"
+        }
+      },
+      {
+        "question": "If a task takes 6 hours for 3 people to complete, how long would it take for 6 people to complete the same task?",
+        "options": {
+          "trs": "2 hours",
+          "opt5": "3 hours",
+          "hkl": "6 hours"
+        }
+      },
+      {
+        "question": "A worker is paid $300 for a task. If the worker takes 15 days to complete the task, what is their daily wage?",
+        "options": {
+          "opt5": "$20",
+          "tag": "$20",
+          "hkl": "$25"
+        }
+      },
+      {
+        "question": "If 10 workers can build a wall in 8 days, how many days will 5 workers take to build the same wall?",
+        "options": {
+          "trs": "12 days",
+          "hkl": "16 days",
+          "opt5": "16 days"
+        }
+      },
+      {
+        "question": "If A and B together can complete a task in 6 days, and A alone can complete it in 9 days, how long will it take B to complete it alone?",
+        "options": {
+          "trs": "12 days",
+          "cbd": "18 days",
+          "opt5": "18 days",
+          "hkl": "27 days"
+        }
+      },
+      {
+        "question": "Does doubling the number of workers always halve the time required to complete a job?",
+        "options": {
+          "trs": "No",
+          "opt5": "No",
+          "hkl": "Yes"
+        }
+      },
+      {
+        "question": "If one person can complete a job in 24 hours, how many people would it take to complete the same job in 6 hours?",
+        "options": {
+          "opt5": "4 people",
+          "trs": "4 people",
+          "hkl": "6 people"
+        }
+      },
+      {
+        "question": "If two workers can complete a task in 8 hours, how long will it take for four workers to complete the same task?",
+        "options": {
+          "trs": "4 hours",
+          "cbd": "6 hours",
+          "opt5": "4 hours",
+          "hkl": "8 hours"
+        }
+      },
+      {
+        "question": "If A can do a job in 10 days and B can do the same job in 15 days, how long will it take for both of them working together to complete it?",
+        "options": {
+          "trs": "6 days",
+          "opt5": "6 days",
+          "hkl": "8 days",
+          "cbd": "12 days"
+        }
+      },
+      {
+        "question": "Is it true that if more workers are added to a job, the time required to complete it decreases proportionally?",
+        "options": {
+          "opt5": "True",
+          "trs": "False"
+        }
+      },
+      {
+        "question": "If a job takes 20 hours for 5 workers to complete, how many hours would it take for 10 workers to complete the job?",
+        "options": {
+          "trs": "10 hours",
+          "hkl": "5 hours",
+          "opt5": "10 hours",
+          "cbd": "15 hours"
+        }
+      },
+      {
+        "question": "If 3 workers can complete a task in 9 hours, how long will it take 1 worker to complete the task alone?",
+        "options": {
+          "trs": "27 hours",
+          "hkl": "18 hours",
+          "opt5": "27 hours",
+          "cbd": "9 hours"
+        }
+      },
+      {
+        "question": "If A can complete a work in 10 days and B in 15 days, how long will they take to complete it together?",
+        "options": {
+          "opt5": "6 days",
+          "trs": "6 days",
+          "hkl": "8 days",
+          "cbd": "5 days"
+        }
+      },
+      {
+        "question": "If it takes 4 workers 10 days to complete a job, how long will it take 8 workers to complete the same job?",
+        "options": {
+          "trs": "5 days",
+          "hkl": "4 days",
+          "opt5": "5 days",
+          "cbd": "10 days"
+        }
+      },
+      {
+        "question": "Can the work be completed faster if the efficiency of the workers increases?",
+        "options": {
+          "trs": "Yes",
+          "opt5": "Yes",
+          "hkl": "No"
+        }
+      },
+      {
+        "question": "If A and B can complete a work together in 12 days. If A alone can complete it in 20 days, how many days will B take to complete it alone?",
+        "options": {
+          "trs": "30 days",
+          "opt5": "30 days",
+          "hkl": "40 days",
+          "cbd": "24 days"
+        }
+      },
+      {
+        "question": "If A, B, and C can complete a task in 6 days, and A alone can complete it in 12 days, how long will it take for B and C to complete the task together?",
+        "options": {
+          "trs": "6 days",
+          "hkl": "8 days",
+          "opt5": "6 days",
+          "cbd": "12 days"
+        }
+      },
+      {
+        "question": "If a person can complete a job in 24 hours, how many people are needed to complete the job in 6 hours?",
+        "options": {
+          "trs": "4 people",
+          "opt5": "4 people",
+          "hkl": "3 people"
+        }
+      },
+      {
+        "question": "If two workers can complete a task in 8 hours, how long will it take for four workers to complete the same task?",
+        "options": {
+          "trs": "4 hours",
+          "hkl": "2 hours",
+          "cbd": "6 hours",
+          "opt5": "4 hours"
+        }
+      },
+      {
+        "question": "If 3 workers can complete a task in 12 hours, how long will it take for 6 workers to complete the same task?",
+        "options": {
+          "trs": "6 hours",
+          "opt5": "6 hours",
+          "hkl": "4 hours",
+          "cbd": "8 hours"
+        }
+      },
+      {
+        "question": "If A can complete a task in 5 days and B in 10 days, how long will it take for both A and B to complete the task together?",
+        "options": {
+          "opt5": "3.33 days",
+          "trs": "3.33 days",
+          "hkl": "4 days",
+          "cbd": "5 days"
+        }
       }
-    },
-    {
-      "question": "If A can complete a task in 5 days and B can complete the same task in 10 days, how long will it take for both A and B to complete the task together?",
-      "options": {
-        "xycd": "3 days",
-        "opt5": "3.33 days",
-        "inc": "4 days",
-        "ct3": "5 days"
-      }
-    },
-    {
-      "question": "If it takes 4 workers 10 days to complete a job, how long will it take 8 workers to complete the same job?",
-      "options": {
-        "opt5": "5 days",
-        "xycd": "5 days",
-        "inc": "8 days",
-        "ct3": "10 days"
-      }
-    },
-    {
-      "question": "A and B can complete a work together in 12 days. If A alone can complete it in 20 days, how many days will B take to complete it alone?",
-      "options": {
-        "trs": "30 days",
-        "cbd": "40 days",
-        "opt5": "30 days",
-        "hkl": "24 days"
-      }
-    },
-    {
-      "question": "Is it true that if one person can do a job faster than another, they are more efficient?",
-      "options": {
-        "tag": "False",
-        "opt5": "True"
-      }
-    },
-    {
-      "question": "If a task takes 6 hours for 3 people to complete, how long would it take for 6 people to complete the same task?",
-      "options": {
-        "trs": "2 hours",
-        "opt5": "3 hours",
-        "hkl": "6 hours"
-      }
-    },
-    {
-      "question": "A worker is paid $300 for a task. If the worker takes 15 days to complete the task, what is their daily wage?",
-      "options": {
-        "opt5": "$20",
-        "tag": "$20",
-        "hkl": "$25"
-      }
-    },
-    {
-      "question": "If 10 workers can build a wall in 8 days, how many days will 5 workers take to build the same wall?",
-      "options": {
-        "trs": "12 days",
-        "hkl": "16 days",
-        "opt5": "16 days"
-      }
-    },
-    {
-      "question": "If A and B together can complete a task in 6 days, and A alone can complete it in 9 days, how long will it take B to complete it alone?",
-      "options": {
-        "trs": "12 days",
-        "cbd": "18 days",
-        "opt5": "18 days",
-        "hkl": "27 days"
-      }
-    },
-    {
-      "question": "Does doubling the number of workers always halve the time required to complete a job?",
-      "options": {
-        "trs": "No",
-        "opt5": "No",
-        "hkl": "Yes"
-      }
-    },
-    {
-      "question": "If one person can complete a job in 24 hours, how many people would it take to complete the same job in 6 hours?",
-      "options": {
-        "opt5": "4 people",
-        "trs": "4 people",
-        "hkl": "6 people"
-      }
-    },
-    {
-      "question": "If two workers can complete a task in 8 hours, how long will it take for four workers to complete the same task?",
-      "options": {
-        "trs": "4 hours",
-        "cbd": "6 hours",
-        "opt5": "4 hours",
-        "hkl": "8 hours"
-      }
-    },
-    {
-      "question": "If A can do a job in 10 days and B can do the same job in 15 days, how long will it take for both of them working together to complete it?",
-      "options": {
-        "trs": "6 days",
-        "opt5": "6 days",
-        "hkl": "8 days",
-        "cbd": "12 days"
-      }
-    },
-    {
-      "question": "Is it true that if more workers are added to a job, the time required to complete it decreases proportionally?",
-      "options": {
-        "opt5": "True",
-        "trs": "False"
-      }
-    },
-    {
-      "question": "If a job takes 20 hours for 5 workers to complete, how many hours would it take for 10 workers to complete the job?",
-      "options": {
-        "trs": "10 hours",
-        "hkl": "5 hours",
-        "opt5": "10 hours",
-        "cbd": "15 hours"
-      }
-    },
-    {
-      "question": "If 3 workers can complete a task in 9 hours, how long will it take 1 worker to complete the task alone?",
-      "options": {
-        "trs": "27 hours",
-        "hkl": "18 hours",
-        "opt5": "27 hours",
-        "cbd": "9 hours"
-      }
-    },
-    {
-      "question": "If A can complete a work in 10 days and B in 15 days, how long will they take to complete it together?",
-      "options": {
-        "opt5": "6 days",
-        "trs": "6 days",
-        "hkl": "8 days",
-        "cbd": "5 days"
-      }
-    },
-    {
-      "question": "If it takes 4 workers 10 days to complete a job, how long will it take 8 workers to complete the same job?",
-      "options": {
-        "trs": "5 days",
-        "hkl": "4 days",
-        "opt5": "5 days",
-        "cbd": "10 days"
-      }
-    },
-    {
-      "question": "Can the work be completed faster if the efficiency of the workers increases?",
-      "options": {
-        "trs": "Yes",
-        "opt5": "Yes",
-        "hkl": "No"
-      }
-    },
-    {
-      "question": "If A and B can complete a work together in 12 days. If A alone can complete it in 20 days, how many days will B take to complete it alone?",
-      "options": {
-        "trs": "30 days",
-        "opt5": "30 days",
-        "hkl": "40 days",
-        "cbd": "24 days"
-      }
-    },
-    {
-      "question": "If A, B, and C can complete a task in 6 days, and A alone can complete it in 12 days, how long will it take for B and C to complete the task together?",
-      "options": {
-        "trs": "6 days",
-        "hkl": "8 days",
-        "opt5": "6 days",
-        "cbd": "12 days"
-      }
-    },
-    {
-      "question": "If a person can complete a job in 24 hours, how many people are needed to complete the job in 6 hours?",
-      "options": {
-        "trs": "4 people",
-        "opt5": "4 people",
-        "hkl": "3 people"
-      }
-    },
-    {
-      "question": "If two workers can complete a task in 8 hours, how long will it take for four workers to complete the same task?",
-      "options": {
-        "trs": "4 hours",
-        "hkl": "2 hours",
-        "cbd": "6 hours",
-        "opt5": "4 hours"
-      }
-    },
-    {
-      "question": "If 3 workers can complete a task in 12 hours, how long will it take for 6 workers to complete the same task?",
-      "options": {
-        "trs": "6 hours",
-        "opt5": "6 hours",
-        "hkl": "4 hours",
-        "cbd": "8 hours"
-      }
-    },
-    {
-      "question": "If A can complete a task in 5 days and B in 10 days, how long will it take for both A and B to complete the task together?",
-      "options": {
-        "opt5": "3.33 days",
-        "trs": "3.33 days",
-        "hkl": "4 days",
-        "cbd": "5 days"
-      }
-    }
-  ]
+    ]
+  }
 }

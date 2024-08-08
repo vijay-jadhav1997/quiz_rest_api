@@ -1,265 +1,268 @@
 {
-  "level1": [
-    {
-      "question": "What is AngularJS?",
-      "options": {
-        "abc": "A database management system",
-        "opt5": "A JavaScript framework for building web applications",
-        "xyz": "A server-side language",
-        "def": "A type of CSS preprocessor"
+  "topic": "Angular",
+  "levels": {
+    "level1": [
+      {
+        "question": "What is AngularJS?",
+        "options": {
+          "abc": "A database management system",
+          "opt5": "A JavaScript framework for building web applications",
+          "xyz": "A server-side language",
+          "def": "A type of CSS preprocessor"
+        }
+      },
+      {
+        "question": "AngularJS uses which type of binding?",
+        "options": {
+          "def": "One-way data binding",
+          "abc": "Two-way data binding",
+          "xyz": "Event binding",
+          "opt5": "Two-way data binding"
+        }
+      },
+      {
+        "question": "AngularJS was created by Google.",
+        "options": {
+          "opt5": "True",
+          "abc": "False"
+        }
+      },
+      {
+        "question": "What does 'ng' stand for in AngularJS?",
+        "options": {
+          "def": "New Generation",
+          "abc": "Next Generation",
+          "opt5": "Angular"
+        }
+      },
+      {
+        "question": "Which directive is used to create custom HTML elements in AngularJS?",
+        "options": {
+          "opt5": "ng-directive",
+          "abc": "ng-custom",
+          "xyz": "ng-element",
+          "def": "ng-component"
+        }
+      },
+      {
+        "question": "AngularJS supports which kind of dependency injection?",
+        "options": {
+          "abc": "Manual dependency injection",
+          "opt5": "Automatic dependency injection",
+          "xyz": "Conditional dependency injection",
+          "def": "Static dependency injection"
+        }
+      },
+      {
+        "question": "Does AngularJS support two-way data binding?",
+        "options": {
+          "opt5": "Yes",
+          "abc": "No"
+        }
+      },
+      {
+        "question": "What is the purpose of the ng-model directive?",
+        "options": {
+          "xyz": "To bind data to a form element",
+          "abc": "To add custom attributes",
+          "opt5": "To bind data to a form element",
+          "def": "To define a route"
+        }
+      },
+      {
+        "question": "Which module system is used in AngularJS?",
+        "options": {
+          "xyz": "CommonJS",
+          "def": "AMD",
+          "abc": "ES6 modules",
+          "opt5": "None"
+        }
+      },
+      {
+        "question": "AngularJS applications are primarily written in which language?",
+        "options": {
+          "abc": "Python",
+          "opt5": "JavaScript",
+          "xyz": "Java",
+          "def": "PHP"
+        }
+      },
+      {
+        "question": "The AngularJS framework was first released in which year?",
+        "options": {
+          "abc": "2010",
+          "def": "2012",
+          "xyz": "2014",
+          "opt5": "2010"
+        }
+      },
+      {
+        "question": "Which AngularJS directive is used to repeat elements in a list?",
+        "options": {
+          "opt5": "ng-repeat",
+          "def": "ng-if",
+          "abc": "ng-show",
+          "xyz": "ng-hide"
+        }
+      },
+      {
+        "question": "AngularJS supports MVC architecture.",
+        "options": {
+          "abc": "True",
+          "opt5": "True",
+          "xyz": "False",
+          "def": "Not Applicable"
+        }
+      },
+      {
+        "question": "Which of the following is a core concept in AngularJS?",
+        "options": {
+          "xyz": "Directives",
+          "def": "Classes",
+          "abc": "Functions",
+          "opt5": "Directives"
+        }
+      },
+      {
+        "question": "In AngularJS, what does $scope represent?",
+        "options": {
+          "def": "The global context",
+          "opt5": "The application model",
+          "abc": "The view",
+          "xyz": "The controller"
+        }
+      },
+      {
+        "question": "What is the primary role of the $http service in AngularJS?",
+        "options": {
+          "xyz": "To manage user input",
+          "abc": "To handle data binding",
+          "def": "To perform AJAX requests",
+          "opt5": "To perform AJAX requests"
+        }
+      },
+      {
+        "question": "AngularJS supports which of the following?",
+        "options": {
+          "opt5": "Single-page applications",
+          "def": "Server-side rendering",
+          "abc": "Mobile app development",
+          "xyz": "Single-page applications"
+        }
+      },
+      {
+        "question": "AngularJS uses which type of templating?",
+        "options": {
+          "xyz": "Client-side templating",
+          "def": "Server-side templating",
+          "abc": "Static templating",
+          "opt5": "Client-side templating"
+        }
+      },
+      {
+        "question": "Can AngularJS be used with other JavaScript frameworks?",
+        "options": {
+          "def": "No",
+          "opt5": "Yes",
+          "abc": "Only with jQuery",
+          "xyz": "Only with React"
+        }
+      },
+      {
+        "question": "The ng-controller directive is used to:",
+        "options": {
+          "xyz": "Add custom styles",
+          "def": "Handle user events",
+          "opt5": "Manage the scope and logic",
+          "abc": "Create reusable components"
+        }
+      },
+      {
+        "question": "AngularJS allows dynamic HTML content using which directive?",
+        "options": {
+          "abc": "ng-bind",
+          "xyz": "ng-show",
+          "opt5": "ng-bind-html",
+          "def": "ng-repeat"
+        }
+      },
+      {
+        "question": "AngularJS provides a way to define services. True or False?",
+        "options": {
+          "opt5": "True",
+          "abc": "False"
+        }
+      },
+      {
+        "question": "What is the primary function of the $rootScope in AngularJS?",
+        "options": {
+          "xyz": "To provide local scope",
+          "def": "To manage routing",
+          "abc": "To manage global application state",
+          "opt5": "To manage global application state"
+        }
+      },
+      {
+        "question": "The ng-app directive is used to:",
+        "options": {
+          "abc": "Specify the AngularJS application",
+          "xyz": "Define a service",
+          "opt5": "Bootstrap the AngularJS application",
+          "def": "Create a new controller"
+        }
+      },
+      {
+        "question": "AngularJS supports multiple ways to handle routing. True or False?",
+        "options": {
+          "opt5": "True",
+          "abc": "False"
+        }
+      },
+      {
+        "question": "Which directive in AngularJS is used to include HTML fragments?",
+        "options": {
+          "def": "ng-include",
+          "xyz": "ng-html",
+          "abc": "ng-view",
+          "opt5": "ng-include"
+        }
+      },
+      {
+        "question": "Which of the following is not an AngularJS directive?",
+        "options": {
+          "opt5": "ng-element",
+          "def": "ng-bind",
+          "xyz": "ng-include",
+          "abc": "ng-model"
+        }
+      },
+      {
+        "question": "Can AngularJS be used for mobile app development?",
+        "options": {
+          "abc": "Yes",
+          "opt5": "No",
+          "xyz": "Only for Android",
+          "def": "Only for iOS"
+        }
+      },
+      {
+        "question": "Which AngularJS directive allows for event handling?",
+        "options": {
+          "def": "ng-model",
+          "xyz": "ng-bind",
+          "opt5": "ng-click",
+          "abc": "ng-show"
+        }
+      },
+      {
+        "question": "AngularJS is compatible with which version of JavaScript?",
+        "options": {
+          "def": "ES5",
+          "abc": "ES6",
+          "opt5": "ES5",
+          "xyz": "ES7"
+        }
       }
-    },
-    {
-      "question": "AngularJS uses which type of binding?",
-      "options": {
-        "def": "One-way data binding",
-        "abc": "Two-way data binding",
-        "xyz": "Event binding",
-        "opt5": "Two-way data binding"
-      }
-    },
-    {
-      "question": "AngularJS was created by Google.",
-      "options": {
-        "opt5": "True",
-        "abc": "False"
-      }
-    },
-    {
-      "question": "What does 'ng' stand for in AngularJS?",
-      "options": {
-        "def": "New Generation",
-        "abc": "Next Generation",
-        "opt5": "Angular"
-      }
-    },
-    {
-      "question": "Which directive is used to create custom HTML elements in AngularJS?",
-      "options": {
-        "opt5": "ng-directive",
-        "abc": "ng-custom",
-        "xyz": "ng-element",
-        "def": "ng-component"
-      }
-    },
-    {
-      "question": "AngularJS supports which kind of dependency injection?",
-      "options": {
-        "abc": "Manual dependency injection",
-        "opt5": "Automatic dependency injection",
-        "xyz": "Conditional dependency injection",
-        "def": "Static dependency injection"
-      }
-    },
-    {
-      "question": "Does AngularJS support two-way data binding?",
-      "options": {
-        "opt5": "Yes",
-        "abc": "No"
-      }
-    },
-    {
-      "question": "What is the purpose of the ng-model directive?",
-      "options": {
-        "xyz": "To bind data to a form element",
-        "abc": "To add custom attributes",
-        "opt5": "To bind data to a form element",
-        "def": "To define a route"
-      }
-    },
-    {
-      "question": "Which module system is used in AngularJS?",
-      "options": {
-        "xyz": "CommonJS",
-        "def": "AMD",
-        "abc": "ES6 modules",
-        "opt5": "None"
-      }
-    },
-    {
-      "question": "AngularJS applications are primarily written in which language?",
-      "options": {
-        "abc": "Python",
-        "opt5": "JavaScript",
-        "xyz": "Java",
-        "def": "PHP"
-      }
-    },
-    {
-      "question": "The AngularJS framework was first released in which year?",
-      "options": {
-        "abc": "2010",
-        "def": "2012",
-        "xyz": "2014",
-        "opt5": "2010"
-      }
-    },
-    {
-      "question": "Which AngularJS directive is used to repeat elements in a list?",
-      "options": {
-        "opt5": "ng-repeat",
-        "def": "ng-if",
-        "abc": "ng-show",
-        "xyz": "ng-hide"
-      }
-    },
-    {
-      "question": "AngularJS supports MVC architecture.",
-      "options": {
-        "abc": "True",
-        "opt5": "True",
-        "xyz": "False",
-        "def": "Not Applicable"
-      }
-    },
-    {
-      "question": "Which of the following is a core concept in AngularJS?",
-      "options": {
-        "xyz": "Directives",
-        "def": "Classes",
-        "abc": "Functions",
-        "opt5": "Directives"
-      }
-    },
-    {
-      "question": "In AngularJS, what does $scope represent?",
-      "options": {
-        "def": "The global context",
-        "opt5": "The application model",
-        "abc": "The view",
-        "xyz": "The controller"
-      }
-    },
-    {
-      "question": "What is the primary role of the $http service in AngularJS?",
-      "options": {
-        "xyz": "To manage user input",
-        "abc": "To handle data binding",
-        "def": "To perform AJAX requests",
-        "opt5": "To perform AJAX requests"
-      }
-    },
-    {
-      "question": "AngularJS supports which of the following?",
-      "options": {
-        "opt5": "Single-page applications",
-        "def": "Server-side rendering",
-        "abc": "Mobile app development",
-        "xyz": "Single-page applications"
-      }
-    },
-    {
-      "question": "AngularJS uses which type of templating?",
-      "options": {
-        "xyz": "Client-side templating",
-        "def": "Server-side templating",
-        "abc": "Static templating",
-        "opt5": "Client-side templating"
-      }
-    },
-    {
-      "question": "Can AngularJS be used with other JavaScript frameworks?",
-      "options": {
-        "def": "No",
-        "opt5": "Yes",
-        "abc": "Only with jQuery",
-        "xyz": "Only with React"
-      }
-    },
-    {
-      "question": "The ng-controller directive is used to:",
-      "options": {
-        "xyz": "Add custom styles",
-        "def": "Handle user events",
-        "opt5": "Manage the scope and logic",
-        "abc": "Create reusable components"
-      }
-    },
-    {
-      "question": "AngularJS allows dynamic HTML content using which directive?",
-      "options": {
-        "abc": "ng-bind",
-        "xyz": "ng-show",
-        "opt5": "ng-bind-html",
-        "def": "ng-repeat"
-      }
-    },
-    {
-      "question": "AngularJS provides a way to define services. True or False?",
-      "options": {
-        "opt5": "True",
-        "abc": "False"
-      }
-    },
-    {
-      "question": "What is the primary function of the $rootScope in AngularJS?",
-      "options": {
-        "xyz": "To provide local scope",
-        "def": "To manage routing",
-        "abc": "To manage global application state",
-        "opt5": "To manage global application state"
-      }
-    },
-    {
-      "question": "The ng-app directive is used to:",
-      "options": {
-        "abc": "Specify the AngularJS application",
-        "xyz": "Define a service",
-        "opt5": "Bootstrap the AngularJS application",
-        "def": "Create a new controller"
-      }
-    },
-    {
-      "question": "AngularJS supports multiple ways to handle routing. True or False?",
-      "options": {
-        "opt5": "True",
-        "abc": "False"
-      }
-    },
-    {
-      "question": "Which directive in AngularJS is used to include HTML fragments?",
-      "options": {
-        "def": "ng-include",
-        "xyz": "ng-html",
-        "abc": "ng-view",
-        "opt5": "ng-include"
-      }
-    },
-    {
-      "question": "Which of the following is not an AngularJS directive?",
-      "options": {
-        "opt5": "ng-element",
-        "def": "ng-bind",
-        "xyz": "ng-include",
-        "abc": "ng-model"
-      }
-    },
-    {
-      "question": "Can AngularJS be used for mobile app development?",
-      "options": {
-        "abc": "Yes",
-        "opt5": "No",
-        "xyz": "Only for Android",
-        "def": "Only for iOS"
-      }
-    },
-    {
-      "question": "Which AngularJS directive allows for event handling?",
-      "options": {
-        "def": "ng-model",
-        "xyz": "ng-bind",
-        "opt5": "ng-click",
-        "abc": "ng-show"
-      }
-    },
-    {
-      "question": "AngularJS is compatible with which version of JavaScript?",
-      "options": {
-        "def": "ES5",
-        "abc": "ES6",
-        "opt5": "ES5",
-        "xyz": "ES7"
-      }
-    }
-  ]
+    ]
+  }
 }

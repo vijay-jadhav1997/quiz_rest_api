@@ -1,557 +1,560 @@
 {
-  "level1": [
-    {
-      "question": "Is the speed of light in vacuum approximately 299,792 kilometers per second?",
-      "options": {
-        "xycd": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "Which law states that the force between two charges is directly proportional to the product of the magnitudes of the charges and inversely proportional to the square of the distance between them?",
-      "options": {
-        "abc": "Newton's Third Law",
-        "def": "Faraday's Law",
-        "opt5": "Coulomb's Law",
-        "xyz": "Gauss's Law"
-      }
-    },
-    {
-      "question": "Does the acceleration due to gravity increase as you go higher above the Earth's surface?",
-      "options": {
-        "xycd": "No",
-        "opt5": "No"
-      }
-    },
-    {
-      "question": "What is the SI unit of electric resistance?",
-      "options": {
-        "xyz": "Volt",
-        "abc": "Ampere",
-        "def": "Ohm",
-        "opt5": "Ohm"
-      }
-    },
-    {
-      "question": "The force required to accelerate a 1 kg mass by 1 m/s² is called a Newton.",
-      "options": {
-        "abc": "False",
-        "opt5": "True"
-      }
-    },
-    {
-      "question": "Which principle states that the pressure exerted on a confined fluid is transmitted undiminished to all parts of the fluid?",
-      "options": {
-        "abc": "Boyle's Principle",
-        "def": "Archimedes' Principle",
-        "xyz": "Pascal's Principle",
-        "opt5": "Pascal's Principle"
-      }
-    },
-    {
-      "question": "Is a proton positively charged?",
-      "options": {
-        "opt5": "Yes",
-        "tag": "No"
-      }
-    },
-    {
-      "question": "The energy possessed by a body due to its motion is called?",
-      "options": {
-        "xyz": "Potential Energy",
-        "def": "Chemical Energy",
-        "opt5": "Kinetic Energy",
-        "abc": "Thermal Energy"
-      }
-    },
-    {
-      "question": "The law of conservation of energy states that energy cannot be created or destroyed, only transformed from one form to another.",
-      "options": {
-        "opt5": "True",
-        "tag": "False"
-      }
-    },
-    {
-      "question": "Which scientist is known for the theory of relativity?",
-      "options": {
-        "xyz": "Isaac Newton",
-        "abc": "Niels Bohr",
-        "def": "Galileo Galilei",
-        "opt5": "Albert Einstein"
-      }
-    },
-    {
-      "question": "What is the formula for calculating the gravitational force between two masses?",
-      "options": {
-        "abc": "F = ma",
-        "def": "F = qE",
-        "opt5": "F = G(m₁m₂/r²)",
-        "xyz": "F = kq₁q₂/r²"
-      }
-    },
-    {
-      "question": "Which of the following is an example of a non-contact force?",
-      "options": {
-        "abc": "Friction",
-        "def": "Tension",
-        "opt5": "Magnetic Force",
-        "xyz": "Normal Force"
-      }
-    },
-    {
-      "question": "The work done on an object is equal to the change in its kinetic energy. This is known as?",
-      "options": {
-        "def": "Newton's First Law",
-        "xyz": "Bernoulli's Principle",
-        "opt5": "Work-Energy Theorem",
-        "abc": "Law of Conservation of Momentum"
-      }
-    },
-    {
-      "question": "The SI unit of force is?",
-      "options": {
-        "xyz": "Watt",
-        "abc": "Joule",
-        "def": "Newton",
-        "opt5": "Newton"
-      }
-    },
-    {
-      "question": "In which type of waves do the particles of the medium move perpendicular to the direction of wave propagation?",
-      "options": {
-        "def": "Longitudinal Waves",
-        "opt5": "Transverse Waves",
-        "abc": "Surface Waves",
-        "xyz": "Mechanical Waves"
-      }
-    },
-    {
-      "question": "The energy of a photon is directly proportional to its frequency.",
-      "options": {
-        "xyz": "False",
-        "opt5": "True"
-      }
-    },
-    {
-      "question": "What is the formula for calculating the momentum of an object?",
-      "options": {
-        "abc": "E = mc²",
-        "xyz": "F = ma",
-        "opt5": "p = mv",
-        "def": "P = I × t"
-      }
-    },
-    {
-      "question": "The rate at which work is done is called?",
-      "options": {
-        "def": "Power",
-        "xyz": "Energy",
-        "opt5": "Power",
-        "abc": "Work"
-      }
-    },
-    {
-      "question": "Does the frequency of a wave increase if the wavelength decreases?",
-      "options": {
-        "opt5": "Yes",
-        "xycd": "No"
-      }
-    },
-    {
-      "question": "In thermodynamics, the first law is also known as?",
-      "options": {
-        "abc": "Law of Entropy",
-        "xyz": "Law of Thermal Radiation",
-        "opt5": "Law of Energy Conservation",
-        "def": "Law of Heat Transfer"
-      }
-    },
-    {
-      "question": "What is the speed of sound in air at room temperature?",
-      "options": {
-        "def": "1500 m/s",
-        "abc": "500 m/s",
-        "xyz": "340 m/s",
-        "opt5": "340 m/s"
-      }
-    },
-    {
-      "question": "The SI unit of electric current is?",
-      "options": {
-        "xyz": "Volt",
-        "def": "Ohm",
-        "abc": "Watt",
-        "opt5": "Ampere"
-      }
-    },
-    {
-      "question": "The principle that states that the volume of a gas is inversely proportional to its pressure at constant temperature is called?",
-      "options": {
-        "abc": "Boyle's Law",
-        "opt5": "Boyle's Law",
-        "def": "Charles's Law",
-        "xyz": "Gay-Lussac's Law"
-      }
-    },
-    {
-      "question": "The measure of an object's resistance to changes in its motion is known as?",
-      "options": {
-        "xyz": "Energy",
-        "opt5": "Inertia",
-        "abc": "Momentum",
-        "def": "Force"
-      }
-    },
-    {
-      "question": "The concept of wave-particle duality is associated with which scientist?",
-      "options": {
-        "abc": "Isaac Newton",
-        "opt5": "Louis de Broglie",
-        "xyz": "Max Planck",
-        "def": "Albert Einstein"
-      }
-    },
-    {
-      "question": "Which type of electromagnetic wave has the shortest wavelength?",
-      "options": {
-        "abc": "Microwaves",
-        "def": "Infrared",
-        "xyz": "Radio Waves",
-        "opt5": "Gamma Rays"
-      }
-    },
-    {
-      "question": "The study of motion without considering its causes is known as?",
-      "options": {
-        "opt5": "Kinematics",
-        "xyz": "Dynamics",
-        "def": "Statistical Mechanics",
-        "abc": "Thermodynamics"
-      }
-    },
-    {
-      "question": "In a vacuum, does sound travel?",
-      "options": {
-        "opt5": "No",
-        "xycd": "Yes"
-      }
-    },
-    {
-      "question": "What is the energy stored in a stretched spring called?",
-      "options": {
-        "xyz": "Kinetic Energy",
-        "def": "Chemical Energy",
-        "opt5": "Elastic Potential Energy",
-        "abc": "Thermal Energy"
-      }
-    },
-    {
-      "question": "The force of gravity on an object is equal to its mass times acceleration due to gravity.",
-      "options": {
-        "abc": "False",
-        "opt5": "True"
-      }
-    },
-    {
-      "question": "Which phenomenon explains why a pencil appears broken when placed in water?",
-      "options": {
-        "abc": "Reflection",
-        "def": "Diffraction",
-        "opt5": "Refraction",
-        "xyz": "Interference"
-      }
-    },
-    {
-      "question": "The ratio of the speed of light in a vacuum to the speed of light in a medium is called?",
-      "options": {
-        "def": "Optical Density",
-        "abc": "Refractive Index",
-        "opt5": "Refractive Index",
-        "xyz": "Speed Ratio"
-      }
-    },
-    {
-      "question": "What is the unit of frequency?",
-      "options": {
-        "def": "Joule",
-        "xyz": "Newton",
-        "opt5": "Hertz",
-        "abc": "Watt"
-      }
-    },
-    {
-      "question": "Is the force of gravity stronger on the surface of the Earth than at higher altitudes?",
-      "options": {
-        "opt5": "Yes",
-        "xycd": "No"
-      }
-    }
-  ],
-  "level2": [
-    {
-      "question": "The speed of light is a fundamental constant in physics.",
-      "options": {
-        "xycd": "False",
-        "opt5": "True"
-      }
-    },
-    {
-      "question": "Which law states that the rate of change of momentum of an object is directly proportional to the force applied?",
-      "options": {
-        "abc": "Newton's First Law",
-        "opt5": "Newton's Second Law",
-        "def": "Newton's Third Law",
-        "xyz": "Law of Universal Gravitation"
-      }
-    },
-    {
-      "question": "What is the SI unit of work or energy?",
-      "options": {
-        "xyz": "Joule",
-        "abc": "Newton",
-        "def": "Watt",
-        "opt5": "Joule"
-      }
-    },
-    {
-      "question": "The phenomenon of bending of light when it passes from one medium to another is known as?",
-      "options": {
-        "xyz": "Reflection",
-        "def": "Diffraction",
-        "opt5": "Refraction",
-        "abc": "Absorption"
-      }
-    },
-    {
-      "question": "Is the second law of thermodynamics related to the increase of entropy in a closed system?",
-      "options": {
-        "opt5": "Yes",
-        "xycd": "No"
-      }
-    },
-    {
-      "question": "The principle that explains why a body submerged in a fluid experiences an upward force is known as?",
-      "options": {
-        "def": "Bernoulli's Principle",
-        "abc": "Archimedes' Principle",
-        "opt5": "Archimedes' Principle",
-        "xyz": "Pascal's Principle"
-      }
-    },
-    {
-      "question": "The energy of an object in motion is called?",
-      "options": {
-        "xyz": "Potential Energy",
-        "def": "Thermal Energy",
-        "opt5": "Kinetic Energy",
-        "abc": "Chemical Energy"
-      }
-    },
-    {
-      "question": "The rate of change of velocity is called?",
-      "options": {
-        "abc": "Displacement",
-        "def": "Speed",
-        "opt5": "Acceleration",
-        "xyz": "Force"
-      }
-    },
-    {
-      "question": "The SI unit of power is?",
-      "options": {
-        "xyz": "Joule",
-        "def": "Newton",
-        "abc": "Watt",
-        "opt5": "Watt"
-      }
-    },
-    {
-      "question": "Does the total energy of a closed system remain constant according to the law of conservation of energy?",
-      "options": {
-        "opt5": "Yes",
-        "tag": "No"
-      }
-    },
-    {
-      "question": "Which scientist formulated the laws of motion and universal gravitation?",
-      "options": {
-        "xyz": "Albert Einstein",
-        "def": "Niels Bohr",
-        "abc": "Galileo Galilei",
-        "opt5": "Isaac Newton"
-      }
-    },
-    {
-      "question": "The amount of heat required to raise the temperature of a unit mass of a substance by one degree Celsius is known as?",
-      "options": {
-        "xyz": "Specific Heat Capacity",
-        "abc": "Latent Heat",
-        "def": "Thermal Conductivity",
-        "opt5": "Specific Heat Capacity"
-      }
-    },
-    {
-      "question": "In which type of wave do the particles of the medium move parallel to the direction of wave propagation?",
-      "options": {
-        "def": "Transverse Waves",
-        "xyz": "Surface Waves",
-        "opt5": "Longitudinal Waves",
-        "abc": "Mechanical Waves"
-      }
-    },
-    {
-      "question": "The product of force and displacement in the direction of the force is known as?",
-      "options": {
-        "xyz": "Power",
-        "abc": "Momentum",
-        "opt5": "Work",
-        "def": "Energy"
-      }
-    },
-    {
-      "question": "The change in momentum of an object is equal to the impulse applied to it. This is known as?",
-      "options": {
-        "xyz": "Work-Energy Theorem",
-        "def": "Newton's Second Law",
-        "opt5": "Impulse-Momentum Theorem",
-        "abc": "Law of Conservation of Momentum"
-      }
-    },
-    {
-      "question": "What is the formula for calculating the energy of a photon?",
-      "options": {
-        "abc": "E = mc²",
-        "xyz": "E = ½ mv²",
-        "def": "E = hf",
-        "opt5": "E = hf"
-      }
-    },
-    {
-      "question": "Does the wavelength of a sound wave decrease as its frequency increases?",
-      "options": {
-        "opt5": "Yes",
-        "xycd": "No"
-      }
-    },
-    {
-      "question": "The ability of a material to conduct heat is known as?",
-      "options": {
-        "abc": "Thermal Conductivity",
-        "def": "Specific Heat",
-        "opt5": "Thermal Conductivity",
-        "xyz": "Thermal Resistance"
-      }
-    },
-    {
-      "question": "In which type of collision is kinetic energy conserved?",
-      "options": {
-        "def": "Inelastic Collision",
-        "xyz": "Partially Elastic Collision",
-        "abc": "Non-elastic Collision",
-        "opt5": "Elastic Collision"
-      }
-    },
-    {
-      "question": "Which law states that every action has an equal and opposite reaction?",
-      "options": {
-        "xyz": "Newton's First Law",
-        "def": "Newton's Third Law",
-        "opt5": "Newton's Third Law",
-        "abc": "Newton's Second Law"
-      }
-    },
-    {
-      "question": "The quantity of heat required to convert a unit mass of a solid into a liquid at its melting point is known as?",
-      "options": {
-        "xyz": "Latent Heat of Fusion",
-        "def": "Specific Heat Capacity",
-        "opt5": "Latent Heat of Fusion",
-        "abc": "Latent Heat of Vaporization"
-      }
-    },
-    {
-      "question": "The rate of change of magnetic flux is proportional to the induced electromotive force. This is known as?",
-      "options": {
-        "def": "Faraday's Law of Induction",
-        "xyz": "Lenz's Law",
-        "abc": "Ampere's Law",
-        "opt5": "Faraday's Law of Induction"
-      }
-    },
-    {
-      "question": "The SI unit of frequency is?",
-      "options": {
-        "def": "Newton",
-        "abc": "Joule",
-        "xyz": "Hertz",
-        "opt5": "Hertz"
-      }
-    },
-    {
-      "question": "The distance covered by an object in a given time is called its?",
-      "options": {
-        "xyz": "Displacement",
-        "abc": "Speed",
-        "opt5": "Distance",
-        "def": "Velocity"
-      }
-    },
-    {
-      "question": "Does the pressure of a gas increase if the temperature is increased at constant volume?",
-      "options": {
-        "opt5": "Yes",
-        "xycd": "No"
-      }
-    },
-    {
-      "question": "Which of the following is not a fundamental force of nature?",
-      "options": {
-        "abc": "Electromagnetic Force",
-        "xyz": "Gravitational Force",
-        "def": "Strong Nuclear Force",
-        "opt5": "Frictional Force"
-      }
-    },
-    {
-      "question": "The phenomenon of light bending around corners or edges is known as?",
-      "options": {
-        "abc": "Refraction",
-        "xyz": "Reflection",
-        "opt5": "Diffraction",
-        "def": "Interference"
-      }
-    },
-    {
-      "question": "Does the force of gravity decrease with distance?",
-      "options": {
-        "opt5": "Yes",
-        "xycd": "No"
-      }
-    },
-    {
-      "question": "What is the formula for calculating the potential energy of an object in a gravitational field?",
-      "options": {
-        "xyz": "PE = ½ mv²",
-        "abc": "PE = mgh",
-        "def": "PE = Fd",
-        "opt5": "PE = mgh"
-      }
-    },
-    {
-      "question": "The rate of change of displacement is known as?",
-      "options": {
-        "def": "Acceleration",
-        "xyz": "Velocity",
-        "opt5": "Velocity",
-        "abc": "Speed"
-      }
-    },
-    {
-      "question": "Is the momentum of a system conserved in the absence of external forces?",
-      "options": {
-        "opt5": "Yes",
-        "xycd": "No"
-      }
-    }
-  ]
+  "topic": "Physics",
+  "levels":{
+    "level1": [
+      {
+        "question": "Is the speed of light in vacuum approximately 299,792 kilometers per second?",
+        "options": {
+          "xycd": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "Which law states that the force between two charges is directly proportional to the product of the magnitudes of the charges and inversely proportional to the square of the distance between them?",
+        "options": {
+          "abc": "Newton's Third Law",
+          "def": "Faraday's Law",
+          "opt5": "Coulomb's Law",
+          "xyz": "Gauss's Law"
+        }
+      },
+      {
+        "question": "Does the acceleration due to gravity increase as you go higher above the Earth's surface?",
+        "options": {
+          "xycd": "No",
+          "opt5": "No"
+        }
+      },
+      {
+        "question": "What is the SI unit of electric resistance?",
+        "options": {
+          "xyz": "Volt",
+          "abc": "Ampere",
+          "def": "Ohm",
+          "opt5": "Ohm"
+        }
+      },
+      {
+        "question": "The force required to accelerate a 1 kg mass by 1 m/s² is called a Newton.",
+        "options": {
+          "abc": "False",
+          "opt5": "True"
+        }
+      },
+      {
+        "question": "Which principle states that the pressure exerted on a confined fluid is transmitted undiminished to all parts of the fluid?",
+        "options": {
+          "abc": "Boyle's Principle",
+          "def": "Archimedes' Principle",
+          "xyz": "Pascal's Principle",
+          "opt5": "Pascal's Principle"
+        }
+      },
+      {
+        "question": "Is a proton positively charged?",
+        "options": {
+          "opt5": "Yes",
+          "tag": "No"
+        }
+      },
+      {
+        "question": "The energy possessed by a body due to its motion is called?",
+        "options": {
+          "xyz": "Potential Energy",
+          "def": "Chemical Energy",
+          "opt5": "Kinetic Energy",
+          "abc": "Thermal Energy"
+        }
+      },
+      {
+        "question": "The law of conservation of energy states that energy cannot be created or destroyed, only transformed from one form to another.",
+        "options": {
+          "opt5": "True",
+          "tag": "False"
+        }
+      },
+      {
+        "question": "Which scientist is known for the theory of relativity?",
+        "options": {
+          "xyz": "Isaac Newton",
+          "abc": "Niels Bohr",
+          "def": "Galileo Galilei",
+          "opt5": "Albert Einstein"
+        }
+      },
+      {
+        "question": "What is the formula for calculating the gravitational force between two masses?",
+        "options": {
+          "abc": "F = ma",
+          "def": "F = qE",
+          "opt5": "F = G(m₁m₂/r²)",
+          "xyz": "F = kq₁q₂/r²"
+        }
+      },
+      {
+        "question": "Which of the following is an example of a non-contact force?",
+        "options": {
+          "abc": "Friction",
+          "def": "Tension",
+          "opt5": "Magnetic Force",
+          "xyz": "Normal Force"
+        }
+      },
+      {
+        "question": "The work done on an object is equal to the change in its kinetic energy. This is known as?",
+        "options": {
+          "def": "Newton's First Law",
+          "xyz": "Bernoulli's Principle",
+          "opt5": "Work-Energy Theorem",
+          "abc": "Law of Conservation of Momentum"
+        }
+      },
+      {
+        "question": "The SI unit of force is?",
+        "options": {
+          "xyz": "Watt",
+          "abc": "Joule",
+          "def": "Newton",
+          "opt5": "Newton"
+        }
+      },
+      {
+        "question": "In which type of waves do the particles of the medium move perpendicular to the direction of wave propagation?",
+        "options": {
+          "def": "Longitudinal Waves",
+          "opt5": "Transverse Waves",
+          "abc": "Surface Waves",
+          "xyz": "Mechanical Waves"
+        }
+      },
+      {
+        "question": "The energy of a photon is directly proportional to its frequency.",
+        "options": {
+          "xyz": "False",
+          "opt5": "True"
+        }
+      },
+      {
+        "question": "What is the formula for calculating the momentum of an object?",
+        "options": {
+          "abc": "E = mc²",
+          "xyz": "F = ma",
+          "opt5": "p = mv",
+          "def": "P = I × t"
+        }
+      },
+      {
+        "question": "The rate at which work is done is called?",
+        "options": {
+          "def": "Power",
+          "xyz": "Energy",
+          "opt5": "Power",
+          "abc": "Work"
+        }
+      },
+      {
+        "question": "Does the frequency of a wave increase if the wavelength decreases?",
+        "options": {
+          "opt5": "Yes",
+          "xycd": "No"
+        }
+      },
+      {
+        "question": "In thermodynamics, the first law is also known as?",
+        "options": {
+          "abc": "Law of Entropy",
+          "xyz": "Law of Thermal Radiation",
+          "opt5": "Law of Energy Conservation",
+          "def": "Law of Heat Transfer"
+        }
+      },
+      {
+        "question": "What is the speed of sound in air at room temperature?",
+        "options": {
+          "def": "1500 m/s",
+          "abc": "500 m/s",
+          "xyz": "340 m/s",
+          "opt5": "340 m/s"
+        }
+      },
+      {
+        "question": "The SI unit of electric current is?",
+        "options": {
+          "xyz": "Volt",
+          "def": "Ohm",
+          "abc": "Watt",
+          "opt5": "Ampere"
+        }
+      },
+      {
+        "question": "The principle that states that the volume of a gas is inversely proportional to its pressure at constant temperature is called?",
+        "options": {
+          "abc": "Boyle's Law",
+          "opt5": "Boyle's Law",
+          "def": "Charles's Law",
+          "xyz": "Gay-Lussac's Law"
+        }
+      },
+      {
+        "question": "The measure of an object's resistance to changes in its motion is known as?",
+        "options": {
+          "xyz": "Energy",
+          "opt5": "Inertia",
+          "abc": "Momentum",
+          "def": "Force"
+        }
+      },
+      {
+        "question": "The concept of wave-particle duality is associated with which scientist?",
+        "options": {
+          "abc": "Isaac Newton",
+          "opt5": "Louis de Broglie",
+          "xyz": "Max Planck",
+          "def": "Albert Einstein"
+        }
+      },
+      {
+        "question": "Which type of electromagnetic wave has the shortest wavelength?",
+        "options": {
+          "abc": "Microwaves",
+          "def": "Infrared",
+          "xyz": "Radio Waves",
+          "opt5": "Gamma Rays"
+        }
+      },
+      {
+        "question": "The study of motion without considering its causes is known as?",
+        "options": {
+          "opt5": "Kinematics",
+          "xyz": "Dynamics",
+          "def": "Statistical Mechanics",
+          "abc": "Thermodynamics"
+        }
+      },
+      {
+        "question": "In a vacuum, does sound travel?",
+        "options": {
+          "opt5": "No",
+          "xycd": "Yes"
+        }
+      },
+      {
+        "question": "What is the energy stored in a stretched spring called?",
+        "options": {
+          "xyz": "Kinetic Energy",
+          "def": "Chemical Energy",
+          "opt5": "Elastic Potential Energy",
+          "abc": "Thermal Energy"
+        }
+      },
+      {
+        "question": "The force of gravity on an object is equal to its mass times acceleration due to gravity.",
+        "options": {
+          "abc": "False",
+          "opt5": "True"
+        }
+      },
+      {
+        "question": "Which phenomenon explains why a pencil appears broken when placed in water?",
+        "options": {
+          "abc": "Reflection",
+          "def": "Diffraction",
+          "opt5": "Refraction",
+          "xyz": "Interference"
+        }
+      },
+      {
+        "question": "The ratio of the speed of light in a vacuum to the speed of light in a medium is called?",
+        "options": {
+          "def": "Optical Density",
+          "abc": "Refractive Index",
+          "opt5": "Refractive Index",
+          "xyz": "Speed Ratio"
+        }
+      },
+      {
+        "question": "What is the unit of frequency?",
+        "options": {
+          "def": "Joule",
+          "xyz": "Newton",
+          "opt5": "Hertz",
+          "abc": "Watt"
+        }
+      },
+      {
+        "question": "Is the force of gravity stronger on the surface of the Earth than at higher altitudes?",
+        "options": {
+          "opt5": "Yes",
+          "xycd": "No"
+        }
+      }
+    ],
+    "level2": [
+      {
+        "question": "The speed of light is a fundamental constant in physics.",
+        "options": {
+          "xycd": "False",
+          "opt5": "True"
+        }
+      },
+      {
+        "question": "Which law states that the rate of change of momentum of an object is directly proportional to the force applied?",
+        "options": {
+          "abc": "Newton's First Law",
+          "opt5": "Newton's Second Law",
+          "def": "Newton's Third Law",
+          "xyz": "Law of Universal Gravitation"
+        }
+      },
+      {
+        "question": "What is the SI unit of work or energy?",
+        "options": {
+          "xyz": "Joule",
+          "abc": "Newton",
+          "def": "Watt",
+          "opt5": "Joule"
+        }
+      },
+      {
+        "question": "The phenomenon of bending of light when it passes from one medium to another is known as?",
+        "options": {
+          "xyz": "Reflection",
+          "def": "Diffraction",
+          "opt5": "Refraction",
+          "abc": "Absorption"
+        }
+      },
+      {
+        "question": "Is the second law of thermodynamics related to the increase of entropy in a closed system?",
+        "options": {
+          "opt5": "Yes",
+          "xycd": "No"
+        }
+      },
+      {
+        "question": "The principle that explains why a body submerged in a fluid experiences an upward force is known as?",
+        "options": {
+          "def": "Bernoulli's Principle",
+          "abc": "Archimedes' Principle",
+          "opt5": "Archimedes' Principle",
+          "xyz": "Pascal's Principle"
+        }
+      },
+      {
+        "question": "The energy of an object in motion is called?",
+        "options": {
+          "xyz": "Potential Energy",
+          "def": "Thermal Energy",
+          "opt5": "Kinetic Energy",
+          "abc": "Chemical Energy"
+        }
+      },
+      {
+        "question": "The rate of change of velocity is called?",
+        "options": {
+          "abc": "Displacement",
+          "def": "Speed",
+          "opt5": "Acceleration",
+          "xyz": "Force"
+        }
+      },
+      {
+        "question": "The SI unit of power is?",
+        "options": {
+          "xyz": "Joule",
+          "def": "Newton",
+          "abc": "Watt",
+          "opt5": "Watt"
+        }
+      },
+      {
+        "question": "Does the total energy of a closed system remain constant according to the law of conservation of energy?",
+        "options": {
+          "opt5": "Yes",
+          "tag": "No"
+        }
+      },
+      {
+        "question": "Which scientist formulated the laws of motion and universal gravitation?",
+        "options": {
+          "xyz": "Albert Einstein",
+          "def": "Niels Bohr",
+          "abc": "Galileo Galilei",
+          "opt5": "Isaac Newton"
+        }
+      },
+      {
+        "question": "The amount of heat required to raise the temperature of a unit mass of a substance by one degree Celsius is known as?",
+        "options": {
+          "xyz": "Specific Heat Capacity",
+          "abc": "Latent Heat",
+          "def": "Thermal Conductivity",
+          "opt5": "Specific Heat Capacity"
+        }
+      },
+      {
+        "question": "In which type of wave do the particles of the medium move parallel to the direction of wave propagation?",
+        "options": {
+          "def": "Transverse Waves",
+          "xyz": "Surface Waves",
+          "opt5": "Longitudinal Waves",
+          "abc": "Mechanical Waves"
+        }
+      },
+      {
+        "question": "The product of force and displacement in the direction of the force is known as?",
+        "options": {
+          "xyz": "Power",
+          "abc": "Momentum",
+          "opt5": "Work",
+          "def": "Energy"
+        }
+      },
+      {
+        "question": "The change in momentum of an object is equal to the impulse applied to it. This is known as?",
+        "options": {
+          "xyz": "Work-Energy Theorem",
+          "def": "Newton's Second Law",
+          "opt5": "Impulse-Momentum Theorem",
+          "abc": "Law of Conservation of Momentum"
+        }
+      },
+      {
+        "question": "What is the formula for calculating the energy of a photon?",
+        "options": {
+          "abc": "E = mc²",
+          "xyz": "E = ½ mv²",
+          "def": "E = hf",
+          "opt5": "E = hf"
+        }
+      },
+      {
+        "question": "Does the wavelength of a sound wave decrease as its frequency increases?",
+        "options": {
+          "opt5": "Yes",
+          "xycd": "No"
+        }
+      },
+      {
+        "question": "The ability of a material to conduct heat is known as?",
+        "options": {
+          "abc": "Thermal Conductivity",
+          "def": "Specific Heat",
+          "opt5": "Thermal Conductivity",
+          "xyz": "Thermal Resistance"
+        }
+      },
+      {
+        "question": "In which type of collision is kinetic energy conserved?",
+        "options": {
+          "def": "Inelastic Collision",
+          "xyz": "Partially Elastic Collision",
+          "abc": "Non-elastic Collision",
+          "opt5": "Elastic Collision"
+        }
+      },
+      {
+        "question": "Which law states that every action has an equal and opposite reaction?",
+        "options": {
+          "xyz": "Newton's First Law",
+          "def": "Newton's Third Law",
+          "opt5": "Newton's Third Law",
+          "abc": "Newton's Second Law"
+        }
+      },
+      {
+        "question": "The quantity of heat required to convert a unit mass of a solid into a liquid at its melting point is known as?",
+        "options": {
+          "xyz": "Latent Heat of Fusion",
+          "def": "Specific Heat Capacity",
+          "opt5": "Latent Heat of Fusion",
+          "abc": "Latent Heat of Vaporization"
+        }
+      },
+      {
+        "question": "The rate of change of magnetic flux is proportional to the induced electromotive force. This is known as?",
+        "options": {
+          "def": "Faraday's Law of Induction",
+          "xyz": "Lenz's Law",
+          "abc": "Ampere's Law",
+          "opt5": "Faraday's Law of Induction"
+        }
+      },
+      {
+        "question": "The SI unit of frequency is?",
+        "options": {
+          "def": "Newton",
+          "abc": "Joule",
+          "xyz": "Hertz",
+          "opt5": "Hertz"
+        }
+      },
+      {
+        "question": "The distance covered by an object in a given time is called its?",
+        "options": {
+          "xyz": "Displacement",
+          "abc": "Speed",
+          "opt5": "Distance",
+          "def": "Velocity"
+        }
+      },
+      {
+        "question": "Does the pressure of a gas increase if the temperature is increased at constant volume?",
+        "options": {
+          "opt5": "Yes",
+          "xycd": "No"
+        }
+      },
+      {
+        "question": "Which of the following is not a fundamental force of nature?",
+        "options": {
+          "abc": "Electromagnetic Force",
+          "xyz": "Gravitational Force",
+          "def": "Strong Nuclear Force",
+          "opt5": "Frictional Force"
+        }
+      },
+      {
+        "question": "The phenomenon of light bending around corners or edges is known as?",
+        "options": {
+          "abc": "Refraction",
+          "xyz": "Reflection",
+          "opt5": "Diffraction",
+          "def": "Interference"
+        }
+      },
+      {
+        "question": "Does the force of gravity decrease with distance?",
+        "options": {
+          "opt5": "Yes",
+          "xycd": "No"
+        }
+      },
+      {
+        "question": "What is the formula for calculating the potential energy of an object in a gravitational field?",
+        "options": {
+          "xyz": "PE = ½ mv²",
+          "abc": "PE = mgh",
+          "def": "PE = Fd",
+          "opt5": "PE = mgh"
+        }
+      },
+      {
+        "question": "The rate of change of displacement is known as?",
+        "options": {
+          "def": "Acceleration",
+          "xyz": "Velocity",
+          "opt5": "Velocity",
+          "abc": "Speed"
+        }
+      },
+      {
+        "question": "Is the momentum of a system conserved in the absence of external forces?",
+        "options": {
+          "opt5": "Yes",
+          "xycd": "No"
+        }
+      }
+    ]
+  }
 }

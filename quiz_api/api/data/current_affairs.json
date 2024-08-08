@@ -1,247 +1,250 @@
 {
-  "level1": [
-    {
-      "question": "Who won the 2024 Nobel Peace Prize?",
-      "options": {
-        "abc": "Maria Thunberg",
-        "xyz": "Malala Yousafzai",
-        "def": "Greta Thunberg",
-        "opt5": "Maria Ressa"
+  "topic": "Current Affairs",
+  "levels":{
+    "level1": [
+      {
+        "question": "Who won the 2024 Nobel Peace Prize?",
+        "options": {
+          "abc": "Maria Thunberg",
+          "xyz": "Malala Yousafzai",
+          "def": "Greta Thunberg",
+          "opt5": "Maria Ressa"
+        }
+      },
+      {
+        "question": "India hosted which major international summit in 2024?",
+        "options": {
+          "abc": "SARC Summit",
+          "opt5": "G20 Summit",
+          "xyz": "COP28",
+          "def": "BRICS Summit"
+        }
+      },
+      {
+        "question": "True or False: The 2024 Summer Olympics were held in Paris.",
+        "options": {
+          "opt5": "True",
+          "xyz": "False"
+        }
+      },
+      {
+        "question": "Has India's GDP growth rate for 2024 been projected to exceed 7%?",
+        "options": {
+          "xycd": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "Which country was the first to officially recognize the new government in Myanmar in 2024?",
+        "options": {
+          "def": "China",
+          "xyz": "India",
+          "opt5": "Thailand",
+          "abc": "Combodia"
+        }
+      },
+      {
+        "question": "What was the primary focus of the 2024 UN Climate Change Conference?",
+        "options": {
+          "abc": "Deforestation",
+          "opt5": "Global Warming",
+          "def": "Ocean Pollution",
+          "djf": "Air Pollution"
+        }
+      },
+      {
+        "question": "Who was the President of the United States in 2024?",
+        "options": {
+          "def": "Donald Trump",
+          "abc": "Kamala Harris",
+          "opt5": "Joe Biden",
+          "xyz": "Joe Trump"
+        }
+      },
+      {
+        "question": "In 2024, which Indian state saw the highest increase in its GDP?",
+        "options": {
+          "opt5": "Maharashtra",
+          "def": "Uttar Pradesh",
+          "abc": "Kerala",
+          "xyz": "Tamil Nadu"
+        }
+      },
+      {
+        "question": "True or False: The European Union signed a major trade agreement with India in 2024.",
+        "options": {
+          "tag": "False",
+          "opt5": "True"
+        }
+      },
+      {
+        "question": "Who won the 2024 Indian Premier League (IPL) title?",
+        "options": {
+          "xyz": "Mumbai Indians",
+          "opt5": "Kolkata Knight Riders",
+          "def": "Chennai Super King",
+          "abc": "Royal Challengers Bangalore"
+        }
+      },
+      {
+        "question": "What was the theme of the 2024 World Economic Forum?",
+        "options": {
+          "abc": "Sustainable Development",
+          "xyz": "Global Health",
+          "opt5": "Digital Transformation",
+          "def": "Digital Development"
+        }
+      },
+      {
+        "question": "Yes or No: Did the UK officially rejoin the European Union in 2024?",
+        "options": {
+          "xycd": "Yes",
+          "opt5": "No"
+        }
+      },
+      {
+        "question": "Which new technology was prominently discussed at the 2024 CES (Consumer Electronics Show)?",
+        "options": {
+          "def": "Artificial Intelligence",
+          "opt5": "Quantum Computing",
+          "xyz": "Virtual Reality",
+          "abc": "Augmented Reality"
+        }
+      },
+      {
+        "question": "Who was awarded the 2024 Booker Prize for Fiction?",
+        "options": {
+          "opt5": "Anuk Arudpragasam",
+          "def": "Sally Rooney",
+          "abc": "Bernardine Evaristo",
+          "xyz": "DR. Anurag Gramp"
+        }
+      },
+      {
+        "question": "In 2024, which Indian city hosted the World Yoga Day celebrations?",
+        "options": {
+          "opt5": "Delhi",
+          "abc": "Bangalore",
+          "xyz": "Pune",
+          "def": "Chennai"
+        }
+      },
+      {
+        "question": "Which country became the newest member of the United Nations in 2024?",
+        "options": {
+          "def": "South Sudan",
+          "opt5": "Vanuatu",
+          "xyz": "Palestine"
+        }
+      },
+      {
+        "question": "Who was the winner of the 2024 Wimbledon Men's Singles?",
+        "options": {
+          "abc": "Roger Djokovic",
+          "def": "Rafael Nadal",
+          "opt5": "Novak Djokovic",
+          "xyz": "Roger Federer"
+        }
+      },
+      {
+        "question": "Is the statement 'India has a new Chief Justice in 2024' true or false?",
+        "options": {
+          "opt5": "True",
+          "xyz": "False"
+        }
+      },
+      {
+        "question": "Which international organization awarded the 2024 Peace Prize to the UN Secretary-General?",
+        "options": {
+          "def": "The International Peace Organization",
+          "abc": "The World Health Organization",
+          "xyz": "The International Red Cross",
+          "opt5": "The Hague Peace Organization"
+        }
+      },
+      {
+        "question": "What was the primary topic of discussion at the 2024 G7 Summit?",
+        "options": {
+          "xyz": "Economic Change",
+          "abc": "Global Security",
+          "opt5": "Economic Recovery",
+          "def": "Climate Change"
+        }
+      },
+      {
+        "question": "Who was elected as the Prime Minister of Canada in the 2024 elections?",
+        "options": {
+          "opt5": "Pierre Poilievre",
+          "def": "Justin Trudeau",
+          "xyz": "Pierre Poilievre",
+          "abc": "Jagmeet Singh"
+        }
+      },
+      {
+        "question": "True or False: The 2024 Summer Olympics in Paris featured a new sport, Surfing.",
+        "options": {
+          "opt5": "True",
+          "xyz": "False"
+        }
+      },
+      {
+        "question": "Which country was the first to legalize euthanasia in 2024?",
+        "options": {
+          "xyz": "Netherlands",
+          "def": "Belgium",
+          "opt5": "Luxembourg",
+          "abc": "Greenland"
+        }
+      },
+      {
+        "question": "Has the United Nations General Assembly adopted new climate goals in 2024?",
+        "options": {
+          "xycd": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "What was the main focus of the 2024 World Health Organization report?",
+        "options": {
+          "abc": "Mental Health Recovery",
+          "opt5": "Pandemic Preparedness",
+          "xyz": "Mental Health",
+          "def": "Universal Health Coverage"
+        }
+      },
+      {
+        "question": "Who won the 2023 Indian Presidential Election?",
+        "options": {
+          "def": "Pratibha Patil",
+          "abc": "Ram Nath Kovind",
+          "opt5": "Droupadi Murmu"
+        }
+      },
+      {
+        "question": "True or False: In 2024, the Indian government launched a new space mission to Mars.",
+        "options": {
+          "xyz": "True",
+          "opt5": "False"
+        }
+      },
+      {
+        "question": "Which company became the largest technology firm by market value in 2024?",
+        "options": {
+          "opt5": "Apple",
+          "abc": "Microsoft",
+          "xyz": "Amazon",
+          "def": "Google"
+        }
+      },
+      {
+        "question": "Which Indian city was selected to host the 2024 Youth Olympic Games?",
+        "options": {
+          "xyz": "Hyderabad",
+          "def": "Delhi",
+          "opt5": "Mumbai",
+          "abc": "Chennai"
+        }
       }
-    },
-    {
-      "question": "India hosted which major international summit in 2024?",
-      "options": {
-        "abc": "SARC Summit",
-        "opt5": "G20 Summit",
-        "xyz": "COP28",
-        "def": "BRICS Summit"
-      }
-    },
-    {
-      "question": "True or False: The 2024 Summer Olympics were held in Paris.",
-      "options": {
-        "opt5": "True",
-        "xyz": "False"
-      }
-    },
-    {
-      "question": "Has India's GDP growth rate for 2024 been projected to exceed 7%?",
-      "options": {
-        "xycd": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "Which country was the first to officially recognize the new government in Myanmar in 2024?",
-      "options": {
-        "def": "China",
-        "xyz": "India",
-        "opt5": "Thailand",
-        "abc": "Combodia"
-      }
-    },
-    {
-      "question": "What was the primary focus of the 2024 UN Climate Change Conference?",
-      "options": {
-        "abc": "Deforestation",
-        "opt5": "Global Warming",
-        "def": "Ocean Pollution",
-        "djf": "Air Pollution"
-      }
-    },
-    {
-      "question": "Who was the President of the United States in 2024?",
-      "options": {
-        "def": "Donald Trump",
-        "abc": "Kamala Harris",
-        "opt5": "Joe Biden",
-        "xyz": "Joe Trump"
-      }
-    },
-    {
-      "question": "In 2024, which Indian state saw the highest increase in its GDP?",
-      "options": {
-        "opt5": "Maharashtra",
-        "def": "Uttar Pradesh",
-        "abc": "Kerala",
-        "xyz": "Tamil Nadu"
-      }
-    },
-    {
-      "question": "True or False: The European Union signed a major trade agreement with India in 2024.",
-      "options": {
-        "tag": "False",
-        "opt5": "True"
-      }
-    },
-    {
-      "question": "Who won the 2024 Indian Premier League (IPL) title?",
-      "options": {
-        "xyz": "Mumbai Indians",
-        "opt5": "Kolkata Knight Riders",
-        "def": "Chennai Super King",
-        "abc": "Royal Challengers Bangalore"
-      }
-    },
-    {
-      "question": "What was the theme of the 2024 World Economic Forum?",
-      "options": {
-        "abc": "Sustainable Development",
-        "xyz": "Global Health",
-        "opt5": "Digital Transformation",
-        "def": "Digital Development"
-      }
-    },
-    {
-      "question": "Yes or No: Did the UK officially rejoin the European Union in 2024?",
-      "options": {
-        "xycd": "Yes",
-        "opt5": "No"
-      }
-    },
-    {
-      "question": "Which new technology was prominently discussed at the 2024 CES (Consumer Electronics Show)?",
-      "options": {
-        "def": "Artificial Intelligence",
-        "opt5": "Quantum Computing",
-        "xyz": "Virtual Reality",
-        "abc": "Augmented Reality"
-      }
-    },
-    {
-      "question": "Who was awarded the 2024 Booker Prize for Fiction?",
-      "options": {
-        "opt5": "Anuk Arudpragasam",
-        "def": "Sally Rooney",
-        "abc": "Bernardine Evaristo",
-        "xyz": "DR. Anurag Gramp"
-      }
-    },
-    {
-      "question": "In 2024, which Indian city hosted the World Yoga Day celebrations?",
-      "options": {
-        "opt5": "Delhi",
-        "abc": "Bangalore",
-        "xyz": "Pune",
-        "def": "Chennai"
-      }
-    },
-    {
-      "question": "Which country became the newest member of the United Nations in 2024?",
-      "options": {
-        "def": "South Sudan",
-        "opt5": "Vanuatu",
-        "xyz": "Palestine"
-      }
-    },
-    {
-      "question": "Who was the winner of the 2024 Wimbledon Men's Singles?",
-      "options": {
-        "abc": "Roger Djokovic",
-        "def": "Rafael Nadal",
-        "opt5": "Novak Djokovic",
-        "xyz": "Roger Federer"
-      }
-    },
-    {
-      "question": "Is the statement 'India has a new Chief Justice in 2024' true or false?",
-      "options": {
-        "opt5": "True",
-        "xyz": "False"
-      }
-    },
-    {
-      "question": "Which international organization awarded the 2024 Peace Prize to the UN Secretary-General?",
-      "options": {
-        "def": "The International Peace Organization",
-        "abc": "The World Health Organization",
-        "xyz": "The International Red Cross",
-        "opt5": "The Hague Peace Organization"
-      }
-    },
-    {
-      "question": "What was the primary topic of discussion at the 2024 G7 Summit?",
-      "options": {
-        "xyz": "Economic Change",
-        "abc": "Global Security",
-        "opt5": "Economic Recovery",
-        "def": "Climate Change"
-      }
-    },
-    {
-      "question": "Who was elected as the Prime Minister of Canada in the 2024 elections?",
-      "options": {
-        "opt5": "Pierre Poilievre",
-        "def": "Justin Trudeau",
-        "xyz": "Pierre Poilievre",
-        "abc": "Jagmeet Singh"
-      }
-    },
-    {
-      "question": "True or False: The 2024 Summer Olympics in Paris featured a new sport, Surfing.",
-      "options": {
-        "opt5": "True",
-        "xyz": "False"
-      }
-    },
-    {
-      "question": "Which country was the first to legalize euthanasia in 2024?",
-      "options": {
-        "xyz": "Netherlands",
-        "def": "Belgium",
-        "opt5": "Luxembourg",
-        "abc": "Greenland"
-      }
-    },
-    {
-      "question": "Has the United Nations General Assembly adopted new climate goals in 2024?",
-      "options": {
-        "xycd": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "What was the main focus of the 2024 World Health Organization report?",
-      "options": {
-        "abc": "Mental Health Recovery",
-        "opt5": "Pandemic Preparedness",
-        "xyz": "Mental Health",
-        "def": "Universal Health Coverage"
-      }
-    },
-    {
-      "question": "Who won the 2023 Indian Presidential Election?",
-      "options": {
-        "def": "Pratibha Patil",
-        "abc": "Ram Nath Kovind",
-        "opt5": "Droupadi Murmu"
-      }
-    },
-    {
-      "question": "True or False: In 2024, the Indian government launched a new space mission to Mars.",
-      "options": {
-        "xyz": "True",
-        "opt5": "False"
-      }
-    },
-    {
-      "question": "Which company became the largest technology firm by market value in 2024?",
-      "options": {
-        "opt5": "Apple",
-        "abc": "Microsoft",
-        "xyz": "Amazon",
-        "def": "Google"
-      }
-    },
-    {
-      "question": "Which Indian city was selected to host the 2024 Youth Olympic Games?",
-      "options": {
-        "xyz": "Hyderabad",
-        "def": "Delhi",
-        "opt5": "Mumbai",
-        "abc": "Chennai"
-      }
-    }
-  ]
+    ]
+  }
 }

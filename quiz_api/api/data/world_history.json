@@ -1,264 +1,267 @@
 {
-  "level1": [
-    {
-      "question": "The Great Wall of China was primarily built to protect against invasions from which group?",
-      "options": {
-        "rsw": "Huns",
-        "cwe": "Vikings",
-        "opt5": "Mongols",
-        "gwe": "Persians"
+  "topic": "World History",
+  "levels":{
+    "level1": [
+      {
+        "question": "The Great Wall of China was primarily built to protect against invasions from which group?",
+        "options": {
+          "rsw": "Huns",
+          "cwe": "Vikings",
+          "opt5": "Mongols",
+          "gwe": "Persians"
+        }
+      },
+      {
+        "question": "True or False: The Renaissance began in the 14th century.",
+        "options": {
+          "opt5": "True",
+          "tag": "False"
+        }
+      },
+      {
+        "question": "The Treaty of Versailles ended which war?",
+        "options": {
+          "sbd": "World War II",
+          "jwe": "Napoleonic Wars",
+          "hgt": "Franco-Prussian War",
+          "opt5": "World War I"
+        }
+      },
+      {
+        "question": "Which empire was ruled by Genghis Khan?",
+        "options": {
+          "opt5": "Mongol Empire",
+          "kajhs": "Ottoman Empire",
+          "tagh": "Roman Empire",
+          "tasda": "Byzantine Empire"
+        }
+      },
+      {
+        "question": "Yes or No: The Berlin Wall fell in 1989.",
+        "options": {
+          "kajhs": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "The Magna Carta was signed in which year?",
+        "options": {
+          "bdf": "1305",
+          "opt5": "1215",
+          "mwe": "1415",
+          "rte": "1515"
+        }
+      },
+      {
+        "question": "Which ancient civilization built the city of Machu Picchu?",
+        "options": {
+          "iwe": "Aztec",
+          "qwe": "Maya",
+          "twe": "Olmec",
+          "opt5": "Inca"
+        }
+      },
+      {
+        "question": "What was the primary language of the Roman Empire?",
+        "options": {
+          "cbd": "Greek",
+          "trs": "Hebrew",
+          "opt5": "Latin",
+          "wtr": "Arabic"
+        }
+      },
+      {
+        "question": "Who was the first emperor of China?",
+        "options": {
+          "opt5": "Qin Shi Huang",
+          "wqe": "Liu Bang",
+          "asd": "Emperor Wu",
+          "zxc": "Sun Tzu"
+        }
+      },
+      {
+        "question": "Which country was the first to grant women the right to vote?",
+        "options": {
+          "hab": "United States",
+          "wqr": "France",
+          "ewq": "Germany",
+          "opt5": "New Zealand"
+        }
+      },
+      {
+        "question": "True or False: The Russian Revolution of 1917 led to the establishment of the Soviet Union.",
+        "options": {
+          "opt5": "True",
+          "tag": "False"
+        }
+      },
+      {
+        "question": "The Black Death swept through Europe in which century?",
+        "options": {
+          "rwq": "10th century",
+          "opt5": "14th century",
+          "iop": "16th century",
+          "zxc": "18th century"
+        }
+      },
+      {
+        "question": "The Battle of Hastings in 1066 was fought in which country?",
+        "options": {
+          "wer": "France",
+          "rty": "Spain",
+          "opt5": "England",
+          "bvc": "Italy"
+        }
+      },
+      {
+        "question": "The ancient city of Carthage was located in which present-day country?",
+        "options": {
+          "yui": "Egypt",
+          "lmn": "Libya",
+          "asf": "Morocco",
+          "opt5": "Tunisia"
+        }
+      },
+      {
+        "question": "Who was the first President of the United States?",
+        "options": {
+          "tyu": "John Adams",
+          "bgt": "Thomas Jefferson",
+          "vfr": "James Madison",
+          "opt5": "George Washington"
+        }
+      },
+      {
+        "question": "Which revolution is associated with the storming of the Bastille?",
+        "options": {
+          "asd": "Russian Revolution",
+          "opt5": "French Revolution",
+          "wer": "American Revolution",
+          "tgb": "Chinese Revolution"
+        }
+      },
+      {
+        "question": "Yes or No: The Titanic sank on its maiden voyage in 1912.",
+        "options": {
+          "kajhs": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "Who wrote the 'Iliad' and the 'Odyssey'?",
+        "options": {
+          "opt5": "Homer",
+          "wer": "Virgil",
+          "asd": "Sophocles",
+          "qwe": "Aristotle"
+        }
+      },
+      {
+        "question": "Which leader is famous for his march to the sea during the American Civil War?",
+        "options": {
+          "zxc": "Robert E. Lee",
+          "opt5": "William T. Sherman",
+          "asd": "Ulysses S. Grant",
+          "qwe": "Stonewall Jackson"
+        }
+      },
+      {
+        "question": "The Suez Canal connects which two bodies of water?",
+        "options": {
+          "kajhs": "Red Sea and Indian Ocean",
+          "tagh": "Mediterranean Sea and Atlantic Ocean",
+          "tasda": "Black Sea and Aegean Sea",
+          "opt5": "Red Sea and Mediterranean Sea"
+        }
+      },
+      {
+        "question": "True or False: The Colosseum is located in Athens, Greece.",
+        "options": {
+          "opt5": "False",
+          "tag": "True"
+        }
+      },
+      {
+        "question": "Who was the Prime Minister of the UK during World War II?",
+        "options": {
+          "wer": "Clement Attlee",
+          "opt5": "Winston Churchill",
+          "asd": "Neville Chamberlain",
+          "zxc": "Anthony Eden"
+        }
+      },
+      {
+        "question": "Which empire was known as the 'Land of the Rising Sun'?",
+        "options": {
+          "asd": "China",
+          "wer": "India",
+          "opt5": "Japan",
+          "tgb": "Korea"
+        }
+      },
+      {
+        "question": "Who was the first man to walk on the moon?",
+        "options": {
+          "opt5": "Neil Armstrong",
+          "asd": "Buzz Aldrin",
+          "wer": "Yuri Gagarin",
+          "zxc": "John Glenn"
+        }
+      },
+      {
+        "question": "Which event started World War I?",
+        "options": {
+          "wer": "Invasion of Poland",
+          "opt5": "Assassination of Archduke Franz Ferdinand",
+          "asd": "Sinking of the Lusitania",
+          "qwe": "Zimmermann Telegram"
+        }
+      },
+      {
+        "question": "The Byzantine Empire is also known as the?",
+        "options": {
+          "opt5": "Eastern Roman Empire",
+          "wer": "Ottoman Empire",
+          "asd": "Holy Roman Empire",
+          "qwe": "Persian Empire"
+        }
+      },
+      {
+        "question": "Who was the first female Prime Minister of the United Kingdom?",
+        "options": {
+          "wer": "Theresa May",
+          "asd": "Angela Merkel",
+          "opt5": "Margaret Thatcher",
+          "qwe": "Golda Meir"
+        }
+      },
+      {
+        "question": "Which civilization is known for creating the first written code of laws?",
+        "options": {
+          "wer": "Egyptian",
+          "opt5": "Babylonian",
+          "asd": "Greek",
+          "qwe": "Roman"
+        }
+      },
+      {
+        "question": "Which war was fought between the North and South regions in the United States?",
+        "options": {
+          "wer": "World War I",
+          "asd": "Mexican-American War",
+          "opt5": "Civil War",
+          "qwe": "Spanish-American War"
+        }
+      },
+      {
+        "question": "The Battle of Waterloo marked the end of whose rule?",
+        "options": {
+          "wer": "Louis XIV",
+          "asd": "Alexander the Great",
+          "qwe": "Julius Caesar",
+          "opt5": "Napoleon Bonaparte"
+        }
       }
-    },
-    {
-      "question": "True or False: The Renaissance began in the 14th century.",
-      "options": {
-        "opt5": "True",
-        "tag": "False"
-      }
-    },
-    {
-      "question": "The Treaty of Versailles ended which war?",
-      "options": {
-        "sbd": "World War II",
-        "jwe": "Napoleonic Wars",
-        "hgt": "Franco-Prussian War",
-        "opt5": "World War I"
-      }
-    },
-    {
-      "question": "Which empire was ruled by Genghis Khan?",
-      "options": {
-        "opt5": "Mongol Empire",
-        "kajhs": "Ottoman Empire",
-        "tagh": "Roman Empire",
-        "tasda": "Byzantine Empire"
-      }
-    },
-    {
-      "question": "Yes or No: The Berlin Wall fell in 1989.",
-      "options": {
-        "kajhs": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "The Magna Carta was signed in which year?",
-      "options": {
-        "bdf": "1305",
-        "opt5": "1215",
-        "mwe": "1415",
-        "rte": "1515"
-      }
-    },
-    {
-      "question": "Which ancient civilization built the city of Machu Picchu?",
-      "options": {
-        "iwe": "Aztec",
-        "qwe": "Maya",
-        "twe": "Olmec",
-        "opt5": "Inca"
-      }
-    },
-    {
-      "question": "What was the primary language of the Roman Empire?",
-      "options": {
-        "cbd": "Greek",
-        "trs": "Hebrew",
-        "opt5": "Latin",
-        "wtr": "Arabic"
-      }
-    },
-    {
-      "question": "Who was the first emperor of China?",
-      "options": {
-        "opt5": "Qin Shi Huang",
-        "wqe": "Liu Bang",
-        "asd": "Emperor Wu",
-        "zxc": "Sun Tzu"
-      }
-    },
-    {
-      "question": "Which country was the first to grant women the right to vote?",
-      "options": {
-        "hab": "United States",
-        "wqr": "France",
-        "ewq": "Germany",
-        "opt5": "New Zealand"
-      }
-    },
-    {
-      "question": "True or False: The Russian Revolution of 1917 led to the establishment of the Soviet Union.",
-      "options": {
-        "opt5": "True",
-        "tag": "False"
-      }
-    },
-    {
-      "question": "The Black Death swept through Europe in which century?",
-      "options": {
-        "rwq": "10th century",
-        "opt5": "14th century",
-        "iop": "16th century",
-        "zxc": "18th century"
-      }
-    },
-    {
-      "question": "The Battle of Hastings in 1066 was fought in which country?",
-      "options": {
-        "wer": "France",
-        "rty": "Spain",
-        "opt5": "England",
-        "bvc": "Italy"
-      }
-    },
-    {
-      "question": "The ancient city of Carthage was located in which present-day country?",
-      "options": {
-        "yui": "Egypt",
-        "lmn": "Libya",
-        "asf": "Morocco",
-        "opt5": "Tunisia"
-      }
-    },
-    {
-      "question": "Who was the first President of the United States?",
-      "options": {
-        "tyu": "John Adams",
-        "bgt": "Thomas Jefferson",
-        "vfr": "James Madison",
-        "opt5": "George Washington"
-      }
-    },
-    {
-      "question": "Which revolution is associated with the storming of the Bastille?",
-      "options": {
-        "asd": "Russian Revolution",
-        "opt5": "French Revolution",
-        "wer": "American Revolution",
-        "tgb": "Chinese Revolution"
-      }
-    },
-    {
-      "question": "Yes or No: The Titanic sank on its maiden voyage in 1912.",
-      "options": {
-        "kajhs": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "Who wrote the 'Iliad' and the 'Odyssey'?",
-      "options": {
-        "opt5": "Homer",
-        "wer": "Virgil",
-        "asd": "Sophocles",
-        "qwe": "Aristotle"
-      }
-    },
-    {
-      "question": "Which leader is famous for his march to the sea during the American Civil War?",
-      "options": {
-        "zxc": "Robert E. Lee",
-        "opt5": "William T. Sherman",
-        "asd": "Ulysses S. Grant",
-        "qwe": "Stonewall Jackson"
-      }
-    },
-    {
-      "question": "The Suez Canal connects which two bodies of water?",
-      "options": {
-        "kajhs": "Red Sea and Indian Ocean",
-        "tagh": "Mediterranean Sea and Atlantic Ocean",
-        "tasda": "Black Sea and Aegean Sea",
-        "opt5": "Red Sea and Mediterranean Sea"
-      }
-    },
-    {
-      "question": "True or False: The Colosseum is located in Athens, Greece.",
-      "options": {
-        "opt5": "False",
-        "tag": "True"
-      }
-    },
-    {
-      "question": "Who was the Prime Minister of the UK during World War II?",
-      "options": {
-        "wer": "Clement Attlee",
-        "opt5": "Winston Churchill",
-        "asd": "Neville Chamberlain",
-        "zxc": "Anthony Eden"
-      }
-    },
-    {
-      "question": "Which empire was known as the 'Land of the Rising Sun'?",
-      "options": {
-        "asd": "China",
-        "wer": "India",
-        "opt5": "Japan",
-        "tgb": "Korea"
-      }
-    },
-    {
-      "question": "Who was the first man to walk on the moon?",
-      "options": {
-        "opt5": "Neil Armstrong",
-        "asd": "Buzz Aldrin",
-        "wer": "Yuri Gagarin",
-        "zxc": "John Glenn"
-      }
-    },
-    {
-      "question": "Which event started World War I?",
-      "options": {
-        "wer": "Invasion of Poland",
-        "opt5": "Assassination of Archduke Franz Ferdinand",
-        "asd": "Sinking of the Lusitania",
-        "qwe": "Zimmermann Telegram"
-      }
-    },
-    {
-      "question": "The Byzantine Empire is also known as the?",
-      "options": {
-        "opt5": "Eastern Roman Empire",
-        "wer": "Ottoman Empire",
-        "asd": "Holy Roman Empire",
-        "qwe": "Persian Empire"
-      }
-    },
-    {
-      "question": "Who was the first female Prime Minister of the United Kingdom?",
-      "options": {
-        "wer": "Theresa May",
-        "asd": "Angela Merkel",
-        "opt5": "Margaret Thatcher",
-        "qwe": "Golda Meir"
-      }
-    },
-    {
-      "question": "Which civilization is known for creating the first written code of laws?",
-      "options": {
-        "wer": "Egyptian",
-        "opt5": "Babylonian",
-        "asd": "Greek",
-        "qwe": "Roman"
-      }
-    },
-    {
-      "question": "Which war was fought between the North and South regions in the United States?",
-      "options": {
-        "wer": "World War I",
-        "asd": "Mexican-American War",
-        "opt5": "Civil War",
-        "qwe": "Spanish-American War"
-      }
-    },
-    {
-      "question": "The Battle of Waterloo marked the end of whose rule?",
-      "options": {
-        "wer": "Louis XIV",
-        "asd": "Alexander the Great",
-        "qwe": "Julius Caesar",
-        "opt5": "Napoleon Bonaparte"
-      }
-    }
-  ]
+    ]
+  }
 }

@@ -1,497 +1,500 @@
 {
-  "level1": [
-    {
-      "question": "Which Indian classical dance form originates from Tamil Nadu?",
-      "options": {
-        "kajs":"Kathak",
-        "opt5":"Bharatanatyam",
-        "jlkd":"Manipuri",
-        "jhsd":"Odissi"
+  "topic": "Art & Culture",
+  "levels":{
+    "level1": [
+      {
+        "question": "Which Indian classical dance form originates from Tamil Nadu?",
+        "options": {
+          "kajs":"Kathak",
+          "opt5":"Bharatanatyam",
+          "jlkd":"Manipuri",
+          "jhsd":"Odissi"
+        }
+      },
+      {
+        "question": "The Louvre Museum is located in which city?",
+        "options": {
+          "ksjd":"Rome",
+          "mncd":"Berlin",
+          "opt5":"Paris",
+          "hdfj":"Madrid"
+        }
+      },
+      {
+        "question": "The Great Wall of China was primarily built for what purpose?",
+        "options": {
+          "opt5":"Protection against invasions",
+          "hgfs":"Transport route",
+          "jhgs":"Religious purposes",
+          "mndh":"Trade route"
+        }
+      },
+      {
+        "question": "True or False: The Angkor Wat temple complex is located in Vietnam.",
+        "options": {
+          "hgdf":"True",
+          "opt5":"False"
+        }
+      },
+      {
+        "question": "Is 'Kabuki' a traditional form of Japanese theater?",
+        "options": {
+          "opt5":"Yes",
+          "jgs":"No"
+        }
+      },
+      {
+        "question": "The Dome of the Rock is an important religious site in which city?",
+        "options": {
+          "hdfg":"Cairo",
+          "mnvc":"Istanbul",
+          "hgfd":"Mecca",
+          "opt5":"Jerusalem"
+        }
+      },
+      {
+        "question": "What is the primary subject of traditional Indian Madhubani paintings?",
+        "options": {
+          "mnbv":"Urban landscapes",
+          "lkhj":"Abstract concepts",
+          "opt5":"Nature and mythology",
+          "kjsd":"Historical events"
+        }
+      },
+      {
+        "question": "The Renaissance began in which country?",
+        "options": {
+          "opt5":"Italy",
+          "kjas":"Germany",
+          "mnvc":"France",
+          "hgfj":"Spain"
+        }
+      },
+      {
+        "question": "The Terracotta Army is associated with which Chinese emperor?",
+        "options": {
+          "ghjk":"Emperor Wu of Han",
+          "hjkf":"Emperor Taizong of Tang",
+          "mnbv":"Emperor Gaozu of Han",
+          "opt5":"Emperor Qin Shi Huang"
+        }
+      },
+      {
+        "question": "True or False: The Borobudur Temple is located in Thailand.",
+        "options": {
+          "jhsd":"True",
+          "opt5":"False"
+        }
+      },
+      {
+        "question": "Is 'Ikebana' the Japanese art of flower arrangement?",
+        "options": {
+          "opt5":"Yes",
+          "hsdf":"No"
+        }
+      },
+      {
+        "question": "Which architectural structure is a significant cultural icon of Iran?",
+        "options": {
+          "hgfk":"Blue Mosque",
+          "kjdf":"Petra",
+          "opt5":"Persepolis",
+          "hjdg":"Angkor Wat"
+        }
+      },
+      {
+        "question": "The Ajanta Caves are famous for what type of art?",
+        "options": {
+          "kjfg":"Sculptures",
+          "mnbv":"Music",
+          "lkhf":"Dance",
+          "opt5":"Paintings"
+        }
+      },
+      {
+        "question": "Who painted the 'Mona Lisa'?",
+        "options": {
+          "opt5":"Leonardo da Vinci",
+          "kjfg":"Vincent van Gogh",
+          "jshd":"Michelangelo",
+          "mnbv":"Raphael"
+        }
+      },
+      {
+        "question": "The Silk Road facilitated cultural exchange between China and which other regions?",
+        "options": {
+          "kjfg":"Africa and Australia",
+          "opt5":"Europe and Middle East",
+          "jshd":"North America and Europe",
+          "mnbv":"South America and Asia"
+        }
+      },
+      {
+        "question": "True or False: The Angkor Wat temple complex is a UNESCO World Heritage site.",
+        "options": {
+          "opt5":"True",
+          "jhsd":"False"
+        }
+      },
+      {
+        "question": "Is 'Noh' a form of traditional Japanese theater?",
+        "options": {
+          "hsdf":"No",
+          "opt5":"Yes"
+        }
+      },
+      {
+        "question": "The Alhambra is a palace and fortress complex located in which country?",
+        "options": {
+          "jhsd":"Portugal",
+          "kjfg":"Italy",
+          "opt5":"Spain",
+          "mnbv":"Greece"
+        }
+      },
+      {
+        "question": "What is the traditional material used in Chinese calligraphy?",
+        "options": {
+          "opt5":"Ink",
+          "lkhf":"Charcoal",
+          "mnbv":"Chalk",
+          "kjfg":"Graphite"
+        }
+      },
+      {
+        "question": "True or False: The Great Wave off Kanagawa is a famous Japanese woodblock print by Hokusai.",
+        "options": {
+          "opt5":"True",
+          "jhsd":"False"
+        }
+      },
+      {
+        "question": "Is 'Henna' traditionally used in Middle Eastern body art?",
+        "options": {
+          "opt5":"Yes",
+          "hsdf":"No"
+        }
+      },
+      {
+        "question": "Which famous Indian monument is a UNESCO World Heritage site and a symbol of love?",
+        "options": {
+          "mnvc":"Qutub Minar",
+          "hgfj":"Charminar",
+          "jklm":"Red Fort",
+          "opt5":"Taj Mahal"
+        }
+      },
+      {
+        "question": "The Parthenon is a temple dedicated to which Greek goddess?",
+        "options": {
+          "kjfg":"Hera",
+          "jshd":"Aphrodite",
+          "opt5":"Athena",
+          "mnbv":"Demeter"
+        }
+      },
+      {
+        "question": "The Forbidden City is located in which Chinese city?",
+        "options": {
+          "kjfg":"Shanghai",
+          "opt5":"Beijing",
+          "mnbv":"Xi'an",
+          "lkhf":"Chengdu"
+        }
+      },
+      {
+        "question": "True or False: The Borobudur Temple is a significant cultural site in Indonesia.",
+        "options": {
+          "opt5":"True",
+          "jhsd":"False"
+        }
+      },
+      {
+        "question": "Is 'Origami' the Japanese art of paper folding?",
+        "options": {
+          "opt5":"Yes",
+          "hsdf":"No"
+        }
+      },
+      {
+        "question": "The Hagia Sophia was originally built as a cathedral in which city?",
+        "options": {
+          "kjfg":"Cairo",
+          "mnbv":"Athens",
+          "lkhf":"Rome",
+          "opt5":"Constantinople"
+        }
+      },
+      {
+        "question": "Which Indian festival is known as the 'Festival of Lights'?",
+        "options": {
+          "opt5":"Diwali",
+          "kjfg":"Holi",
+          "mnbv":"Baisakhi",
+          "lkhf":"Navratri"
+        }
+      },
+      {
+        "question": "The Sistine Chapel ceiling was painted by which artist?",
+        "options": {
+          "kjfg":"Donatello",
+          "mnbv":"Raphael",
+          "lkhf":"Titian",
+          "opt5":"Michelangelo"
+        }
       }
-    },
-    {
-      "question": "The Louvre Museum is located in which city?",
-      "options": {
-        "ksjd":"Rome",
-        "mncd":"Berlin",
-        "opt5":"Paris",
-        "hdfj":"Madrid"
+    ],
+    "level2": [
+      {
+        "question": "What is the traditional dance form of Kerala, India?",
+        "options": {
+          "mnvc":"Bharatanatyam",
+          "hgfj":"Kathakali",
+          "opt5":"Kathakali",
+          "jklm":"Odissi"
+        }
+      },
+      {
+        "question": "The Eiffel Tower is located in which city?",
+        "options": {
+          "kjfg":"London",
+          "opt5":"Paris",
+          "jshd":"Berlin",
+          "mnbv":"Madrid"
+        }
+      },
+      {
+        "question": "The Summer Palace is a famous landmark in which country?",
+        "options": {
+          "kjfg":"Japan",
+          "mnbv":"South Korea",
+          "lkhf":"Vietnam",
+          "opt5":"China"
+        }
+      },
+      {
+        "question": "True or False: The Borobudur Temple is located in Indonesia.",
+        "options": {
+          "opt5":"True",
+          "jhsd":"False"
+        }
+      },
+      {
+        "question": "Is 'Noh' a traditional form of Japanese theater?",
+        "options": {
+          "hsdf":"No",
+          "opt5":"Yes"
+        }
+      },
+      {
+        "question": "The Blue Mosque is an important cultural site in which country?",
+        "options": {
+          "mnvc":"Saudi Arabia",
+          "opt5":"Turkey",
+          "hgfj":"Iran",
+          "jklm":"Egypt"
+        }
+      },
+      {
+        "question": "Which classical Indian dance form is from Andhra Pradesh?",
+        "options": {
+          "mnvc":"Kuchipudi",
+          "hgfj":"Kathak",
+          "jklm":"Bharatanatyam",
+          "opt5":"Kuchipudi"
+        }
+      },
+      {
+        "question": "The Sagrada Familia is a large unfinished Roman Catholic church in which country?",
+        "options": {
+          "kjfg":"France",
+          "mnbv":"Portugal",
+          "opt5":"Spain",
+          "lkhf":"Italy"
+        }
+      },
+      {
+        "question": "The Forbidden City was the Chinese imperial palace during which dynasty?",
+        "options": {
+          "kjfg":"Han",
+          "opt5":"Ming",
+          "mnbv":"Tang",
+          "lkhf":"Song"
+        }
+      },
+      {
+        "question": "True or False: The Angkor Wat temple complex is located in Cambodia.",
+        "options": {
+          "opt5":"True",
+          "jhsd":"False"
+        }
+      },
+      {
+        "question": "Is 'Sumi-e' the Japanese art of ink wash painting?",
+        "options": {
+          "hsdf":"No",
+          "opt5":"Yes"
+        }
+      },
+      {
+        "question": "Which famous landmark is a symbol of love in India?",
+        "options": {
+          "opt5":"Taj Mahal",
+          "mnvc":"Qutub Minar",
+          "hgfj":"Charminar",
+          "jklm":"Red Fort"
+        }
+      },
+      {
+        "question": "The Acropolis is located in which city?",
+        "options": {
+          "kjfg":"Rome",
+          "jshd":"Athens",
+          "opt5":"Athens",
+          "mnbv":"Cairo"
+        }
+      },
+      {
+        "question": "The Great Wall of China spans approximately how many miles?",
+        "options": {
+          "kjfg":"5,500 miles",
+          "mnbv":"1,500 miles",
+          "lkhf":"3,000 miles",
+          "opt5":"13,000 miles"
+        }
+      },
+      {
+        "question": "True or False: The Hagia Sophia is located in Cairo, Egypt.",
+        "options": {
+          "jhsd":"True",
+          "opt5":"False"
+        }
+      },
+      {
+        "question": "Is 'Kintsugi' the Japanese art of repairing broken pottery with lacquer dusted or mixed with powdered gold?",
+        "options": {
+          "opt5":"Yes",
+          "hsdf":"No"
+        }
+      },
+      {
+        "question": "The Kaaba is located in which city?",
+        "options": {
+          "mnvc":"Jerusalem",
+          "opt5":"Mecca",
+          "hgfj":"Tehran",
+          "jklm":"Istanbul"
+        }
+      },
+      {
+        "question": "Which dance form is associated with the state of Punjab in India?",
+        "options": {
+          "kjfg":"Garba",
+          "jshd":"Kathak",
+          "opt5":"Bhangra",
+          "mnbv":"Bharatanatyam"
+        }
+      },
+      {
+        "question": "The Colosseum is an ancient amphitheater located in which city?",
+        "options": {
+          "kjfg":"Athens",
+          "mnbv":"Cairo",
+          "lkhf":"Istanbul",
+          "opt5":"Rome"
+        }
+      },
+      {
+        "question": "The Silk Road connected China to which other regions?",
+        "options": {
+          "kjfg":"Africa and Europe",
+          "mnbv":"North America and Europe",
+          "lkhf":"South America and Asia",
+          "opt5":"Europe and Middle East"
+        }
+      },
+      {
+        "question": "True or False: The Taj Mahal is a UNESCO World Heritage site.",
+        "options": {
+          "opt5":"True",
+          "jhsd":"False"
+        }
+      },
+      {
+        "question": "Is 'Geisha' a traditional Japanese female entertainer?",
+        "options": {
+          "opt5":"Yes",
+          "hsdf":"No"
+        }
+      },
+      {
+        "question": "The Pyramids of Giza are located in which country?",
+        "options": {
+          "mnvc":"Jordan",
+          "hgfj":"Sudan",
+          "opt5":"Egypt",
+          "jklm":"Morocco"
+        }
+      },
+      {
+        "question": "The Shwedagon Pagoda is a significant religious site in which country?",
+        "options": {
+          "kjfg":"Thailand",
+          "opt5":"Myanmar",
+          "jshd":"Laos",
+          "mnbv":"Cambodia"
+        }
+      },
+      {
+        "question": "The Forbidden City is located in which Chinese city?",
+        "options": {
+          "kjfg":"Shanghai",
+          "mnbv":"Xi'an",
+          "opt5":"Beijing",
+          "lkhf":"Chengdu"
+        }
+      },
+      {
+        "question": "True or False: The Dome of the Rock is located in Jerusalem.",
+        "options": {
+          "opt5":"True",
+          "jhsd":"False"
+        }
+      },
+      {
+        "question": "Is 'Kabuki' a traditional Japanese dance-drama?",
+        "options": {
+          "opt5":"Yes",
+          "hsdf":"No"
+        }
+      },
+      {
+        "question": "The Leaning Tower of Pisa is located in which country?",
+        "options": {
+          "mnvc":"Spain",
+          "hgfj":"France",
+          "jklm":"Greece",
+          "opt5":"Italy"
+        }
+      },
+      {
+        "question": "Which Indian festival is known as the 'Festival of Colors'?",
+        "options": {
+          "kjfg":"Diwali",
+          "opt5":"Holi",
+          "jshd":"Baisakhi",
+          "mnbv":"Navratri"
+        }
+      },
+      {
+        "question": "The Sistine Chapel ceiling was painted by which artist?",
+        "options": {
+          "kjfg":"Leonardo da Vinci",
+          "mnbv":"Donatello",
+          "lkhf":"Titian",
+          "opt5":"Michelangelo"
+        }
       }
-    },
-    {
-      "question": "The Great Wall of China was primarily built for what purpose?",
-      "options": {
-        "opt5":"Protection against invasions",
-        "hgfs":"Transport route",
-        "jhgs":"Religious purposes",
-        "mndh":"Trade route"
-      }
-    },
-    {
-      "question": "True or False: The Angkor Wat temple complex is located in Vietnam.",
-      "options": {
-        "hgdf":"True",
-        "opt5":"False"
-      }
-    },
-    {
-      "question": "Is 'Kabuki' a traditional form of Japanese theater?",
-      "options": {
-        "opt5":"Yes",
-        "jgs":"No"
-      }
-    },
-    {
-      "question": "The Dome of the Rock is an important religious site in which city?",
-      "options": {
-        "hdfg":"Cairo",
-        "mnvc":"Istanbul",
-        "hgfd":"Mecca",
-        "opt5":"Jerusalem"
-      }
-    },
-    {
-      "question": "What is the primary subject of traditional Indian Madhubani paintings?",
-      "options": {
-        "mnbv":"Urban landscapes",
-        "lkhj":"Abstract concepts",
-        "opt5":"Nature and mythology",
-        "kjsd":"Historical events"
-      }
-    },
-    {
-      "question": "The Renaissance began in which country?",
-      "options": {
-        "opt5":"Italy",
-        "kjas":"Germany",
-        "mnvc":"France",
-        "hgfj":"Spain"
-      }
-    },
-    {
-      "question": "The Terracotta Army is associated with which Chinese emperor?",
-      "options": {
-        "ghjk":"Emperor Wu of Han",
-        "hjkf":"Emperor Taizong of Tang",
-        "mnbv":"Emperor Gaozu of Han",
-        "opt5":"Emperor Qin Shi Huang"
-      }
-    },
-    {
-      "question": "True or False: The Borobudur Temple is located in Thailand.",
-      "options": {
-        "jhsd":"True",
-        "opt5":"False"
-      }
-    },
-    {
-      "question": "Is 'Ikebana' the Japanese art of flower arrangement?",
-      "options": {
-        "opt5":"Yes",
-        "hsdf":"No"
-      }
-    },
-    {
-      "question": "Which architectural structure is a significant cultural icon of Iran?",
-      "options": {
-        "hgfk":"Blue Mosque",
-        "kjdf":"Petra",
-        "opt5":"Persepolis",
-        "hjdg":"Angkor Wat"
-      }
-    },
-    {
-      "question": "The Ajanta Caves are famous for what type of art?",
-      "options": {
-        "kjfg":"Sculptures",
-        "mnbv":"Music",
-        "lkhf":"Dance",
-        "opt5":"Paintings"
-      }
-    },
-    {
-      "question": "Who painted the 'Mona Lisa'?",
-      "options": {
-        "opt5":"Leonardo da Vinci",
-        "kjfg":"Vincent van Gogh",
-        "jshd":"Michelangelo",
-        "mnbv":"Raphael"
-      }
-    },
-    {
-      "question": "The Silk Road facilitated cultural exchange between China and which other regions?",
-      "options": {
-        "kjfg":"Africa and Australia",
-        "opt5":"Europe and Middle East",
-        "jshd":"North America and Europe",
-        "mnbv":"South America and Asia"
-      }
-    },
-    {
-      "question": "True or False: The Angkor Wat temple complex is a UNESCO World Heritage site.",
-      "options": {
-        "opt5":"True",
-        "jhsd":"False"
-      }
-    },
-    {
-      "question": "Is 'Noh' a form of traditional Japanese theater?",
-      "options": {
-        "hsdf":"No",
-        "opt5":"Yes"
-      }
-    },
-    {
-      "question": "The Alhambra is a palace and fortress complex located in which country?",
-      "options": {
-        "jhsd":"Portugal",
-        "kjfg":"Italy",
-        "opt5":"Spain",
-        "mnbv":"Greece"
-      }
-    },
-    {
-      "question": "What is the traditional material used in Chinese calligraphy?",
-      "options": {
-        "opt5":"Ink",
-        "lkhf":"Charcoal",
-        "mnbv":"Chalk",
-        "kjfg":"Graphite"
-      }
-    },
-    {
-      "question": "True or False: The Great Wave off Kanagawa is a famous Japanese woodblock print by Hokusai.",
-      "options": {
-        "opt5":"True",
-        "jhsd":"False"
-      }
-    },
-    {
-      "question": "Is 'Henna' traditionally used in Middle Eastern body art?",
-      "options": {
-        "opt5":"Yes",
-        "hsdf":"No"
-      }
-    },
-    {
-      "question": "Which famous Indian monument is a UNESCO World Heritage site and a symbol of love?",
-      "options": {
-        "mnvc":"Qutub Minar",
-        "hgfj":"Charminar",
-        "jklm":"Red Fort",
-        "opt5":"Taj Mahal"
-      }
-    },
-    {
-      "question": "The Parthenon is a temple dedicated to which Greek goddess?",
-      "options": {
-        "kjfg":"Hera",
-        "jshd":"Aphrodite",
-        "opt5":"Athena",
-        "mnbv":"Demeter"
-      }
-    },
-    {
-      "question": "The Forbidden City is located in which Chinese city?",
-      "options": {
-        "kjfg":"Shanghai",
-        "opt5":"Beijing",
-        "mnbv":"Xi'an",
-        "lkhf":"Chengdu"
-      }
-    },
-    {
-      "question": "True or False: The Borobudur Temple is a significant cultural site in Indonesia.",
-      "options": {
-        "opt5":"True",
-        "jhsd":"False"
-      }
-    },
-    {
-      "question": "Is 'Origami' the Japanese art of paper folding?",
-      "options": {
-        "opt5":"Yes",
-        "hsdf":"No"
-      }
-    },
-    {
-      "question": "The Hagia Sophia was originally built as a cathedral in which city?",
-      "options": {
-        "kjfg":"Cairo",
-        "mnbv":"Athens",
-        "lkhf":"Rome",
-        "opt5":"Constantinople"
-      }
-    },
-    {
-      "question": "Which Indian festival is known as the 'Festival of Lights'?",
-      "options": {
-        "opt5":"Diwali",
-        "kjfg":"Holi",
-        "mnbv":"Baisakhi",
-        "lkhf":"Navratri"
-      }
-    },
-    {
-      "question": "The Sistine Chapel ceiling was painted by which artist?",
-      "options": {
-        "kjfg":"Donatello",
-        "mnbv":"Raphael",
-        "lkhf":"Titian",
-        "opt5":"Michelangelo"
-      }
-    }
-  ],
-  "level2": [
-    {
-      "question": "What is the traditional dance form of Kerala, India?",
-      "options": {
-        "mnvc":"Bharatanatyam",
-        "hgfj":"Kathakali",
-        "opt5":"Kathakali",
-        "jklm":"Odissi"
-      }
-    },
-    {
-      "question": "The Eiffel Tower is located in which city?",
-      "options": {
-        "kjfg":"London",
-        "opt5":"Paris",
-        "jshd":"Berlin",
-        "mnbv":"Madrid"
-      }
-    },
-    {
-      "question": "The Summer Palace is a famous landmark in which country?",
-      "options": {
-        "kjfg":"Japan",
-        "mnbv":"South Korea",
-        "lkhf":"Vietnam",
-        "opt5":"China"
-      }
-    },
-    {
-      "question": "True or False: The Borobudur Temple is located in Indonesia.",
-      "options": {
-        "opt5":"True",
-        "jhsd":"False"
-      }
-    },
-    {
-      "question": "Is 'Noh' a traditional form of Japanese theater?",
-      "options": {
-        "hsdf":"No",
-        "opt5":"Yes"
-      }
-    },
-    {
-      "question": "The Blue Mosque is an important cultural site in which country?",
-      "options": {
-        "mnvc":"Saudi Arabia",
-        "opt5":"Turkey",
-        "hgfj":"Iran",
-        "jklm":"Egypt"
-      }
-    },
-    {
-      "question": "Which classical Indian dance form is from Andhra Pradesh?",
-      "options": {
-        "mnvc":"Kuchipudi",
-        "hgfj":"Kathak",
-        "jklm":"Bharatanatyam",
-        "opt5":"Kuchipudi"
-      }
-    },
-    {
-      "question": "The Sagrada Familia is a large unfinished Roman Catholic church in which country?",
-      "options": {
-        "kjfg":"France",
-        "mnbv":"Portugal",
-        "opt5":"Spain",
-        "lkhf":"Italy"
-      }
-    },
-    {
-      "question": "The Forbidden City was the Chinese imperial palace during which dynasty?",
-      "options": {
-        "kjfg":"Han",
-        "opt5":"Ming",
-        "mnbv":"Tang",
-        "lkhf":"Song"
-      }
-    },
-    {
-      "question": "True or False: The Angkor Wat temple complex is located in Cambodia.",
-      "options": {
-        "opt5":"True",
-        "jhsd":"False"
-      }
-    },
-    {
-      "question": "Is 'Sumi-e' the Japanese art of ink wash painting?",
-      "options": {
-        "hsdf":"No",
-        "opt5":"Yes"
-      }
-    },
-    {
-      "question": "Which famous landmark is a symbol of love in India?",
-      "options": {
-        "opt5":"Taj Mahal",
-        "mnvc":"Qutub Minar",
-        "hgfj":"Charminar",
-        "jklm":"Red Fort"
-      }
-    },
-    {
-      "question": "The Acropolis is located in which city?",
-      "options": {
-        "kjfg":"Rome",
-        "jshd":"Athens",
-        "opt5":"Athens",
-        "mnbv":"Cairo"
-      }
-    },
-    {
-      "question": "The Great Wall of China spans approximately how many miles?",
-      "options": {
-        "kjfg":"5,500 miles",
-        "mnbv":"1,500 miles",
-        "lkhf":"3,000 miles",
-        "opt5":"13,000 miles"
-      }
-    },
-    {
-      "question": "True or False: The Hagia Sophia is located in Cairo, Egypt.",
-      "options": {
-        "jhsd":"True",
-        "opt5":"False"
-      }
-    },
-    {
-      "question": "Is 'Kintsugi' the Japanese art of repairing broken pottery with lacquer dusted or mixed with powdered gold?",
-      "options": {
-        "opt5":"Yes",
-        "hsdf":"No"
-      }
-    },
-    {
-      "question": "The Kaaba is located in which city?",
-      "options": {
-        "mnvc":"Jerusalem",
-        "opt5":"Mecca",
-        "hgfj":"Tehran",
-        "jklm":"Istanbul"
-      }
-    },
-    {
-      "question": "Which dance form is associated with the state of Punjab in India?",
-      "options": {
-        "kjfg":"Garba",
-        "jshd":"Kathak",
-        "opt5":"Bhangra",
-        "mnbv":"Bharatanatyam"
-      }
-    },
-    {
-      "question": "The Colosseum is an ancient amphitheater located in which city?",
-      "options": {
-        "kjfg":"Athens",
-        "mnbv":"Cairo",
-        "lkhf":"Istanbul",
-        "opt5":"Rome"
-      }
-    },
-    {
-      "question": "The Silk Road connected China to which other regions?",
-      "options": {
-        "kjfg":"Africa and Europe",
-        "mnbv":"North America and Europe",
-        "lkhf":"South America and Asia",
-        "opt5":"Europe and Middle East"
-      }
-    },
-    {
-      "question": "True or False: The Taj Mahal is a UNESCO World Heritage site.",
-      "options": {
-        "opt5":"True",
-        "jhsd":"False"
-      }
-    },
-    {
-      "question": "Is 'Geisha' a traditional Japanese female entertainer?",
-      "options": {
-        "opt5":"Yes",
-        "hsdf":"No"
-      }
-    },
-    {
-      "question": "The Pyramids of Giza are located in which country?",
-      "options": {
-        "mnvc":"Jordan",
-        "hgfj":"Sudan",
-        "opt5":"Egypt",
-        "jklm":"Morocco"
-      }
-    },
-    {
-      "question": "The Shwedagon Pagoda is a significant religious site in which country?",
-      "options": {
-        "kjfg":"Thailand",
-        "opt5":"Myanmar",
-        "jshd":"Laos",
-        "mnbv":"Cambodia"
-      }
-    },
-    {
-      "question": "The Forbidden City is located in which Chinese city?",
-      "options": {
-        "kjfg":"Shanghai",
-        "mnbv":"Xi'an",
-        "opt5":"Beijing",
-        "lkhf":"Chengdu"
-      }
-    },
-    {
-      "question": "True or False: The Dome of the Rock is located in Jerusalem.",
-      "options": {
-        "opt5":"True",
-        "jhsd":"False"
-      }
-    },
-    {
-      "question": "Is 'Kabuki' a traditional Japanese dance-drama?",
-      "options": {
-        "opt5":"Yes",
-        "hsdf":"No"
-      }
-    },
-    {
-      "question": "The Leaning Tower of Pisa is located in which country?",
-      "options": {
-        "mnvc":"Spain",
-        "hgfj":"France",
-        "jklm":"Greece",
-        "opt5":"Italy"
-      }
-    },
-    {
-      "question": "Which Indian festival is known as the 'Festival of Colors'?",
-      "options": {
-        "kjfg":"Diwali",
-        "opt5":"Holi",
-        "jshd":"Baisakhi",
-        "mnbv":"Navratri"
-      }
-    },
-    {
-      "question": "The Sistine Chapel ceiling was painted by which artist?",
-      "options": {
-        "kjfg":"Leonardo da Vinci",
-        "mnbv":"Donatello",
-        "lkhf":"Titian",
-        "opt5":"Michelangelo"
-      }
-    }
-  ]
+    ]
+  }
 }

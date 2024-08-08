@@ -1,426 +1,429 @@
 {
-  "level1": [
-    {
-      "question": "Global warming is primarily caused by the emission of greenhouse gases.",
-      "options": {
-        "abc": "False",
-        "opt5": "True"
+  "topic": "Environment",
+  "levels": {
+    "level1": [
+      {
+        "question": "Global warming is primarily caused by the emission of greenhouse gases.",
+        "options": {
+          "abc": "False",
+          "opt5": "True"
+        }
+      },
+      {
+        "question": "What is the primary gas responsible for the greenhouse effect?",
+        "options": {
+          "xycd": "Methane",
+          "opt5": "Carbon Dioxide",
+          "inc": "Nitrogen",
+          "ct3": "Oxygen"
+        }
+      },
+      {
+        "question": "Is deforestation a major cause of biodiversity loss?",
+        "options": {
+          "xycd": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "Which of the following is a renewable source of energy?",
+        "options": {
+          "trs": "Coal",
+          "opt5": "Solar",
+          "cbd": "Natural Gas",
+          "dfg": "Oil"
+        }
+      },
+      {
+        "question": "Acid rain is caused by emissions of sulfur dioxide and nitrogen oxide.",
+        "options": {
+          "opt5": "True",
+          "tag": "False"
+        }
+      },
+      {
+        "question": "What is the largest ecosystem on Earth?",
+        "options": {
+          "abc": "Desert",
+          "def": "Rainforest",
+          "ghi": "Tundra",
+          "opt5": "Ocean"
+        }
+      },
+      {
+        "question": "Ozone depletion is primarily caused by which chemical compounds?",
+        "options": {
+          "abc": "Carbon Dioxide",
+          "def": "Methane",
+          "opt5": "Chlorofluorocarbons",
+          "ghi": "Nitrogen Oxide"
+        }
+      },
+      {
+        "question": "What is the process of converting waste materials into reusable materials called?",
+        "options": {
+          "abc": "Composting",
+          "opt5": "Recycling",
+          "ghi": "Incineration",
+          "def": "Landfilling"
+        }
+      },
+      {
+        "question": "The Kyoto Protocol is an international treaty aimed at reducing greenhouse gas emissions.",
+        "options": {
+          "opt5": "True",
+          "xyz": "False"
+        }
+      },
+      {
+        "question": "What is the most abundant gas in Earth's atmosphere?",
+        "options": {
+          "abc": "Oxygen",
+          "opt5": "Nitrogen",
+          "ghi": "Carbon Dioxide",
+          "def": "Hydrogen"
+        }
+      },
+      {
+        "question": "Which of the following practices helps in water conservation?",
+        "options": {
+          "opt5": "Rainwater harvesting",
+          "ghi": "Deforestation",
+          "abc": "Over-irrigation",
+          "def": "Industrial discharge"
+        }
+      },
+      {
+        "question": "Does the Amazon Rainforest produce 20% of the world's oxygen supply?",
+        "options": {
+          "xycd": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "Which is the primary contributor to ocean pollution?",
+        "options": {
+          "abc": "Fertilizers",
+          "def": "Pesticides",
+          "opt5": "Plastic",
+          "ghi": "Oil spills"
+        }
+      },
+      {
+        "question": "What is the effect of increased levels of greenhouse gases in the atmosphere?",
+        "options": {
+          "abc": "Global cooling",
+          "def": "Increased biodiversity",
+          "ghi": "Ozone formation",
+          "opt5": "Global warming"
+        }
+      },
+      {
+        "question": "What is the main cause of coral bleaching?",
+        "options": {
+          "abc": "Increased ocean acidity",
+          "def": "Overfishing",
+          "ghi": "Marine pollution",
+          "opt5": "Rising sea temperatures"
+        }
+      },
+      {
+        "question": "Which of the following is a non-renewable resource?",
+        "options": {
+          "opt5": "Coal",
+          "ghi": "Solar",
+          "abc": "Wind",
+          "def": "Hydropower"
+        }
+      },
+      {
+        "question": "Biodiversity hotspots are regions with significant levels of biodiversity that are under threat from humans.",
+        "options": {
+          "opt5": "True",
+          "tag": "False"
+        }
+      },
+      {
+        "question": "Which gas is commonly known as laughing gas?",
+        "options": {
+          "abc": "Carbon Dioxide",
+          "def": "Oxygen",
+          "opt5": "Nitrous Oxide",
+          "ghi": "Methane"
+        }
+      },
+      {
+        "question": "Which is the world's largest terrestrial carbon sink?",
+        "options": {
+          "abc": "Grasslands",
+          "def": "Deserts",
+          "ghi": "Savannas",
+          "opt5": "Forests"
+        }
+      },
+      {
+        "question": "The use of synthetic fertilizers and pesticides leads to soil degradation.",
+        "options": {
+          "opt5": "True",
+          "tag": "False"
+        }
+      },
+      {
+        "question": "What percentage of Earth's water is freshwater?",
+        "options": {
+          "abc": "50%",
+          "def": "30%",
+          "ghi": "10%",
+          "opt5": "3%"
+        }
+      },
+      {
+        "question": "Is overfishing a threat to marine ecosystems?",
+        "options": {
+          "xycd": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "Which is the primary source of air pollution in urban areas?",
+        "options": {
+          "abc": "Agricultural activities",
+          "opt5": "Vehicle emissions",
+          "ghi": "Wildfires",
+          "def": "Volcanoes"
+        }
+      },
+      {
+        "question": "What is the main cause of soil erosion?",
+        "options": {
+          "abc": "Deforestation",
+          "opt5": "Water runoff",
+          "ghi": "Urbanization",
+          "def": "Mining"
+        }
+      },
+      {
+        "question": "What is the process by which plants release water vapor into the atmosphere?",
+        "options": {
+          "opt5": "Transpiration",
+          "ghi": "Condensation",
+          "abc": "Evaporation",
+          "def": "Precipitation"
+        }
       }
-    },
-    {
-      "question": "What is the primary gas responsible for the greenhouse effect?",
-      "options": {
-        "xycd": "Methane",
-        "opt5": "Carbon Dioxide",
-        "inc": "Nitrogen",
-        "ct3": "Oxygen"
+    ],
+    "level2": [
+      {
+        "question": "What is the term for the variety of life in a particular habitat or ecosystem?",
+        "options": {
+          "abc": "Population",
+          "opt5": "Biodiversity",
+          "ghi": "Community",
+          "def": "Biome"
+        }
+      },
+      {
+        "question": "Renewable energy sources are naturally replenished on a human timescale.",
+        "options": {
+          "opt5": "True",
+          "tag": "False"
+        }
+      },
+      {
+        "question": "Which of the following is a greenhouse gas?",
+        "options": {
+          "xycd": "Oxygen",
+          "inc": "Nitrogen",
+          "opt5": "Methane",
+          "ct3": "Helium"
+        }
+      },
+      {
+        "question": "Which protocol aims to reduce global greenhouse gas emissions?",
+        "options": {
+          "trs": "Montreal Protocol",
+          "opt5": "Kyoto Protocol",
+          "cbd": "Geneva Protocol",
+          "dfg": "Paris Agreement"
+        }
+      },
+      {
+        "question": "Is the ozone layer found in the stratosphere?",
+        "options": {
+          "xycd": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "Which of the following is a consequence of climate change?",
+        "options": {
+          "opt5": "Rising sea levels",
+          "ghi": "Decreased rainfall",
+          "abc": "Stable temperatures",
+          "def": "Decreased UV radiation"
+        }
+      },
+      {
+        "question": "Which renewable energy source uses the sun's energy?",
+        "options": {
+          "abc": "Wind energy",
+          "def": "Geothermal energy",
+          "ghi": "Hydropower",
+          "opt5": "Solar energy"
+        }
+      },
+      {
+        "question": "Pollution can be defined as the introduction of contaminants into the natural environment.",
+        "options": {
+          "opt5": "True",
+          "tag": "False"
+        }
+      },
+      {
+        "question": "What is the main cause of the enhanced greenhouse effect?",
+        "options": {
+          "abc": "Natural cycles",
+          "def": "Solar flares",
+          "opt5": "Human activities",
+          "ghi": "Volcanic eruptions"
+        }
+      },
+      {
+        "question": "Which is a common method for reducing waste?",
+        "options": {
+          "abc": "Incineration",
+          "opt5": "Recycling",
+          "ghi": "Dumping",
+          "def": "Littering"
+        }
+      },
+      {
+        "question": "What percentage of Earth's surface is covered by oceans?",
+        "options": {
+          "opt5": "71%",
+          "ghi": "51%",
+          "abc": "61%",
+          "def": "81%"
+        }
+      },
+      {
+        "question": "Does the process of eutrophication lead to oxygen depletion in water bodies?",
+        "options": {
+          "xycd": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "Which of the following is an effect of deforestation?",
+        "options": {
+          "opt5": "Loss of habitat",
+          "ghi": "Increased rainfall",
+          "abc": "Improved air quality",
+          "def": "Soil formation"
+        }
+      },
+      {
+        "question": "What is the primary benefit of conservation efforts?",
+        "options": {
+          "ghi": "Increasing urban areas",
+          "abc": "Generating pollution",
+          "opt5": "Protecting biodiversity",
+          "def": "Expanding agriculture"
+        }
+      },
+      {
+        "question": "What is the term for the variety of life in a particular habitat or ecosystem?",
+        "options": {
+          "opt5": "Biodiversity",
+          "ghi": "Population",
+          "abc": "Community",
+          "def": "Biome"
+        }
+      },
+      {
+        "question": "Which gas is primarily produced by burning fossil fuels?",
+        "options": {
+          "abc": "Methane",
+          "def": "Ozone",
+          "ghi": "Nitrous Oxide",
+          "opt5": "Carbon Dioxide"
+        }
+      },
+      {
+        "question": "Water pollution affects marine life.",
+        "options": {
+          "opt5": "True",
+          "tag": "False"
+        }
+      },
+      {
+        "question": "Which of the following is a non-renewable energy source?",
+        "options": {
+          "abc": "Solar",
+          "opt5": "Coal",
+          "ghi": "Wind",
+          "def": "Geothermal"
+        }
+      },
+      {
+        "question": "What is the effect of increased levels of greenhouse gases?",
+        "options": {
+          "opt5": "Global warming",
+          "ghi": "Global cooling",
+          "abc": "Stable climate",
+          "def": "Decreased UV radiation"
+        }
+      },
+      {
+        "question": "Is air pollution a major health hazard?",
+        "options": {
+          "xycd": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "Which element is essential for photosynthesis?",
+        "options": {
+          "ghi": "Helium",
+          "abc": "Nitrogen",
+          "opt5": "Carbon",
+          "def": "Oxygen"
+        }
+      },
+      {
+        "question": "What is the term for the cutting down of trees in a large area?",
+        "options": {
+          "opt5": "Deforestation",
+          "ghi": "Afforestation",
+          "abc": "Desertification",
+          "def": "Reforestation"
+        }
+      },
+      {
+        "question": "Which layer of the atmosphere contains the ozone layer?",
+        "options": {
+          "ghi": "Troposphere",
+          "opt5": "Stratosphere",
+          "abc": "Mesosphere",
+          "def": "Thermosphere"
+        }
+      },
+      {
+        "question": "Does overfishing impact marine biodiversity?",
+        "options": {
+          "xycd": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "Which process involves planting trees to restore a forest?",
+        "options": {
+          "ghi": "Deforestation",
+          "abc": "Desertification",
+          "def": "Urbanization",
+          "opt5": "Reforestation"
+        }
       }
-    },
-    {
-      "question": "Is deforestation a major cause of biodiversity loss?",
-      "options": {
-        "xycd": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "Which of the following is a renewable source of energy?",
-      "options": {
-        "trs": "Coal",
-        "opt5": "Solar",
-        "cbd": "Natural Gas",
-        "dfg": "Oil"
-      }
-    },
-    {
-      "question": "Acid rain is caused by emissions of sulfur dioxide and nitrogen oxide.",
-      "options": {
-        "opt5": "True",
-        "tag": "False"
-      }
-    },
-    {
-      "question": "What is the largest ecosystem on Earth?",
-      "options": {
-        "abc": "Desert",
-        "def": "Rainforest",
-        "ghi": "Tundra",
-        "opt5": "Ocean"
-      }
-    },
-    {
-      "question": "Ozone depletion is primarily caused by which chemical compounds?",
-      "options": {
-        "abc": "Carbon Dioxide",
-        "def": "Methane",
-        "opt5": "Chlorofluorocarbons",
-        "ghi": "Nitrogen Oxide"
-      }
-    },
-    {
-      "question": "What is the process of converting waste materials into reusable materials called?",
-      "options": {
-        "abc": "Composting",
-        "opt5": "Recycling",
-        "ghi": "Incineration",
-        "def": "Landfilling"
-      }
-    },
-    {
-      "question": "The Kyoto Protocol is an international treaty aimed at reducing greenhouse gas emissions.",
-      "options": {
-        "opt5": "True",
-        "xyz": "False"
-      }
-    },
-    {
-      "question": "What is the most abundant gas in Earth's atmosphere?",
-      "options": {
-        "abc": "Oxygen",
-        "opt5": "Nitrogen",
-        "ghi": "Carbon Dioxide",
-        "def": "Hydrogen"
-      }
-    },
-    {
-      "question": "Which of the following practices helps in water conservation?",
-      "options": {
-        "opt5": "Rainwater harvesting",
-        "ghi": "Deforestation",
-        "abc": "Over-irrigation",
-        "def": "Industrial discharge"
-      }
-    },
-    {
-      "question": "Does the Amazon Rainforest produce 20% of the world's oxygen supply?",
-      "options": {
-        "xycd": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "Which is the primary contributor to ocean pollution?",
-      "options": {
-        "abc": "Fertilizers",
-        "def": "Pesticides",
-        "opt5": "Plastic",
-        "ghi": "Oil spills"
-      }
-    },
-    {
-      "question": "What is the effect of increased levels of greenhouse gases in the atmosphere?",
-      "options": {
-        "abc": "Global cooling",
-        "def": "Increased biodiversity",
-        "ghi": "Ozone formation",
-        "opt5": "Global warming"
-      }
-    },
-    {
-      "question": "What is the main cause of coral bleaching?",
-      "options": {
-        "abc": "Increased ocean acidity",
-        "def": "Overfishing",
-        "ghi": "Marine pollution",
-        "opt5": "Rising sea temperatures"
-      }
-    },
-    {
-      "question": "Which of the following is a non-renewable resource?",
-      "options": {
-        "opt5": "Coal",
-        "ghi": "Solar",
-        "abc": "Wind",
-        "def": "Hydropower"
-      }
-    },
-    {
-      "question": "Biodiversity hotspots are regions with significant levels of biodiversity that are under threat from humans.",
-      "options": {
-        "opt5": "True",
-        "tag": "False"
-      }
-    },
-    {
-      "question": "Which gas is commonly known as laughing gas?",
-      "options": {
-        "abc": "Carbon Dioxide",
-        "def": "Oxygen",
-        "opt5": "Nitrous Oxide",
-        "ghi": "Methane"
-      }
-    },
-    {
-      "question": "Which is the world's largest terrestrial carbon sink?",
-      "options": {
-        "abc": "Grasslands",
-        "def": "Deserts",
-        "ghi": "Savannas",
-        "opt5": "Forests"
-      }
-    },
-    {
-      "question": "The use of synthetic fertilizers and pesticides leads to soil degradation.",
-      "options": {
-        "opt5": "True",
-        "tag": "False"
-      }
-    },
-    {
-      "question": "What percentage of Earth's water is freshwater?",
-      "options": {
-        "abc": "50%",
-        "def": "30%",
-        "ghi": "10%",
-        "opt5": "3%"
-      }
-    },
-    {
-      "question": "Is overfishing a threat to marine ecosystems?",
-      "options": {
-        "xycd": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "Which is the primary source of air pollution in urban areas?",
-      "options": {
-        "abc": "Agricultural activities",
-        "opt5": "Vehicle emissions",
-        "ghi": "Wildfires",
-        "def": "Volcanoes"
-      }
-    },
-    {
-      "question": "What is the main cause of soil erosion?",
-      "options": {
-        "abc": "Deforestation",
-        "opt5": "Water runoff",
-        "ghi": "Urbanization",
-        "def": "Mining"
-      }
-    },
-    {
-      "question": "What is the process by which plants release water vapor into the atmosphere?",
-      "options": {
-        "opt5": "Transpiration",
-        "ghi": "Condensation",
-        "abc": "Evaporation",
-        "def": "Precipitation"
-      }
-    }
-  ],
-  "level2": [
-    {
-      "question": "What is the term for the variety of life in a particular habitat or ecosystem?",
-      "options": {
-        "abc": "Population",
-        "opt5": "Biodiversity",
-        "ghi": "Community",
-        "def": "Biome"
-      }
-    },
-    {
-      "question": "Renewable energy sources are naturally replenished on a human timescale.",
-      "options": {
-        "opt5": "True",
-        "tag": "False"
-      }
-    },
-    {
-      "question": "Which of the following is a greenhouse gas?",
-      "options": {
-        "xycd": "Oxygen",
-        "inc": "Nitrogen",
-        "opt5": "Methane",
-        "ct3": "Helium"
-      }
-    },
-    {
-      "question": "Which protocol aims to reduce global greenhouse gas emissions?",
-      "options": {
-        "trs": "Montreal Protocol",
-        "opt5": "Kyoto Protocol",
-        "cbd": "Geneva Protocol",
-        "dfg": "Paris Agreement"
-      }
-    },
-    {
-      "question": "Is the ozone layer found in the stratosphere?",
-      "options": {
-        "xycd": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "Which of the following is a consequence of climate change?",
-      "options": {
-        "opt5": "Rising sea levels",
-        "ghi": "Decreased rainfall",
-        "abc": "Stable temperatures",
-        "def": "Decreased UV radiation"
-      }
-    },
-    {
-      "question": "Which renewable energy source uses the sun's energy?",
-      "options": {
-        "abc": "Wind energy",
-        "def": "Geothermal energy",
-        "ghi": "Hydropower",
-        "opt5": "Solar energy"
-      }
-    },
-    {
-      "question": "Pollution can be defined as the introduction of contaminants into the natural environment.",
-      "options": {
-        "opt5": "True",
-        "tag": "False"
-      }
-    },
-    {
-      "question": "What is the main cause of the enhanced greenhouse effect?",
-      "options": {
-        "abc": "Natural cycles",
-        "def": "Solar flares",
-        "opt5": "Human activities",
-        "ghi": "Volcanic eruptions"
-      }
-    },
-    {
-      "question": "Which is a common method for reducing waste?",
-      "options": {
-        "abc": "Incineration",
-        "opt5": "Recycling",
-        "ghi": "Dumping",
-        "def": "Littering"
-      }
-    },
-    {
-      "question": "What percentage of Earth's surface is covered by oceans?",
-      "options": {
-        "opt5": "71%",
-        "ghi": "51%",
-        "abc": "61%",
-        "def": "81%"
-      }
-    },
-    {
-      "question": "Does the process of eutrophication lead to oxygen depletion in water bodies?",
-      "options": {
-        "xycd": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "Which of the following is an effect of deforestation?",
-      "options": {
-        "opt5": "Loss of habitat",
-        "ghi": "Increased rainfall",
-        "abc": "Improved air quality",
-        "def": "Soil formation"
-      }
-    },
-    {
-      "question": "What is the primary benefit of conservation efforts?",
-      "options": {
-        "ghi": "Increasing urban areas",
-        "abc": "Generating pollution",
-        "opt5": "Protecting biodiversity",
-        "def": "Expanding agriculture"
-      }
-    },
-    {
-      "question": "What is the term for the variety of life in a particular habitat or ecosystem?",
-      "options": {
-        "opt5": "Biodiversity",
-        "ghi": "Population",
-        "abc": "Community",
-        "def": "Biome"
-      }
-    },
-    {
-      "question": "Which gas is primarily produced by burning fossil fuels?",
-      "options": {
-        "abc": "Methane",
-        "def": "Ozone",
-        "ghi": "Nitrous Oxide",
-        "opt5": "Carbon Dioxide"
-      }
-    },
-    {
-      "question": "Water pollution affects marine life.",
-      "options": {
-        "opt5": "True",
-        "tag": "False"
-      }
-    },
-    {
-      "question": "Which of the following is a non-renewable energy source?",
-      "options": {
-        "abc": "Solar",
-        "opt5": "Coal",
-        "ghi": "Wind",
-        "def": "Geothermal"
-      }
-    },
-    {
-      "question": "What is the effect of increased levels of greenhouse gases?",
-      "options": {
-        "opt5": "Global warming",
-        "ghi": "Global cooling",
-        "abc": "Stable climate",
-        "def": "Decreased UV radiation"
-      }
-    },
-    {
-      "question": "Is air pollution a major health hazard?",
-      "options": {
-        "xycd": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "Which element is essential for photosynthesis?",
-      "options": {
-        "ghi": "Helium",
-        "abc": "Nitrogen",
-        "opt5": "Carbon",
-        "def": "Oxygen"
-      }
-    },
-    {
-      "question": "What is the term for the cutting down of trees in a large area?",
-      "options": {
-        "opt5": "Deforestation",
-        "ghi": "Afforestation",
-        "abc": "Desertification",
-        "def": "Reforestation"
-      }
-    },
-    {
-      "question": "Which layer of the atmosphere contains the ozone layer?",
-      "options": {
-        "ghi": "Troposphere",
-        "opt5": "Stratosphere",
-        "abc": "Mesosphere",
-        "def": "Thermosphere"
-      }
-    },
-    {
-      "question": "Does overfishing impact marine biodiversity?",
-      "options": {
-        "xycd": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "Which process involves planting trees to restore a forest?",
-      "options": {
-        "ghi": "Deforestation",
-        "abc": "Desertification",
-        "def": "Urbanization",
-        "opt5": "Reforestation"
-      }
-    }
-  ]
+    ]
+  }
 }

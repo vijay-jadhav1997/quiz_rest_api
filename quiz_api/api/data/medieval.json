@@ -1,445 +1,448 @@
 {
-  "level1": [
-    {
-      "question": "Who was the founder of the Delhi Sultanate?",
-      "options": {
-        "opt5": "Qutb-ud-din Aibak",
-        "hsgd": "Babur",
-        "kljs": "Akbar",
-        "sdhl": "Aurangzeb"
+  "topic": "Medieval India",
+  "levels":{
+    "level1": [
+      {
+        "question": "Who was the founder of the Delhi Sultanate?",
+        "options": {
+          "opt5": "Qutb-ud-din Aibak",
+          "hsgd": "Babur",
+          "kljs": "Akbar",
+          "sdhl": "Aurangzeb"
+        }
+      },
+      {
+        "question": "Which Mughal emperor was known for his policy of religious tolerance?",
+        "options": {
+          "jkhs": "Jahangir",
+          "opt5": "Akbar",
+          "plmn": "Babur",
+          "xyzo": "Aurangzeb"
+        }
+      },
+      {
+        "question": "Was the Battle of Panipat fought in 1526?",
+        "options": {
+          "opt5": "Yes",
+          "no": "No"
+        }
+      },
+      {
+        "question": "Who was the famous poet and scholar at the court of Emperor Akbar?",
+        "options": {
+          "sdkl": "Kalidasa",
+          "psdf": "Babar",
+          "opt5": "Abul Fazl",
+          "jkjh": "Mirza Ghalib"
+        }
+      },
+      {
+        "question": "Which dynasty ruled over the Deccan Plateau before the Mughal expansion?",
+        "options": {
+          "kjl": "Chola",
+          "opt5": "Bahmani",
+          "sdf": "Maratha",
+          "poi": "Gupta"
+        }
+      },
+      {
+        "question": "The Vijayanagara Empire was founded by:",
+        "options": {
+          "opt5": "Harihara I",
+          "kl": "Rama Raya",
+          "mn": "Krishna Deva Raya",
+          "pqr": "Vijaya"
+        }
+      },
+      {
+        "question": "Who was known for building the Red Fort in Delhi?",
+        "options": {
+          "ksdf": "Shah Jahan",
+          "kjh": "Aurangzeb",
+          "opt5": "Shah Jahan",
+          "lmn": "Babur"
+        }
+      },
+      {
+        "question": "The Battle of Talikota in 1565 was between the Vijayanagara Empire and:",
+        "options": {
+          "opt5": "Deccan Sultanates",
+          "xys": "Mughal Empire",
+          "pqrs": "Maratha Confederacy",
+          "tyu": "British East India Company"
+        }
+      },
+      {
+        "question": "Who was the founder of the Maratha Empire?",
+        "options": {
+          "opt5": "Chhatrapati Shivaji Maharaj",
+          "qwer": "Raja Ravi Varma",
+          "tyui": "Raja Chhatrapati",
+          "abcd": "Sambhaji"
+        }
+      },
+      {
+        "question": "The Mughal Empire reached its peak under which ruler?",
+        "options": {
+          "opt5": "Akbar",
+          "ghj": "Babur",
+          "yui": "Aurangzeb",
+          "poiu": "Jahangir"
+        }
+      },
+      {
+        "question": "The city of Fatehpur Sikri was established by which Mughal emperor?",
+        "options": {
+          "qwert": "Jahangir",
+          "sdfg": "Akbar",
+          "opt5": "Akbar",
+          "tyu": "Aurangzeb"
+        }
+      },
+      {
+        "question": "Who was the chief minister of the Mughal Empire during Akbar's reign?",
+        "options": {
+          "opt5": "Abul Fazl",
+          "mn": "Raja Todar Mal",
+          "pq": "Mirza Ghalib",
+          "xyz": "Bairam Khan"
+        }
+      },
+      {
+        "question": "The Chola dynasty was known for its influence in which region?",
+        "options": {
+          "tyui": "North India",
+          "qw": "Central India",
+          "ui": "West India",
+          "opt5": "South India"
+        }
+      },
+      {
+        "question": "Who was the last ruler of the Vijayanagara Empire?",
+        "options": {
+          "rty": "Harihara II",
+          "jkl": "Krishna Deva Raya",
+          "opt5": "Rama Raya",
+          "sdf": "Vijaya"
+        }
+      },
+      {
+        "question": "The Mughal Empire was established in India by:",
+        "options": {
+          "opt5": "Babur",
+          "xyz": "Akbar",
+          "lmn": "Aurangzeb",
+          "rty": "Jahangir"
+        }
+      },
+      {
+        "question": "Which Mughal emperor was responsible for the construction of the Taj Mahal?",
+        "options": {
+          "xyz": "Babur",
+          "rty": "Jahangir",
+          "opt5": "Shah Jahan",
+          "poiu": "Akbar"
+        }
+      },
+      {
+        "question": "Who was the founder of the Bahmani Sultanate?",
+        "options": {
+          "qwer": "Muhammad bin Tughlaq",
+          "opt5": "Ala-ud-Din Bahman Shah",
+          "tyui": "Iltutmish",
+          "asdf": "Qutb-ud-din Aibak"
+        }
+      },
+      {
+        "question": "Who was the famous ruler of the Mughal Empire known for his military conquests in South India?",
+        "options": {
+          "opt5": "Aurangzeb",
+          "ghj": "Jahangir",
+          "xyz": "Akbar",
+          "rty": "Babur"
+        }
+      },
+      {
+        "question": "The Battle of Haldighati was fought between:",
+        "options": {
+          "opt5": "Mewar and Mughal Empire",
+          "sd": "Maratha and British",
+          "df": "Deccan Sultanates and Vijayanagara",
+          "gh": "Vijayanagara and Mughal Empire"
+        }
+      },
+      {
+        "question": "Which Mughal emperor was known for his religious policy of Din-i Ilahi?",
+        "options": {
+          "kjh": "Babur",
+          "plmn": "Aurangzeb",
+          "opt5": "Akbar",
+          "tyu": "Jahangir"
+        }
+      },
+      {
+        "question": "Who was the founder of the Mughal Empire?",
+        "options": {
+          "opt5": "Babur",
+          "sd": "Akbar",
+          "df": "Aurangzeb",
+          "gh": "Jahangir"
+        }
+      },
+      {
+        "question": "The Rajput states were primarily located in which region of India?",
+        "options": {
+          "sd": "South India",
+          "opt5": "Northwest India",
+          "df": "East India",
+          "gh": "West India"
+        }
+      },
+      {
+        "question": "Who was the last ruler of the Delhi Sultanate before it fell to the Mughals?",
+        "options": {
+          "opt5": "Iltutmish",
+          "rty": "Qutb-ud-din Aibak",
+          "ghj": "Razia Sultan",
+          "bvc": "Sultan Ala-ud-din Khilji"
+        }
+      },
+      {
+        "question": "The Mughal emperor who constructed the Red Fort was:",
+        "options": {
+          "abc": "Aurangzeb",
+          "xyz": "Jahangir",
+          "def": "Akbar",
+          "opt5": "Shah Jahan"
+        }
+      },
+      {
+        "question": "The Battle of Panipat was fought in which year?",
+        "options": {
+          "opt5": "1526",
+          "df": "1556",
+          "gh": "1590",
+          "jk": "1615"
+        }
       }
-    },
-    {
-      "question": "Which Mughal emperor was known for his policy of religious tolerance?",
-      "options": {
-        "jkhs": "Jahangir",
-        "opt5": "Akbar",
-        "plmn": "Babur",
-        "xyzo": "Aurangzeb"
+    ],
+    "level2": [
+      {
+        "question": "Which Mughal emperor is known for his support of the arts and culture?",
+        "options": {
+          "opt5": "Akbar",
+          "tyu": "Aurangzeb",
+          "poi": "Babur",
+          "qwe": "Jahangir"
+        }
+      },
+      {
+        "question": "Who was the founder of the Chalukya dynasty in South India?",
+        "options": {
+          "qwert": "Raja Chola",
+          "opt5": "Pulakeshin I",
+          "asdf": "Raja Rajendra",
+          "zxcv": "Raja Raja Chola"
+        }
+      },
+      {
+        "question": "Who was the prominent queen of the Chalukya dynasty?",
+        "options": {
+          "abc": "Queen Sita",
+          "def": "Queen Maya",
+          "opt5": "Queen Lila",
+          "ghi": "Queen Anu"
+        }
+      },
+      {
+        "question": "The Battle of Talikota took place in which year?",
+        "options": {
+          "opt5": "1565",
+          "qwert": "1526",
+          "asdf": "1556",
+          "zxcv": "1590"
+        }
+      },
+      {
+        "question": "The Vijayanagara Empire is best known for its achievements in:",
+        "options": {
+          "opt5": "Architecture and culture",
+          "tyui": "Military conquest",
+          "ghj": "Trade and commerce",
+          "rtyu": "Science and technology"
+        }
+      },
+      {
+        "question": "The Mughal ruler who is known for his administrative reforms was:",
+        "options": {
+          "tyui": "Babur",
+          "ghj": "Aurangzeb",
+          "opt5": "Akbar",
+          "rty": "Jahangir"
+        }
+      },
+      {
+        "question": "The Bahmani Sultanate was established in which region?",
+        "options": {
+          "kjh": "Ganges Plain",
+          "opt5": "Deccan Plateau",
+          "lmn": "Indus Valley",
+          "opq": "Rajasthan"
+        }
+      },
+      {
+        "question": "The famous traveler Ibn Battuta visited India during the reign of:",
+        "options": {
+          "qwe": "Ala-ud-Din Khilji",
+          "rty": "Akbar",
+          "uio": "Shah Jahan",
+          "opt5": "Muhammad bin Tughlaq"
+        }
+      },
+      {
+        "question": "Who was the ruler of the Mughal Empire at the time of the British arrival in India?",
+        "options": {
+          "opt5": "Aurangzeb",
+          "poi": "Jahangir",
+          "asd": "Akbar",
+          "zxc": "Shah Jahan"
+        }
+      },
+      {
+        "question": "The architectural style of the Taj Mahal is primarily influenced by which tradition?",
+        "options": {
+          "opt5": "Mughal",
+          "qwert": "Renaissance",
+          "zxcv": "Gothic",
+          "tyui": "Baroque"
+        }
+      },
+      {
+        "question": "The famous poet Mirza Ghalib was contemporary with which Mughal emperor?",
+        "options": {
+          "poi": "Akbar",
+          "asd": "Aurangzeb",
+          "opt5": "Bahadur Shah II",
+          "zxc": "Shah Jahan"
+        }
+      },
+      {
+        "question": "The medieval Indian empire known for its tolerance towards various religions was:",
+        "options": {
+          "poi": "Vijayanagara Empire",
+          "asd": "Bahmani Sultanate",
+          "opt5": "Mughal Empire under Akbar",
+          "zxc": "Maratha Empire"
+        }
+      },
+      {
+        "question": "The famous historian and chronicler of the Mughal court was:",
+        "options": {
+          "poi": "Ibn Battuta",
+          "opt5": "Abul Fazl",
+          "asd": "Al-Beruni",
+          "zxc": "Ferishta"
+        }
+      },
+      {
+        "question": "The Rajput confederacy was primarily located in which region of India?",
+        "options": {
+          "poi": "South India",
+          "asd": "East India",
+          "zxc": "North India",
+          "opt5": "Rajasthan"
+        }
+      },
+      {
+        "question": "Which Mughal emperor was known for his policy of Sulh-e-Kul, or universal tolerance?",
+        "options": {
+          "poi": "Aurangzeb",
+          "asd": "Jahangir",
+          "zxc": "Babur",
+          "opt5": "Akbar"
+        }
+      },
+      {
+        "question": "The Battle of Panipat was a significant event in which century?",
+        "options": {
+          "opt5": "16th Century",
+          "poi": "15th Century",
+          "asd": "17th Century",
+          "zxc": "18th Century"
+        }
+      },
+      {
+        "question": "Who was the founder of the Chola dynasty?",
+        "options": {
+          "poi": "Raja Raja Chola",
+          "opt5": "Vijayalaya Chola",
+          "asd": "Rajendra Chola",
+          "zxc": "Aditya Chola"
+        }
+      },
+      {
+        "question": "The famous city of Agra was established by which ruler?",
+        "options": {
+          "poi": "Babur",
+          "asd": "Akbar",
+          "opt5": "Sikandar Lodi",
+          "zxc": "Aurangzeb"
+        }
+      },
+      {
+        "question": "The famous Persian historian who wrote 'Tarikh-i-Ferishta' was:",
+        "options": {
+          "opt5": "Ferishta",
+          "poi": "Al-Beruni",
+          "asd": "Ibn Battuta",
+          "zxc": "Abul Fazl"
+        }
+      },
+      {
+        "question": "The medieval kingdom known for its extensive use of horses and cavalry was:",
+        "options": {
+          "poi": "Vijayanagara Empire",
+          "opt5": "Mughal Empire",
+          "asd": "Bahmani Sultanate",
+          "zxc": "Chola Dynasty"
+        }
+      },
+      {
+        "question": "The famous Mughal emperor known for his architectural achievements, including the construction of the Red Fort, was:",
+        "options": {
+          "poi": "Babur",
+          "asd": "Akbar",
+          "zxc": "Aurangzeb",
+          "opt5": "Shah Jahan"
+        }
+      },
+      {
+        "question": "The medieval empire that ruled over parts of South India before the rise of the Vijayanagara Empire was:",
+        "options": {
+          "opt5": "Hoysala Empire",
+          "poi": "Chola Empire",
+          "asd": "Chera Empire",
+          "zxc": "Pandya Empire"
+        }
+      },
+      {
+        "question": "The prominent Mughal emperor known for his early conquest of India was:",
+        "options": {
+          "poi": "Aurangzeb",
+          "opt5": "Babur",
+          "asd": "Akbar",
+          "zxc": "Jahangir"
+        }
+      },
+      {
+        "question": "The famous medieval city of Fatehpur Sikri was constructed during the reign of which Mughal emperor?",
+        "options": {
+          "poi": "Jahangir",
+          "opt5": "Akbar",
+          "asd": "Shah Jahan",
+          "zxc": "Aurangzeb"
+        }
       }
-    },
-    {
-      "question": "Was the Battle of Panipat fought in 1526?",
-      "options": {
-        "opt5": "Yes",
-        "no": "No"
-      }
-    },
-    {
-      "question": "Who was the famous poet and scholar at the court of Emperor Akbar?",
-      "options": {
-        "sdkl": "Kalidasa",
-        "psdf": "Babar",
-        "opt5": "Abul Fazl",
-        "jkjh": "Mirza Ghalib"
-      }
-    },
-    {
-      "question": "Which dynasty ruled over the Deccan Plateau before the Mughal expansion?",
-      "options": {
-        "kjl": "Chola",
-        "opt5": "Bahmani",
-        "sdf": "Maratha",
-        "poi": "Gupta"
-      }
-    },
-    {
-      "question": "The Vijayanagara Empire was founded by:",
-      "options": {
-        "opt5": "Harihara I",
-        "kl": "Rama Raya",
-        "mn": "Krishna Deva Raya",
-        "pqr": "Vijaya"
-      }
-    },
-    {
-      "question": "Who was known for building the Red Fort in Delhi?",
-      "options": {
-        "ksdf": "Shah Jahan",
-        "kjh": "Aurangzeb",
-        "opt5": "Shah Jahan",
-        "lmn": "Babur"
-      }
-    },
-    {
-      "question": "The Battle of Talikota in 1565 was between the Vijayanagara Empire and:",
-      "options": {
-        "opt5": "Deccan Sultanates",
-        "xys": "Mughal Empire",
-        "pqrs": "Maratha Confederacy",
-        "tyu": "British East India Company"
-      }
-    },
-    {
-      "question": "Who was the founder of the Maratha Empire?",
-      "options": {
-        "opt5": "Chhatrapati Shivaji Maharaj",
-        "qwer": "Raja Ravi Varma",
-        "tyui": "Raja Chhatrapati",
-        "abcd": "Sambhaji"
-      }
-    },
-    {
-      "question": "The Mughal Empire reached its peak under which ruler?",
-      "options": {
-        "opt5": "Akbar",
-        "ghj": "Babur",
-        "yui": "Aurangzeb",
-        "poiu": "Jahangir"
-      }
-    },
-    {
-      "question": "The city of Fatehpur Sikri was established by which Mughal emperor?",
-      "options": {
-        "qwert": "Jahangir",
-        "sdfg": "Akbar",
-        "opt5": "Akbar",
-        "tyu": "Aurangzeb"
-      }
-    },
-    {
-      "question": "Who was the chief minister of the Mughal Empire during Akbar's reign?",
-      "options": {
-        "opt5": "Abul Fazl",
-        "mn": "Raja Todar Mal",
-        "pq": "Mirza Ghalib",
-        "xyz": "Bairam Khan"
-      }
-    },
-    {
-      "question": "The Chola dynasty was known for its influence in which region?",
-      "options": {
-        "tyui": "North India",
-        "qw": "Central India",
-        "ui": "West India",
-        "opt5": "South India"
-      }
-    },
-    {
-      "question": "Who was the last ruler of the Vijayanagara Empire?",
-      "options": {
-        "rty": "Harihara II",
-        "jkl": "Krishna Deva Raya",
-        "opt5": "Rama Raya",
-        "sdf": "Vijaya"
-      }
-    },
-    {
-      "question": "The Mughal Empire was established in India by:",
-      "options": {
-        "opt5": "Babur",
-        "xyz": "Akbar",
-        "lmn": "Aurangzeb",
-        "rty": "Jahangir"
-      }
-    },
-    {
-      "question": "Which Mughal emperor was responsible for the construction of the Taj Mahal?",
-      "options": {
-        "xyz": "Babur",
-        "rty": "Jahangir",
-        "opt5": "Shah Jahan",
-        "poiu": "Akbar"
-      }
-    },
-    {
-      "question": "Who was the founder of the Bahmani Sultanate?",
-      "options": {
-        "qwer": "Muhammad bin Tughlaq",
-        "opt5": "Ala-ud-Din Bahman Shah",
-        "tyui": "Iltutmish",
-        "asdf": "Qutb-ud-din Aibak"
-      }
-    },
-    {
-      "question": "Who was the famous ruler of the Mughal Empire known for his military conquests in South India?",
-      "options": {
-        "opt5": "Aurangzeb",
-        "ghj": "Jahangir",
-        "xyz": "Akbar",
-        "rty": "Babur"
-      }
-    },
-    {
-      "question": "The Battle of Haldighati was fought between:",
-      "options": {
-        "opt5": "Mewar and Mughal Empire",
-        "sd": "Maratha and British",
-        "df": "Deccan Sultanates and Vijayanagara",
-        "gh": "Vijayanagara and Mughal Empire"
-      }
-    },
-    {
-      "question": "Which Mughal emperor was known for his religious policy of Din-i Ilahi?",
-      "options": {
-        "kjh": "Babur",
-        "plmn": "Aurangzeb",
-        "opt5": "Akbar",
-        "tyu": "Jahangir"
-      }
-    },
-    {
-      "question": "Who was the founder of the Mughal Empire?",
-      "options": {
-        "opt5": "Babur",
-        "sd": "Akbar",
-        "df": "Aurangzeb",
-        "gh": "Jahangir"
-      }
-    },
-    {
-      "question": "The Rajput states were primarily located in which region of India?",
-      "options": {
-        "sd": "South India",
-        "opt5": "Northwest India",
-        "df": "East India",
-        "gh": "West India"
-      }
-    },
-    {
-      "question": "Who was the last ruler of the Delhi Sultanate before it fell to the Mughals?",
-      "options": {
-        "opt5": "Iltutmish",
-        "rty": "Qutb-ud-din Aibak",
-        "ghj": "Razia Sultan",
-        "bvc": "Sultan Ala-ud-din Khilji"
-      }
-    },
-    {
-      "question": "The Mughal emperor who constructed the Red Fort was:",
-      "options": {
-        "abc": "Aurangzeb",
-        "xyz": "Jahangir",
-        "def": "Akbar",
-        "opt5": "Shah Jahan"
-      }
-    },
-    {
-      "question": "The Battle of Panipat was fought in which year?",
-      "options": {
-        "opt5": "1526",
-        "df": "1556",
-        "gh": "1590",
-        "jk": "1615"
-      }
-    }
-  ],
-  "level2": [
-    {
-      "question": "Which Mughal emperor is known for his support of the arts and culture?",
-      "options": {
-        "opt5": "Akbar",
-        "tyu": "Aurangzeb",
-        "poi": "Babur",
-        "qwe": "Jahangir"
-      }
-    },
-    {
-      "question": "Who was the founder of the Chalukya dynasty in South India?",
-      "options": {
-        "qwert": "Raja Chola",
-        "opt5": "Pulakeshin I",
-        "asdf": "Raja Rajendra",
-        "zxcv": "Raja Raja Chola"
-      }
-    },
-    {
-      "question": "Who was the prominent queen of the Chalukya dynasty?",
-      "options": {
-        "abc": "Queen Sita",
-        "def": "Queen Maya",
-        "opt5": "Queen Lila",
-        "ghi": "Queen Anu"
-      }
-    },
-    {
-      "question": "The Battle of Talikota took place in which year?",
-      "options": {
-        "opt5": "1565",
-        "qwert": "1526",
-        "asdf": "1556",
-        "zxcv": "1590"
-      }
-    },
-    {
-      "question": "The Vijayanagara Empire is best known for its achievements in:",
-      "options": {
-        "opt5": "Architecture and culture",
-        "tyui": "Military conquest",
-        "ghj": "Trade and commerce",
-        "rtyu": "Science and technology"
-      }
-    },
-    {
-      "question": "The Mughal ruler who is known for his administrative reforms was:",
-      "options": {
-        "tyui": "Babur",
-        "ghj": "Aurangzeb",
-        "opt5": "Akbar",
-        "rty": "Jahangir"
-      }
-    },
-    {
-      "question": "The Bahmani Sultanate was established in which region?",
-      "options": {
-        "kjh": "Ganges Plain",
-        "opt5": "Deccan Plateau",
-        "lmn": "Indus Valley",
-        "opq": "Rajasthan"
-      }
-    },
-    {
-      "question": "The famous traveler Ibn Battuta visited India during the reign of:",
-      "options": {
-        "qwe": "Ala-ud-Din Khilji",
-        "rty": "Akbar",
-        "uio": "Shah Jahan",
-        "opt5": "Muhammad bin Tughlaq"
-      }
-    },
-    {
-      "question": "Who was the ruler of the Mughal Empire at the time of the British arrival in India?",
-      "options": {
-        "opt5": "Aurangzeb",
-        "poi": "Jahangir",
-        "asd": "Akbar",
-        "zxc": "Shah Jahan"
-      }
-    },
-    {
-      "question": "The architectural style of the Taj Mahal is primarily influenced by which tradition?",
-      "options": {
-        "opt5": "Mughal",
-        "qwert": "Renaissance",
-        "zxcv": "Gothic",
-        "tyui": "Baroque"
-      }
-    },
-    {
-      "question": "The famous poet Mirza Ghalib was contemporary with which Mughal emperor?",
-      "options": {
-        "poi": "Akbar",
-        "asd": "Aurangzeb",
-        "opt5": "Bahadur Shah II",
-        "zxc": "Shah Jahan"
-      }
-    },
-    {
-      "question": "The medieval Indian empire known for its tolerance towards various religions was:",
-      "options": {
-        "poi": "Vijayanagara Empire",
-        "asd": "Bahmani Sultanate",
-        "opt5": "Mughal Empire under Akbar",
-        "zxc": "Maratha Empire"
-      }
-    },
-    {
-      "question": "The famous historian and chronicler of the Mughal court was:",
-      "options": {
-        "poi": "Ibn Battuta",
-        "opt5": "Abul Fazl",
-        "asd": "Al-Beruni",
-        "zxc": "Ferishta"
-      }
-    },
-    {
-      "question": "The Rajput confederacy was primarily located in which region of India?",
-      "options": {
-        "poi": "South India",
-        "asd": "East India",
-        "zxc": "North India",
-        "opt5": "Rajasthan"
-      }
-    },
-    {
-      "question": "Which Mughal emperor was known for his policy of Sulh-e-Kul, or universal tolerance?",
-      "options": {
-        "poi": "Aurangzeb",
-        "asd": "Jahangir",
-        "zxc": "Babur",
-        "opt5": "Akbar"
-      }
-    },
-    {
-      "question": "The Battle of Panipat was a significant event in which century?",
-      "options": {
-        "opt5": "16th Century",
-        "poi": "15th Century",
-        "asd": "17th Century",
-        "zxc": "18th Century"
-      }
-    },
-    {
-      "question": "Who was the founder of the Chola dynasty?",
-      "options": {
-        "poi": "Raja Raja Chola",
-        "opt5": "Vijayalaya Chola",
-        "asd": "Rajendra Chola",
-        "zxc": "Aditya Chola"
-      }
-    },
-    {
-      "question": "The famous city of Agra was established by which ruler?",
-      "options": {
-        "poi": "Babur",
-        "asd": "Akbar",
-        "opt5": "Sikandar Lodi",
-        "zxc": "Aurangzeb"
-      }
-    },
-    {
-      "question": "The famous Persian historian who wrote 'Tarikh-i-Ferishta' was:",
-      "options": {
-        "opt5": "Ferishta",
-        "poi": "Al-Beruni",
-        "asd": "Ibn Battuta",
-        "zxc": "Abul Fazl"
-      }
-    },
-    {
-      "question": "The medieval kingdom known for its extensive use of horses and cavalry was:",
-      "options": {
-        "poi": "Vijayanagara Empire",
-        "opt5": "Mughal Empire",
-        "asd": "Bahmani Sultanate",
-        "zxc": "Chola Dynasty"
-      }
-    },
-    {
-      "question": "The famous Mughal emperor known for his architectural achievements, including the construction of the Red Fort, was:",
-      "options": {
-        "poi": "Babur",
-        "asd": "Akbar",
-        "zxc": "Aurangzeb",
-        "opt5": "Shah Jahan"
-      }
-    },
-    {
-      "question": "The medieval empire that ruled over parts of South India before the rise of the Vijayanagara Empire was:",
-      "options": {
-        "opt5": "Hoysala Empire",
-        "poi": "Chola Empire",
-        "asd": "Chera Empire",
-        "zxc": "Pandya Empire"
-      }
-    },
-    {
-      "question": "The prominent Mughal emperor known for his early conquest of India was:",
-      "options": {
-        "poi": "Aurangzeb",
-        "opt5": "Babur",
-        "asd": "Akbar",
-        "zxc": "Jahangir"
-      }
-    },
-    {
-      "question": "The famous medieval city of Fatehpur Sikri was constructed during the reign of which Mughal emperor?",
-      "options": {
-        "poi": "Jahangir",
-        "opt5": "Akbar",
-        "asd": "Shah Jahan",
-        "zxc": "Aurangzeb"
-      }
-    }
-  ]
+    ]
+  }
 }

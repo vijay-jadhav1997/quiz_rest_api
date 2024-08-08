@@ -1,603 +1,606 @@
 {
-  "level1": [
-    {
-      "question": "The Eiffel Tower is located in Paris.",
-      "options": {
-        "opt5": "True",
-        "xyz": "False"
-      }
-    },
-    {
-      "question": "Which country is known as the Land of the Rising Sun?",
-      "options": {
-        "def": "China",
-        "xyz": "South Korea",
-        "opt5": "Japan",
-        "abc": "Thailand"
-      }
-    },
-    {
-      "question": "Is the Great Wall of China visible from space?",
-      "options": {
-        "abc": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "The Sahara Desert is the largest desert in the world.",
-      "options": {
-        "opt5": "True",
-        "abc": "False"
-      }
-    },
-    {
-      "question": "Who wrote the play 'Romeo and Juliet'?",
-      "options": {
-        "xyz": "Charles Dickens",
-        "def": "George Orwell",
-        "opt5": "William Shakespeare",
-        "abc": "J.K. Rowling"
-      }
-    },
-    {
-      "question": "Which planet is known as the Red Planet?",
-      "options": {
-        "abc": "Venus",
-        "opt5": "Mars",
-        "xyz": "Saturn",
-        "def": "Earth"
-      }
-    },
-    {
-      "question": "Is Australia both a country and a continent?",
-      "options": {
-        "abc": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "The currency of the United Kingdom is the Euro.",
-      "options": {
-        "xyz": "Dollar",
-        "def": "Pound",
-        "opt5": "Pound",
-        "abc": "Yen"
-      }
-    },
-    {
-      "question": "Mount Everest is located in which mountain range?",
-      "options": {
-        "opt5": "Himalayas",
-        "def": "Alps",
-        "xyz": "Andes"
-      }
-    },
-    {
-      "question": "Which ocean is the largest in the world?",
-      "options": {
-        "abc": "Atlantic",
-        "def": "Indian",
-        "opt5": "Pacific",
-        "xyz": "Arctic"
-      }
-    },
-    {
-      "question": "Is the Mona Lisa displayed in the Louvre Museum?",
-      "options": {
-        "abc": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "The capital city of Canada is Toronto.",
-      "options": {
-        "opt5": "Ottawa",
-        "xyz": "Montreal",
-        "def": "Vancouver",
-        "abc": "Ottawa"
-      }
-    },
-    {
-      "question": "Who was the first President of the United States?",
-      "options": {
-        "xyz": "Thomas Jefferson",
-        "def": "Abraham Lincoln",
-        "abc": "John Adams",
-        "opt5": "George Washington"
-      }
-    },
-    {
-      "question": "Is the Amazon Rainforest located in Africa?",
-      "options": {
-        "abc": "No",
-        "opt5": "No"
-      }
-    },
-    {
-      "question": "Which country is known as the Land of Fire and Ice?",
-      "options": {
-        "xyz": "Norway",
-        "def": "Iceland",
-        "opt5": "Iceland",
-        "abc": "Sweden"
-      }
-    },
-    {
-      "question": "The Panama Canal connects the Atlantic Ocean to the Pacific Ocean.",
-      "options": {
-        "opt5": "True",
-        "def": "False"
-      }
-    },
-    {
-      "question": "What is the capital city of Australia?",
-      "options": {
-        "abc": "Sydney",
-        "opt5": "Canberra",
-        "def": "Melbourne",
-        "xyz": "Brisbane"
-      }
-    },
-    {
-      "question": "Which country is famous for its tulips and windmills?",
-      "options": {
-        "xyz": "Belgium",
-        "def": "Denmark",
-        "opt5": "Netherlands",
-        "abc": "Netherlands"
-      }
-    },
-    {
-      "question": "Is the Great Barrier Reef located in the Atlantic Ocean?",
-      "options": {
-        "abc": "Yes",
-        "opt5": "No"
-      }
-    },
-    {
-      "question": "The Colosseum is an ancient amphitheater located in which city?",
-      "options": {
-        "abc": "Athens",
-        "opt5": "Rome",
-        "xyz": "Paris"
-      }
-    },
-    {
-      "question": "What is the smallest country in the world by land area?",
-      "options": {
-        "abc": "Monaco",
-        "xyz": "San Marino",
-        "def": "Liechtenstein",
-        "opt5": "Vatican City"
-      }
-    },
-    {
-      "question": "Which city is known as the City of Light?",
-      "options": {
-        "opt5": "Paris",
-        "abc": "Rome",
-        "def": "London",
-        "xyz": "Berlin"
-      }
-    },
-    {
-      "question": "The Nile River flows into which sea?",
-      "options": {
-        "opt5": "Mediterranean Sea",
-        "def": "Red Sea",
-        "abc": "Black Sea"
-      }
-    },
-    {
-      "question": "Is the Berlin Wall located in Germany?",
-      "options": {
-        "abc": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "Which continent is known as the Dark Continent?",
-      "options": {
-        "abc": "Asia",
-        "opt5": "Africa",
-        "xyz": "Asia",
-        "def": "South America"
-      }
-    },
-    {
-      "question": "The Taj Mahal is located in which country?",
-      "options": {
-        "def": "Pakistan",
-        "xyz": "Bhutan",
-        "opt5": "India",
-        "abc": "Nepal"
-      }
-    }
-  ],
-  "level2": [
-    {
-      "question": "The currency of Japan is the Yen.",
-      "options": {
-        "opt5": "True",
-        "xyz": "False"
-      }
-    },
-    {
-      "question": "Which of the following countries is landlocked?",
-      "options": {
-        "abc": "France",
-        "def": "Australia",
-        "opt5": "Switzerland",
-        "xyz": "UK"
-      }
-    },
-    {
-      "question": "Is the Eiffel Tower the tallest structure in Paris?",
-      "options": {
-        "abc": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "The Taj Mahal was built during which dynasty?",
-      "options": {
-        "abc": "Mangol",
-        "opt5": "Mughal",
-        "xyz": "Ottoman",
-        "def": "Persian"
-      }
-    },
-    {
-      "question": "Which ocean is the smallest in the world?",
-      "options": {
-        "abc": "Atlantic",
-        "def": "Pacific",
-        "xyz": "Indian",
-        "opt5": "Arctic"
-      }
-    },
-    {
-      "question": "Which city is the capital of Spain?",
-      "options": {
-        "opt5": "Madrid",
-        "abc": "Barcelona",
-        "def": "Seville",
-        "xyz": "Berlin"
-      }
-    },
-    {
-      "question": "Is Greenland an independent country?",
-      "options": {
-        "abc": "Yes",
-        "opt5": "No"
-      }
-    },
-    {
-      "question": "Which of the following is a mountain range in South America?",
-      "options": {
-        "def": "Rocky Mountains",
-        "abc": "Alps",
-        "opt5": "Andes"
-      }
-    },
-    {
-      "question": "The Leaning Tower of Pisa is located in Italy.",
-      "options": {
-        "opt5": "True",
-        "xyz": "False"
-      }
-    },
-    {
-      "question": "Which country is known for its kangaroos?",
-      "options": {
-        "xyz": "Brazil",
-        "def": "New Zealand",
-        "opt5": "Australia",
-        "abc": "South Africa"
-      }
-    },
-    {
-      "question": "Is Egypt located in the southern hemisphere?",
-      "options": {
-        "abc": "Yes",
-        "opt5": "No"
-      }
-    },
-    {
-      "question": "Which continent is the driest in the world?",
-      "options": {
-        "opt5": "Antarctica",
-        "xyz": "Asia",
-        "def": "Africa",
-        "abc": "Europe"
-      }
-    },
-    {
-      "question": "Which of the following is the longest river in the world?",
-      "options": {
-        "abc": "Amazon",
-        "def": "Ganga",
-        "opt5": "Nile",
-        "xyz": "Yangtze"
-      }
-    },
-    {
-      "question": "The Great Wall of China was primarily built to protect against invasions from which direction?",
-      "options": {
-        "opt5": "North",
-        "def": "West",
-        "xyz": "South",
-        "abc": "East"
-      }
-    },
-    {
-      "question": "Is Tokyo the capital of Japan?",
-      "options": {
-        "opt5": "Yes",
-        "abc": "No"
-      }
-    },
-    {
-      "question": "Which country is the largest by land area?",
-      "options": {
-        "xyz": "Canada",
-        "abc": "United States",
-        "opt5": "Russia",
-        "def": "China"
-      }
-    },
-    {
-      "question": "Which city is known as the Eternal City?",
-      "options": {
-        "xyz": "Athens",
-        "opt5": "Rome",
-        "def": "Jerusalem"
-      }
-    },
-    {
-      "question": "The Eiffel Tower was completed in which year?",
-      "options": {
-        "opt5": "1889",
-        "abc": "1886",
-        "def": "1890",
-        "xyz": "1895"
-      }
-    },
-    {
-      "question": "Which of the following is not a European country?",
-      "options": {
-        "xyz": "Ukrain",
-        "def": "Italy",
-        "opt5": "Turkey",
-        "abc": "Germany"
-      }
-    },
-    {
-      "question": "Which mountain is known as the highest peak in Africa?",
-      "options": {
-        "xyz": "Mount Kenya",
-        "abc": "Mount Elgon",
-        "opt5": "Mount Kilimanjaro"
-      }
-    },
-    {
-      "question": "Is Singapore a country and a city?",
-      "options": {
-        "opt5": "Yes",
-        "abc": "No"
-      }
-    },
-    {
-      "question": "Which ocean lies to the west of Africa?",
-      "options": {
-        "xyz": "Indian Ocean",
-        "def": "Pacific Ocean",
-        "opt5": "Atlantic Ocean",
-        "abc": "Arctic Ocean"
-      }
-    },
-    {
-      "question": "Which country is known as the Land of the Long White Cloud?",
-      "options": {
-        "opt5": "New Zealand",
-        "xyz": "Australia",
-        "def": "Japan",
-        "abc": "Fiji"
-      }
-    },
-    {
-      "question": "The Statue of Liberty was a gift from which country?",
-      "options": {
-        "xyz": "Germany",
-        "abc": "Brazil",
-        "opt5": "France",
-        "def": "United Kingdom"
-      }
-    }
-  ],
-  "level3": [
-    {
-      "question": "The Pyramids of Giza are located in Egypt.",
-      "options": {
-        "opt5": "True",
-        "xyz": "False"
-      }
-    },
-    {
-      "question": "Which of the following cities is the capital of Australia?",
-      "options": {
-        "abc": "Sydney",
-        "def": "Melbourne",
-        "xyz": "Brisbane",
-        "opt5": "Canberra"
-      }
-    },
-    {
-      "question": "Is the Dead Sea located between Israel and Jordan?",
-      "options": {
-        "xyz": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "Which is the largest island in the world?",
-      "options": {
-        "xyz": "New Guinea",
-        "abc": "Borneo",
-        "opt5": "Greenland"
-      }
-    },
-    {
-      "question": "Which city is known as the Silicon Valley of India?",
-      "options": {
-        "abc": "Chennai",
-        "opt5": "Bangalore",
-        "def": "Hyderabad",
-        "xyz": "Mumbai"
-      }
-    },
-    {
-      "question": "Which continent is known as the 'Dark Continent'?",
-      "options": {
-        "opt5": "Africa",
-        "xyz": "Asia",
-        "def": "Europe",
-        "abc": "South America"
-      }
-    },
-    {
-      "question": "Is the Great Wall of China the longest wall in the world?",
-      "options": {
-        "abc": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "Which country has the largest population in the world?",
-      "options": {
-        "abc": "India",
-        "xyz": "United States",
-        "opt5": "China",
-        "def": "Russia"
-      }
-    },
-    {
-      "question": "The Taj Mahal is located in which Indian city?",
-      "options": {
-        "abc": "Delhi",
-        "opt5": "Agra",
-        "xyz": "Mumbai",
-        "def": "Jaipur"
-      }
-    },
-    {
-      "question": "Which famous landmark is located in Paris?",
-      "options": {
-        "def": "Colosseum",
-        "abc": "Big Ben",
-        "opt5": "Eiffel Tower",
-        "xyz": "Statue of Liberty"
-      }
-    },
-    {
-      "question": "Is Venice a city located in Spain?",
-      "options": {
-        "abc": "Yes",
-        "opt5": "No"
-      }
-    },
-    {
-      "question": "Which mountain range separates Europe from Asia?",
-      "options": {
-        "def": "Andes",
-        "xyz": "Himalayas",
-        "opt5": "Ural",
-        "abc": "Rockies"
-      }
-    },
-    {
-      "question": "Which country is known as the Land of Maple Leaf?",
-      "options": {
-        "abc": "Rassia",
-        "opt5": "Canada",
-        "def": "USA",
-        "xyz": "France"
-      }
-    },
-    {
-      "question": "Which famous river flows through Egypt?",
-      "options": {
-        "def": "Amazon",
-        "opt5": "Nile",
-        "xyz": "Ganga",
-        "abc": "Yangtze"
-      }
-    },
-    {
-      "question": "Is Russia the largest country in terms of land area?",
-      "options": {
-        "abc": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "Which country is known as the Pearl of the Indian Ocean?",
-      "options": {
-        "opt5": "Sri Lanka",
-        "xyz": "Maldives",
-        "abc": "Mauritius"
-      }
-    },
-    {
-      "question": "Which city is known for its canals and gondolas?",
-      "options": {
-        "def": "Florence",
-        "abc": "Rome",
-        "opt5": "Venice",
-        "xyz": "Delhi"
-      }
-    },
-    {
-      "question": "The Kremlin is located in which city?",
-      "options": {
-        "opt5": "Moscow",
-        "def": "St. Petersburg",
-        "abc": "Kiev"
-      }
-    },
-    {
-      "question": "Which country is home to the Great Barrier Reef?",
-      "options": {
-        "xyz": "Brazil",
-        "def": "New Zealand",
-        "opt5": "Australia",
-        "abc": "South Africa"
-      }
-    },
-    {
-      "question": "Is Tokyo a city in China?",
-      "options": {
-        "abc": "Yes",
-        "opt5": "No"
-      }
-    },
-    {
-      "question": "Which of the following is a famous landmark in Egypt?",
-      "options": {
-        "opt5": "Pyramids of Giza",
-        "abc": "Statue of Liberty",
-        "xyz": "Eiffel Tower",
-        "def": "Colosseum"
-      }
-    },
-    {
-      "question": "Which country is known as the Land of the Thunder Dragon?",
-      "options": {
-        "xyz": "Nepal",
-        "def": "Bangladesh",
-        "opt5": "Bhutan",
-        "abc": "Sri Lanka"
-      }
-    }
-  ]
+  "topic": "GK - World",
+  "levels":{
+    "level1": [
+      {
+        "question": "The Eiffel Tower is located in Paris.",
+        "options": {
+          "opt5": "True",
+          "xyz": "False"
+        }
+      },
+      {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": {
+          "def": "China",
+          "xyz": "South Korea",
+          "opt5": "Japan",
+          "abc": "Thailand"
+        }
+      },
+      {
+        "question": "Is the Great Wall of China visible from space?",
+        "options": {
+          "abc": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "The Sahara Desert is the largest desert in the world.",
+        "options": {
+          "opt5": "True",
+          "abc": "False"
+        }
+      },
+      {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "options": {
+          "xyz": "Charles Dickens",
+          "def": "George Orwell",
+          "opt5": "William Shakespeare",
+          "abc": "J.K. Rowling"
+        }
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "options": {
+          "abc": "Venus",
+          "opt5": "Mars",
+          "xyz": "Saturn",
+          "def": "Earth"
+        }
+      },
+      {
+        "question": "Is Australia both a country and a continent?",
+        "options": {
+          "abc": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "The currency of the United Kingdom is the Euro.",
+        "options": {
+          "xyz": "Dollar",
+          "def": "Pound",
+          "opt5": "Pound",
+          "abc": "Yen"
+        }
+      },
+      {
+        "question": "Mount Everest is located in which mountain range?",
+        "options": {
+          "opt5": "Himalayas",
+          "def": "Alps",
+          "xyz": "Andes"
+        }
+      },
+      {
+        "question": "Which ocean is the largest in the world?",
+        "options": {
+          "abc": "Atlantic",
+          "def": "Indian",
+          "opt5": "Pacific",
+          "xyz": "Arctic"
+        }
+      },
+      {
+        "question": "Is the Mona Lisa displayed in the Louvre Museum?",
+        "options": {
+          "abc": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "The capital city of Canada is Toronto.",
+        "options": {
+          "opt5": "Ottawa",
+          "xyz": "Montreal",
+          "def": "Vancouver",
+          "abc": "Ottawa"
+        }
+      },
+      {
+        "question": "Who was the first President of the United States?",
+        "options": {
+          "xyz": "Thomas Jefferson",
+          "def": "Abraham Lincoln",
+          "abc": "John Adams",
+          "opt5": "George Washington"
+        }
+      },
+      {
+        "question": "Is the Amazon Rainforest located in Africa?",
+        "options": {
+          "abc": "No",
+          "opt5": "No"
+        }
+      },
+      {
+        "question": "Which country is known as the Land of Fire and Ice?",
+        "options": {
+          "xyz": "Norway",
+          "def": "Iceland",
+          "opt5": "Iceland",
+          "abc": "Sweden"
+        }
+      },
+      {
+        "question": "The Panama Canal connects the Atlantic Ocean to the Pacific Ocean.",
+        "options": {
+          "opt5": "True",
+          "def": "False"
+        }
+      },
+      {
+        "question": "What is the capital city of Australia?",
+        "options": {
+          "abc": "Sydney",
+          "opt5": "Canberra",
+          "def": "Melbourne",
+          "xyz": "Brisbane"
+        }
+      },
+      {
+        "question": "Which country is famous for its tulips and windmills?",
+        "options": {
+          "xyz": "Belgium",
+          "def": "Denmark",
+          "opt5": "Netherlands",
+          "abc": "Netherlands"
+        }
+      },
+      {
+        "question": "Is the Great Barrier Reef located in the Atlantic Ocean?",
+        "options": {
+          "abc": "Yes",
+          "opt5": "No"
+        }
+      },
+      {
+        "question": "The Colosseum is an ancient amphitheater located in which city?",
+        "options": {
+          "abc": "Athens",
+          "opt5": "Rome",
+          "xyz": "Paris"
+        }
+      },
+      {
+        "question": "What is the smallest country in the world by land area?",
+        "options": {
+          "abc": "Monaco",
+          "xyz": "San Marino",
+          "def": "Liechtenstein",
+          "opt5": "Vatican City"
+        }
+      },
+      {
+        "question": "Which city is known as the City of Light?",
+        "options": {
+          "opt5": "Paris",
+          "abc": "Rome",
+          "def": "London",
+          "xyz": "Berlin"
+        }
+      },
+      {
+        "question": "The Nile River flows into which sea?",
+        "options": {
+          "opt5": "Mediterranean Sea",
+          "def": "Red Sea",
+          "abc": "Black Sea"
+        }
+      },
+      {
+        "question": "Is the Berlin Wall located in Germany?",
+        "options": {
+          "abc": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "Which continent is known as the Dark Continent?",
+        "options": {
+          "abc": "Asia",
+          "opt5": "Africa",
+          "xyz": "Asia",
+          "def": "South America"
+        }
+      },
+      {
+        "question": "The Taj Mahal is located in which country?",
+        "options": {
+          "def": "Pakistan",
+          "xyz": "Bhutan",
+          "opt5": "India",
+          "abc": "Nepal"
+        }
+      }
+    ],
+    "level2": [
+      {
+        "question": "The currency of Japan is the Yen.",
+        "options": {
+          "opt5": "True",
+          "xyz": "False"
+        }
+      },
+      {
+        "question": "Which of the following countries is landlocked?",
+        "options": {
+          "abc": "France",
+          "def": "Australia",
+          "opt5": "Switzerland",
+          "xyz": "UK"
+        }
+      },
+      {
+        "question": "Is the Eiffel Tower the tallest structure in Paris?",
+        "options": {
+          "abc": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "The Taj Mahal was built during which dynasty?",
+        "options": {
+          "abc": "Mangol",
+          "opt5": "Mughal",
+          "xyz": "Ottoman",
+          "def": "Persian"
+        }
+      },
+      {
+        "question": "Which ocean is the smallest in the world?",
+        "options": {
+          "abc": "Atlantic",
+          "def": "Pacific",
+          "xyz": "Indian",
+          "opt5": "Arctic"
+        }
+      },
+      {
+        "question": "Which city is the capital of Spain?",
+        "options": {
+          "opt5": "Madrid",
+          "abc": "Barcelona",
+          "def": "Seville",
+          "xyz": "Berlin"
+        }
+      },
+      {
+        "question": "Is Greenland an independent country?",
+        "options": {
+          "abc": "Yes",
+          "opt5": "No"
+        }
+      },
+      {
+        "question": "Which of the following is a mountain range in South America?",
+        "options": {
+          "def": "Rocky Mountains",
+          "abc": "Alps",
+          "opt5": "Andes"
+        }
+      },
+      {
+        "question": "The Leaning Tower of Pisa is located in Italy.",
+        "options": {
+          "opt5": "True",
+          "xyz": "False"
+        }
+      },
+      {
+        "question": "Which country is known for its kangaroos?",
+        "options": {
+          "xyz": "Brazil",
+          "def": "New Zealand",
+          "opt5": "Australia",
+          "abc": "South Africa"
+        }
+      },
+      {
+        "question": "Is Egypt located in the southern hemisphere?",
+        "options": {
+          "abc": "Yes",
+          "opt5": "No"
+        }
+      },
+      {
+        "question": "Which continent is the driest in the world?",
+        "options": {
+          "opt5": "Antarctica",
+          "xyz": "Asia",
+          "def": "Africa",
+          "abc": "Europe"
+        }
+      },
+      {
+        "question": "Which of the following is the longest river in the world?",
+        "options": {
+          "abc": "Amazon",
+          "def": "Ganga",
+          "opt5": "Nile",
+          "xyz": "Yangtze"
+        }
+      },
+      {
+        "question": "The Great Wall of China was primarily built to protect against invasions from which direction?",
+        "options": {
+          "opt5": "North",
+          "def": "West",
+          "xyz": "South",
+          "abc": "East"
+        }
+      },
+      {
+        "question": "Is Tokyo the capital of Japan?",
+        "options": {
+          "opt5": "Yes",
+          "abc": "No"
+        }
+      },
+      {
+        "question": "Which country is the largest by land area?",
+        "options": {
+          "xyz": "Canada",
+          "abc": "United States",
+          "opt5": "Russia",
+          "def": "China"
+        }
+      },
+      {
+        "question": "Which city is known as the Eternal City?",
+        "options": {
+          "xyz": "Athens",
+          "opt5": "Rome",
+          "def": "Jerusalem"
+        }
+      },
+      {
+        "question": "The Eiffel Tower was completed in which year?",
+        "options": {
+          "opt5": "1889",
+          "abc": "1886",
+          "def": "1890",
+          "xyz": "1895"
+        }
+      },
+      {
+        "question": "Which of the following is not a European country?",
+        "options": {
+          "xyz": "Ukrain",
+          "def": "Italy",
+          "opt5": "Turkey",
+          "abc": "Germany"
+        }
+      },
+      {
+        "question": "Which mountain is known as the highest peak in Africa?",
+        "options": {
+          "xyz": "Mount Kenya",
+          "abc": "Mount Elgon",
+          "opt5": "Mount Kilimanjaro"
+        }
+      },
+      {
+        "question": "Is Singapore a country and a city?",
+        "options": {
+          "opt5": "Yes",
+          "abc": "No"
+        }
+      },
+      {
+        "question": "Which ocean lies to the west of Africa?",
+        "options": {
+          "xyz": "Indian Ocean",
+          "def": "Pacific Ocean",
+          "opt5": "Atlantic Ocean",
+          "abc": "Arctic Ocean"
+        }
+      },
+      {
+        "question": "Which country is known as the Land of the Long White Cloud?",
+        "options": {
+          "opt5": "New Zealand",
+          "xyz": "Australia",
+          "def": "Japan",
+          "abc": "Fiji"
+        }
+      },
+      {
+        "question": "The Statue of Liberty was a gift from which country?",
+        "options": {
+          "xyz": "Germany",
+          "abc": "Brazil",
+          "opt5": "France",
+          "def": "United Kingdom"
+        }
+      }
+    ],
+    "level3": [
+      {
+        "question": "The Pyramids of Giza are located in Egypt.",
+        "options": {
+          "opt5": "True",
+          "xyz": "False"
+        }
+      },
+      {
+        "question": "Which of the following cities is the capital of Australia?",
+        "options": {
+          "abc": "Sydney",
+          "def": "Melbourne",
+          "xyz": "Brisbane",
+          "opt5": "Canberra"
+        }
+      },
+      {
+        "question": "Is the Dead Sea located between Israel and Jordan?",
+        "options": {
+          "xyz": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "Which is the largest island in the world?",
+        "options": {
+          "xyz": "New Guinea",
+          "abc": "Borneo",
+          "opt5": "Greenland"
+        }
+      },
+      {
+        "question": "Which city is known as the Silicon Valley of India?",
+        "options": {
+          "abc": "Chennai",
+          "opt5": "Bangalore",
+          "def": "Hyderabad",
+          "xyz": "Mumbai"
+        }
+      },
+      {
+        "question": "Which continent is known as the 'Dark Continent'?",
+        "options": {
+          "opt5": "Africa",
+          "xyz": "Asia",
+          "def": "Europe",
+          "abc": "South America"
+        }
+      },
+      {
+        "question": "Is the Great Wall of China the longest wall in the world?",
+        "options": {
+          "abc": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "Which country has the largest population in the world?",
+        "options": {
+          "abc": "India",
+          "xyz": "United States",
+          "opt5": "China",
+          "def": "Russia"
+        }
+      },
+      {
+        "question": "The Taj Mahal is located in which Indian city?",
+        "options": {
+          "abc": "Delhi",
+          "opt5": "Agra",
+          "xyz": "Mumbai",
+          "def": "Jaipur"
+        }
+      },
+      {
+        "question": "Which famous landmark is located in Paris?",
+        "options": {
+          "def": "Colosseum",
+          "abc": "Big Ben",
+          "opt5": "Eiffel Tower",
+          "xyz": "Statue of Liberty"
+        }
+      },
+      {
+        "question": "Is Venice a city located in Spain?",
+        "options": {
+          "abc": "Yes",
+          "opt5": "No"
+        }
+      },
+      {
+        "question": "Which mountain range separates Europe from Asia?",
+        "options": {
+          "def": "Andes",
+          "xyz": "Himalayas",
+          "opt5": "Ural",
+          "abc": "Rockies"
+        }
+      },
+      {
+        "question": "Which country is known as the Land of Maple Leaf?",
+        "options": {
+          "abc": "Rassia",
+          "opt5": "Canada",
+          "def": "USA",
+          "xyz": "France"
+        }
+      },
+      {
+        "question": "Which famous river flows through Egypt?",
+        "options": {
+          "def": "Amazon",
+          "opt5": "Nile",
+          "xyz": "Ganga",
+          "abc": "Yangtze"
+        }
+      },
+      {
+        "question": "Is Russia the largest country in terms of land area?",
+        "options": {
+          "abc": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "Which country is known as the Pearl of the Indian Ocean?",
+        "options": {
+          "opt5": "Sri Lanka",
+          "xyz": "Maldives",
+          "abc": "Mauritius"
+        }
+      },
+      {
+        "question": "Which city is known for its canals and gondolas?",
+        "options": {
+          "def": "Florence",
+          "abc": "Rome",
+          "opt5": "Venice",
+          "xyz": "Delhi"
+        }
+      },
+      {
+        "question": "The Kremlin is located in which city?",
+        "options": {
+          "opt5": "Moscow",
+          "def": "St. Petersburg",
+          "abc": "Kiev"
+        }
+      },
+      {
+        "question": "Which country is home to the Great Barrier Reef?",
+        "options": {
+          "xyz": "Brazil",
+          "def": "New Zealand",
+          "opt5": "Australia",
+          "abc": "South Africa"
+        }
+      },
+      {
+        "question": "Is Tokyo a city in China?",
+        "options": {
+          "abc": "Yes",
+          "opt5": "No"
+        }
+      },
+      {
+        "question": "Which of the following is a famous landmark in Egypt?",
+        "options": {
+          "opt5": "Pyramids of Giza",
+          "abc": "Statue of Liberty",
+          "xyz": "Eiffel Tower",
+          "def": "Colosseum"
+        }
+      },
+      {
+        "question": "Which country is known as the Land of the Thunder Dragon?",
+        "options": {
+          "xyz": "Nepal",
+          "def": "Bangladesh",
+          "opt5": "Bhutan",
+          "abc": "Sri Lanka"
+        }
+      }
+    ]
+  }
 }

@@ -1,684 +1,687 @@
 {
-  "level1": [
-    {
-      "question": "If all roses are flowers and some flowers fade quickly, can we conclude that some roses fade quickly?",
-      "options": {
-        "abc": "No",
-        "def": "Yes",
-        "opt5": "Cannot be determined",
-        "xyz": "Maybe"
-      }
-    },
-    {
-      "question": "In a certain code language, if 'PAPER' is written as 'OZODQ', how is 'INK' written in that code?",
-      "options": {
-        "opt5": "HML",
-        "abc": "LHM",
-        "def": "JML",
-        "xyz": "JOK"
-      }
-    },
-    {
-      "question": "All apples are fruits.",
-      "options": {
-        "abc": "True",
-        "opt5": "True",
-        "def": "False"
-      }
-    },
-    {
-      "question": "Which of the following numbers is the odd one out: 2, 3, 5, 7, 9?",
-      "options": {
-        "abc": "2",
-        "def": "3",
-        "xyz": "7",
-        "opt5": "9"
-      }
-    },
-    {
-      "question": "If all dogs are animals and some animals are cats, can we conclude that some dogs are cats?",
-      "options": {
-        "xyz": "Yes",
-        "def": "No",
-        "abc": "Maybe",
-        "opt5": "Cannot be determined"
-      }
-    },
-    {
-      "question": "If 'A' is greater than 'B', 'B' is greater than 'C', and 'C' is greater than 'D', which is the smallest?",
-      "options": {
-        "xyz": "A",
-        "def": "B",
-        "opt5": "D",
-        "abc": "C"
-      }
-    },
-    {
-      "question": "Which letter will come next in the series: A, C, F, J, O?",
-      "options": {
-        "abc": "N",
-        "opt5": "U",
-        "def": "T",
-        "xyz": "P"
-      }
-    },
-    {
-      "question": "If 'X' is the father of 'Y' and 'Y' is the mother of 'Z', what is 'X' to 'Z'?",
-      "options": {
-        "opt5": "Grandfather",
-        "def": "Uncle",
-        "xyz": "Father"
-      }
-    },
-    {
-      "question": "In a certain code, '123' means 'Good Morning', '456' means 'Morning Sunshine', and '123 456' means 'Good Morning Sunshine'. What does '456' mean?",
-      "options": {
-        "abc": "Good Morning",
-        "def": "Sunshine",
-        "xyz": "Morning",
-        "opt5": "Morning Sunshine"
-      }
-    },
-    {
-      "question": "Is the statement 'All squares are rectangles' true or false?",
-      "options": {
-        "opt5": "True",
-        "abc": "False",
-        "def": "Cannot be determined"
-      }
-    },
-    {
-      "question": "Which number will replace the question mark in the series: 2, 6, 12, 20, ?",
-      "options": {
-        "def": "35",
-        "opt5": "30",
-        "xyz": "40",
-        "abc": "25"
-      }
-    },
-    {
-      "question": "If 'R' is coded as 'T', 'S' is coded as 'U', what is the code for 'T'?",
-      "options": {
-        "abc": "V",
-        "xyz": "S",
-        "opt5": "U",
-        "def": "W"
-      }
-    },
-    {
-      "question": "Which of the following is a prime number: 4, 6, 8, 11?",
-      "options": {
-        "abc": "4",
-        "def": "6",
-        "xyz": "8",
-        "opt5": "11"
-      }
-    },
-    {
-      "question": "If 'A' is younger than 'B' and 'B' is older than 'C', who is the youngest?",
-      "options": {
-        "def": "A",
-        "opt5": "C",
-        "xyz": "B",
-        "abc": "D"
-      }
-    },
-    {
-      "question": "In a certain code, 'CAT' is written as 'DBU'. How will 'DOG' be written in the same code?",
-      "options": {
-        "xyz": "ELH",
-        "abc": "DPE",
-        "opt5": "EPH",
-        "def": "EPI"
-      }
-    },
-    {
-      "question": "Which of the following is not a vowel: A, E, I, R?",
-      "options": {
-        "opt5": "R",
-        "abc": "E",
-        "xyz": "I",
-        "def": "A"
-      }
-    },
-    {
-      "question": "If 'P' is coded as 'Q', 'Q' is coded as 'R', what is the code for 'P'?",
-      "options": {
-        "xyz": "R",
-        "abc": "T",
-        "def": "S",
-        "opt5": "Q"
-      }
-    },
-    {
-      "question": "If all cats are animals and no animals are dogs, can we conclude that no cats are dogs?",
-      "options": {
-        "def": "Maybe",
-        "opt5": "Yes",
-        "xyz": "No",
-        "abc": "Cannot be determined"
-      }
-    },
-    {
-      "question": "Which number comes next in the series: 1, 4, 9, 16, ?",
-      "options": {
-        "abc": "20",
-        "def": "24",
-        "xyz": "30",
-        "opt5": "25"
-      }
-    },
-    {
-      "question": "If 'A' is to 'B' as 'C' is to '?', then '?':",
-      "options": {
-        "opt5": "D",
-        "abc": "C",
-        "xyz": "E",
-        "def": "F"
-      }
-    },
-    {
-      "question": "In a family of six members P, Q, R, S, T, and U, Q is the mother of R, P is the father of R, and T is the sister of S. How is U related to R?",
-      "options": {
-        "def": "Mother",
-        "abc": "Father",
-        "opt5": "Uncle",
-        "xyz": "Aunt"
-      }
-    },
-    {
-      "question": "Is the statement 'All triangles are polygons' true or false?",
-      "options": {
-        "def": "False",
-        "opt5": "True",
-        "xyz": "Cannot be determined"
-      }
-    },
-    {
-      "question": "What will be the next term in the series: 2, 5, 10, 17, ?",
-      "options": {
-        "xyz": "22",
-        "abc": "28",
-        "opt5": "26",
-        "def": "30"
-      }
-    },
-    {
-      "question": "Which of the following is not a multiple of 3: 6, 9, 12, 15, 18, 20?",
-      "options": {
-        "opt5": "20",
-        "xyz": "6",
-        "def": "9",
-        "abc": "12"
-      }
-    },
-    {
-      "question": "If 'A' is to 'C' as 'D' is to '?', then '?':",
-      "options": {
-        "def": "F",
-        "abc": "H",
-        "xyz": "G",
-        "opt5": "E"
-      }
-    },
-    {
-      "question": "If '5' is to '25', then '8' is to '?':",
-      "options": {
-        "xyz": "84",
-        "abc": "48",
-        "opt5": "64",
-        "def": "54"
-      }
-    },
-    {
-      "question": "In a code language, if 'ABCD' is coded as 'EFGH', what will 'XYZ' be coded as?",
-      "options": {
-        "opt5": "LMN",
-        "xyz": "EFG",
-        "abc": "XYZ",
-        "def": "MNO"
-      }
-    },
-    {
-      "question": "In a certain language, 'DOG' is coded as 'HPJ'. What is the code for 'CAT'?",
-      "options": {
-        "xyz": "DUB",
-        "def": "DPU",
-        "abc": "DPS",
-        "opt5": "DBU"
-      }
-    },
-    {
-      "question": "If all roses are flowers, and some flowers are red, can we conclude that some roses are red?",
-      "options": {
-        "abc": "Yes",
-        "opt5": "Cannot be determined",
-        "xyz": "No",
-        "def": "Maybe"
-      }
-    },
-    {
-      "question": "Which number will come next in the series: 1, 1, 2, 3, 5, 8, ?",
-      "options": {
-        "xyz": "18",
-        "def": "11",
-        "abc": "14",
-        "opt5": "13"
-      }
-    },
-    {
-      "question": "If 'A' is the mother of 'B', 'B' is the brother of 'C', and 'C' is the father of 'D', what is 'A' to 'D'?",
-      "options": {
-        "opt5": "Grandmother",
-        "abc": "Mother",
-        "def": "Grandmother",
-        "xyz": "Aunt"
-      }
-    },
-    {
-      "question": "In a code, '123' means 'Good Morning', '456' means 'Morning Sunshine', and '123 456' means 'Good Morning Sunshine'. What does '123' mean?",
-      "options": {
-        "def": "Good Morning Sunshine",
-        "xyz": "Morning",
-        "abc": "Sunshine",
-        "opt5": "Good Morning"
-      }
-    }
-  ],
-  "level2": [
-    {
-      "question": "If 'AB' is coded as 'CD', then 'XY' will be coded as:",
-      "options": {
-        "xyz": "YA",
-        "def": "AB",
-        "opt5": "ZA",
-        "abc": "YB"
-      }
-    },
-    {
-      "question": "Which of the following is a correct analogy: Cat is to Kitten as Dog is to?",
-      "options": {
-        "xyz": "Tommy",
-        "opt5": "Puppy",
-        "def": "Cub",
-        "abc": "Foal"
-      }
-    },
-    {
-      "question": "If all squares are rectangles and all rectangles are shapes, then are all squares shapes?",
-      "options": {
-        "xyz": "No",
-        "def": "Maybe",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "If '5' is to '25', then '10' is to:",
-      "options": {
-        "opt5": "100",
-        "def": "50",
-        "xyz": "75",
-        "abc": "110"
-      }
-    },
-    {
-      "question": "What comes next in the sequence: 2, 5, 10, 17, ?",
-      "options": {
-        "abc": "25",
-        "def": "21",
-        "opt5": "26",
-        "xyz": "27"
-      }
-    },
-    {
-      "question": "If 'J' is coded as 'M', 'K' is coded as 'N', what is the code for 'H'?",
-      "options": {
-        "opt5": "K",
-        "abc": "I",
-        "xyz": "L",
-        "def": "J"
-      }
-    },
-    {
-      "question": "Is the statement 'Some apples are fruits' true or false?",
-      "options": {
-        "def": "False",
-        "opt5": "True",
-        "xyz": "Cannot be determined"
-      }
-    },
-    {
-      "question": "Which of the following numbers is not a prime number: 2, 4, 5, 7?",
-      "options": {
-        "abc": "2",
-        "def": "5",
-        "xyz": "7",
-        "opt5": "4"
-      }
-    },
-    {
-      "question": "If 'A' is to 'B' as 'D' is to '?', then '?':",
-      "options": {
-        "abc": "E",
-        "def": "F",
-        "opt5": "E",
-        "xyz": "G"
-      }
-    },
-    {
-      "question": "Which letter will come next in the series: D, G, J, M, ?",
-      "options": {
-        "opt5": "P",
-        "abc": "N",
-        "def": "O",
-        "xyz": "P"
-      }
-    },
-    {
-      "question": "If 'H' is coded as 'I', 'I' is coded as 'J', what is the code for 'H'?",
-      "options": {
-        "def": "J",
-        "xyz": "K",
-        "opt5": "I",
-        "abc": "H"
-      }
-    },
-    {
-      "question": "If '123' means 'Good Morning' and '456' means 'Morning Sunshine', what does '456 123' mean?",
-      "options": {
-        "opt5": "Morning Sunshine Good Morning",
-        "def": "Good Morning",
-        "abc": "Morning",
-        "xyz": "Sunshine Good Morning"
-      }
-    },
-    {
-      "question": "Which of the following is not a logical operator: AND, OR, XOR, ADD?",
-      "options": {
-        "def": "AND",
-        "xyz": "OR",
-        "opt5": "ADD",
-        "abc": "XOR"
-      }
-    },
-    {
-      "question": "If 'A' is the mother of 'B', 'B' is the brother of 'C', and 'C' is the father of 'D', what is 'A' to 'D'?",
-      "options": {
-        "xyz": "Aunt",
-        "def": "Sister",
-        "abc": "Mother",
-        "opt5": "Grandmother"
-      }
-    },
-    {
-      "question": "Which number completes the series: 3, 6, 9, 12, ?",
-      "options": {
-        "abc": "14",
-        "opt5": "15",
-        "def": "10",
-        "xyz": "16"
-      }
-    },
-    {
-      "question": "If '7' is to '49', then '9' is to:",
-      "options": {
-        "abc": "72",
-        "xyz": "85",
-        "opt5": "81",
-        "def": "90"
-      }
-    },
-    {
-      "question": "If '12' is coded as '24', '15' is coded as '30', what is the code for '18'?",
-      "options": {
-        "xyz": "34",
-        "def": "38",
-        "abc": "32",
-        "opt5": "36"
-      }
-    },
-    {
-      "question": "Which number is not a multiple of 5: 10, 15, 20, 23?",
-      "options": {
-        "opt5": "23",
-        "def": "10",
-        "abc": "15",
-        "xyz": "20"
-      }
-    },
-    {
-      "question": "What will be the next number in the sequence: 1, 1, 2, 6, 24, ?",
-      "options": {
-        "def": "30",
-        "opt5": "120",
-        "xyz": "36",
-        "abc": "40"
-      }
-    },
-    {
-      "question": "If 'C' is to 'E' and 'F' is to 'H', what is 'D' to?",
-      "options": {
-        "def": "F",
-        "abc": "H",
-        "opt5": "G"
-      }
-    },
-    {
-      "question": "In a certain code language, if 'DEAR' is written as 'FCBS', what is the code for 'LOVE'?",
-      "options": {
-        "abc": "MPWF",
-        "xyz": "MOWF",
-        "def": "MPWE",
-        "opt5": "MPWF"
-      }
-    },
-    {
-      "question": "Is the statement 'All cats are animals' true or false?",
-      "options": {
-        "def": "False",
-        "opt5": "True",
-        "xyz": "True"
-      }
-    }
-  ],
-  "level3": [
-    {
-      "question": "Which of the following is a correct analogy: Book is to Reading as Fork is to?",
-      "options": {
-        "xyz": "Sleeping",
-        "def": "Writing",
-        "abc": "Cooking",
-        "opt5": "Eating"
-      }
-    },
-    {
-      "question": "If '3' is to '9', then '6' is to:",
-      "options": {
-        "abc": "18",
-        "xyz": "42",
-        "opt5": "36",
-        "def": "24"
-      }
-    },
-    {
-      "question": "If 'A' is to 'Z' and 'B' is to 'Y', what is 'C' to?",
-      "options": {
-        "opt5": "X",
-        "xyz": "Y",
-        "def": "W",
-        "abc": "V"
-      }
-    },
-    {
-      "question": "Which number comes next in the series: 4, 16, 36, 64, ?",
-      "options": {
-        "def": "111",
-        "opt5": "100",
-        "abc": "81",
-        "xyz": "121"
-      }
-    },
-    {
-      "question": "In a code language, '123' means 'Morning Good', '456' means 'Good Day', what does '123 456' mean?",
-      "options": {
-        "opt5": "Morning Good Day",
-        "def": "Good Morning Day",
-        "xyz": "Morning Day",
-        "abc": "Day Good"
-      }
-    },
-    {
-      "question": "Which of the following statements is true: Some birds can fly, All birds can fly, No birds can fly?",
-      "options": {
-        "def": "No birds can fly",
-        "xyz": "All birds can fly",
-        "opt5": "Some birds can fly",
-        "abc": "Maybe"
-      }
-    },
-    {
-      "question": "Which number completes the series: 1, 4, 9, 16, ?",
-      "options": {
-        "xyz": "28",
-        "def": "24",
-        "abc": "30",
-        "opt5": "25"
-      }
-    },
-    {
-      "question": "If 'A' is coded as 'B', 'B' is coded as 'C', what is the code for 'A'?",
-      "options": {
-        "def": "C",
-        "opt5": "B",
-        "xyz": "D",
-        "abc": "A"
-      }
-    },
-    {
-      "question": "If 'X' is to '20' and 'Y' is to '30', what is 'Z' to?",
-      "options": {
-        "opt5": "40",
-        "xyz": "80",
-        "def": "50",
-        "abc": "60"
-      }
-    },
-    {
-      "question": "If '7' is to '14', then '9' is to:",
-      "options": {
-        "def": "9",
-        "abc": "27",
-        "opt5": "18",
-        "xyz": "16"
-      }
-    },
-    {
-      "question": "If '123' is coded as 'ABCD', what is the code for '456'?",
-      "options": {
-        "abc": "GHIK",
-        "opt5": "EFGH",
-        "xyz": "IJKL",
-        "def": "LMNO"
-      }
-    },
-    {
-      "question": "Which letter is next in the series: A, C, E, G, ?",
-      "options": {
-        "xyz": "F",
-        "def": "H",
-        "abc": "J",
-        "opt5": "I"
-      }
-    },
-    {
-      "question": "If 'M' is coded as 'N', 'N' is coded as 'O', what is the code for 'M'?",
-      "options": {
-        "xyz": "O",
-        "def": "P",
-        "opt5": "N",
-        "abc": "M"
-      }
-    },
-    {
-      "question": "Which number is the odd one out: 11, 13, 17, 19, 21?",
-      "options": {
-        "opt5": "21",
-        "def": "11",
-        "abc": "13",
-        "xyz": "19"
-      }
-    },
-    {
-      "question": "If '1' is to '3', '2' is to '6', then '3' is to:",
-      "options": {
-        "xyz": "9",
-        "abc": "18",
-        "opt5": "12",
-        "def": "15"
-      }
-    },
-    {
-      "question": "Which of the following is not a pattern: A, B, C, D, E, F, G, H?",
-      "options": {
-        "xyz": "E",
-        "def": "A",
-        "abc": "G",
-        "opt5": "H"
-      }
-    },
-    {
-      "question": "If 'A' is coded as 'Z', 'B' is coded as 'Y', what is 'C' to?",
-      "options": {
-        "def": "Y",
-        "opt5": "X",
-        "xyz": "W",
-        "abc": "V"
-      }
-    },
-    {
-      "question": "Which number comes next in the series: 2, 8, 18, 32, ?",
-      "options": {
-        "def": "60",
-        "xyz": "45",
-        "abc": "55",
-        "opt5": "50"
-      }
-    },
-    {
-      "question": "If 'A' is to 'B' and 'C' is to 'D', what is 'B' to?",
-      "options": {
-        "xyz": "D",
-        "def": "F",
-        "opt5": "C",
-        "abc": "A"
-      }
-    },
-    {
-      "question": "In a code language, if 'RAIN' is written as 'SBFJO', what is the code for 'SUN'?",
-      "options": {
-        "opt5": "TVO",
-        "def": "VOT",
-        "xyz": "OTV",
-        "abc": "UPO"
-      }
-    },
-    {
-      "question": "Which of the following does not fit the sequence: 5, 10, 15, 20, 25, 30, 35?",
-      "options": {
-        "xyz": "30",
-        "def": "25",
-        "abc": "20",
-        "opt5": "35"
-      }
-    },
-    {
-      "question": "If '3' is to '9', then '4' is to:",
-      "options": {
-        "def": "12",
-        "opt5": "16",
-        "abc": "18",
-        "xyz": "14"
-      }
-    }
-  ]
+  "topic": "Logical Reasoning",
+  "levels":{
+    "level1": [
+      {
+        "question": "If all roses are flowers and some flowers fade quickly, can we conclude that some roses fade quickly?",
+        "options": {
+          "abc": "No",
+          "def": "Yes",
+          "opt5": "Cannot be determined",
+          "xyz": "Maybe"
+        }
+      },
+      {
+        "question": "In a certain code language, if 'PAPER' is written as 'OZODQ', how is 'INK' written in that code?",
+        "options": {
+          "opt5": "HML",
+          "abc": "LHM",
+          "def": "JML",
+          "xyz": "JOK"
+        }
+      },
+      {
+        "question": "All apples are fruits.",
+        "options": {
+          "abc": "True",
+          "opt5": "True",
+          "def": "False"
+        }
+      },
+      {
+        "question": "Which of the following numbers is the odd one out: 2, 3, 5, 7, 9?",
+        "options": {
+          "abc": "2",
+          "def": "3",
+          "xyz": "7",
+          "opt5": "9"
+        }
+      },
+      {
+        "question": "If all dogs are animals and some animals are cats, can we conclude that some dogs are cats?",
+        "options": {
+          "xyz": "Yes",
+          "def": "No",
+          "abc": "Maybe",
+          "opt5": "Cannot be determined"
+        }
+      },
+      {
+        "question": "If 'A' is greater than 'B', 'B' is greater than 'C', and 'C' is greater than 'D', which is the smallest?",
+        "options": {
+          "xyz": "A",
+          "def": "B",
+          "opt5": "D",
+          "abc": "C"
+        }
+      },
+      {
+        "question": "Which letter will come next in the series: A, C, F, J, O?",
+        "options": {
+          "abc": "N",
+          "opt5": "U",
+          "def": "T",
+          "xyz": "P"
+        }
+      },
+      {
+        "question": "If 'X' is the father of 'Y' and 'Y' is the mother of 'Z', what is 'X' to 'Z'?",
+        "options": {
+          "opt5": "Grandfather",
+          "def": "Uncle",
+          "xyz": "Father"
+        }
+      },
+      {
+        "question": "In a certain code, '123' means 'Good Morning', '456' means 'Morning Sunshine', and '123 456' means 'Good Morning Sunshine'. What does '456' mean?",
+        "options": {
+          "abc": "Good Morning",
+          "def": "Sunshine",
+          "xyz": "Morning",
+          "opt5": "Morning Sunshine"
+        }
+      },
+      {
+        "question": "Is the statement 'All squares are rectangles' true or false?",
+        "options": {
+          "opt5": "True",
+          "abc": "False",
+          "def": "Cannot be determined"
+        }
+      },
+      {
+        "question": "Which number will replace the question mark in the series: 2, 6, 12, 20, ?",
+        "options": {
+          "def": "35",
+          "opt5": "30",
+          "xyz": "40",
+          "abc": "25"
+        }
+      },
+      {
+        "question": "If 'R' is coded as 'T', 'S' is coded as 'U', what is the code for 'T'?",
+        "options": {
+          "abc": "V",
+          "xyz": "S",
+          "opt5": "U",
+          "def": "W"
+        }
+      },
+      {
+        "question": "Which of the following is a prime number: 4, 6, 8, 11?",
+        "options": {
+          "abc": "4",
+          "def": "6",
+          "xyz": "8",
+          "opt5": "11"
+        }
+      },
+      {
+        "question": "If 'A' is younger than 'B' and 'B' is older than 'C', who is the youngest?",
+        "options": {
+          "def": "A",
+          "opt5": "C",
+          "xyz": "B",
+          "abc": "D"
+        }
+      },
+      {
+        "question": "In a certain code, 'CAT' is written as 'DBU'. How will 'DOG' be written in the same code?",
+        "options": {
+          "xyz": "ELH",
+          "abc": "DPE",
+          "opt5": "EPH",
+          "def": "EPI"
+        }
+      },
+      {
+        "question": "Which of the following is not a vowel: A, E, I, R?",
+        "options": {
+          "opt5": "R",
+          "abc": "E",
+          "xyz": "I",
+          "def": "A"
+        }
+      },
+      {
+        "question": "If 'P' is coded as 'Q', 'Q' is coded as 'R', what is the code for 'P'?",
+        "options": {
+          "xyz": "R",
+          "abc": "T",
+          "def": "S",
+          "opt5": "Q"
+        }
+      },
+      {
+        "question": "If all cats are animals and no animals are dogs, can we conclude that no cats are dogs?",
+        "options": {
+          "def": "Maybe",
+          "opt5": "Yes",
+          "xyz": "No",
+          "abc": "Cannot be determined"
+        }
+      },
+      {
+        "question": "Which number comes next in the series: 1, 4, 9, 16, ?",
+        "options": {
+          "abc": "20",
+          "def": "24",
+          "xyz": "30",
+          "opt5": "25"
+        }
+      },
+      {
+        "question": "If 'A' is to 'B' as 'C' is to '?', then '?':",
+        "options": {
+          "opt5": "D",
+          "abc": "C",
+          "xyz": "E",
+          "def": "F"
+        }
+      },
+      {
+        "question": "In a family of six members P, Q, R, S, T, and U, Q is the mother of R, P is the father of R, and T is the sister of S. How is U related to R?",
+        "options": {
+          "def": "Mother",
+          "abc": "Father",
+          "opt5": "Uncle",
+          "xyz": "Aunt"
+        }
+      },
+      {
+        "question": "Is the statement 'All triangles are polygons' true or false?",
+        "options": {
+          "def": "False",
+          "opt5": "True",
+          "xyz": "Cannot be determined"
+        }
+      },
+      {
+        "question": "What will be the next term in the series: 2, 5, 10, 17, ?",
+        "options": {
+          "xyz": "22",
+          "abc": "28",
+          "opt5": "26",
+          "def": "30"
+        }
+      },
+      {
+        "question": "Which of the following is not a multiple of 3: 6, 9, 12, 15, 18, 20?",
+        "options": {
+          "opt5": "20",
+          "xyz": "6",
+          "def": "9",
+          "abc": "12"
+        }
+      },
+      {
+        "question": "If 'A' is to 'C' as 'D' is to '?', then '?':",
+        "options": {
+          "def": "F",
+          "abc": "H",
+          "xyz": "G",
+          "opt5": "E"
+        }
+      },
+      {
+        "question": "If '5' is to '25', then '8' is to '?':",
+        "options": {
+          "xyz": "84",
+          "abc": "48",
+          "opt5": "64",
+          "def": "54"
+        }
+      },
+      {
+        "question": "In a code language, if 'ABCD' is coded as 'EFGH', what will 'XYZ' be coded as?",
+        "options": {
+          "opt5": "LMN",
+          "xyz": "EFG",
+          "abc": "XYZ",
+          "def": "MNO"
+        }
+      },
+      {
+        "question": "In a certain language, 'DOG' is coded as 'HPJ'. What is the code for 'CAT'?",
+        "options": {
+          "xyz": "DUB",
+          "def": "DPU",
+          "abc": "DPS",
+          "opt5": "DBU"
+        }
+      },
+      {
+        "question": "If all roses are flowers, and some flowers are red, can we conclude that some roses are red?",
+        "options": {
+          "abc": "Yes",
+          "opt5": "Cannot be determined",
+          "xyz": "No",
+          "def": "Maybe"
+        }
+      },
+      {
+        "question": "Which number will come next in the series: 1, 1, 2, 3, 5, 8, ?",
+        "options": {
+          "xyz": "18",
+          "def": "11",
+          "abc": "14",
+          "opt5": "13"
+        }
+      },
+      {
+        "question": "If 'A' is the mother of 'B', 'B' is the brother of 'C', and 'C' is the father of 'D', what is 'A' to 'D'?",
+        "options": {
+          "opt5": "Grandmother",
+          "abc": "Mother",
+          "def": "Grandmother",
+          "xyz": "Aunt"
+        }
+      },
+      {
+        "question": "In a code, '123' means 'Good Morning', '456' means 'Morning Sunshine', and '123 456' means 'Good Morning Sunshine'. What does '123' mean?",
+        "options": {
+          "def": "Good Morning Sunshine",
+          "xyz": "Morning",
+          "abc": "Sunshine",
+          "opt5": "Good Morning"
+        }
+      }
+    ],
+    "level2": [
+      {
+        "question": "If 'AB' is coded as 'CD', then 'XY' will be coded as:",
+        "options": {
+          "xyz": "YA",
+          "def": "AB",
+          "opt5": "ZA",
+          "abc": "YB"
+        }
+      },
+      {
+        "question": "Which of the following is a correct analogy: Cat is to Kitten as Dog is to?",
+        "options": {
+          "xyz": "Tommy",
+          "opt5": "Puppy",
+          "def": "Cub",
+          "abc": "Foal"
+        }
+      },
+      {
+        "question": "If all squares are rectangles and all rectangles are shapes, then are all squares shapes?",
+        "options": {
+          "xyz": "No",
+          "def": "Maybe",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "If '5' is to '25', then '10' is to:",
+        "options": {
+          "opt5": "100",
+          "def": "50",
+          "xyz": "75",
+          "abc": "110"
+        }
+      },
+      {
+        "question": "What comes next in the sequence: 2, 5, 10, 17, ?",
+        "options": {
+          "abc": "25",
+          "def": "21",
+          "opt5": "26",
+          "xyz": "27"
+        }
+      },
+      {
+        "question": "If 'J' is coded as 'M', 'K' is coded as 'N', what is the code for 'H'?",
+        "options": {
+          "opt5": "K",
+          "abc": "I",
+          "xyz": "L",
+          "def": "J"
+        }
+      },
+      {
+        "question": "Is the statement 'Some apples are fruits' true or false?",
+        "options": {
+          "def": "False",
+          "opt5": "True",
+          "xyz": "Cannot be determined"
+        }
+      },
+      {
+        "question": "Which of the following numbers is not a prime number: 2, 4, 5, 7?",
+        "options": {
+          "abc": "2",
+          "def": "5",
+          "xyz": "7",
+          "opt5": "4"
+        }
+      },
+      {
+        "question": "If 'A' is to 'B' as 'D' is to '?', then '?':",
+        "options": {
+          "abc": "E",
+          "def": "F",
+          "opt5": "E",
+          "xyz": "G"
+        }
+      },
+      {
+        "question": "Which letter will come next in the series: D, G, J, M, ?",
+        "options": {
+          "opt5": "P",
+          "abc": "N",
+          "def": "O",
+          "xyz": "P"
+        }
+      },
+      {
+        "question": "If 'H' is coded as 'I', 'I' is coded as 'J', what is the code for 'H'?",
+        "options": {
+          "def": "J",
+          "xyz": "K",
+          "opt5": "I",
+          "abc": "H"
+        }
+      },
+      {
+        "question": "If '123' means 'Good Morning' and '456' means 'Morning Sunshine', what does '456 123' mean?",
+        "options": {
+          "opt5": "Morning Sunshine Good Morning",
+          "def": "Good Morning",
+          "abc": "Morning",
+          "xyz": "Sunshine Good Morning"
+        }
+      },
+      {
+        "question": "Which of the following is not a logical operator: AND, OR, XOR, ADD?",
+        "options": {
+          "def": "AND",
+          "xyz": "OR",
+          "opt5": "ADD",
+          "abc": "XOR"
+        }
+      },
+      {
+        "question": "If 'A' is the mother of 'B', 'B' is the brother of 'C', and 'C' is the father of 'D', what is 'A' to 'D'?",
+        "options": {
+          "xyz": "Aunt",
+          "def": "Sister",
+          "abc": "Mother",
+          "opt5": "Grandmother"
+        }
+      },
+      {
+        "question": "Which number completes the series: 3, 6, 9, 12, ?",
+        "options": {
+          "abc": "14",
+          "opt5": "15",
+          "def": "10",
+          "xyz": "16"
+        }
+      },
+      {
+        "question": "If '7' is to '49', then '9' is to:",
+        "options": {
+          "abc": "72",
+          "xyz": "85",
+          "opt5": "81",
+          "def": "90"
+        }
+      },
+      {
+        "question": "If '12' is coded as '24', '15' is coded as '30', what is the code for '18'?",
+        "options": {
+          "xyz": "34",
+          "def": "38",
+          "abc": "32",
+          "opt5": "36"
+        }
+      },
+      {
+        "question": "Which number is not a multiple of 5: 10, 15, 20, 23?",
+        "options": {
+          "opt5": "23",
+          "def": "10",
+          "abc": "15",
+          "xyz": "20"
+        }
+      },
+      {
+        "question": "What will be the next number in the sequence: 1, 1, 2, 6, 24, ?",
+        "options": {
+          "def": "30",
+          "opt5": "120",
+          "xyz": "36",
+          "abc": "40"
+        }
+      },
+      {
+        "question": "If 'C' is to 'E' and 'F' is to 'H', what is 'D' to?",
+        "options": {
+          "def": "F",
+          "abc": "H",
+          "opt5": "G"
+        }
+      },
+      {
+        "question": "In a certain code language, if 'DEAR' is written as 'FCBS', what is the code for 'LOVE'?",
+        "options": {
+          "abc": "MPWF",
+          "xyz": "MOWF",
+          "def": "MPWE",
+          "opt5": "MPWF"
+        }
+      },
+      {
+        "question": "Is the statement 'All cats are animals' true or false?",
+        "options": {
+          "def": "False",
+          "opt5": "True",
+          "xyz": "True"
+        }
+      }
+    ],
+    "level3": [
+      {
+        "question": "Which of the following is a correct analogy: Book is to Reading as Fork is to?",
+        "options": {
+          "xyz": "Sleeping",
+          "def": "Writing",
+          "abc": "Cooking",
+          "opt5": "Eating"
+        }
+      },
+      {
+        "question": "If '3' is to '9', then '6' is to:",
+        "options": {
+          "abc": "18",
+          "xyz": "42",
+          "opt5": "36",
+          "def": "24"
+        }
+      },
+      {
+        "question": "If 'A' is to 'Z' and 'B' is to 'Y', what is 'C' to?",
+        "options": {
+          "opt5": "X",
+          "xyz": "Y",
+          "def": "W",
+          "abc": "V"
+        }
+      },
+      {
+        "question": "Which number comes next in the series: 4, 16, 36, 64, ?",
+        "options": {
+          "def": "111",
+          "opt5": "100",
+          "abc": "81",
+          "xyz": "121"
+        }
+      },
+      {
+        "question": "In a code language, '123' means 'Morning Good', '456' means 'Good Day', what does '123 456' mean?",
+        "options": {
+          "opt5": "Morning Good Day",
+          "def": "Good Morning Day",
+          "xyz": "Morning Day",
+          "abc": "Day Good"
+        }
+      },
+      {
+        "question": "Which of the following statements is true: Some birds can fly, All birds can fly, No birds can fly?",
+        "options": {
+          "def": "No birds can fly",
+          "xyz": "All birds can fly",
+          "opt5": "Some birds can fly",
+          "abc": "Maybe"
+        }
+      },
+      {
+        "question": "Which number completes the series: 1, 4, 9, 16, ?",
+        "options": {
+          "xyz": "28",
+          "def": "24",
+          "abc": "30",
+          "opt5": "25"
+        }
+      },
+      {
+        "question": "If 'A' is coded as 'B', 'B' is coded as 'C', what is the code for 'A'?",
+        "options": {
+          "def": "C",
+          "opt5": "B",
+          "xyz": "D",
+          "abc": "A"
+        }
+      },
+      {
+        "question": "If 'X' is to '20' and 'Y' is to '30', what is 'Z' to?",
+        "options": {
+          "opt5": "40",
+          "xyz": "80",
+          "def": "50",
+          "abc": "60"
+        }
+      },
+      {
+        "question": "If '7' is to '14', then '9' is to:",
+        "options": {
+          "def": "9",
+          "abc": "27",
+          "opt5": "18",
+          "xyz": "16"
+        }
+      },
+      {
+        "question": "If '123' is coded as 'ABCD', what is the code for '456'?",
+        "options": {
+          "abc": "GHIK",
+          "opt5": "EFGH",
+          "xyz": "IJKL",
+          "def": "LMNO"
+        }
+      },
+      {
+        "question": "Which letter is next in the series: A, C, E, G, ?",
+        "options": {
+          "xyz": "F",
+          "def": "H",
+          "abc": "J",
+          "opt5": "I"
+        }
+      },
+      {
+        "question": "If 'M' is coded as 'N', 'N' is coded as 'O', what is the code for 'M'?",
+        "options": {
+          "xyz": "O",
+          "def": "P",
+          "opt5": "N",
+          "abc": "M"
+        }
+      },
+      {
+        "question": "Which number is the odd one out: 11, 13, 17, 19, 21?",
+        "options": {
+          "opt5": "21",
+          "def": "11",
+          "abc": "13",
+          "xyz": "19"
+        }
+      },
+      {
+        "question": "If '1' is to '3', '2' is to '6', then '3' is to:",
+        "options": {
+          "xyz": "9",
+          "abc": "18",
+          "opt5": "12",
+          "def": "15"
+        }
+      },
+      {
+        "question": "Which of the following is not a pattern: A, B, C, D, E, F, G, H?",
+        "options": {
+          "xyz": "E",
+          "def": "A",
+          "abc": "G",
+          "opt5": "H"
+        }
+      },
+      {
+        "question": "If 'A' is coded as 'Z', 'B' is coded as 'Y', what is 'C' to?",
+        "options": {
+          "def": "Y",
+          "opt5": "X",
+          "xyz": "W",
+          "abc": "V"
+        }
+      },
+      {
+        "question": "Which number comes next in the series: 2, 8, 18, 32, ?",
+        "options": {
+          "def": "60",
+          "xyz": "45",
+          "abc": "55",
+          "opt5": "50"
+        }
+      },
+      {
+        "question": "If 'A' is to 'B' and 'C' is to 'D', what is 'B' to?",
+        "options": {
+          "xyz": "D",
+          "def": "F",
+          "opt5": "C",
+          "abc": "A"
+        }
+      },
+      {
+        "question": "In a code language, if 'RAIN' is written as 'SBFJO', what is the code for 'SUN'?",
+        "options": {
+          "opt5": "TVO",
+          "def": "VOT",
+          "xyz": "OTV",
+          "abc": "UPO"
+        }
+      },
+      {
+        "question": "Which of the following does not fit the sequence: 5, 10, 15, 20, 25, 30, 35?",
+        "options": {
+          "xyz": "30",
+          "def": "25",
+          "abc": "20",
+          "opt5": "35"
+        }
+      },
+      {
+        "question": "If '3' is to '9', then '4' is to:",
+        "options": {
+          "def": "12",
+          "opt5": "16",
+          "abc": "18",
+          "xyz": "14"
+        }
+      }
+    ]
+  }
 }

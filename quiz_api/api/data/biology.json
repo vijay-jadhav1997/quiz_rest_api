@@ -1,423 +1,426 @@
 {
-  "level1": [
-    {
-      "question": "Is DNA the molecule that carries genetic information in living organisms?",
-      "options": {
-        "opt5": "Yes",
-        "xyz": "No"
+  "topic": "Biology",
+  "levels":{
+    "level1": [
+      {
+        "question": "Is DNA the molecule that carries genetic information in living organisms?",
+        "options": {
+          "opt5": "Yes",
+          "xyz": "No"
+        }
+      },
+      {
+        "question": "What is the powerhouse of the cell?",
+        "options": {
+          "opt5": "Mitochondria",
+          "xycd": "Nucleus",
+          "inc": "Ribosome",
+          "ct3": "Golgi apparatus"
+        }
+      },
+      {
+        "question": "Are enzymes proteins that catalyze biochemical reactions?",
+        "options": {
+          "xycd": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "Which of the following is not a type of RNA?",
+        "options": {
+          "trs": "mRNA",
+          "cbd": "tRNA",
+          "opt5": "sRNA",
+          "xyz": "rRNA"
+        }
+      },
+      {
+        "question": "Which process involves the fusion of gametes?",
+        "options": {
+          "hab": "Mitosis",
+          "opt5": "Fertilization",
+          "xycd": "Binary fission",
+          "abc": "Budding"
+        }
+      },
+      {
+        "question": "What is the basic unit of life?",
+        "options": {
+          "xyz": "Atom",
+          "trs": "Molecule",
+          "opt5": "Cell",
+          "cbd": "Organ"
+        }
+      },
+      {
+        "question": "Does osmosis involve the movement of water across a semipermeable membrane?",
+        "options": {
+          "xyz": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "Which is the longest bone in the human body?",
+        "options": {
+          "opt5": "Femur",
+          "abc": "Tibia",
+          "xyz": "Humerus",
+          "def": "Radius"
+        }
+      },
+      {
+        "question": "What is the primary function of red blood cells?",
+        "options": {
+          "xyz": "Defense against pathogens",
+          "opt5": "Transporting oxygen",
+          "abc": "Clotting blood",
+          "def": "Removing waste"
+        }
+      },
+      {
+        "question": "Do plants perform photosynthesis?",
+        "options": {
+          "opt5": "True",
+          "tag": "False"
+        }
+      },
+      {
+        "question": "Which organ is responsible for pumping blood throughout the body?",
+        "options": {
+          "xyz": "Lungs",
+          "abc": "Liver",
+          "opt5": "Heart",
+          "def": "Kidney"
+        }
+      },
+      {
+        "question": "What is the term for the removal of waste products from the body?",
+        "options": {
+          "xyz": "Digestion",
+          "opt5": "Excretion",
+          "abc": "Respiration",
+          "def": "Circulation"
+        }
+      },
+      {
+        "question": "Which vitamin is essential for blood clotting?",
+        "options": {
+          "opt5": "Vitamin K",
+          "xyz": "Vitamin A",
+          "abc": "Vitamin C",
+          "def": "Vitamin D"
+        }
+      },
+      {
+        "question": "Is hemoglobin a protein in red blood cells that carries oxygen?",
+        "options": {
+          "opt5": "Yes",
+          "xyz": "No"
+        }
+      },
+      {
+        "question": "What is the main structural component of plant cell walls?",
+        "options": {
+          "xyz": "Chitin",
+          "opt5": "Cellulose",
+          "abc": "Glycogen",
+          "def": "Starch"
+        }
+      },
+      {
+        "question": "Which process is used by cells to divide and reproduce?",
+        "options": {
+          "xyz": "Meiosis",
+          "abc": "Fission",
+          "def": "Fusion",
+          "opt5": "Mitosis"
+        }
+      },
+      {
+        "question": "Which blood type is known as the universal donor?",
+        "options": {
+          "xyz": "A positive",
+          "opt5": "O negative",
+          "abc": "B negative",
+          "def": "AB positive"
+        }
+      },
+      {
+        "question": "Is chlorophyll responsible for the green color in plants?",
+        "options": {
+          "tag": "False",
+          "opt5": "True"
+        }
+      },
+      {
+        "question": "Which organ is part of the human digestive system?",
+        "options": {
+          "xyz": "Lungs",
+          "abc": "Heart",
+          "opt5": "Stomach",
+          "def": "Kidneys"
+        }
+      },
+      {
+        "question": "What type of macromolecule are enzymes?",
+        "options": {
+          "opt5": "Proteins",
+          "xyz": "Lipids",
+          "abc": "Carbohydrates",
+          "def": "Nucleic acids"
+        }
+      },
+      {
+        "question": "Is ATP the energy currency of the cell?",
+        "options": {
+          "xyz": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "Which system in the human body is responsible for transporting blood?",
+        "options": {
+          "opt5": "Circulatory system",
+          "xyz": "Respiratory system",
+          "abc": "Digestive system",
+          "def": "Nervous system"
+        }
+      },
+      {
+        "question": "Which hormone regulates blood sugar levels?",
+        "options": {
+          "xyz": "Adrenaline",
+          "abc": "Thyroxine",
+          "opt5": "Insulin",
+          "def": "Cortisol"
+        }
+      },
+      {
+        "question": "Is RNA the same as DNA?",
+        "options": {
+          "opt5": "No",
+          "xyz": "Yes"
+        }
+      },
+      {
+        "question": "What is the process by which plants make food using sunlight?",
+        "options": {
+          "xyz": "Respiration",
+          "abc": "Digestion",
+          "def": "Fermentation",
+          "opt5": "Photosynthesis"
+        }
       }
-    },
-    {
-      "question": "What is the powerhouse of the cell?",
-      "options": {
-        "opt5": "Mitochondria",
-        "xycd": "Nucleus",
-        "inc": "Ribosome",
-        "ct3": "Golgi apparatus"
+    ],
+    "level2": [
+      {
+        "question": "Is the heart a muscle?",
+        "options": {
+          "opt5": "Yes",
+          "xyz": "No"
+        }
+      },
+      {
+        "question": "Which part of the cell contains genetic material?",
+        "options": {
+          "xyz": "Ribosome",
+          "opt5": "Nucleus",
+          "abc": "Mitochondria",
+          "def": "Golgi apparatus"
+        }
+      },
+      {
+        "question": "Does meiosis result in four daughter cells?",
+        "options": {
+          "opt5": "Yes",
+          "xyz": "No"
+        }
+      },
+      {
+        "question": "Which of the following is not a carbohydrate?",
+        "options": {
+          "trs": "Glucose",
+          "cbd": "Fructose",
+          "opt5": "Amino acid"
+        }
+      },
+      {
+        "question": "Which kingdom do mushrooms belong to?",
+        "options": {
+          "hab": "Plantae",
+          "opt5": "Fungi",
+          "xyz": "Animalia",
+          "abc": "Protista"
+        }
+      },
+      {
+        "question": "What is the primary function of white blood cells?",
+        "options": {
+          "opt5": "Fight infection",
+          "xyz": "Transport oxygen",
+          "abc": "Clot blood",
+          "def": "Store nutrients"
+        }
+      },
+      {
+        "question": "Do humans have 46 chromosomes in each cell?",
+        "options": {
+          "opt5": "Yes",
+          "xyz": "No"
+        }
+      },
+      {
+        "question": "What is the smallest unit of life?",
+        "options": {
+          "opt5": "Cell",
+          "abc": "Molecule",
+          "xyz": "Atom",
+          "def": "Organ"
+        }
+      },
+      {
+        "question": "Which is the largest organ in the human body?",
+        "options": {
+          "xyz": "Liver",
+          "opt5": "Skin",
+          "abc": "Heart",
+          "def": "Lungs"
+        }
+      },
+      {
+        "question": "Is the pancreas part of the digestive system?",
+        "options": {
+          "opt5": "True",
+          "tag": "False"
+        }
+      },
+      {
+        "question": "What is the process of cell division in somatic cells called?",
+        "options": {
+          "xyz": "Meiosis",
+          "abc": "Cytokinesis",
+          "opt5": "Mitosis",
+          "def": "Binary fission"
+        }
+      },
+      {
+        "question": "Which vitamin is produced when the skin is exposed to sunlight?",
+        "options": {
+          "opt5": "Vitamin D",
+          "xyz": "Vitamin A",
+          "abc": "Vitamin C",
+          "def": "Vitamin K"
+        }
+      },
+      {
+        "question": "Are ribosomes the site of protein synthesis?",
+        "options": {
+          "opt5": "Yes",
+          "xyz": "No"
+        }
+      },
+      {
+        "question": "What is the main function of the large intestine?",
+        "options": {
+          "xyz": "Digest food",
+          "abc": "Produce bile",
+          "def": "Filter blood",
+          "opt5": "Absorb water"
+        }
+      },
+      {
+        "question": "Which element is essential for the formation of hemoglobin?",
+        "options": {
+          "opt5": "Iron",
+          "xyz": "Calcium",
+          "abc": "Magnesium",
+          "def": "Potassium"
+        }
+      },
+      {
+        "question": "Is the liver responsible for detoxification?",
+        "options": {
+          "opt5": "Yes",
+          "xyz": "No"
+        }
+      },
+      {
+        "question": "What type of biomolecule are antibodies?",
+        "options": {
+          "xyz": "Lipids",
+          "abc": "Carbohydrates",
+          "opt5": "Proteins",
+          "def": "Nucleic acids"
+        }
+      },
+      {
+        "question": "Which system controls body functions through hormones?",
+        "options": {
+          "xyz": "Nervous system",
+          "opt5": "Endocrine system",
+          "abc": "Digestive system",
+          "def": "Circulatory system"
+        }
+      },
+      {
+        "question": "Which molecule carries genetic information?",
+        "options": {
+          "xyz": "RNA",
+          "abc": "Protein",
+          "opt5": "DNA",
+          "def": "Carbohydrate"
+        }
+      },
+      {
+        "question": "Do antibiotics kill viruses?",
+        "options": {
+          "opt5": "No",
+          "xyz": "Yes"
+        }
+      },
+      {
+        "question": "What is the main component of the cell membrane?",
+        "options": {
+          "xyz": "Proteins",
+          "opt5": "Phospholipids",
+          "abc": "Carbohydrates",
+          "def": "Nucleic acids"
+        }
+      },
+      {
+        "question": "Which process converts glucose into energy?",
+        "options": {
+          "xyz": "Photosynthesis",
+          "abc": "Fermentation",
+          "def": "Glycolysis",
+          "opt5": "Cellular respiration"
+        }
+      },
+      {
+        "question": "Which blood type is known as the universal recipient?",
+        "options": {
+          "opt5": "AB positive",
+          "xyz": "O negative",
+          "abc": "A positive",
+          "def": "B negative"
+        }
+      },
+      {
+        "question": "Do plants release oxygen during photosynthesis?",
+        "options": {
+          "opt5": "True",
+          "tag": "False"
+        }
+      },
+      {
+        "question": "Which organ filters waste from the blood?",
+        "options": {
+          "xyz": "Liver",
+          "abc": "Heart",
+          "opt5": "Kidneys",
+          "def": "Lungs"
+        }
       }
-    },
-    {
-      "question": "Are enzymes proteins that catalyze biochemical reactions?",
-      "options": {
-        "xycd": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "Which of the following is not a type of RNA?",
-      "options": {
-        "trs": "mRNA",
-        "cbd": "tRNA",
-        "opt5": "sRNA",
-        "xyz": "rRNA"
-      }
-    },
-    {
-      "question": "Which process involves the fusion of gametes?",
-      "options": {
-        "hab": "Mitosis",
-        "opt5": "Fertilization",
-        "xycd": "Binary fission",
-        "abc": "Budding"
-      }
-    },
-    {
-      "question": "What is the basic unit of life?",
-      "options": {
-        "xyz": "Atom",
-        "trs": "Molecule",
-        "opt5": "Cell",
-        "cbd": "Organ"
-      }
-    },
-    {
-      "question": "Does osmosis involve the movement of water across a semipermeable membrane?",
-      "options": {
-        "xyz": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "Which is the longest bone in the human body?",
-      "options": {
-        "opt5": "Femur",
-        "abc": "Tibia",
-        "xyz": "Humerus",
-        "def": "Radius"
-      }
-    },
-    {
-      "question": "What is the primary function of red blood cells?",
-      "options": {
-        "xyz": "Defense against pathogens",
-        "opt5": "Transporting oxygen",
-        "abc": "Clotting blood",
-        "def": "Removing waste"
-      }
-    },
-    {
-      "question": "Do plants perform photosynthesis?",
-      "options": {
-        "opt5": "True",
-        "tag": "False"
-      }
-    },
-    {
-      "question": "Which organ is responsible for pumping blood throughout the body?",
-      "options": {
-        "xyz": "Lungs",
-        "abc": "Liver",
-        "opt5": "Heart",
-        "def": "Kidney"
-      }
-    },
-    {
-      "question": "What is the term for the removal of waste products from the body?",
-      "options": {
-        "xyz": "Digestion",
-        "opt5": "Excretion",
-        "abc": "Respiration",
-        "def": "Circulation"
-      }
-    },
-    {
-      "question": "Which vitamin is essential for blood clotting?",
-      "options": {
-        "opt5": "Vitamin K",
-        "xyz": "Vitamin A",
-        "abc": "Vitamin C",
-        "def": "Vitamin D"
-      }
-    },
-    {
-      "question": "Is hemoglobin a protein in red blood cells that carries oxygen?",
-      "options": {
-        "opt5": "Yes",
-        "xyz": "No"
-      }
-    },
-    {
-      "question": "What is the main structural component of plant cell walls?",
-      "options": {
-        "xyz": "Chitin",
-        "opt5": "Cellulose",
-        "abc": "Glycogen",
-        "def": "Starch"
-      }
-    },
-    {
-      "question": "Which process is used by cells to divide and reproduce?",
-      "options": {
-        "xyz": "Meiosis",
-        "abc": "Fission",
-        "def": "Fusion",
-        "opt5": "Mitosis"
-      }
-    },
-    {
-      "question": "Which blood type is known as the universal donor?",
-      "options": {
-        "xyz": "A positive",
-        "opt5": "O negative",
-        "abc": "B negative",
-        "def": "AB positive"
-      }
-    },
-    {
-      "question": "Is chlorophyll responsible for the green color in plants?",
-      "options": {
-        "tag": "False",
-        "opt5": "True"
-      }
-    },
-    {
-      "question": "Which organ is part of the human digestive system?",
-      "options": {
-        "xyz": "Lungs",
-        "abc": "Heart",
-        "opt5": "Stomach",
-        "def": "Kidneys"
-      }
-    },
-    {
-      "question": "What type of macromolecule are enzymes?",
-      "options": {
-        "opt5": "Proteins",
-        "xyz": "Lipids",
-        "abc": "Carbohydrates",
-        "def": "Nucleic acids"
-      }
-    },
-    {
-      "question": "Is ATP the energy currency of the cell?",
-      "options": {
-        "xyz": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "Which system in the human body is responsible for transporting blood?",
-      "options": {
-        "opt5": "Circulatory system",
-        "xyz": "Respiratory system",
-        "abc": "Digestive system",
-        "def": "Nervous system"
-      }
-    },
-    {
-      "question": "Which hormone regulates blood sugar levels?",
-      "options": {
-        "xyz": "Adrenaline",
-        "abc": "Thyroxine",
-        "opt5": "Insulin",
-        "def": "Cortisol"
-      }
-    },
-    {
-      "question": "Is RNA the same as DNA?",
-      "options": {
-        "opt5": "No",
-        "xyz": "Yes"
-      }
-    },
-    {
-      "question": "What is the process by which plants make food using sunlight?",
-      "options": {
-        "xyz": "Respiration",
-        "abc": "Digestion",
-        "def": "Fermentation",
-        "opt5": "Photosynthesis"
-      }
-    }
-  ],
-  "level2": [
-    {
-      "question": "Is the heart a muscle?",
-      "options": {
-        "opt5": "Yes",
-        "xyz": "No"
-      }
-    },
-    {
-      "question": "Which part of the cell contains genetic material?",
-      "options": {
-        "xyz": "Ribosome",
-        "opt5": "Nucleus",
-        "abc": "Mitochondria",
-        "def": "Golgi apparatus"
-      }
-    },
-    {
-      "question": "Does meiosis result in four daughter cells?",
-      "options": {
-        "opt5": "Yes",
-        "xyz": "No"
-      }
-    },
-    {
-      "question": "Which of the following is not a carbohydrate?",
-      "options": {
-        "trs": "Glucose",
-        "cbd": "Fructose",
-        "opt5": "Amino acid"
-      }
-    },
-    {
-      "question": "Which kingdom do mushrooms belong to?",
-      "options": {
-        "hab": "Plantae",
-        "opt5": "Fungi",
-        "xyz": "Animalia",
-        "abc": "Protista"
-      }
-    },
-    {
-      "question": "What is the primary function of white blood cells?",
-      "options": {
-        "opt5": "Fight infection",
-        "xyz": "Transport oxygen",
-        "abc": "Clot blood",
-        "def": "Store nutrients"
-      }
-    },
-    {
-      "question": "Do humans have 46 chromosomes in each cell?",
-      "options": {
-        "opt5": "Yes",
-        "xyz": "No"
-      }
-    },
-    {
-      "question": "What is the smallest unit of life?",
-      "options": {
-        "opt5": "Cell",
-        "abc": "Molecule",
-        "xyz": "Atom",
-        "def": "Organ"
-      }
-    },
-    {
-      "question": "Which is the largest organ in the human body?",
-      "options": {
-        "xyz": "Liver",
-        "opt5": "Skin",
-        "abc": "Heart",
-        "def": "Lungs"
-      }
-    },
-    {
-      "question": "Is the pancreas part of the digestive system?",
-      "options": {
-        "opt5": "True",
-        "tag": "False"
-      }
-    },
-    {
-      "question": "What is the process of cell division in somatic cells called?",
-      "options": {
-        "xyz": "Meiosis",
-        "abc": "Cytokinesis",
-        "opt5": "Mitosis",
-        "def": "Binary fission"
-      }
-    },
-    {
-      "question": "Which vitamin is produced when the skin is exposed to sunlight?",
-      "options": {
-        "opt5": "Vitamin D",
-        "xyz": "Vitamin A",
-        "abc": "Vitamin C",
-        "def": "Vitamin K"
-      }
-    },
-    {
-      "question": "Are ribosomes the site of protein synthesis?",
-      "options": {
-        "opt5": "Yes",
-        "xyz": "No"
-      }
-    },
-    {
-      "question": "What is the main function of the large intestine?",
-      "options": {
-        "xyz": "Digest food",
-        "abc": "Produce bile",
-        "def": "Filter blood",
-        "opt5": "Absorb water"
-      }
-    },
-    {
-      "question": "Which element is essential for the formation of hemoglobin?",
-      "options": {
-        "opt5": "Iron",
-        "xyz": "Calcium",
-        "abc": "Magnesium",
-        "def": "Potassium"
-      }
-    },
-    {
-      "question": "Is the liver responsible for detoxification?",
-      "options": {
-        "opt5": "Yes",
-        "xyz": "No"
-      }
-    },
-    {
-      "question": "What type of biomolecule are antibodies?",
-      "options": {
-        "xyz": "Lipids",
-        "abc": "Carbohydrates",
-        "opt5": "Proteins",
-        "def": "Nucleic acids"
-      }
-    },
-    {
-      "question": "Which system controls body functions through hormones?",
-      "options": {
-        "xyz": "Nervous system",
-        "opt5": "Endocrine system",
-        "abc": "Digestive system",
-        "def": "Circulatory system"
-      }
-    },
-    {
-      "question": "Which molecule carries genetic information?",
-      "options": {
-        "xyz": "RNA",
-        "abc": "Protein",
-        "opt5": "DNA",
-        "def": "Carbohydrate"
-      }
-    },
-    {
-      "question": "Do antibiotics kill viruses?",
-      "options": {
-        "opt5": "No",
-        "xyz": "Yes"
-      }
-    },
-    {
-      "question": "What is the main component of the cell membrane?",
-      "options": {
-        "xyz": "Proteins",
-        "opt5": "Phospholipids",
-        "abc": "Carbohydrates",
-        "def": "Nucleic acids"
-      }
-    },
-    {
-      "question": "Which process converts glucose into energy?",
-      "options": {
-        "xyz": "Photosynthesis",
-        "abc": "Fermentation",
-        "def": "Glycolysis",
-        "opt5": "Cellular respiration"
-      }
-    },
-    {
-      "question": "Which blood type is known as the universal recipient?",
-      "options": {
-        "opt5": "AB positive",
-        "xyz": "O negative",
-        "abc": "A positive",
-        "def": "B negative"
-      }
-    },
-    {
-      "question": "Do plants release oxygen during photosynthesis?",
-      "options": {
-        "opt5": "True",
-        "tag": "False"
-      }
-    },
-    {
-      "question": "Which organ filters waste from the blood?",
-      "options": {
-        "xyz": "Liver",
-        "abc": "Heart",
-        "opt5": "Kidneys",
-        "def": "Lungs"
-      }
-    }
-  ]
+    ]
+  }
 }

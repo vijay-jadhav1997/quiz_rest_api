@@ -1,434 +1,437 @@
 {
-  "level1": [
-    {
-      "question": "Is the sum of two even numbers always even?",
-      "options": {
-        "opt5": "True",
-        "xyz": "False"
+  "topic": "Basic Numeracy",
+  "levels":{
+    "level1": [
+      {
+        "question": "Is the sum of two even numbers always even?",
+        "options": {
+          "opt5": "True",
+          "xyz": "False"
+        }
+      },
+      {
+        "question": "What is the value of π (pi)?",
+        "options": {
+          "abc": "2.14",
+          "def": "3.41",
+          "opt5": "3.14",
+          "ghi": "4.13"
+        }
+      },
+      {
+        "question": "Is 7 a prime number?",
+        "options": {
+          "opt5": "Yes",
+          "xyz": "No"
+        }
+      },
+      {
+        "question": "What is the square root of 64?",
+        "options": {
+          "xyz": "6",
+          "abc": "7",
+          "def": "8",
+          "opt5": "8"
+        }
+      },
+      {
+        "question": "2 + 2 * 2 = ?",
+        "options": {
+          "xyz": "6",
+          "opt5": "6",
+          "abc": "8",
+          "def": "4"
+        }
+      },
+      {
+        "question": "What is the value of 2^3?",
+        "options": {
+          "xyz": "6",
+          "abc": "7",
+          "opt5": "8",
+          "def": "9"
+        }
+      },
+      {
+        "question": "Is the value of the Golden Ratio approximately 1.618?",
+        "options": {
+          "opt5": "True",
+          "xyz": "False"
+        }
+      },
+      {
+        "question": "What is 15% of 200?",
+        "options": {
+          "opt5": "30",
+          "xyz": "25",
+          "abc": "35",
+          "def": "40"
+        }
+      },
+      {
+        "question": "Which number is the multiplicative identity?",
+        "options": {
+          "xyz": "0",
+          "opt5": "1",
+          "abc": "2",
+          "def": "3"
+        }
+      },
+      {
+        "question": "What is the value of the expression 3x when x=2?",
+        "options": {
+          "xyz": "4",
+          "abc": "5",
+          "opt5": "6",
+          "def": "7"
+        }
+      },
+      {
+        "question": "Is the product of two negative numbers positive?",
+        "options": {
+          "opt5": "True",
+          "xyz": "False"
+        }
+      },
+      {
+        "question": "What is the area of a circle with radius 3 units?",
+        "options": {
+          "xyz": "9π",
+          "abc": "6π",
+          "def": "12π",
+          "opt5": "9π"
+        }
+      },
+      {
+        "question": "Solve for x: 2x + 3 = 7",
+        "options": {
+          "xyz": "1",
+          "opt5": "2",
+          "abc": "3",
+          "def": "4"
+        }
+      },
+      {
+        "question": "What is the perimeter of a square with side length 5 units?",
+        "options": {
+          "opt5": "20",
+          "xyz": "20",
+          "abc": "25",
+          "def": "15"
+        }
+      },
+      {
+        "question": "Which is a Pythagorean triple?",
+        "options": {
+          "xyz": "2, 3, 5",
+          "abc": "4, 5, 6",
+          "opt5": "3, 4, 5",
+          "def": "5, 6, 7"
+        }
+      },
+      {
+        "question": "What is the derivative of x^2?",
+        "options": {
+          "xyz": "x",
+          "opt5": "2x",
+          "abc": "3x",
+          "def": "4x"
+        }
+      },
+      {
+        "question": "What is 10! (10 factorial)?",
+        "options": {
+          "xyz": "362800",
+          "abc": "362880",
+          "def": "36288000",
+          "opt5": "3628800"
+        }
+      },
+      {
+        "question": "Is 0 an even number?",
+        "options": {
+          "opt5": "Yes",
+          "xyz": "No"
+        }
+      },
+      {
+        "question": "What is the sum of the interior angles of a triangle?",
+        "options": {
+          "opt5": "180°",
+          "xyz": "360°",
+          "abc": "270°",
+          "def": "90°"
+        }
+      },
+      {
+        "question": "What is the logarithm base 10 of 1000?",
+        "options": {
+          "opt5": "3",
+          "xyz": "4",
+          "abc": "2",
+          "def": "1"
+        }
+      },
+      {
+        "question": "What is the value of sin(90°)?",
+        "options": {
+          "xyz": "0",
+          "abc": "1",
+          "opt5": "1",
+          "def": "0.5"
+        }
+      },
+      {
+        "question": "What is the least common multiple (LCM) of 3 and 4?",
+        "options": {
+          "xyz": "12",
+          "opt5": "12",
+          "abc": "6",
+          "def": "24"
+        }
+      },
+      {
+        "question": "Is the square root of 2 a rational number?",
+        "options": {
+          "xyz": "Yes",
+          "opt5": "No"
+        }
+      },
+      {
+        "question": "What is the volume of a cube with side length 3 units?",
+        "options": {
+          "xyz": "9",
+          "abc": "18",
+          "def": "27",
+          "opt5": "27"
+        }
+      },
+      {
+        "question": "What is the solution to the equation x^2 = 9?",
+        "options": {
+          "xyz": "2",
+          "opt5": "3",
+          "abc": "-3",
+          "def": "±3"
+        }
       }
-    },
-    {
-      "question": "What is the value of π (pi)?",
-      "options": {
-        "abc": "2.14",
-        "def": "3.41",
-        "opt5": "3.14",
-        "ghi": "4.13"
+    ],
+    "level2": [
+      {
+        "question": "Is 5 a prime number?",
+        "options": {
+          "opt5": "Yes",
+          "xyz": "No"
+        }
+      },
+      {
+        "question": "What is the value of 4^2?",
+        "options": {
+          "xyz": "8",
+          "abc": "12",
+          "opt5": "16",
+          "def": "20"
+        }
+      },
+      {
+        "question": "What is 20% of 50?",
+        "options": {
+          "opt5": "10",
+          "xyz": "15",
+          "abc": "20",
+          "def": "25"
+        }
+      },
+      {
+        "question": "Solve for x: 5x = 25",
+        "options": {
+          "xyz": "10",
+          "opt5": "5",
+          "abc": "1",
+          "def": "6"
+        }
+      },
+      {
+        "question": "Is 12 an even number?",
+        "options": {
+          "opt5": "True",
+          "xyz": "False"
+        }
+      },
+      {
+        "question": "What is the value of the square root of 81?",
+        "options": {
+          "xyz": "8",
+          "abc": "7",
+          "opt5": "9",
+          "def": "6"
+        }
+      },
+      {
+        "question": "What is the area of a rectangle with length 5 and width 3 units?",
+        "options": {
+          "opt5": "15",
+          "xyz": "10",
+          "abc": "8",
+          "def": "12"
+        }
+      },
+      {
+        "question": "Which number is the additive identity?",
+        "options": {
+          "xyz": "1",
+          "abc": "2",
+          "opt5": "0",
+          "def": "3"
+        }
+      },
+      {
+        "question": "What is the value of the expression 4x + 2 when x=3?",
+        "options": {
+          "xyz": "12",
+          "opt5": "14",
+          "abc": "16",
+          "def": "18"
+        }
+      },
+      {
+        "question": "Is the product of two odd numbers always odd?",
+        "options": {
+          "opt5": "True",
+          "xyz": "False"
+        }
+      },
+      {
+        "question": "What is the perimeter of a triangle with sides 3, 4, and 5 units?",
+        "options": {
+          "xyz": "10",
+          "abc": "14",
+          "def": "16",
+          "opt5": "12"
+        }
+      },
+      {
+        "question": "Solve for x: x - 4 = 10",
+        "options": {
+          "xyz": "6",
+          "opt5": "14",
+          "abc": "12",
+          "def": "10"
+        }
+      },
+      {
+        "question": "What is the circumference of a circle with radius 7 units?",
+        "options": {
+          "xyz": "7π",
+          "abc": "21π",
+          "def": "28π",
+          "opt5": "14π"
+        }
+      },
+      {
+        "question": "What is the value of cos(0°)?",
+        "options": {
+          "xyz": "0",
+          "opt5": "1",
+          "abc": "-1",
+          "def": "0.5"
+        }
+      },
+      {
+        "question": "What is the greatest common divisor (GCD) of 8 and 12?",
+        "options": {
+          "opt5": "4",
+          "xyz": "2",
+          "abc": "6",
+          "def": "8"
+        }
+      },
+      {
+        "question": "Is the number 1 a composite number?",
+        "options": {
+          "opt5": "No",
+          "xyz": "Yes"
+        }
+      },
+      {
+        "question": "What is the area of a triangle with base 4 units and height 5 units?",
+        "options": {
+          "xyz": "20",
+          "abc": "15",
+          "opt5": "10",
+          "def": "25"
+        }
+      },
+      {
+        "question": "What is the solution to the equation x^2 = 16?",
+        "options": {
+          "opt5": "±4",
+          "xyz": "4",
+          "abc": "8",
+          "def": "2"
+        }
+      },
+      {
+        "question": "What is the value of tan(45°)?",
+        "options": {
+          "xyz": "0",
+          "abc": "0.5",
+          "opt5": "1",
+          "def": "√2"
+        }
+      },
+      {
+        "question": "What is the volume of a sphere with radius 3 units?",
+        "options": {
+          "xyz": "27π",
+          "abc": "45π",
+          "def": "54π",
+          "opt5": "36π"
+        }
+      },
+      {
+        "question": "Is the value of e (Euler's number) approximately 2.718?",
+        "options": {
+          "opt5": "True",
+          "xyz": "False"
+        }
+      },
+      {
+        "question": "What is the sum of the exterior angles of a polygon?",
+        "options": {
+          "opt5": "360°",
+          "xyz": "180°",
+          "abc": "270°",
+          "def": "90°"
+        }
+      },
+      {
+        "question": "What is the solution to the equation 2x + 3 = 11?",
+        "options": {
+          "xyz": "2",
+          "abc": "3",
+          "opt5": "4",
+          "def": "5"
+        }
+      },
+      {
+        "question": "What is the value of log base 2 of 8?",
+        "options": {
+          "opt5": "3",
+          "xyz": "2",
+          "abc": "4",
+          "def": "5"
+        }
+      },
+      {
+        "question": "What is the sum of the first 10 natural numbers?",
+        "options": {
+          "xyz": "50",
+          "opt5": "55",
+          "abc": "60",
+          "def": "45"
+        }
       }
-    },
-    {
-      "question": "Is 7 a prime number?",
-      "options": {
-        "opt5": "Yes",
-        "xyz": "No"
-      }
-    },
-    {
-      "question": "What is the square root of 64?",
-      "options": {
-        "xyz": "6",
-        "abc": "7",
-        "def": "8",
-        "opt5": "8"
-      }
-    },
-    {
-      "question": "2 + 2 * 2 = ?",
-      "options": {
-        "xyz": "6",
-        "opt5": "6",
-        "abc": "8",
-        "def": "4"
-      }
-    },
-    {
-      "question": "What is the value of 2^3?",
-      "options": {
-        "xyz": "6",
-        "abc": "7",
-        "opt5": "8",
-        "def": "9"
-      }
-    },
-    {
-      "question": "Is the value of the Golden Ratio approximately 1.618?",
-      "options": {
-        "opt5": "True",
-        "xyz": "False"
-      }
-    },
-    {
-      "question": "What is 15% of 200?",
-      "options": {
-        "opt5": "30",
-        "xyz": "25",
-        "abc": "35",
-        "def": "40"
-      }
-    },
-    {
-      "question": "Which number is the multiplicative identity?",
-      "options": {
-        "xyz": "0",
-        "opt5": "1",
-        "abc": "2",
-        "def": "3"
-      }
-    },
-    {
-      "question": "What is the value of the expression 3x when x=2?",
-      "options": {
-        "xyz": "4",
-        "abc": "5",
-        "opt5": "6",
-        "def": "7"
-      }
-    },
-    {
-      "question": "Is the product of two negative numbers positive?",
-      "options": {
-        "opt5": "True",
-        "xyz": "False"
-      }
-    },
-    {
-      "question": "What is the area of a circle with radius 3 units?",
-      "options": {
-        "xyz": "9π",
-        "abc": "6π",
-        "def": "12π",
-        "opt5": "9π"
-      }
-    },
-    {
-      "question": "Solve for x: 2x + 3 = 7",
-      "options": {
-        "xyz": "1",
-        "opt5": "2",
-        "abc": "3",
-        "def": "4"
-      }
-    },
-    {
-      "question": "What is the perimeter of a square with side length 5 units?",
-      "options": {
-        "opt5": "20",
-        "xyz": "20",
-        "abc": "25",
-        "def": "15"
-      }
-    },
-    {
-      "question": "Which is a Pythagorean triple?",
-      "options": {
-        "xyz": "2, 3, 5",
-        "abc": "4, 5, 6",
-        "opt5": "3, 4, 5",
-        "def": "5, 6, 7"
-      }
-    },
-    {
-      "question": "What is the derivative of x^2?",
-      "options": {
-        "xyz": "x",
-        "opt5": "2x",
-        "abc": "3x",
-        "def": "4x"
-      }
-    },
-    {
-      "question": "What is 10! (10 factorial)?",
-      "options": {
-        "xyz": "362800",
-        "abc": "362880",
-        "def": "36288000",
-        "opt5": "3628800"
-      }
-    },
-    {
-      "question": "Is 0 an even number?",
-      "options": {
-        "opt5": "Yes",
-        "xyz": "No"
-      }
-    },
-    {
-      "question": "What is the sum of the interior angles of a triangle?",
-      "options": {
-        "opt5": "180°",
-        "xyz": "360°",
-        "abc": "270°",
-        "def": "90°"
-      }
-    },
-    {
-      "question": "What is the logarithm base 10 of 1000?",
-      "options": {
-        "opt5": "3",
-        "xyz": "4",
-        "abc": "2",
-        "def": "1"
-      }
-    },
-    {
-      "question": "What is the value of sin(90°)?",
-      "options": {
-        "xyz": "0",
-        "abc": "1",
-        "opt5": "1",
-        "def": "0.5"
-      }
-    },
-    {
-      "question": "What is the least common multiple (LCM) of 3 and 4?",
-      "options": {
-        "xyz": "12",
-        "opt5": "12",
-        "abc": "6",
-        "def": "24"
-      }
-    },
-    {
-      "question": "Is the square root of 2 a rational number?",
-      "options": {
-        "xyz": "Yes",
-        "opt5": "No"
-      }
-    },
-    {
-      "question": "What is the volume of a cube with side length 3 units?",
-      "options": {
-        "xyz": "9",
-        "abc": "18",
-        "def": "27",
-        "opt5": "27"
-      }
-    },
-    {
-      "question": "What is the solution to the equation x^2 = 9?",
-      "options": {
-        "xyz": "2",
-        "opt5": "3",
-        "abc": "-3",
-        "def": "±3"
-      }
-    }
-  ],
-  "level2": [
-    {
-      "question": "Is 5 a prime number?",
-      "options": {
-        "opt5": "Yes",
-        "xyz": "No"
-      }
-    },
-    {
-      "question": "What is the value of 4^2?",
-      "options": {
-        "xyz": "8",
-        "abc": "12",
-        "opt5": "16",
-        "def": "20"
-      }
-    },
-    {
-      "question": "What is 20% of 50?",
-      "options": {
-        "opt5": "10",
-        "xyz": "15",
-        "abc": "20",
-        "def": "25"
-      }
-    },
-    {
-      "question": "Solve for x: 5x = 25",
-      "options": {
-        "xyz": "10",
-        "opt5": "5",
-        "abc": "1",
-        "def": "6"
-      }
-    },
-    {
-      "question": "Is 12 an even number?",
-      "options": {
-        "opt5": "True",
-        "xyz": "False"
-      }
-    },
-    {
-      "question": "What is the value of the square root of 81?",
-      "options": {
-        "xyz": "8",
-        "abc": "7",
-        "opt5": "9",
-        "def": "6"
-      }
-    },
-    {
-      "question": "What is the area of a rectangle with length 5 and width 3 units?",
-      "options": {
-        "opt5": "15",
-        "xyz": "10",
-        "abc": "8",
-        "def": "12"
-      }
-    },
-    {
-      "question": "Which number is the additive identity?",
-      "options": {
-        "xyz": "1",
-        "abc": "2",
-        "opt5": "0",
-        "def": "3"
-      }
-    },
-    {
-      "question": "What is the value of the expression 4x + 2 when x=3?",
-      "options": {
-        "xyz": "12",
-        "opt5": "14",
-        "abc": "16",
-        "def": "18"
-      }
-    },
-    {
-      "question": "Is the product of two odd numbers always odd?",
-      "options": {
-        "opt5": "True",
-        "xyz": "False"
-      }
-    },
-    {
-      "question": "What is the perimeter of a triangle with sides 3, 4, and 5 units?",
-      "options": {
-        "xyz": "10",
-        "abc": "14",
-        "def": "16",
-        "opt5": "12"
-      }
-    },
-    {
-      "question": "Solve for x: x - 4 = 10",
-      "options": {
-        "xyz": "6",
-        "opt5": "14",
-        "abc": "12",
-        "def": "10"
-      }
-    },
-    {
-      "question": "What is the circumference of a circle with radius 7 units?",
-      "options": {
-        "xyz": "7π",
-        "abc": "21π",
-        "def": "28π",
-        "opt5": "14π"
-      }
-    },
-    {
-      "question": "What is the value of cos(0°)?",
-      "options": {
-        "xyz": "0",
-        "opt5": "1",
-        "abc": "-1",
-        "def": "0.5"
-      }
-    },
-    {
-      "question": "What is the greatest common divisor (GCD) of 8 and 12?",
-      "options": {
-        "opt5": "4",
-        "xyz": "2",
-        "abc": "6",
-        "def": "8"
-      }
-    },
-    {
-      "question": "Is the number 1 a composite number?",
-      "options": {
-        "opt5": "No",
-        "xyz": "Yes"
-      }
-    },
-    {
-      "question": "What is the area of a triangle with base 4 units and height 5 units?",
-      "options": {
-        "xyz": "20",
-        "abc": "15",
-        "opt5": "10",
-        "def": "25"
-      }
-    },
-    {
-      "question": "What is the solution to the equation x^2 = 16?",
-      "options": {
-        "opt5": "±4",
-        "xyz": "4",
-        "abc": "8",
-        "def": "2"
-      }
-    },
-    {
-      "question": "What is the value of tan(45°)?",
-      "options": {
-        "xyz": "0",
-        "abc": "0.5",
-        "opt5": "1",
-        "def": "√2"
-      }
-    },
-    {
-      "question": "What is the volume of a sphere with radius 3 units?",
-      "options": {
-        "xyz": "27π",
-        "abc": "45π",
-        "def": "54π",
-        "opt5": "36π"
-      }
-    },
-    {
-      "question": "Is the value of e (Euler's number) approximately 2.718?",
-      "options": {
-        "opt5": "True",
-        "xyz": "False"
-      }
-    },
-    {
-      "question": "What is the sum of the exterior angles of a polygon?",
-      "options": {
-        "opt5": "360°",
-        "xyz": "180°",
-        "abc": "270°",
-        "def": "90°"
-      }
-    },
-    {
-      "question": "What is the solution to the equation 2x + 3 = 11?",
-      "options": {
-        "xyz": "2",
-        "abc": "3",
-        "opt5": "4",
-        "def": "5"
-      }
-    },
-    {
-      "question": "What is the value of log base 2 of 8?",
-      "options": {
-        "opt5": "3",
-        "xyz": "2",
-        "abc": "4",
-        "def": "5"
-      }
-    },
-    {
-      "question": "What is the sum of the first 10 natural numbers?",
-      "options": {
-        "xyz": "50",
-        "opt5": "55",
-        "abc": "60",
-        "def": "45"
-      }
-    }
-  ]
+    ]
+  }
 }

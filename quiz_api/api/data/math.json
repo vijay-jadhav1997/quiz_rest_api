@@ -1,519 +1,522 @@
 {
-  "level1": [
-    {
-      "question": "In a right triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides. This is known as?",
-      "options": {
-        "opt5": "Pythagorean Theorem",
-        "xyz": "Euclidean Theorem",
-        "abc": "Ptolemaic Theorem",
-        "def": "Thales Theorem"
+  "topic": "Math",
+  "levels":{
+    "level1": [
+      {
+        "question": "In a right triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides. This is known as?",
+        "options": {
+          "opt5": "Pythagorean Theorem",
+          "xyz": "Euclidean Theorem",
+          "abc": "Ptolemaic Theorem",
+          "def": "Thales Theorem"
+        }
+      },
+      {
+        "question": "What is the general formula for the area of a circle?",
+        "options": {
+          "abc": "πr^2",
+          "xyz": "2πr",
+          "opt5": "πr^2",
+          "def": "πd"
+        }
+      },
+      {
+        "question": "The sum of the angles in a triangle is equal to 180 degrees.",
+        "options": {
+          "opt5": "True",
+          "abc": "False"
+        }
+      },
+      {
+        "question": "In algebra, what is the value of x in the equation 2x + 5 = 15?",
+        "options": {
+          "xyz": 10,
+          "abc": 5,
+          "opt5": 5,
+          "def": 7
+        }
+      },
+      {
+        "question": "The quadratic formula is used to find the roots of which type of equation?",
+        "options": {
+          "xyz": "Linear Equation",
+          "opt5": "Quadratic Equation",
+          "abc": "Polynomial Equation",
+          "def": "Cubic Equation"
+        }
+      },
+      {
+        "question": "Is the sum of the interior angles of a polygon with 5 sides equal to 360 degrees?",
+        "options": {
+          "opt5": "No",
+          "abc": "Yes"
+        }
+      },
+      {
+        "question": "The distance formula derived from the Pythagorean Theorem is used to find the distance between two points in a coordinate plane.",
+        "options": {
+          "xyz": "True",
+          "opt5": "True",
+          "abc": "False"
+        }
+      },
+      {
+        "question": "The length of the hypotenuse of a right triangle with legs of lengths 3 and 4 is?",
+        "options": {
+          "abc": 5,
+          "xyz": 7,
+          "def": 6,
+          "opt5": 5
+        }
+      },
+      {
+        "question": "In the binomial expansion of (a + b)^3, what is the coefficient of b^2?",
+        "options": {
+          "abc": 3,
+          "opt5": 3,
+          "xyz": 1,
+          "def": 6
+        }
+      },
+      {
+        "question": "A rectangle's area is given by the product of its length and width. What is the area if length = 5 and width = 3?",
+        "options": {
+          "xyz": 15,
+          "abc": 10,
+          "def": 8,
+          "opt5": 15
+        }
+      },
+      {
+        "question": "In coordinate geometry, the slope of a line passing through points (2, 3) and (4, 7) is?",
+        "options": {
+          "abc": 2,
+          "opt5": 2,
+          "xyz": 4,
+          "def": 1
+        }
+      },
+      {
+        "question": "The sum of the exterior angles of any polygon is always equal to?",
+        "options": {
+          "opt5": "360 degrees",
+          "abc": "180 degrees",
+          "xyz": "360 degrees",
+          "def": "90 degrees"
+        }
+      },
+      {
+        "question": "The sum of the angles in a quadrilateral is equal to?",
+        "options": {
+          "def": 360,
+          "xyz": 180,
+          "opt5": 360,
+          "abc": 90
+        }
+      },
+      {
+        "question": "In algebra, the quadratic equation ax^2 + bx + c = 0 is solved using?",
+        "options": {
+          "abc": "Factorization",
+          "opt5": "Quadratic Formula",
+          "xyz": "Completing the Square",
+          "def": "Substitution"
+        }
+      },
+      {
+        "question": "The volume of a sphere with radius r is given by?",
+        "options": {
+          "xyz": "4/3πr^2",
+          "abc": "4/3πr^3",
+          "opt5": "4/3πr^3",
+          "def": "πr^2"
+        }
+      },
+      {
+        "question": "The formula for the area of a trapezoid is (1/2) * (sum of parallel sides) * height. This formula is used to find the area of which shape?",
+        "options": {
+          "abc": "Circle",
+          "xyz": "Triangle",
+          "def": "Rectangle",
+          "opt5": "Trapezoid"
+        }
+      },
+      {
+        "question": "A line that touches a circle at exactly one point is called?",
+        "options": {
+          "def": "Secant",
+          "opt5": "Tangent",
+          "xyz": "Chord",
+          "abc": "Diameter"
+        }
+      },
+      {
+        "question": "The point where two lines intersect is called?",
+        "options": {
+          "abc": "Angle",
+          "xyz": "Segment",
+          "opt5": "Vertex",
+          "def": "Line"
+        }
+      },
+      {
+        "question": "The area of a parallelogram is base × height. This formula is applicable to which geometric figure?",
+        "options": {
+          "opt5": "Parallelogram",
+          "abc": "Triangle",
+          "xyz": "Trapezoid",
+          "def": "Rectangle"
+        }
+      },
+      {
+        "question": "In algebra, what is the term for a number that multiplies a variable?",
+        "options": {
+          "xyz": "Exponent",
+          "abc": "Term",
+          "opt5": "Coefficient",
+          "def": "Constant"
+        }
+      },
+      {
+        "question": "The term 'polynomial' refers to an expression that consists of?",
+        "options": {
+          "xyz": "Only constants",
+          "def": "Only variables",
+          "abc": "Constants and variables",
+          "opt5": "Constants and variables"
+        }
+      },
+      {
+        "question": "A triangle with all angles less than 90 degrees is known as?",
+        "options": {
+          "opt5": "Acute Triangle",
+          "xyz": "Right Triangle",
+          "abc": "Obtuse Triangle",
+          "def": "Scalene Triangle"
+        }
+      },
+      {
+        "question": "In coordinate geometry, the distance between the points (x1, y1) and (x2, y2) is given by?",
+        "options": {
+          "xyz": "√[(x2-x1)^2 + (y2-y1)^2]",
+          "def": "(x2-x1) + (y2-y1)",
+          "abc": "√[(x2+x1)^2 + (y2+y1)^2]",
+          "opt5": "√[(x2-x1)^2 + (y2-y1)^2]"
+        }
+      },
+      {
+        "question": "A circle with radius r has an area given by πr^2. This formula represents the area of which shape?",
+        "options": {
+          "abc": "Rectangle",
+          "xyz": "Square",
+          "def": "Triangle",
+          "opt5": "Circle"
+        }
+      },
+      {
+        "question": "In algebra, the term 'discriminant' is used in relation to which type of equation?",
+        "options": {
+          "xyz": "Linear Equation",
+          "abc": "Cubic Equation",
+          "opt5": "Quadratic Equation",
+          "def": "Polynomial Equation"
+        }
+      },
+      {
+        "question": "The sum of all angles in a hexagon is?",
+        "options": {
+          "def": 720,
+          "opt5": 720,
+          "abc": 540,
+          "xyz": 360
+        }
+      },
+      {
+        "question": "In a right-angled triangle, the side opposite the right angle is called?",
+        "options": {
+          "opt5": "Hypotenuse",
+          "abc": "Leg",
+          "xyz": "Adjacent",
+          "def": "Opposite"
+        }
+      },
+      {
+        "question": "In algebra, what is the process of finding the value of x in the equation x^2 - 5x + 6 = 0?",
+        "options": {
+          "abc": "Integration",
+          "xyz": "Differentiation",
+          "opt5": "Factorization",
+          "def": "Substitution"
+        }
+      },
+      {
+        "question": "The perimeter of a rectangle is given by 2(length + width). This formula applies to which shape?",
+        "options": {
+          "def": "Circle",
+          "opt5": "Rectangle",
+          "xyz": "Triangle",
+          "abc": "Square"
+        }
+      },
+      {
+        "question": "In algebra, the term 'roots' refers to the solutions of which type of equation?",
+        "options": {
+          "xyz": "Exponential Equation",
+          "abc": "Linear Equation",
+          "opt5": "Quadratic Equation",
+          "def": "Polynomial Equation"
+        }
+      },
+      {
+        "question": "An isosceles triangle has how many sides of equal length?",
+        "options": {
+          "xyz": 3,
+          "def": 2,
+          "abc": 1,
+          "opt5": 2
+        }
+      },
+      {
+        "question": "The angle sum property of a triangle states that the sum of the angles is always equal to?",
+        "options": {
+          "abc": "360 degrees",
+          "opt5": "180 degrees",
+          "xyz": "180 degrees",
+          "def": "90 degrees"
+        }
+      },
+      {
+        "question": "In geometry, a line segment that joins two non-adjacent vertices of a polygon is called?",
+        "options": {
+          "abc": "Chord",
+          "xyz": "Secant",
+          "def": "Diagonal",
+          "opt5": "Diagonal"
+        }
       }
-    },
-    {
-      "question": "What is the general formula for the area of a circle?",
-      "options": {
-        "abc": "πr^2",
-        "xyz": "2πr",
-        "opt5": "πr^2",
-        "def": "πd"
+    ],
+    "level2": [
+      {
+        "question": "The area of a triangle is given by 1/2 × base × height. This formula applies to which shape?",
+        "options": {
+          "xyz": "Trapezoid",
+          "def": "Circle",
+          "opt5": "Triangle",
+          "abc": "Rectangle"
+        }
+      },
+      {
+        "question": "The sum of interior angles in a polygon with n sides is given by?",
+        "options": {
+          "def": "(n-2) × 180",
+          "opt5": "(n-2) × 180",
+          "abc": "(n+2) × 90",
+          "xyz": "n × 180"
+        }
+      },
+      {
+        "question": "The distance formula is used to calculate the distance between two points in a plane. Is this statement true?",
+        "options": {
+          "abc": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "In a quadratic equation ax^2 + bx + c = 0, the term 'b^2 - 4ac' is known as?",
+        "options": {
+          "xyz": "Discriminant",
+          "def": "Coefficient",
+          "abc": "Constant",
+          "opt5": "Discriminant"
+        }
+      },
+      {
+        "question": "A right angle triangle with one angle of 90 degrees and the other two angles equal, is known as?",
+        "options": {
+          "def": "Obtuse Triangle",
+          "opt5": "Isosceles Triangle",
+          "xyz": "Scalene Triangle",
+          "abc": "Acute Triangle"
+        }
+      },
+      {
+        "question": "In coordinate geometry, the midpoint formula is used to find the midpoint between two points. Is this statement true?",
+        "options": {
+          "opt5": "True",
+          "abc": "False"
+        }
+      },
+      {
+        "question": "The formula for the volume of a cylinder is given by πr^2h. This formula is for which geometric shape?",
+        "options": {
+          "abc": "Cone",
+          "xyz": "Sphere",
+          "opt5": "Cylinder",
+          "def": "Prism"
+        }
+      },
+      {
+        "question": "The area of a parallelogram is given by base × height. This formula is applicable to which shape?",
+        "options": {
+          "opt5": "Parallelogram",
+          "abc": "Square",
+          "xyz": "Circle",
+          "def": "Triangle"
+        }
+      },
+      {
+        "question": "The sum of the angles in a pentagon is?",
+        "options": {
+          "def": 360,
+          "abc": 540,
+          "xyz": 720,
+          "opt5": 540
+        }
+      },
+      {
+        "question": "In a right triangle, the side adjacent to the right angle is called?",
+        "options": {
+          "xyz": "Hypotenuse",
+          "opt5": "Leg",
+          "def": "Opposite",
+          "abc": "Altitude"
+        }
+      },
+      {
+        "question": "The term 'hypotenuse' refers to the longest side of a?",
+        "options": {
+          "xyz": "Isosceles Triangle",
+          "def": "Scalene Triangle",
+          "abc": "Equilateral Triangle",
+          "opt5": "Right Triangle"
+        }
+      },
+      {
+        "question": "The formula to find the circumference of a circle is?",
+        "options": {
+          "abc": "2πr",
+          "opt5": "2πr",
+          "xyz": "πd",
+          "def": "πr^2"
+        }
+      },
+      {
+        "question": "The Pythagorean Theorem is used in?",
+        "options": {
+          "abc": "Trapezoid",
+          "xyz": "Circle",
+          "opt5": "Right Triangle",
+          "def": "Quadrilateral"
+        }
+      },
+      {
+        "question": "The number of diagonals in a hexagon is given by?",
+        "options": {
+          "def": 12,
+          "abc": 9,
+          "xyz": 6,
+          "opt5": 9
+        }
+      },
+      {
+        "question": "In algebra, solving the equation x^2 - 4 = 0 yields?",
+        "options": {
+          "opt5": "x = ±2",
+          "xyz": "x = 2",
+          "def": "x = 4",
+          "abc": "x = ±2"
+        }
+      },
+      {
+        "question": "The formula to find the area of a rectangle is length × width. This formula is used for which geometric shape?",
+        "options": {
+          "xyz": "Circle",
+          "abc": "Triangle",
+          "opt5": "Rectangle",
+          "def": "Square"
+        }
+      },
+      {
+        "question": "In coordinate geometry, what is the formula for the slope of a line passing through (x1, y1) and (x2, y2)?",
+        "options": {
+          "xyz": "(y2 - y1) / (x2 - x1)",
+          "def": "(x2 + x1) / (y2 + y1)",
+          "abc": "(y1 - y2) / (x1 - x2)",
+          "opt5": "(y2 - y1) / (x2 - x1)"
+        }
+      },
+      {
+        "question": "The volume of a sphere is given by 4/3πr^3. This formula is used for which geometric shape?",
+        "options": {
+          "xyz": "Cylinder",
+          "opt5": "Sphere",
+          "def": "Cone",
+          "abc": "Prism"
+        }
+      },
+      {
+        "question": "The formula for the area of a sector of a circle is?",
+        "options": {
+          "xyz": "πr^2θ",
+          "def": "1/2πr^2θ",
+          "abc": "1/2πr^2",
+          "opt5": "1/2πr^2θ"
+        }
+      },
+      {
+        "question": "In algebra, what is the process of finding the roots of the equation x^2 + 3x + 2 = 0?",
+        "options": {
+          "xyz": "Differentiation",
+          "def": "Integration",
+          "opt5": "Factorization",
+          "abc": "Substitution"
+        }
+      },
+      {
+        "question": "The perimeter of a regular hexagon is given by 6 × side length. This formula is used to calculate which geometric figure?",
+        "options": {
+          "abc": "Triangle",
+          "def": "Square",
+          "opt5": "Hexagon",
+          "xyz": "Pentagon"
+        }
+      },
+      {
+        "question": "The area of a circle is given by πr^2. This formula is for which shape?",
+        "options": {
+          "opt5": "Circle",
+          "abc": "Square",
+          "xyz": "Rectangle",
+          "def": "Triangle"
+        }
+      },
+      {
+        "question": "The volume of a cube is given by side^3. This formula is used for which geometric shape?",
+        "options": {
+          "xyz": "Cuboid",
+          "def": "Sphere",
+          "abc": "Cylinder",
+          "opt5": "Cube"
+        }
+      },
+      {
+        "question": "A polygon with all sides and angles equal is called?",
+        "options": {
+          "xyz": "Scalene Polygon",
+          "def": "Regular Polygon",
+          "opt5": "Regular Polygon",
+          "abc": "Irregular Polygon"
+        }
+      },
+      {
+        "question": "The sum of the exterior angles of a polygon is always equal to?",
+        "options": {
+          "xyz": "180 degrees",
+          "opt5": "360 degrees",
+          "def": "90 degrees",
+          "abc": "270 degrees"
+        }
       }
-    },
-    {
-      "question": "The sum of the angles in a triangle is equal to 180 degrees.",
-      "options": {
-        "opt5": "True",
-        "abc": "False"
-      }
-    },
-    {
-      "question": "In algebra, what is the value of x in the equation 2x + 5 = 15?",
-      "options": {
-        "xyz": 10,
-        "abc": 5,
-        "opt5": 5,
-        "def": 7
-      }
-    },
-    {
-      "question": "The quadratic formula is used to find the roots of which type of equation?",
-      "options": {
-        "xyz": "Linear Equation",
-        "opt5": "Quadratic Equation",
-        "abc": "Polynomial Equation",
-        "def": "Cubic Equation"
-      }
-    },
-    {
-      "question": "Is the sum of the interior angles of a polygon with 5 sides equal to 360 degrees?",
-      "options": {
-        "opt5": "No",
-        "abc": "Yes"
-      }
-    },
-    {
-      "question": "The distance formula derived from the Pythagorean Theorem is used to find the distance between two points in a coordinate plane.",
-      "options": {
-        "xyz": "True",
-        "opt5": "True",
-        "abc": "False"
-      }
-    },
-    {
-      "question": "The length of the hypotenuse of a right triangle with legs of lengths 3 and 4 is?",
-      "options": {
-        "abc": 5,
-        "xyz": 7,
-        "def": 6,
-        "opt5": 5
-      }
-    },
-    {
-      "question": "In the binomial expansion of (a + b)^3, what is the coefficient of b^2?",
-      "options": {
-        "abc": 3,
-        "opt5": 3,
-        "xyz": 1,
-        "def": 6
-      }
-    },
-    {
-      "question": "A rectangle's area is given by the product of its length and width. What is the area if length = 5 and width = 3?",
-      "options": {
-        "xyz": 15,
-        "abc": 10,
-        "def": 8,
-        "opt5": 15
-      }
-    },
-    {
-      "question": "In coordinate geometry, the slope of a line passing through points (2, 3) and (4, 7) is?",
-      "options": {
-        "abc": 2,
-        "opt5": 2,
-        "xyz": 4,
-        "def": 1
-      }
-    },
-    {
-      "question": "The sum of the exterior angles of any polygon is always equal to?",
-      "options": {
-        "opt5": "360 degrees",
-        "abc": "180 degrees",
-        "xyz": "360 degrees",
-        "def": "90 degrees"
-      }
-    },
-    {
-      "question": "The sum of the angles in a quadrilateral is equal to?",
-      "options": {
-        "def": 360,
-        "xyz": 180,
-        "opt5": 360,
-        "abc": 90
-      }
-    },
-    {
-      "question": "In algebra, the quadratic equation ax^2 + bx + c = 0 is solved using?",
-      "options": {
-        "abc": "Factorization",
-        "opt5": "Quadratic Formula",
-        "xyz": "Completing the Square",
-        "def": "Substitution"
-      }
-    },
-    {
-      "question": "The volume of a sphere with radius r is given by?",
-      "options": {
-        "xyz": "4/3πr^2",
-        "abc": "4/3πr^3",
-        "opt5": "4/3πr^3",
-        "def": "πr^2"
-      }
-    },
-    {
-      "question": "The formula for the area of a trapezoid is (1/2) * (sum of parallel sides) * height. This formula is used to find the area of which shape?",
-      "options": {
-        "abc": "Circle",
-        "xyz": "Triangle",
-        "def": "Rectangle",
-        "opt5": "Trapezoid"
-      }
-    },
-    {
-      "question": "A line that touches a circle at exactly one point is called?",
-      "options": {
-        "def": "Secant",
-        "opt5": "Tangent",
-        "xyz": "Chord",
-        "abc": "Diameter"
-      }
-    },
-    {
-      "question": "The point where two lines intersect is called?",
-      "options": {
-        "abc": "Angle",
-        "xyz": "Segment",
-        "opt5": "Vertex",
-        "def": "Line"
-      }
-    },
-    {
-      "question": "The area of a parallelogram is base × height. This formula is applicable to which geometric figure?",
-      "options": {
-        "opt5": "Parallelogram",
-        "abc": "Triangle",
-        "xyz": "Trapezoid",
-        "def": "Rectangle"
-      }
-    },
-    {
-      "question": "In algebra, what is the term for a number that multiplies a variable?",
-      "options": {
-        "xyz": "Exponent",
-        "abc": "Term",
-        "opt5": "Coefficient",
-        "def": "Constant"
-      }
-    },
-    {
-      "question": "The term 'polynomial' refers to an expression that consists of?",
-      "options": {
-        "xyz": "Only constants",
-        "def": "Only variables",
-        "abc": "Constants and variables",
-        "opt5": "Constants and variables"
-      }
-    },
-    {
-      "question": "A triangle with all angles less than 90 degrees is known as?",
-      "options": {
-        "opt5": "Acute Triangle",
-        "xyz": "Right Triangle",
-        "abc": "Obtuse Triangle",
-        "def": "Scalene Triangle"
-      }
-    },
-    {
-      "question": "In coordinate geometry, the distance between the points (x1, y1) and (x2, y2) is given by?",
-      "options": {
-        "xyz": "√[(x2-x1)^2 + (y2-y1)^2]",
-        "def": "(x2-x1) + (y2-y1)",
-        "abc": "√[(x2+x1)^2 + (y2+y1)^2]",
-        "opt5": "√[(x2-x1)^2 + (y2-y1)^2]"
-      }
-    },
-    {
-      "question": "A circle with radius r has an area given by πr^2. This formula represents the area of which shape?",
-      "options": {
-        "abc": "Rectangle",
-        "xyz": "Square",
-        "def": "Triangle",
-        "opt5": "Circle"
-      }
-    },
-    {
-      "question": "In algebra, the term 'discriminant' is used in relation to which type of equation?",
-      "options": {
-        "xyz": "Linear Equation",
-        "abc": "Cubic Equation",
-        "opt5": "Quadratic Equation",
-        "def": "Polynomial Equation"
-      }
-    },
-    {
-      "question": "The sum of all angles in a hexagon is?",
-      "options": {
-        "def": 720,
-        "opt5": 720,
-        "abc": 540,
-        "xyz": 360
-      }
-    },
-    {
-      "question": "In a right-angled triangle, the side opposite the right angle is called?",
-      "options": {
-        "opt5": "Hypotenuse",
-        "abc": "Leg",
-        "xyz": "Adjacent",
-        "def": "Opposite"
-      }
-    },
-    {
-      "question": "In algebra, what is the process of finding the value of x in the equation x^2 - 5x + 6 = 0?",
-      "options": {
-        "abc": "Integration",
-        "xyz": "Differentiation",
-        "opt5": "Factorization",
-        "def": "Substitution"
-      }
-    },
-    {
-      "question": "The perimeter of a rectangle is given by 2(length + width). This formula applies to which shape?",
-      "options": {
-        "def": "Circle",
-        "opt5": "Rectangle",
-        "xyz": "Triangle",
-        "abc": "Square"
-      }
-    },
-    {
-      "question": "In algebra, the term 'roots' refers to the solutions of which type of equation?",
-      "options": {
-        "xyz": "Exponential Equation",
-        "abc": "Linear Equation",
-        "opt5": "Quadratic Equation",
-        "def": "Polynomial Equation"
-      }
-    },
-    {
-      "question": "An isosceles triangle has how many sides of equal length?",
-      "options": {
-        "xyz": 3,
-        "def": 2,
-        "abc": 1,
-        "opt5": 2
-      }
-    },
-     {
-      "question": "The angle sum property of a triangle states that the sum of the angles is always equal to?",
-      "options": {
-        "abc": "360 degrees",
-        "opt5": "180 degrees",
-        "xyz": "180 degrees",
-        "def": "90 degrees"
-      }
-    },
-    {
-      "question": "In geometry, a line segment that joins two non-adjacent vertices of a polygon is called?",
-      "options": {
-        "abc": "Chord",
-        "xyz": "Secant",
-        "def": "Diagonal",
-        "opt5": "Diagonal"
-      }
-    }
-  ],
-  "level2": [
-    {
-      "question": "The area of a triangle is given by 1/2 × base × height. This formula applies to which shape?",
-      "options": {
-        "xyz": "Trapezoid",
-        "def": "Circle",
-        "opt5": "Triangle",
-        "abc": "Rectangle"
-      }
-    },
-    {
-      "question": "The sum of interior angles in a polygon with n sides is given by?",
-      "options": {
-        "def": "(n-2) × 180",
-        "opt5": "(n-2) × 180",
-        "abc": "(n+2) × 90",
-        "xyz": "n × 180"
-      }
-    },
-    {
-      "question": "The distance formula is used to calculate the distance between two points in a plane. Is this statement true?",
-      "options": {
-        "abc": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "In a quadratic equation ax^2 + bx + c = 0, the term 'b^2 - 4ac' is known as?",
-      "options": {
-        "xyz": "Discriminant",
-        "def": "Coefficient",
-        "abc": "Constant",
-        "opt5": "Discriminant"
-      }
-    },
-    {
-      "question": "A right angle triangle with one angle of 90 degrees and the other two angles equal, is known as?",
-      "options": {
-        "def": "Obtuse Triangle",
-        "opt5": "Isosceles Triangle",
-        "xyz": "Scalene Triangle",
-        "abc": "Acute Triangle"
-      }
-    },
-    {
-      "question": "In coordinate geometry, the midpoint formula is used to find the midpoint between two points. Is this statement true?",
-      "options": {
-        "opt5": "True",
-        "abc": "False"
-      }
-    },
-    {
-      "question": "The formula for the volume of a cylinder is given by πr^2h. This formula is for which geometric shape?",
-      "options": {
-        "abc": "Cone",
-        "xyz": "Sphere",
-        "opt5": "Cylinder",
-        "def": "Prism"
-      }
-    },
-    {
-      "question": "The area of a parallelogram is given by base × height. This formula is applicable to which shape?",
-      "options": {
-        "opt5": "Parallelogram",
-        "abc": "Square",
-        "xyz": "Circle",
-        "def": "Triangle"
-      }
-    },
-    {
-      "question": "The sum of the angles in a pentagon is?",
-      "options": {
-        "def": 360,
-        "abc": 540,
-        "xyz": 720,
-        "opt5": 540
-      }
-    },
-    {
-      "question": "In a right triangle, the side adjacent to the right angle is called?",
-      "options": {
-        "xyz": "Hypotenuse",
-        "opt5": "Leg",
-        "def": "Opposite",
-        "abc": "Altitude"
-      }
-    },
-    {
-      "question": "The term 'hypotenuse' refers to the longest side of a?",
-      "options": {
-        "xyz": "Isosceles Triangle",
-        "def": "Scalene Triangle",
-        "abc": "Equilateral Triangle",
-        "opt5": "Right Triangle"
-      }
-    },
-    {
-      "question": "The formula to find the circumference of a circle is?",
-      "options": {
-        "abc": "2πr",
-        "opt5": "2πr",
-        "xyz": "πd",
-        "def": "πr^2"
-      }
-    },
-    {
-      "question": "The Pythagorean Theorem is used in?",
-      "options": {
-        "abc": "Trapezoid",
-        "xyz": "Circle",
-        "opt5": "Right Triangle",
-        "def": "Quadrilateral"
-      }
-    },
-    {
-      "question": "The number of diagonals in a hexagon is given by?",
-      "options": {
-        "def": 12,
-        "abc": 9,
-        "xyz": 6,
-        "opt5": 9
-      }
-    },
-    {
-      "question": "In algebra, solving the equation x^2 - 4 = 0 yields?",
-      "options": {
-        "opt5": "x = ±2",
-        "xyz": "x = 2",
-        "def": "x = 4",
-        "abc": "x = ±2"
-      }
-    },
-    {
-      "question": "The formula to find the area of a rectangle is length × width. This formula is used for which geometric shape?",
-      "options": {
-        "xyz": "Circle",
-        "abc": "Triangle",
-        "opt5": "Rectangle",
-        "def": "Square"
-      }
-    },
-    {
-      "question": "In coordinate geometry, what is the formula for the slope of a line passing through (x1, y1) and (x2, y2)?",
-      "options": {
-        "xyz": "(y2 - y1) / (x2 - x1)",
-        "def": "(x2 + x1) / (y2 + y1)",
-        "abc": "(y1 - y2) / (x1 - x2)",
-        "opt5": "(y2 - y1) / (x2 - x1)"
-      }
-    },
-    {
-      "question": "The volume of a sphere is given by 4/3πr^3. This formula is used for which geometric shape?",
-      "options": {
-        "xyz": "Cylinder",
-        "opt5": "Sphere",
-        "def": "Cone",
-        "abc": "Prism"
-      }
-    },
-    {
-      "question": "The formula for the area of a sector of a circle is?",
-      "options": {
-        "xyz": "πr^2θ",
-        "def": "1/2πr^2θ",
-        "abc": "1/2πr^2",
-        "opt5": "1/2πr^2θ"
-      }
-    },
-    {
-      "question": "In algebra, what is the process of finding the roots of the equation x^2 + 3x + 2 = 0?",
-      "options": {
-        "xyz": "Differentiation",
-        "def": "Integration",
-        "opt5": "Factorization",
-        "abc": "Substitution"
-      }
-    },
-    {
-      "question": "The perimeter of a regular hexagon is given by 6 × side length. This formula is used to calculate which geometric figure?",
-      "options": {
-        "abc": "Triangle",
-        "def": "Square",
-        "opt5": "Hexagon",
-        "xyz": "Pentagon"
-      }
-    },
-    {
-      "question": "The area of a circle is given by πr^2. This formula is for which shape?",
-      "options": {
-        "opt5": "Circle",
-        "abc": "Square",
-        "xyz": "Rectangle",
-        "def": "Triangle"
-      }
-    },
-    {
-      "question": "The volume of a cube is given by side^3. This formula is used for which geometric shape?",
-      "options": {
-        "xyz": "Cuboid",
-        "def": "Sphere",
-        "abc": "Cylinder",
-        "opt5": "Cube"
-      }
-    },
-    {
-      "question": "A polygon with all sides and angles equal is called?",
-      "options": {
-        "xyz": "Scalene Polygon",
-        "def": "Regular Polygon",
-        "opt5": "Regular Polygon",
-        "abc": "Irregular Polygon"
-      }
-    },
-    {
-      "question": "The sum of the exterior angles of a polygon is always equal to?",
-      "options": {
-        "xyz": "180 degrees",
-        "opt5": "360 degrees",
-        "def": "90 degrees",
-        "abc": "270 degrees"
-      }
-    }
-  ]
+    ]
+  }
 }

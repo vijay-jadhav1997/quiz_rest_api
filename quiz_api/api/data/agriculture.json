@@ -1,252 +1,255 @@
 {
-  "level1": [
-    {
-      "question": "India is the largest producer of milk in the world.",
-      "options": {
-        "opt5": "True",
-        "option1": "False"
+  "topic": "Agriculture",
+  "levels":{
+    "level1": [
+      {
+        "question": "India is the largest producer of milk in the world.",
+        "options": {
+          "opt5": "True",
+          "option1": "False"
+        }
+      },
+      {
+        "question": "What is the main crop grown during the Rabi season in India?",
+        "options": {
+          "option1": "Rice",
+          "opt5": "Wheat",
+          "option2": "Maize",
+          "option3": "Cotton"
+        }
+      },
+      {
+        "question": "Does India rank second in the world for farm output?",
+        "options": {
+          "option1": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "Which state in India is known as the 'Rice Bowl of India'?",
+        "options": {
+          "opt1": "Punjab",
+          "opt5": "Andhra Pradesh",
+          "opt2": "West Bengal",
+          "opt3": "Uttar Pradesh"
+        }
+      },
+      {
+        "question": "The Green Revolution in India began in which decade?",
+        "options": {
+          "opt5": "1960s",
+          "opt1": "1950s",
+          "opt2": "1970s",
+          "opt3": "1980s"
+        }
+      },
+      {
+        "question": "Is India one of the top producers of tea in the world?",
+        "options": {
+          "opt1": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "Which country is the largest producer of wheat?",
+        "options": {
+          "option1": "India",
+          "option2": "Russia",
+          "opt5": "China"
+        }
+      },
+      {
+        "question": "Which crop is referred to as 'Golden Fiber' in India?",
+        "options": {
+          "opt1": "Cotton",
+          "opt2": "Silk",
+          "opt5": "Jute",
+          "opt3": "Wool"
+        }
+      },
+      {
+        "question": "True or False: India is the largest producer of spices in the world.",
+        "options": {
+          "option1": "False",
+          "opt5": "True"
+        }
+      },
+      {
+        "question": "Which of the following is the largest fruit crop by production in India?",
+        "options": {
+          "opt5": "Mango",
+          "option1": "Banana",
+          "option2": "Apple",
+          "option3": "Grapes"
+        }
+      },
+      {
+        "question": "What percentage of India's workforce is employed in agriculture?",
+        "options": {
+          "option1": "25%",
+          "opt5": "50%",
+          "option2": "40%",
+          "option3": "30%"
+        }
+      },
+      {
+        "question": "Which state is the largest producer of coffee in India?",
+        "options": {
+          "opt1": "Kerala",
+          "opt2": "Tamil Nadu",
+          "opt5": "Karnataka",
+          "opt3": "Assam"
+        }
+      },
+      {
+        "question": "Is agriculture the primary source of livelihood for about 58% of India's population?",
+        "options": {
+          "opt1": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "Which country is the largest exporter of rice?",
+        "options": {
+          "option1": "Thailand",
+          "option2": "Vietnam",
+          "opt5": "India"
+        }
+      },
+      {
+        "question": "The major oilseed crop in India is:",
+        "options": {
+          "option1": "Soybean",
+          "opt5": "Groundnut",
+          "option2": "Mustard",
+          "option3": "Sunflower"
+        }
+      },
+      {
+        "question": "Which Indian state is known for its extensive use of drip irrigation?",
+        "options": {
+          "opt1": "Punjab",
+          "opt2": "Haryana",
+          "opt5": "Maharashtra",
+          "opt3": "Karnataka"
+        }
+      },
+      {
+        "question": "Does India export more spices than any other country?",
+        "options": {
+          "option1": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "Which state is the largest producer of rubber in India?",
+        "options": {
+          "option1": "Assam",
+          "opt5": "Kerala",
+          "option2": "Tamil Nadu",
+          "option3": "Karnataka"
+        }
+      },
+      {
+        "question": "Is the ICAR the apex body for coordinating, guiding, and managing research and education in agriculture in India?",
+        "options": {
+          "opt5": "Yes",
+          "option1": "No"
+        }
+      },
+      {
+        "question": "What is the primary product of horticulture in India?",
+        "options": {
+          "option1": "Flowers",
+          "opt5": "Fruits",
+          "option2": "Vegetables",
+          "option3": "Spices"
+        }
+      },
+      {
+        "question": "Which crop is associated with the Kharif season?",
+        "options": {
+          "option1": "Wheat",
+          "option2": "Barley",
+          "option3": "Mustard",
+          "opt5": "Rice"
+        }
+      },
+      {
+        "question": "True or False: The National Agricultural Policy of India was announced in 2000.",
+        "options": {
+          "option1": "False",
+          "opt5": "True"
+        }
+      },
+      {
+        "question": "Which state in India has the largest area under forest cover?",
+        "options": {
+          "option1": "Uttar Pradesh",
+          "opt5": "Madhya Pradesh",
+          "option2": "Arunachal Pradesh",
+          "option3": "Odisha"
+        }
+      },
+      {
+        "question": "Which of the following is a significant agricultural export from India?",
+        "options": {
+          "option1": "Wheat",
+          "option2": "Barley",
+          "opt5": "Basmati Rice",
+          "option3": "Corn"
+        }
+      },
+      {
+        "question": "Which type of farming is practiced in areas with limited rainfall in India?",
+        "options": {
+          "option1": "Wet Farming",
+          "opt5": "Dry Farming",
+          "option2": "Mixed Farming",
+          "option3": "Shifting Farming"
+        }
+      },
+      {
+        "question": "Does India rank first in the world in terms of arable land?",
+        "options": {
+          "opt5": "Yes",
+          "option1": "No"
+        }
+      },
+      {
+        "question": "Which Indian state is the leading producer of sugarcane?",
+        "options": {
+          "opt5": "Uttar Pradesh",
+          "option1": "Maharashtra",
+          "option2": "Tamil Nadu",
+          "option3": "Bihar"
+        }
+      },
+      {
+        "question": "Which crop is primarily grown in the Deccan Plateau?",
+        "options": {
+          "option1": "Rice",
+          "option2": "Tea",
+          "opt5": "Cotton",
+          "option3": "Wheat"
+        }
+      },
+      {
+        "question": "Which of the following is a primary factor for the Green Revolution in India?",
+        "options": {
+          "opt1": "Mechanization of Agriculture",
+          "opt5": "High Yielding Variety Seeds",
+          "opt2": "Pesticides",
+          "opt3": "Irrigation Projects"
+        }
+      },
+      {
+        "question": "True or False: India is the second-largest producer of silk in the world.",
+        "options": {
+          "option1": "True",
+          "opt5": "False"
+        }
       }
-    },
-    {
-      "question": "What is the main crop grown during the Rabi season in India?",
-      "options": {
-        "option1": "Rice",
-        "opt5": "Wheat",
-        "option2": "Maize",
-        "option3": "Cotton"
-      }
-    },
-    {
-      "question": "Does India rank second in the world for farm output?",
-      "options": {
-        "option1": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "Which state in India is known as the 'Rice Bowl of India'?",
-      "options": {
-        "opt1": "Punjab",
-        "opt5": "Andhra Pradesh",
-        "opt2": "West Bengal",
-        "opt3": "Uttar Pradesh"
-      }
-    },
-    {
-      "question": "The Green Revolution in India began in which decade?",
-      "options": {
-        "opt5": "1960s",
-        "opt1": "1950s",
-        "opt2": "1970s",
-        "opt3": "1980s"
-      }
-    },
-    {
-      "question": "Is India one of the top producers of tea in the world?",
-      "options": {
-        "opt1": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "Which country is the largest producer of wheat?",
-      "options": {
-        "option1": "India",
-        "option2": "Russia",
-        "opt5": "China"
-      }
-    },
-    {
-      "question": "Which crop is referred to as 'Golden Fiber' in India?",
-      "options": {
-        "opt1": "Cotton",
-        "opt2": "Silk",
-        "opt5": "Jute",
-        "opt3": "Wool"
-      }
-    },
-    {
-      "question": "True or False: India is the largest producer of spices in the world.",
-      "options": {
-        "option1": "False",
-        "opt5": "True"
-      }
-    },
-    {
-      "question": "Which of the following is the largest fruit crop by production in India?",
-      "options": {
-        "opt5": "Mango",
-        "option1": "Banana",
-        "option2": "Apple",
-        "option3": "Grapes"
-      }
-    },
-    {
-      "question": "What percentage of India's workforce is employed in agriculture?",
-      "options": {
-        "option1": "25%",
-        "opt5": "50%",
-        "option2": "40%",
-        "option3": "30%"
-      }
-    },
-    {
-      "question": "Which state is the largest producer of coffee in India?",
-      "options": {
-        "opt1": "Kerala",
-        "opt2": "Tamil Nadu",
-        "opt5": "Karnataka",
-        "opt3": "Assam"
-      }
-    },
-    {
-      "question": "Is agriculture the primary source of livelihood for about 58% of India's population?",
-      "options": {
-        "opt1": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "Which country is the largest exporter of rice?",
-      "options": {
-        "option1": "Thailand",
-        "option2": "Vietnam",
-        "opt5": "India"
-      }
-    },
-    {
-      "question": "The major oilseed crop in India is:",
-      "options": {
-        "option1": "Soybean",
-        "opt5": "Groundnut",
-        "option2": "Mustard",
-        "option3": "Sunflower"
-      }
-    },
-    {
-      "question": "Which Indian state is known for its extensive use of drip irrigation?",
-      "options": {
-        "opt1": "Punjab",
-        "opt2": "Haryana",
-        "opt5": "Maharashtra",
-        "opt3": "Karnataka"
-      }
-    },
-    {
-      "question": "Does India export more spices than any other country?",
-      "options": {
-        "option1": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "Which state is the largest producer of rubber in India?",
-      "options": {
-        "option1": "Assam",
-        "opt5": "Kerala",
-        "option2": "Tamil Nadu",
-        "option3": "Karnataka"
-      }
-    },
-    {
-      "question": "Is the ICAR the apex body for coordinating, guiding, and managing research and education in agriculture in India?",
-      "options": {
-        "opt5": "Yes",
-        "option1": "No"
-      }
-    },
-    {
-      "question": "What is the primary product of horticulture in India?",
-      "options": {
-        "option1": "Flowers",
-        "opt5": "Fruits",
-        "option2": "Vegetables",
-        "option3": "Spices"
-      }
-    },
-    {
-      "question": "Which crop is associated with the Kharif season?",
-      "options": {
-        "option1": "Wheat",
-        "option2": "Barley",
-        "option3": "Mustard",
-        "opt5": "Rice"
-      }
-    },
-    {
-      "question": "True or False: The National Agricultural Policy of India was announced in 2000.",
-      "options": {
-        "option1": "False",
-        "opt5": "True"
-      }
-    },
-    {
-      "question": "Which state in India has the largest area under forest cover?",
-      "options": {
-        "option1": "Uttar Pradesh",
-        "opt5": "Madhya Pradesh",
-        "option2": "Arunachal Pradesh",
-        "option3": "Odisha"
-      }
-    },
-    {
-      "question": "Which of the following is a significant agricultural export from India?",
-      "options": {
-        "option1": "Wheat",
-        "option2": "Barley",
-        "opt5": "Basmati Rice",
-        "option3": "Corn"
-      }
-    },
-    {
-      "question": "Which type of farming is practiced in areas with limited rainfall in India?",
-      "options": {
-        "option1": "Wet Farming",
-        "opt5": "Dry Farming",
-        "option2": "Mixed Farming",
-        "option3": "Shifting Farming"
-      }
-    },
-    {
-      "question": "Does India rank first in the world in terms of arable land?",
-      "options": {
-        "opt5": "Yes",
-        "option1": "No"
-      }
-    },
-    {
-      "question": "Which Indian state is the leading producer of sugarcane?",
-      "options": {
-        "opt5": "Uttar Pradesh",
-        "option1": "Maharashtra",
-        "option2": "Tamil Nadu",
-        "option3": "Bihar"
-      }
-    },
-    {
-      "question": "Which crop is primarily grown in the Deccan Plateau?",
-      "options": {
-        "option1": "Rice",
-        "option2": "Tea",
-        "opt5": "Cotton",
-        "option3": "Wheat"
-      }
-    },
-    {
-      "question": "Which of the following is a primary factor for the Green Revolution in India?",
-      "options": {
-        "opt1": "Mechanization of Agriculture",
-        "opt5": "High Yielding Variety Seeds",
-        "opt2": "Pesticides",
-        "opt3": "Irrigation Projects"
-      }
-    },
-    {
-      "question": "True or False: India is the second-largest producer of silk in the world.",
-      "options": {
-        "option1": "True",
-        "opt5": "False"
-      }
-    }
-  ]
+    ]
+  }
 }

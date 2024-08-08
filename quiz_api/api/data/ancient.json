@@ -1,432 +1,435 @@
 {
-  "level1": [
-    {
-      "question": "Who was the founder of the Maurya Dynasty?",
-      "options": {
-        "opt5": "Chandragupta Maurya",
-        "tajhg": "Ashoka the Great",
-        "xycd": "Bindusara",
-        "xyz": "Chandragupta II"
+  "topic": "Ancient India",
+  "levels":{
+    "level1": [
+      {
+        "question": "Who was the founder of the Maurya Dynasty?",
+        "options": {
+          "opt5": "Chandragupta Maurya",
+          "tajhg": "Ashoka the Great",
+          "xycd": "Bindusara",
+          "xyz": "Chandragupta II"
+        }
+      },
+      {
+        "question": "The Indus Valley Civilization is also known as the:",
+        "options": {
+          "tag": "Vedic Civilization",
+          "inc": "Mohenjo-Daro Civilization",
+          "opt5": "Harappan Civilization",
+          "abc": "Aryan Civilization"
+        }
+      },
+      {
+        "question": "True or False: The Ashokan Edicts were written in Greek and Latin.",
+        "options": {
+          "opt5": "False",
+          "xycd": "True"
+        }
+      },
+      {
+        "question": "Who was the famous Chinese traveler who visited India during the Gupta period?",
+        "options": {
+          "abc": "Fa-Hien",
+          "opt5": "Hiuen Tsang",
+          "tag": "I-Tsing",
+          "xyz": "Marco Polo"
+        }
+      },
+      {
+        "question": "Was the Rigveda composed before or after the Mahabharata?",
+        "options": {
+          "opt5": "Before",
+          "xyz": "After"
+        }
+      },
+      {
+        "question": "Which king is known for his rock-cut temples at Ajanta?",
+        "options": {
+          "xycd": "Harsha",
+          "tajhg": "Ashoka",
+          "opt5": "Vakataka King",
+          "inc": "Chandragupta II"
+        }
+      },
+      {
+        "question": "In which era was the Chola dynasty most prominent?",
+        "options": {
+          "xyz": "Ancient",
+          "tag": "Medieval",
+          "opt5": "Early Medieval",
+          "abc": "Modern"
+        }
+      },
+      {
+        "question": "Who was the last ruler of the Maurya Dynasty?",
+        "options": {
+          "abc": "Chandragupta Maurya",
+          "tag": "Bindusara",
+          "xyz": "Ashoka the Great",
+          "opt5": "Brihadratha"
+        }
+      },
+      {
+        "question": "True or False: The Rigveda is one of the oldest known scriptures in the world.",
+        "options": {
+          "opt5": "True",
+          "tajhg": "False"
+        }
+      },
+      {
+        "question": "Which empire succeeded the Mauryan Empire?",
+        "options": {
+          "xyz": "Kushan Empire",
+          "opt5": "Shunga Empire",
+          "tag": "Gupta Empire",
+          "abc": "Chola Empire"
+        }
+      },
+      {
+        "question": "Who is known as the 'Napoleon of India'?",
+        "options": {
+          "opt5": "Samudragupta",
+          "tag": "Ashoka",
+          "xyz": "Chandragupta Maurya",
+          "abc": "Harsha"
+        }
+      },
+      {
+        "question": "The famous 'Sarnath Pillar' was erected by which ruler?",
+        "options": {
+          "abc": "Chandragupta",
+          "xyz": "Ashoka",
+          "opt5": "Ashoka",
+          "tag": "Samudragupta"
+        }
+      },
+      {
+        "question": "Which ancient Indian text is known for its extensive discussion on astronomy?",
+        "options": {
+          "opt5": "Surya Siddhanta",
+          "xycd": "Arthashastra",
+          "abc": "Manusmriti",
+          "tag": "Vedas"
+        }
+      },
+      {
+        "question": "Was the Gupta period known for its contributions to art and culture?",
+        "options": {
+          "opt5": "Yes",
+          "xycd": "No"
+        }
+      },
+      {
+        "question": "Who was the famous queen of the Chola Dynasty?",
+        "options": {
+          "abc": "Rani Chennamma",
+          "xyz": "Rani Durgavati",
+          "tag": "Queen of Jhansi",
+          "opt5": "Sembiyan Mahadevi"
+        }
+      },
+      {
+        "question": "Which Mauryan ruler is known for his policy of Dhamma?",
+        "options": {
+          "opt5": "Ashoka",
+          "xyz": "Chandragupta Maurya",
+          "tag": "Bindusara",
+          "abc": "Brihadratha"
+        }
+      },
+      {
+        "question": "True or False: The Chalukyas ruled over South India from the 6th to 12th centuries AD.",
+        "options": {
+          "opt5": "True",
+          "xycd": "False"
+        }
+      },
+      {
+        "question": "Who is considered the 'Father of Indian History' for his historical accounts of Ancient India?",
+        "options": {
+          "xyz": "Megasthenes",
+          "tag": "Kautilya",
+          "opt5": "Herodotus",
+          "abc": "Kalidasa"
+        }
+      },
+      {
+        "question": "The famous ancient city of Mohenjo-Daro was part of which civilization?",
+        "options": {
+          "abc": "Vedic Civilization",
+          "opt5": "Indus Valley Civilization",
+          "tag": "Aryan Civilization",
+          "xyz": "Mauryan Civilization"
+        }
+      },
+      {
+        "question": "Which famous ancient Indian emperor's rule is marked by the construction of the Edicts of Ashoka?",
+        "options": {
+          "opt5": "Ashoka",
+          "xyz": "Bindusar",
+          "abc": "Chandragupta Maurya",
+          "tag": "Samudragupta"
+        }
+      },
+      {
+        "question": "Who was the author of 'Arthashastra'?",
+        "options": {
+          "xyz": "Chanakya",
+          "opt5": "Kautilya",
+          "tag": "Kalidasa",
+          "abc": "Bhasa"
+        }
+      },
+      {
+        "question": "True or False: The Brahmi script was used during the time of Ashoka the Great.",
+        "options": {
+          "opt5": "True",
+          "tag": "False"
+        }
+      },
+      {
+        "question": "In which ancient Indian text would you find the 'Chandogya Upanishad'?",
+        "options": {
+          "xyz": "Mahabharata",
+          "abc": "Puranas",
+          "opt5": "Vedas",
+          "tag": "Ramayana"
+        }
+      },
+      {
+        "question": "Which dynasty is known for its contributions to Sanskrit literature, particularly the 'Kumarasambhava'?",
+        "options": {
+          "abc": "Nanda Dynasty",
+          "xyz": "Gupta Dynasty",
+          "tag": "Maurya Dynasty",
+          "opt5": "Chola Dynasty"
+        }
+      },
+      {
+        "question": "Who was the first Maurya emperor to rule over India?",
+        "options": {
+          "jhg": "Ashoka",
+          "xyz": "Bindusar",
+          "opt5": "Chandragupta Maurya",
+          "tag": "Samudragupta"
+        }
+      },
+      {
+        "question": "Which ruler is known for his patronage of the famous Buddhist university at Nalanda?",
+        "options": {
+          "abc": "Chandragupta Maurya",
+          "opt5": "Kumaragupta I",
+          "tag": "Harsha",
+          "xyz": "Ashoka"
+        }
+      },
+      {
+        "question": "Which ancient Indian text provides a detailed account of various types of dance and music?",
+        "options": {
+          "opt5": "Natya Shastra",
+          "tag": "Manusmriti",
+          "xyz": "Arthashastra",
+          "abc": "Mahabharata"
+        }
+      },
+      {
+        "question": "True or False: The Mahajanapadas were sixteen kingdoms or republics in ancient India.",
+        "options": {
+          "opt5": "True",
+          "xycd": "False"
+        }
       }
-    },
-    {
-      "question": "The Indus Valley Civilization is also known as the:",
-      "options": {
-        "tag": "Vedic Civilization",
-        "inc": "Mohenjo-Daro Civilization",
-        "opt5": "Harappan Civilization",
-        "abc": "Aryan Civilization"
+    ],
+    "level2": [
+      {
+        "question": "Which Mauryan ruler is known for his patronage of Buddhism and the spread of its teachings?",
+        "options": {
+          "xyz": "Chandragupta Maurya",
+          "opt5": "Ashoka",
+          "tag": "Bindusara",
+          "abc": "Brihadratha"
+        }
+      },
+      {
+        "question": "Who was the famous Greek ambassador to the Mauryan court of Chandragupta Maurya?",
+        "options": {
+          "tag": "Herodotus",
+          "xyz": "Strabo",
+          "opt5": "Megasthenes",
+          "abc": "Aristotle"
+        }
+      },
+      {
+        "question": "True or False: The Vedic period is also known as the Vedic Age.",
+        "options": {
+          "opt5": "True",
+          "xycd": "False"
+        }
+      },
+      {
+        "question": "Which ancient Indian king is celebrated for his contributions to the growth of Hinduism and his support for the arts?",
+        "options": {
+          "xyz": "Ashoka",
+          "abc": "Harsha",
+          "opt5": "Chandragupta II",
+          "tag": "Samudragupta"
+        }
+      },
+      {
+        "question": "Which of the following texts is considered a major source of information on ancient Indian political and economic theory?",
+        "options": {
+          "tag": "Mahabharata",
+          "opt5": "Arthashastra",
+          "xyz": "Bhagavad Gita",
+          "abc": "Ramayana"
+        }
+      },
+      {
+        "question": "The famous rock-cut temples at Ellora were created during which dynasty's reign?",
+        "options": {
+          "opt5": "Rashtrakuta",
+          "xyz": "Maurya",
+          "abc": "Gupta",
+          "tag": "Chola"
+        }
+      },
+      {
+        "question": "Who was the founder of the Gupta Empire?",
+        "options": {
+          "tag": "Samudragupta",
+          "opt5": "Chandragupta I",
+          "xyz": "Chandragupta Maurya",
+          "abc": "Ashoka"
+        }
+      },
+      {
+        "question": "Was the Brahmi script used for inscriptions during the Mauryan period?",
+        "options": {
+          "opt5": "Yes",
+          "xycd": "No"
+        }
+      },
+      {
+        "question": "Which text is known as the most ancient Sanskrit literature and is a primary text of the Vedic literature?",
+        "options": {
+          "xyz": "Upanishads",
+          "tag": "Mahabharata",
+          "opt5": "Rigveda",
+          "abc": "Ramayana"
+        }
+      },
+      {
+        "question": "True or False: The Gupta Empire is known as the Golden Age of India.",
+        "options": {
+          "opt5": "True",
+          "tag": "False"
+        }
+      },
+      {
+        "question": "Who is considered the author of the famous work 'Kalidasa'?",
+        "options": {
+          "xyz": "Bhasa",
+          "abc": "Kautilya",
+          "opt5": "Kalidasa",
+          "tag": "Vishnu Sharma"
+        }
+      },
+      {
+        "question": "The famous 'Siddhartha' is a work associated with which of the following ancient Indian figures?",
+        "options": {
+          "opt5": "Gautama Buddha",
+          "xyz": "Chandragupta",
+          "tag": "Ashoka",
+          "abc": "Kalidasa"
+        }
+      },
+      {
+        "question": "Who was the ruler of the Chola Dynasty during its peak of power and influence?",
+        "options": {
+          "xyz": "Rajendra Chola I",
+          "opt5": "Raja Raja Chola I",
+          "tag": "Rajadhiraja Chola I",
+          "abc": "Vijayanagara Chola"
+        }
+      },
+      {
+        "question": "True or False: The Vedic texts were composed in the Tamil language.",
+        "options": {
+          "opt5": "False",
+          "tag": "True"
+        }
+      },
+      {
+        "question": "Which empire is known for its contribution to the development of the decimal system and zero?",
+        "options": {
+          "abc": "Maurya Empire",
+          "tag": "Rashtrakut Empire",
+          "opt5": "Gupta Empire",
+          "xyz": "Chola Empire"
+        }
+      },
+      {
+        "question": "Who was the famous Chola king known for his naval expeditions and conquests in Southeast Asia?",
+        "options": {
+          "opt5": "Rajendra Chola I",
+          "tag": "Raja Raja Chola I",
+          "xyz": "Vijayanagara Chola",
+          "abc": "Rajadhiraja Chola"
+        }
+      },
+      {
+        "question": "Which king is known for his defeat of Alexander the Great’s successor in India?",
+        "options": {
+          "tag": "Bindusara",
+          "opt5": "Chandragupta Maurya",
+          "xyz": "Ashoka",
+          "abc": "Samudragupta"
+        }
+      },
+      {
+        "question": "The famous 'Siddhartha' work was written in which language?",
+        "options": {
+          "xyz": "Sanskrit",
+          "opt5": "Pali",
+          "tag": "Tamil",
+          "abc": "Prakrit"
+        }
+      },
+      {
+        "question": "True or False: The Vedic Period followed the Indus Valley Civilization.",
+        "options": {
+          "opt5": "True",
+          "tag": "False"
+        }
+      },
+      {
+        "question": "Which ancient Indian emperor was known for his support of Jainism and had his edicts inscribed in multiple languages?",
+        "options": {
+          "abc": "Ashoka",
+          "xyz": "Chandragupta Maurya",
+          "tag": "Samudragupta",
+          "opt5": "Ashoka"
+        }
+      },
+      {
+        "question": "The ancient city of Taxila was an important center for which of the following?",
+        "options": {
+          "opt5": "Education and Learning",
+          "xyz": "Trade and Commerce",
+          "tag": "Military Training",
+          "abc": "Religious Pilgrimage"
+        }
+      },
+      {
+        "question": "Which text is known for its detailed description of dance and drama in ancient India?",
+        "options": {
+          "tag": "Vedas",
+          "opt5": "Natya Shastra",
+          "xyz": "Manusmriti",
+          "abc": "Mahabharata"
+        }
       }
-    },
-    {
-      "question": "True or False: The Ashokan Edicts were written in Greek and Latin.",
-      "options": {
-        "opt5": "False",
-        "xycd": "True"
-      }
-    },
-    {
-      "question": "Who was the famous Chinese traveler who visited India during the Gupta period?",
-      "options": {
-        "abc": "Fa-Hien",
-        "opt5": "Hiuen Tsang",
-        "tag": "I-Tsing",
-        "xyz": "Marco Polo"
-      }
-    },
-    {
-      "question": "Was the Rigveda composed before or after the Mahabharata?",
-      "options": {
-        "opt5": "Before",
-        "xyz": "After"
-      }
-    },
-    {
-      "question": "Which king is known for his rock-cut temples at Ajanta?",
-      "options": {
-        "xycd": "Harsha",
-        "tajhg": "Ashoka",
-        "opt5": "Vakataka King",
-        "inc": "Chandragupta II"
-      }
-    },
-    {
-      "question": "In which era was the Chola dynasty most prominent?",
-      "options": {
-        "xyz": "Ancient",
-        "tag": "Medieval",
-        "opt5": "Early Medieval",
-        "abc": "Modern"
-      }
-    },
-    {
-      "question": "Who was the last ruler of the Maurya Dynasty?",
-      "options": {
-        "abc": "Chandragupta Maurya",
-        "tag": "Bindusara",
-        "xyz": "Ashoka the Great",
-        "opt5": "Brihadratha"
-      }
-    },
-    {
-      "question": "True or False: The Rigveda is one of the oldest known scriptures in the world.",
-      "options": {
-        "opt5": "True",
-        "tajhg": "False"
-      }
-    },
-    {
-      "question": "Which empire succeeded the Mauryan Empire?",
-      "options": {
-        "xyz": "Kushan Empire",
-        "opt5": "Shunga Empire",
-        "tag": "Gupta Empire",
-        "abc": "Chola Empire"
-      }
-    },
-    {
-      "question": "Who is known as the 'Napoleon of India'?",
-      "options": {
-        "opt5": "Samudragupta",
-        "tag": "Ashoka",
-        "xyz": "Chandragupta Maurya",
-        "abc": "Harsha"
-      }
-    },
-    {
-      "question": "The famous 'Sarnath Pillar' was erected by which ruler?",
-      "options": {
-        "abc": "Chandragupta",
-        "xyz": "Ashoka",
-        "opt5": "Ashoka",
-        "tag": "Samudragupta"
-      }
-    },
-    {
-      "question": "Which ancient Indian text is known for its extensive discussion on astronomy?",
-      "options": {
-        "opt5": "Surya Siddhanta",
-        "xycd": "Arthashastra",
-        "abc": "Manusmriti",
-        "tag": "Vedas"
-      }
-    },
-    {
-      "question": "Was the Gupta period known for its contributions to art and culture?",
-      "options": {
-        "opt5": "Yes",
-        "xycd": "No"
-      }
-    },
-    {
-      "question": "Who was the famous queen of the Chola Dynasty?",
-      "options": {
-        "abc": "Rani Chennamma",
-        "xyz": "Rani Durgavati",
-        "tag": "Queen of Jhansi",
-        "opt5": "Sembiyan Mahadevi"
-      }
-    },
-    {
-      "question": "Which Mauryan ruler is known for his policy of Dhamma?",
-      "options": {
-        "opt5": "Ashoka",
-        "xyz": "Chandragupta Maurya",
-        "tag": "Bindusara",
-        "abc": "Brihadratha"
-      }
-    },
-    {
-      "question": "True or False: The Chalukyas ruled over South India from the 6th to 12th centuries AD.",
-      "options": {
-        "opt5": "True",
-        "xycd": "False"
-      }
-    },
-    {
-      "question": "Who is considered the 'Father of Indian History' for his historical accounts of Ancient India?",
-      "options": {
-        "xyz": "Megasthenes",
-        "tag": "Kautilya",
-        "opt5": "Herodotus",
-        "abc": "Kalidasa"
-      }
-    },
-    {
-      "question": "The famous ancient city of Mohenjo-Daro was part of which civilization?",
-      "options": {
-        "abc": "Vedic Civilization",
-        "opt5": "Indus Valley Civilization",
-        "tag": "Aryan Civilization",
-        "xyz": "Mauryan Civilization"
-      }
-    },
-    {
-      "question": "Which famous ancient Indian emperor's rule is marked by the construction of the Edicts of Ashoka?",
-      "options": {
-        "opt5": "Ashoka",
-        "xyz": "Bindusar",
-        "abc": "Chandragupta Maurya",
-        "tag": "Samudragupta"
-      }
-    },
-    {
-      "question": "Who was the author of 'Arthashastra'?",
-      "options": {
-        "xyz": "Chanakya",
-        "opt5": "Kautilya",
-        "tag": "Kalidasa",
-        "abc": "Bhasa"
-      }
-    },
-    {
-      "question": "True or False: The Brahmi script was used during the time of Ashoka the Great.",
-      "options": {
-        "opt5": "True",
-        "tag": "False"
-      }
-    },
-    {
-      "question": "In which ancient Indian text would you find the 'Chandogya Upanishad'?",
-      "options": {
-        "xyz": "Mahabharata",
-        "abc": "Puranas",
-        "opt5": "Vedas",
-        "tag": "Ramayana"
-      }
-    },
-    {
-      "question": "Which dynasty is known for its contributions to Sanskrit literature, particularly the 'Kumarasambhava'?",
-      "options": {
-        "abc": "Nanda Dynasty",
-        "xyz": "Gupta Dynasty",
-        "tag": "Maurya Dynasty",
-        "opt5": "Chola Dynasty"
-      }
-    },
-    {
-      "question": "Who was the first Maurya emperor to rule over India?",
-      "options": {
-        "jhg": "Ashoka",
-        "xyz": "Bindusar",
-        "opt5": "Chandragupta Maurya",
-        "tag": "Samudragupta"
-      }
-    },
-    {
-      "question": "Which ruler is known for his patronage of the famous Buddhist university at Nalanda?",
-      "options": {
-        "abc": "Chandragupta Maurya",
-        "opt5": "Kumaragupta I",
-        "tag": "Harsha",
-        "xyz": "Ashoka"
-      }
-    },
-    {
-      "question": "Which ancient Indian text provides a detailed account of various types of dance and music?",
-      "options": {
-        "opt5": "Natya Shastra",
-        "tag": "Manusmriti",
-        "xyz": "Arthashastra",
-        "abc": "Mahabharata"
-      }
-    },
-    {
-      "question": "True or False: The Mahajanapadas were sixteen kingdoms or republics in ancient India.",
-      "options": {
-        "opt5": "True",
-        "xycd": "False"
-      }
-    }
-  ],
-  "level2": [
-    {
-      "question": "Which Mauryan ruler is known for his patronage of Buddhism and the spread of its teachings?",
-      "options": {
-        "xyz": "Chandragupta Maurya",
-        "opt5": "Ashoka",
-        "tag": "Bindusara",
-        "abc": "Brihadratha"
-      }
-    },
-    {
-      "question": "Who was the famous Greek ambassador to the Mauryan court of Chandragupta Maurya?",
-      "options": {
-        "tag": "Herodotus",
-        "xyz": "Strabo",
-        "opt5": "Megasthenes",
-        "abc": "Aristotle"
-      }
-    },
-    {
-      "question": "True or False: The Vedic period is also known as the Vedic Age.",
-      "options": {
-        "opt5": "True",
-        "xycd": "False"
-      }
-    },
-    {
-      "question": "Which ancient Indian king is celebrated for his contributions to the growth of Hinduism and his support for the arts?",
-      "options": {
-        "xyz": "Ashoka",
-        "abc": "Harsha",
-        "opt5": "Chandragupta II",
-        "tag": "Samudragupta"
-      }
-    },
-    {
-      "question": "Which of the following texts is considered a major source of information on ancient Indian political and economic theory?",
-      "options": {
-        "tag": "Mahabharata",
-        "opt5": "Arthashastra",
-        "xyz": "Bhagavad Gita",
-        "abc": "Ramayana"
-      }
-    },
-    {
-      "question": "The famous rock-cut temples at Ellora were created during which dynasty's reign?",
-      "options": {
-        "opt5": "Rashtrakuta",
-        "xyz": "Maurya",
-        "abc": "Gupta",
-        "tag": "Chola"
-      }
-    },
-    {
-      "question": "Who was the founder of the Gupta Empire?",
-      "options": {
-        "tag": "Samudragupta",
-        "opt5": "Chandragupta I",
-        "xyz": "Chandragupta Maurya",
-        "abc": "Ashoka"
-      }
-    },
-    {
-      "question": "Was the Brahmi script used for inscriptions during the Mauryan period?",
-      "options": {
-        "opt5": "Yes",
-        "xycd": "No"
-      }
-    },
-    {
-      "question": "Which text is known as the most ancient Sanskrit literature and is a primary text of the Vedic literature?",
-      "options": {
-        "xyz": "Upanishads",
-        "tag": "Mahabharata",
-        "opt5": "Rigveda",
-        "abc": "Ramayana"
-      }
-    },
-    {
-      "question": "True or False: The Gupta Empire is known as the Golden Age of India.",
-      "options": {
-        "opt5": "True",
-        "tag": "False"
-      }
-    },
-    {
-      "question": "Who is considered the author of the famous work 'Kalidasa'?",
-      "options": {
-        "xyz": "Bhasa",
-        "abc": "Kautilya",
-        "opt5": "Kalidasa",
-        "tag": "Vishnu Sharma"
-      }
-    },
-    {
-      "question": "The famous 'Siddhartha' is a work associated with which of the following ancient Indian figures?",
-      "options": {
-        "opt5": "Gautama Buddha",
-        "xyz": "Chandragupta",
-        "tag": "Ashoka",
-        "abc": "Kalidasa"
-      }
-    },
-    {
-      "question": "Who was the ruler of the Chola Dynasty during its peak of power and influence?",
-      "options": {
-        "xyz": "Rajendra Chola I",
-        "opt5": "Raja Raja Chola I",
-        "tag": "Rajadhiraja Chola I",
-        "abc": "Vijayanagara Chola"
-      }
-    },
-    {
-      "question": "True or False: The Vedic texts were composed in the Tamil language.",
-      "options": {
-        "opt5": "False",
-        "tag": "True"
-      }
-    },
-    {
-      "question": "Which empire is known for its contribution to the development of the decimal system and zero?",
-      "options": {
-        "abc": "Maurya Empire",
-        "tag": "Rashtrakut Empire",
-        "opt5": "Gupta Empire",
-        "xyz": "Chola Empire"
-      }
-    },
-    {
-      "question": "Who was the famous Chola king known for his naval expeditions and conquests in Southeast Asia?",
-      "options": {
-        "opt5": "Rajendra Chola I",
-        "tag": "Raja Raja Chola I",
-        "xyz": "Vijayanagara Chola",
-        "abc": "Rajadhiraja Chola"
-      }
-    },
-    {
-      "question": "Which king is known for his defeat of Alexander the Great’s successor in India?",
-      "options": {
-        "tag": "Bindusara",
-        "opt5": "Chandragupta Maurya",
-        "xyz": "Ashoka",
-        "abc": "Samudragupta"
-      }
-    },
-    {
-      "question": "The famous 'Siddhartha' work was written in which language?",
-      "options": {
-        "xyz": "Sanskrit",
-        "opt5": "Pali",
-        "tag": "Tamil",
-        "abc": "Prakrit"
-      }
-    },
-    {
-      "question": "True or False: The Vedic Period followed the Indus Valley Civilization.",
-      "options": {
-        "opt5": "True",
-        "tag": "False"
-      }
-    },
-    {
-      "question": "Which ancient Indian emperor was known for his support of Jainism and had his edicts inscribed in multiple languages?",
-      "options": {
-        "abc": "Ashoka",
-        "xyz": "Chandragupta Maurya",
-        "tag": "Samudragupta",
-        "opt5": "Ashoka"
-      }
-    },
-    {
-      "question": "The ancient city of Taxila was an important center for which of the following?",
-      "options": {
-        "opt5": "Education and Learning",
-        "xyz": "Trade and Commerce",
-        "tag": "Military Training",
-        "abc": "Religious Pilgrimage"
-      }
-    },
-    {
-      "question": "Which text is known for its detailed description of dance and drama in ancient India?",
-      "options": {
-        "tag": "Vedas",
-        "opt5": "Natya Shastra",
-        "xyz": "Manusmriti",
-        "abc": "Mahabharata"
-      }
-    }
-  ]
+    ]
+  }
 }

@@ -1,252 +1,255 @@
 {
-  "level1": [
-    {
-      "question": "Who is the author of 'Yoga Sutras'?",
-      "options": {
-        "kjb": "Vyasa",
-        "mns": "Bhartrihari",
-        "opt5": "Patanjali",
-        "vbj": "Vashistha"
+  "topic": "Philosophy",
+  "levels":{
+    "level1": [
+      {
+        "question": "Who is the author of 'Yoga Sutras'?",
+        "options": {
+          "kjb": "Vyasa",
+          "mns": "Bhartrihari",
+          "opt5": "Patanjali",
+          "vbj": "Vashistha"
+        }
+      },
+      {
+        "question": "True or False: Adi Shankaracharya propagated Advaita Vedanta.",
+        "options": {
+          "opt5": "True",
+          "tag": "False"
+        }
+      },
+      {
+        "question": "Does Jainism believe in the concept of a Creator God?",
+        "options": {
+          "xycd": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "Which Indian philosopher is known for his contributions to non-dualism or Advaita?",
+        "options": {
+          "qwe": "Ramanuja",
+          "opt5": "Shankaracharya",
+          "asd": "Madhva",
+          "zxc": "Nagarjuna"
+        }
+      },
+      {
+        "question": "Who wrote 'Nyaya Sutras'?",
+        "options": {
+          "abc": "Gautama",
+          "def": "Vatsyayana",
+          "ghi": "Kapila",
+          "opt5": "Akshapada"
+        }
+      },
+      {
+        "question": "True or False: The Bhagavad Gita is part of the Mahabharata.",
+        "options": {
+          "opt5": "True",
+          "tag": "False"
+        }
+      },
+      {
+        "question": "Does the Charvaka school believe in the authority of the Vedas?",
+        "options": {
+          "xycd": "Yes",
+          "opt5": "No"
+        }
+      },
+      {
+        "question": "Which is the central text of Buddhism?",
+        "options": {
+          "qwe": "Bhagavad Gita",
+          "opt5": "Tripitaka",
+          "asd": "Mahabharata",
+          "zxc": "Ramayana"
+        }
+      },
+      {
+        "question": "Which school of Indian philosophy is primarily atheistic?",
+        "options": {
+          "abc": "Samkhya",
+          "def": "Yoga",
+          "ghi": "Vedanta",
+          "opt5": "Charvaka"
+        }
+      },
+      {
+        "question": "Who is known for the theory of the four noble truths?",
+        "options": {
+          "abc": "Confucius",
+          "ghi": "Mahavira",
+          "opt5": "Buddha",
+          "def": "Laozi"
+        }
+      },
+      {
+        "question": "True or False: The Mimamsa school focuses on the interpretation of the Vedas.",
+        "options": {
+          "opt5": "True",
+          "tag": "False"
+        }
+      },
+      {
+        "question": "Does Vedanta philosophy believe in Brahman as the ultimate reality?",
+        "options": {
+          "xycd": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "Who is the founder of Buddhism?",
+        "options": {
+          "opt5": "Siddhartha Gautama",
+          "qwe": "Mahavira",
+          "asd": "Adi Shankara",
+          "zxc": "Chanakya"
+        }
+      },
+      {
+        "question": "Which Indian philosophy focuses on logic and epistemology?",
+        "options": {
+          "abc": "Samkhya",
+          "opt5": "Nyaya",
+          "ghi": "Vaisheshika",
+          "def": "Yoga"
+        }
+      },
+      {
+        "question": "True or False: Samkhya philosophy accepts the existence of God.",
+        "options": {
+          "opt5": "False",
+          "tag": "True"
+        }
+      },
+      {
+        "question": "Who wrote the 'Arthashastra'?",
+        "options": {
+          "xycd": "Kautilya",
+          "zxc": "Bhishma",
+          "opt5": "Chanakya",
+          "asd": "Vyasa"
+        }
+      },
+      {
+        "question": "Which is the main text of Jainism?",
+        "options": {
+          "qwe": "Rig Veda",
+          "opt5": "Agamas",
+          "asd": "Upanishads",
+          "zxc": "Ramayana"
+        }
+      },
+      {
+        "question": "Which of these is a primary text of Confucianism?",
+        "options": {
+          "abc": "Tripitaka",
+          "def": "Vedas",
+          "opt5": "Analects",
+          "ghi": "Dao De Jing"
+        }
+      },
+      {
+        "question": "Which concept refers to the ultimate reality in Buddhism?",
+        "options": {
+          "opt5": "Nirvana",
+          "def": "Atman",
+          "ghi": "Brahman",
+          "abc": "Moksha"
+        }
+      },
+      {
+        "question": "True or False: The Tao Te Ching is associated with Confucianism.",
+        "options": {
+          "opt5": "False",
+          "tag": "True"
+        }
+      },
+      {
+        "question": "Who is considered the founder of Taoism?",
+        "options": {
+          "xycd": "Confucius",
+          "opt5": "Laozi",
+          "zxc": "Mencius",
+          "asd": "Zhuangzi"
+        }
+      },
+      {
+        "question": "Does existentialism focus on the meaning and purpose of life?",
+        "options": {
+          "opt5": "Yes",
+          "xycd": "No"
+        }
+      },
+      {
+        "question": "Which philosopher is known for the idea of the 'categorical imperative'?",
+        "options": {
+          "abc": "Plato",
+          "ghi": "Aristotle",
+          "opt5": "Immanuel Kant",
+          "def": "Descartes"
+        }
+      },
+      {
+        "question": "Which philosopher is associated with the allegory of the cave?",
+        "options": {
+          "qwe": "Aristotle",
+          "asd": "Socrates",
+          "zxc": "Pythagoras",
+          "opt5": "Plato"
+        }
+      },
+      {
+        "question": "True or False: John Locke is known for his theory of empiricism.",
+        "options": {
+          "opt5": "True",
+          "tag": "False"
+        }
+      },
+      {
+        "question": "Who wrote 'Being and Nothingness'?",
+        "options": {
+          "def": "Friedrich Nietzsche",
+          "ghi": "Martin Heidegger",
+          "opt5": "Jean-Paul Sartre",
+          "abc": "Albert Camus"
+        }
+      },
+      {
+        "question": "Which philosopher developed the concept of the 'will to power'?",
+        "options": {
+          "qwe": "Søren Kierkegaard",
+          "opt5": "Friedrich Nietzsche",
+          "asd": "Jean-Paul Sartre",
+          "zxc": "Albert Camus"
+        }
+      },
+      {
+        "question": "True or False: Aristotle was a student of Plato.",
+        "options": {
+          "opt5": "True",
+          "tag": "False"
+        }
+      },
+      {
+        "question": "Which work is associated with Friedrich Nietzsche?",
+        "options": {
+          "xycd": "The Republic",
+          "opt5": "Thus Spoke Zarathustra",
+          "zxc": "Critique of Pure Reason",
+          "asd": "Being and Time"
+        }
+      },
+      {
+        "question": "Who is known for the idea of 'I think, therefore I am'?",
+        "options": {
+          "abc": "Immanuel Kant",
+          "def": "David Hume",
+          "ghi": "John Locke",
+          "opt5": "René Descartes"
+        }
       }
-    },
-    {
-      "question": "True or False: Adi Shankaracharya propagated Advaita Vedanta.",
-      "options": {
-        "opt5": "True",
-        "tag": "False"
-      }
-    },
-    {
-      "question": "Does Jainism believe in the concept of a Creator God?",
-      "options": {
-        "xycd": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "Which Indian philosopher is known for his contributions to non-dualism or Advaita?",
-      "options": {
-        "qwe": "Ramanuja",
-        "opt5": "Shankaracharya",
-        "asd": "Madhva",
-        "zxc": "Nagarjuna"
-      }
-    },
-    {
-      "question": "Who wrote 'Nyaya Sutras'?",
-      "options": {
-        "abc": "Gautama",
-        "def": "Vatsyayana",
-        "ghi": "Kapila",
-        "opt5": "Akshapada"
-      }
-    },
-    {
-      "question": "True or False: The Bhagavad Gita is part of the Mahabharata.",
-      "options": {
-        "opt5": "True",
-        "tag": "False"
-      }
-    },
-    {
-      "question": "Does the Charvaka school believe in the authority of the Vedas?",
-      "options": {
-        "xycd": "Yes",
-        "opt5": "No"
-      }
-    },
-    {
-      "question": "Which is the central text of Buddhism?",
-      "options": {
-        "qwe": "Bhagavad Gita",
-        "opt5": "Tripitaka",
-        "asd": "Mahabharata",
-        "zxc": "Ramayana"
-      }
-    },
-    {
-      "question": "Which school of Indian philosophy is primarily atheistic?",
-      "options": {
-        "abc": "Samkhya",
-        "def": "Yoga",
-        "ghi": "Vedanta",
-        "opt5": "Charvaka"
-      }
-    },
-    {
-      "question": "Who is known for the theory of the four noble truths?",
-      "options": {
-        "abc": "Confucius",
-        "ghi": "Mahavira",
-        "opt5": "Buddha",
-        "def": "Laozi"
-      }
-    },
-    {
-      "question": "True or False: The Mimamsa school focuses on the interpretation of the Vedas.",
-      "options": {
-        "opt5": "True",
-        "tag": "False"
-      }
-    },
-    {
-      "question": "Does Vedanta philosophy believe in Brahman as the ultimate reality?",
-      "options": {
-        "xycd": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "Who is the founder of Buddhism?",
-      "options": {
-        "opt5": "Siddhartha Gautama",
-        "qwe": "Mahavira",
-        "asd": "Adi Shankara",
-        "zxc": "Chanakya"
-      }
-    },
-    {
-      "question": "Which Indian philosophy focuses on logic and epistemology?",
-      "options": {
-        "abc": "Samkhya",
-        "opt5": "Nyaya",
-        "ghi": "Vaisheshika",
-        "def": "Yoga"
-      }
-    },
-    {
-      "question": "True or False: Samkhya philosophy accepts the existence of God.",
-      "options": {
-        "opt5": "False",
-        "tag": "True"
-      }
-    },
-    {
-      "question": "Who wrote the 'Arthashastra'?",
-      "options": {
-        "xycd": "Kautilya",
-        "zxc": "Bhishma",
-        "opt5": "Chanakya",
-        "asd": "Vyasa"
-      }
-    },
-    {
-      "question": "Which is the main text of Jainism?",
-      "options": {
-        "qwe": "Rig Veda",
-        "opt5": "Agamas",
-        "asd": "Upanishads",
-        "zxc": "Ramayana"
-      }
-    },
-    {
-      "question": "Which of these is a primary text of Confucianism?",
-      "options": {
-        "abc": "Tripitaka",
-        "def": "Vedas",
-        "opt5": "Analects",
-        "ghi": "Dao De Jing"
-      }
-    },
-    {
-      "question": "Which concept refers to the ultimate reality in Buddhism?",
-      "options": {
-        "opt5": "Nirvana",
-        "def": "Atman",
-        "ghi": "Brahman",
-        "abc": "Moksha"
-      }
-    },
-    {
-      "question": "True or False: The Tao Te Ching is associated with Confucianism.",
-      "options": {
-        "opt5": "False",
-        "tag": "True"
-      }
-    },
-    {
-      "question": "Who is considered the founder of Taoism?",
-      "options": {
-        "xycd": "Confucius",
-        "opt5": "Laozi",
-        "zxc": "Mencius",
-        "asd": "Zhuangzi"
-      }
-    },
-    {
-      "question": "Does existentialism focus on the meaning and purpose of life?",
-      "options": {
-        "opt5": "Yes",
-        "xycd": "No"
-      }
-    },
-    {
-      "question": "Which philosopher is known for the idea of the 'categorical imperative'?",
-      "options": {
-        "abc": "Plato",
-        "ghi": "Aristotle",
-        "opt5": "Immanuel Kant",
-        "def": "Descartes"
-      }
-    },
-    {
-      "question": "Which philosopher is associated with the allegory of the cave?",
-      "options": {
-        "qwe": "Aristotle",
-        "asd": "Socrates",
-        "zxc": "Pythagoras",
-        "opt5": "Plato"
-      }
-    },
-    {
-      "question": "True or False: John Locke is known for his theory of empiricism.",
-      "options": {
-        "opt5": "True",
-        "tag": "False"
-      }
-    },
-    {
-      "question": "Who wrote 'Being and Nothingness'?",
-      "options": {
-        "def": "Friedrich Nietzsche",
-        "ghi": "Martin Heidegger",
-        "opt5": "Jean-Paul Sartre",
-        "abc": "Albert Camus"
-      }
-    },
-    {
-      "question": "Which philosopher developed the concept of the 'will to power'?",
-      "options": {
-        "qwe": "Søren Kierkegaard",
-        "opt5": "Friedrich Nietzsche",
-        "asd": "Jean-Paul Sartre",
-        "zxc": "Albert Camus"
-      }
-    },
-    {
-      "question": "True or False: Aristotle was a student of Plato.",
-      "options": {
-        "opt5": "True",
-        "tag": "False"
-      }
-    },
-    {
-      "question": "Which work is associated with Friedrich Nietzsche?",
-      "options": {
-        "xycd": "The Republic",
-        "opt5": "Thus Spoke Zarathustra",
-        "zxc": "Critique of Pure Reason",
-        "asd": "Being and Time"
-      }
-    },
-    {
-      "question": "Who is known for the idea of 'I think, therefore I am'?",
-      "options": {
-        "abc": "Immanuel Kant",
-        "def": "David Hume",
-        "ghi": "John Locke",
-        "opt5": "René Descartes"
-      }
-    }
-  ]
+    ]
+  }
 }

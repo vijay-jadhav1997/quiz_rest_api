@@ -1,434 +1,437 @@
 {
-  "level1": [
-    {
-      "question": "Water is composed of which two elements?",
-      "options": {
-        "xyz": "Oxygen and Helium",
-        "abc": "Hydrogen and Carbon",
-        "def": "Oxygen and Nitrogen",
-        "opt5": "Hydrogen and Oxygen"
+  "topic": "Chemistry",
+  "levels":{
+    "level1": [
+      {
+        "question": "Water is composed of which two elements?",
+        "options": {
+          "xyz": "Oxygen and Helium",
+          "abc": "Hydrogen and Carbon",
+          "def": "Oxygen and Nitrogen",
+          "opt5": "Hydrogen and Oxygen"
+        }
+      },
+      {
+        "question": "What is the chemical symbol for Sodium?",
+        "options": {
+          "xyz": "S",
+          "opt5": "Na",
+          "abc": "N",
+          "def": "So"
+        }
+      },
+      {
+        "question": "Isotopes are atoms of the same element with different numbers of neutrons.",
+        "options": {
+          "opt5": "True",
+          "abc": "False"
+        }
+      },
+      {
+        "question": "What is the pH value of pure water?",
+        "options": {
+          "xyz": 5,
+          "abc": 6,
+          "opt5": 7,
+          "def": 8
+        }
+      },
+      {
+        "question": "Does the periodic table organize elements by increasing atomic number?",
+        "options": {
+          "xyz": "No",
+          "opt5": "Yes"
+        }
+      },
+      {
+        "question": "Which element has the highest electronegativity?",
+        "options": {
+          "opt5": "Fluorine",
+          "xyz": "Oxygen",
+          "abc": "Chlorine",
+          "def": "Nitrogen"
+        }
+      },
+      {
+        "question": "What is the chemical formula for Methane?",
+        "options": {
+          "xyz": "CH3",
+          "abc": "C2H6",
+          "opt5": "CH4",
+          "def": "C2H4"
+        }
+      },
+      {
+        "question": "What is the main component of natural gas?",
+        "options": {
+          "opt5": "Methane",
+          "xyz": "Ethane",
+          "abc": "Propane",
+          "def": "Butane"
+        }
+      },
+      {
+        "question": "Which of the following is an alkali metal?",
+        "options": {
+          "xyz": "Calcium",
+          "opt5": "Potassium",
+          "abc": "Magnesium",
+          "def": "Aluminum"
+        }
+      },
+      {
+        "question": "Is H2SO4 the chemical formula for sulfuric acid?",
+        "options": {
+          "opt5": "Yes",
+          "abc": "No"
+        }
+      },
+      {
+        "question": "What is the molecular mass of water (H2O)?",
+        "options": {
+          "xyz": 16,
+          "abc": 17,
+          "def": 20,
+          "opt5": 18
+        }
+      },
+      {
+        "question": "The atomic number of an element is determined by the number of?",
+        "options": {
+          "xyz": "Neutrons",
+          "opt5": "Protons",
+          "abc": "Electrons",
+          "def": "Nuclei"
+        }
+      },
+      {
+        "question": "Which gas is most abundant in the Earth's atmosphere?",
+        "options": {
+          "opt5": "Nitrogen",
+          "xyz": "Oxygen",
+          "abc": "Carbon Dioxide",
+          "def": "Hydrogen"
+        }
+      },
+      {
+        "question": "What is the common name for Sodium Chloride?",
+        "options": {
+          "xyz": "Baking Soda",
+          "abc": "Sugar",
+          "opt5": "Table Salt",
+          "def": "Vinegar"
+        }
+      },
+      {
+        "question": "Is the chemical formula for carbon dioxide CO2?",
+        "options": {
+          "opt5": "Yes",
+          "abc": "No"
+        }
+      },
+      {
+        "question": "What is the most abundant element in the universe?",
+        "options": {
+          "opt5": "Hydrogen",
+          "xyz": "Oxygen",
+          "abc": "Helium",
+          "def": "Carbon"
+        }
+      },
+      {
+        "question": "Which element is represented by the symbol 'Fe'?",
+        "options": {
+          "xyz": "Fluorine",
+          "abc": "Fermium",
+          "def": "Francium",
+          "opt5": "Iron"
+        }
+      },
+      {
+        "question": "Which acid is commonly found in the stomach?",
+        "options": {
+          "xyz": "Sulfuric Acid",
+          "opt5": "Hydrochloric Acid",
+          "abc": "Nitric Acid",
+          "def": "Acetic Acid"
+        }
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "options": {
+          "xyz": "Ag",
+          "opt5": "Au",
+          "abc": "Pb",
+          "def": "Gd"
+        }
+      },
+      {
+        "question": "The pH scale ranges from 0 to?",
+        "options": {
+          "opt5": 14,
+          "xyz": 12,
+          "abc": 10,
+          "def": 16
+        }
+      },
+      {
+        "question": "Which gas is produced during photosynthesis?",
+        "options": {
+          "xyz": "Carbon Dioxide",
+          "abc": "Nitrogen",
+          "opt5": "Oxygen",
+          "def": "Hydrogen"
+        }
+      },
+      {
+        "question": "Isotopes have the same number of protons but different numbers of neutrons.",
+        "options": {
+          "abc": "False",
+          "opt5": "True"
+        }
+      },
+      {
+        "question": "Which of the following is a noble gas?",
+        "options": {
+          "opt5": "Helium",
+          "xyz": "Hydrogen",
+          "abc": "Oxygen",
+          "def": "Nitrogen"
+        }
+      },
+      {
+        "question": "What is the chemical symbol for Lead?",
+        "options": {
+          "xyz": "Le",
+          "abc": "Ld",
+          "opt5": "Pb",
+          "def": "P"
+        }
+      },
+      {
+        "question": "Is NaCl an example of an ionic compound?",
+        "options": {
+          "opt5": "Yes",
+          "abc": "No"
+        }
       }
-    },
-    {
-      "question": "What is the chemical symbol for Sodium?",
-      "options": {
-        "xyz": "S",
-        "opt5": "Na",
-        "abc": "N",
-        "def": "So"
+    ],
+    "level2": [
+      {
+        "question": "What is the chemical formula for water?",
+        "options": {
+          "xyz": "H2O2",
+          "opt5": "H2O",
+          "abc": "HO",
+          "def": "OH2"
+        }
+      },
+      {
+        "question": "Which element is known as the 'King of Chemicals'?",
+        "options": {
+          "opt5": "Sulfuric Acid",
+          "xyz": "Nitric Acid",
+          "abc": "Hydrochloric Acid",
+          "def": "Acetic Acid"
+        }
+      },
+      {
+        "question": "Is the atomic number of carbon 6?",
+        "options": {
+          "opt5": "Yes",
+          "abc": "No"
+        }
+      },
+      {
+        "question": "Which element is a liquid at room temperature?",
+        "options": {
+          "xyz": "Iron",
+          "abc": "Copper",
+          "opt5": "Mercury",
+          "def": "Gold"
+        }
+      },
+      {
+        "question": "What is the main component of air?",
+        "options": {
+          "xyz": "Oxygen",
+          "opt5": "Nitrogen",
+          "abc": "Carbon Dioxide",
+          "def": "Argon"
+        }
+      },
+      {
+        "question": "What is the common name for H2O2?",
+        "options": {
+          "xyz": "Water",
+          "opt5": "Hydrogen Peroxide",
+          "abc": "Hydrochloric Acid",
+          "def": "Sodium Hydroxide"
+        }
+      },
+      {
+        "question": "Which element is used in balloons?",
+        "options": {
+          "opt5": "Helium",
+          "xyz": "Oxygen",
+          "abc": "Nitrogen",
+          "def": "Hydrogen"
+        }
+      },
+      {
+        "question": "Is the molecular formula for glucose C6H12O6?",
+        "options": {
+          "opt5": "Yes",
+          "abc": "No"
+        }
+      },
+      {
+        "question": "What is the chemical symbol for Silver?",
+        "options": {
+          "xyz": "Au",
+          "abc": "Si",
+          "def": "S",
+          "opt5": "Ag"
+        }
+      },
+      {
+        "question": "Which of the following is an inert gas?",
+        "options": {
+          "opt5": "Neon",
+          "xyz": "Oxygen",
+          "abc": "Hydrogen",
+          "def": "Nitrogen"
+        }
+      },
+      {
+        "question": "What is the main ingredient in bleach?",
+        "options": {
+          "xyz": "Hydrogen Peroxide",
+          "opt5": "Sodium Hypochlorite",
+          "abc": "Sodium Hydroxide",
+          "def": "Ammonia"
+        }
+      },
+      {
+        "question": "The atomic number represents the number of protons in an atom's nucleus.",
+        "options": {
+          "opt5": "True",
+          "abc": "False"
+        }
+      },
+      {
+        "question": "Which element is used in pencils?",
+        "options": {
+          "xyz": "Carbon",
+          "abc": "Graphite",
+          "opt5": "Graphite",
+          "def": "Lead"
+        }
+      },
+      {
+        "question": "Which gas is used in fire extinguishers?",
+        "options": {
+          "xyz": "Oxygen",
+          "opt5": "Carbon Dioxide",
+          "abc": "Nitrogen",
+          "def": "Helium"
+        }
+      },
+      {
+        "question": "Is the pH of a neutral solution 7?",
+        "options": {
+          "opt5": "Yes",
+          "abc": "No"
+        }
+      },
+      {
+        "question": "Which element is known as 'Quicksilver'?",
+        "options": {
+          "xyz": "Gold",
+          "opt5": "Mercury",
+          "abc": "Silver",
+          "def": "Lead"
+        }
+      },
+      {
+        "question": "Which metal is the best conductor of electricity?",
+        "options": {
+          "xyz": "Copper",
+          "abc": "Gold",
+          "opt5": "Silver",
+          "def": "Aluminum"
+        }
+      },
+      {
+        "question": "Which gas is used in the production of ammonia?",
+        "options": {
+          "xyz": "Oxygen",
+          "abc": "Carbon Dioxide",
+          "def": "Hydrogen",
+          "opt5": "Nitrogen"
+        }
+      },
+      {
+        "question": "What is the chemical symbol for potassium?",
+        "options": {
+          "xyz": "P",
+          "opt5": "K",
+          "abc": "Pt",
+          "def": "Po"
+        }
+      },
+      {
+        "question": "Which element has the chemical symbol 'O'?",
+        "options": {
+          "xyz": "Osmium",
+          "abc": "Oganesson",
+          "opt5": "Oxygen",
+          "def": "Oxium"
+        }
+      },
+      {
+        "question": "Is sulfuric acid a strong acid?",
+        "options": {
+          "opt5": "Yes",
+          "abc": "No"
+        }
+      },
+      {
+        "question": "Which element has the highest melting point?",
+        "options": {
+          "opt5": "Tungsten",
+          "xyz": "Iron",
+          "abc": "Gold",
+          "def": "Platinum"
+        }
+      },
+      {
+        "question": "Which of the following is a halogen?",
+        "options": {
+          "xyz": "Oxygen",
+          "abc": "Nitrogen",
+          "def": "Helium",
+          "opt5": "Chlorine"
+        }
+      },
+      {
+        "question": "Which element is essential for the production of thyroid hormones?",
+        "options": {
+          "xyz": "Calcium",
+          "opt5": "Iodine",
+          "abc": "Iron",
+          "def": "Magnesium"
+        }
+      },
+      {
+        "question": "Which gas is known as 'laughing gas'?",
+        "options": {
+          "opt5": "Nitrous Oxide",
+          "xyz": "Carbon Dioxide",
+          "abc": "Helium",
+          "def": "Oxygen"
+        }
       }
-    },
-    {
-      "question": "Isotopes are atoms of the same element with different numbers of neutrons.",
-      "options": {
-        "opt5": "True",
-        "abc": "False"
-      }
-    },
-    {
-      "question": "What is the pH value of pure water?",
-      "options": {
-        "xyz": 5,
-        "abc": 6,
-        "opt5": 7,
-        "def": 8
-      }
-    },
-    {
-      "question": "Does the periodic table organize elements by increasing atomic number?",
-      "options": {
-        "xyz": "No",
-        "opt5": "Yes"
-      }
-    },
-    {
-      "question": "Which element has the highest electronegativity?",
-      "options": {
-        "opt5": "Fluorine",
-        "xyz": "Oxygen",
-        "abc": "Chlorine",
-        "def": "Nitrogen"
-      }
-    },
-    {
-      "question": "What is the chemical formula for Methane?",
-      "options": {
-        "xyz": "CH3",
-        "abc": "C2H6",
-        "opt5": "CH4",
-        "def": "C2H4"
-      }
-    },
-    {
-      "question": "What is the main component of natural gas?",
-      "options": {
-        "opt5": "Methane",
-        "xyz": "Ethane",
-        "abc": "Propane",
-        "def": "Butane"
-      }
-    },
-    {
-      "question": "Which of the following is an alkali metal?",
-      "options": {
-        "xyz": "Calcium",
-        "opt5": "Potassium",
-        "abc": "Magnesium",
-        "def": "Aluminum"
-      }
-    },
-    {
-      "question": "Is H2SO4 the chemical formula for sulfuric acid?",
-      "options": {
-        "opt5": "Yes",
-        "abc": "No"
-      }
-    },
-    {
-      "question": "What is the molecular mass of water (H2O)?",
-      "options": {
-        "xyz": 16,
-        "abc": 17,
-        "def": 20,
-        "opt5": 18
-      }
-    },
-    {
-      "question": "The atomic number of an element is determined by the number of?",
-      "options": {
-        "xyz": "Neutrons",
-        "opt5": "Protons",
-        "abc": "Electrons",
-        "def": "Nuclei"
-      }
-    },
-    {
-      "question": "Which gas is most abundant in the Earth's atmosphere?",
-      "options": {
-        "opt5": "Nitrogen",
-        "xyz": "Oxygen",
-        "abc": "Carbon Dioxide",
-        "def": "Hydrogen"
-      }
-    },
-    {
-      "question": "What is the common name for Sodium Chloride?",
-      "options": {
-        "xyz": "Baking Soda",
-        "abc": "Sugar",
-        "opt5": "Table Salt",
-        "def": "Vinegar"
-      }
-    },
-    {
-      "question": "Is the chemical formula for carbon dioxide CO2?",
-      "options": {
-        "opt5": "Yes",
-        "abc": "No"
-      }
-    },
-    {
-      "question": "What is the most abundant element in the universe?",
-      "options": {
-        "opt5": "Hydrogen",
-        "xyz": "Oxygen",
-        "abc": "Helium",
-        "def": "Carbon"
-      }
-    },
-    {
-      "question": "Which element is represented by the symbol 'Fe'?",
-      "options": {
-        "xyz": "Fluorine",
-        "abc": "Fermium",
-        "def": "Francium",
-        "opt5": "Iron"
-      }
-    },
-    {
-      "question": "Which acid is commonly found in the stomach?",
-      "options": {
-        "xyz": "Sulfuric Acid",
-        "opt5": "Hydrochloric Acid",
-        "abc": "Nitric Acid",
-        "def": "Acetic Acid"
-      }
-    },
-    {
-      "question": "What is the chemical symbol for gold?",
-      "options": {
-        "xyz": "Ag",
-        "opt5": "Au",
-        "abc": "Pb",
-        "def": "Gd"
-      }
-    },
-    {
-      "question": "The pH scale ranges from 0 to?",
-      "options": {
-        "opt5": 14,
-        "xyz": 12,
-        "abc": 10,
-        "def": 16
-      }
-    },
-    {
-      "question": "Which gas is produced during photosynthesis?",
-      "options": {
-        "xyz": "Carbon Dioxide",
-        "abc": "Nitrogen",
-        "opt5": "Oxygen",
-        "def": "Hydrogen"
-      }
-    },
-    {
-      "question": "Isotopes have the same number of protons but different numbers of neutrons.",
-      "options": {
-        "abc": "False",
-        "opt5": "True"
-      }
-    },
-    {
-      "question": "Which of the following is a noble gas?",
-      "options": {
-        "opt5": "Helium",
-        "xyz": "Hydrogen",
-        "abc": "Oxygen",
-        "def": "Nitrogen"
-      }
-    },
-    {
-      "question": "What is the chemical symbol for Lead?",
-      "options": {
-        "xyz": "Le",
-        "abc": "Ld",
-        "opt5": "Pb",
-        "def": "P"
-      }
-    },
-    {
-      "question": "Is NaCl an example of an ionic compound?",
-      "options": {
-        "opt5": "Yes",
-        "abc": "No"
-      }
-    }
-  ],
-  "level2": [
-    {
-      "question": "What is the chemical formula for water?",
-      "options": {
-        "xyz": "H2O2",
-        "opt5": "H2O",
-        "abc": "HO",
-        "def": "OH2"
-      }
-    },
-    {
-      "question": "Which element is known as the 'King of Chemicals'?",
-      "options": {
-        "opt5": "Sulfuric Acid",
-        "xyz": "Nitric Acid",
-        "abc": "Hydrochloric Acid",
-        "def": "Acetic Acid"
-      }
-    },
-    {
-      "question": "Is the atomic number of carbon 6?",
-      "options": {
-        "opt5": "Yes",
-        "abc": "No"
-      }
-    },
-    {
-      "question": "Which element is a liquid at room temperature?",
-      "options": {
-        "xyz": "Iron",
-        "abc": "Copper",
-        "opt5": "Mercury",
-        "def": "Gold"
-      }
-    },
-    {
-      "question": "What is the main component of air?",
-      "options": {
-        "xyz": "Oxygen",
-        "opt5": "Nitrogen",
-        "abc": "Carbon Dioxide",
-        "def": "Argon"
-      }
-    },
-    {
-      "question": "What is the common name for H2O2?",
-      "options": {
-        "xyz": "Water",
-        "opt5": "Hydrogen Peroxide",
-        "abc": "Hydrochloric Acid",
-        "def": "Sodium Hydroxide"
-      }
-    },
-    {
-      "question": "Which element is used in balloons?",
-      "options": {
-        "opt5": "Helium",
-        "xyz": "Oxygen",
-        "abc": "Nitrogen",
-        "def": "Hydrogen"
-      }
-    },
-    {
-      "question": "Is the molecular formula for glucose C6H12O6?",
-      "options": {
-        "opt5": "Yes",
-        "abc": "No"
-      }
-    },
-    {
-      "question": "What is the chemical symbol for Silver?",
-      "options": {
-        "xyz": "Au",
-        "abc": "Si",
-        "def": "S",
-        "opt5": "Ag"
-      }
-    },
-    {
-      "question": "Which of the following is an inert gas?",
-      "options": {
-        "opt5": "Neon",
-        "xyz": "Oxygen",
-        "abc": "Hydrogen",
-        "def": "Nitrogen"
-      }
-    },
-    {
-      "question": "What is the main ingredient in bleach?",
-      "options": {
-        "xyz": "Hydrogen Peroxide",
-        "opt5": "Sodium Hypochlorite",
-        "abc": "Sodium Hydroxide",
-        "def": "Ammonia"
-      }
-    },
-    {
-      "question": "The atomic number represents the number of protons in an atom's nucleus.",
-      "options": {
-        "opt5": "True",
-        "abc": "False"
-      }
-    },
-    {
-      "question": "Which element is used in pencils?",
-      "options": {
-        "xyz": "Carbon",
-        "abc": "Graphite",
-        "opt5": "Graphite",
-        "def": "Lead"
-      }
-    },
-    {
-      "question": "Which gas is used in fire extinguishers?",
-      "options": {
-        "xyz": "Oxygen",
-        "opt5": "Carbon Dioxide",
-        "abc": "Nitrogen",
-        "def": "Helium"
-      }
-    },
-    {
-      "question": "Is the pH of a neutral solution 7?",
-      "options": {
-        "opt5": "Yes",
-        "abc": "No"
-      }
-    },
-    {
-      "question": "Which element is known as 'Quicksilver'?",
-      "options": {
-        "xyz": "Gold",
-        "opt5": "Mercury",
-        "abc": "Silver",
-        "def": "Lead"
-      }
-    },
-    {
-      "question": "Which metal is the best conductor of electricity?",
-      "options": {
-        "xyz": "Copper",
-        "abc": "Gold",
-        "opt5": "Silver",
-        "def": "Aluminum"
-      }
-    },
-    {
-      "question": "Which gas is used in the production of ammonia?",
-      "options": {
-        "xyz": "Oxygen",
-        "abc": "Carbon Dioxide",
-        "def": "Hydrogen",
-        "opt5": "Nitrogen"
-      }
-    },
-    {
-      "question": "What is the chemical symbol for potassium?",
-      "options": {
-        "xyz": "P",
-        "opt5": "K",
-        "abc": "Pt",
-        "def": "Po"
-      }
-    },
-    {
-      "question": "Which element has the chemical symbol 'O'?",
-      "options": {
-        "xyz": "Osmium",
-        "abc": "Oganesson",
-        "opt5": "Oxygen",
-        "def": "Oxium"
-      }
-    },
-    {
-      "question": "Is sulfuric acid a strong acid?",
-      "options": {
-        "opt5": "Yes",
-        "abc": "No"
-      }
-    },
-    {
-      "question": "Which element has the highest melting point?",
-      "options": {
-        "opt5": "Tungsten",
-        "xyz": "Iron",
-        "abc": "Gold",
-        "def": "Platinum"
-      }
-    },
-    {
-      "question": "Which of the following is a halogen?",
-      "options": {
-        "xyz": "Oxygen",
-        "abc": "Nitrogen",
-        "def": "Helium",
-        "opt5": "Chlorine"
-      }
-    },
-    {
-      "question": "Which element is essential for the production of thyroid hormones?",
-      "options": {
-        "xyz": "Calcium",
-        "opt5": "Iodine",
-        "abc": "Iron",
-        "def": "Magnesium"
-      }
-    },
-    {
-      "question": "Which gas is known as 'laughing gas'?",
-      "options": {
-        "opt5": "Nitrous Oxide",
-        "xyz": "Carbon Dioxide",
-        "abc": "Helium",
-        "def": "Oxygen"
-      }
-    }
-  ]
+    ]
+  }
 }
