@@ -4,7 +4,7 @@ from django.http import JsonResponse
 
 import os
 import json
-from requests
+import requests
 
 # Create your views here.
 def load_json_data(file_name) :
