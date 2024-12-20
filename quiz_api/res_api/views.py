@@ -17,6 +17,7 @@ def load_json_data(file_name) :
 
 def get_restaurants_list(request):
   data = load_json_data("res_list.json")
+  print(data)
   return JsonResponse(data, safe=False)
 
   # response = requests.get("https://www.swiggy.com/dapi/restaurants/list/v5?lat=12.9351929&lng=77.62448069999999&page_type=DESKTOP_WEB_LISTING")
