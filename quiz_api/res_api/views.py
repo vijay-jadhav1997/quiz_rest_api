@@ -3,6 +3,7 @@ from django.http import JsonResponse
 
 import os
 import json
+import requests
 
 # Create your views here.
 def load_json_data(file_name) :
@@ -25,8 +26,9 @@ def get_restaurants_list(request):
 
 
 def get_restaurant_data(request, res_id):
-  data = load_json_data(f"res_{res_id}.json")
+  # data = load_json_data(f"res_{res_id}.json")
   
-  return JsonResponse(data, safe=False)
-  # response = requests.get(f"https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu-true&lat=12.9351929&lng=77.624480699999999&restaurantId={res_id}")
-  # return JsonResponse(response.json())
+  # return JsonResponse(data, safe=False)
+
+  response = requests.get(f"https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu-true&lat=12.9351929&lng=77.624480699999999&restaurantId={res_id}")
+  return JsonResponse(response.json())
