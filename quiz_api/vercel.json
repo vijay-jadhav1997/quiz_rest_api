@@ -1,27 +1,19 @@
 {
   "version": 2,
-  "builds": [{
+  "builds": [
+    {
       "src": "quiz_api/wsgi.py",
       "use": "@vercel/python",
-      "config": { "maxLambdaSize": "15mb", "runtime": "python3.9" }
-    },
-    {
-      "src": "build_files.sh",
-      "use": "@vercel/static-build"
+      "config": {
+        "runtime": "python3.9",
+        "maxLambdaSize": "15mb"
+      }
     }
   ],
   "routes": [
     {
-      "src": "/static/(.*)",
-      "dest": "/static/$1"
-    },
-    {
       "src": "/(.*)",
-      "dest": "quiz_api/wsgi.py",
-      "methods": ["GET"],
-      "headers": {
-        "Access-Control-Allow-Origin": "*"
-      }
+      "dest": "quiz_api/wsgi.py"
     }
   ]
 }
